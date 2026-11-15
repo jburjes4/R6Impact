@@ -1,0 +1,276 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+9117,1,kafe-dostoyevsky,1,58.5,2:46,166,,Nuers,DARKZERO,def,Solis,Nade,TL ALIENWARE,atk,Striker,1,0,P90,gun,1,1,0,,5,5,5v5
+9117,1,kafe-dostoyevsky,1,138.6,1:26,86,,FelipoX,TL ALIENWARE,atk,Sledge,Fultz,DARKZERO,def,Valkyrie,0,0,L85A2,gun,1,0,0,,4,5,4v5
+9117,1,kafe-dostoyevsky,1,155.1,1:09,69,,Maia,TL ALIENWARE,atk,Gridlock,J9O,DARKZERO,def,Thorn,1,0,F90,gun,1,0,0,,4,4,4v4
+9117,1,kafe-dostoyevsky,1,191.4,0:33,33,,Nuers,DARKZERO,def,Solis,Jv92,TL ALIENWARE,atk,Hibana,0,0,P90,gun,1,0,0,,4,3,3v4
+9117,1,kafe-dostoyevsky,1,196.0,0:29,29,,Nuers,DARKZERO,def,Solis,Maia,TL ALIENWARE,atk,Gridlock,1,0,P90,gun,1,0,0,,3,3,3v3
+9117,1,kafe-dostoyevsky,1,201.4,0:23,23,,Nuers,DARKZERO,def,Solis,kheyzeSAKAGUTI,TL ALIENWARE,atk,Twitch,1,0,P90,gun,1,0,0,,2,3,3v2
+9117,1,kafe-dostoyevsky,1,207.1,0:17,17,,FelipoX,TL ALIENWARE,atk,Sledge,kyno,DARKZERO,def,Mute,0,0,L85A2,gun,1,0,0,,1,3,1v3
+9117,1,kafe-dostoyevsky,1,218.1,0:06,6,,FelipoX,TL ALIENWARE,atk,Sledge,njr,DARKZERO,def,Mozzie,0,0,L85A2,gun,1,0,0,,1,2,1v2
+9117,1,kafe-dostoyevsky,2,128.9,1:36,96,,Fultz,DARKZERO,def,Azami,Maia,TL ALIENWARE,atk,Gridlock,1,0,9x19VSN,gun,1,1,0,,5,5,5v5
+9117,1,kafe-dostoyevsky,2,130.3,1:34,94,,Nuers,DARKZERO,def,Mozzie,kheyzeSAKAGUTI,TL ALIENWARE,atk,Blitz,1,0,COMMANDO 9,gun,1,0,1,FelipoX,4,5,5v4
+9117,1,kafe-dostoyevsky,2,131.3,1:33,93,,Fultz,DARKZERO,def,Azami,Jv92,TL ALIENWARE,atk,Zofia,0,0,9x19VSN,gun,1,0,0,,3,5,5v3
+9117,1,kafe-dostoyevsky,2,137.7,1:27,87,,FelipoX,TL ALIENWARE,atk,Twitch,Nuers,DARKZERO,def,Mozzie,1,0,F2,gun,1,0,1,njr,2,5,2v5
+9117,1,kafe-dostoyevsky,2,138.3,1:26,86,,njr,DARKZERO,def,Mute,FelipoX,TL ALIENWARE,atk,Twitch,1,0,SMG-11,gun,1,0,0,,2,4,4v2
+9117,1,kafe-dostoyevsky,2,183.0,0:42,42,,kyno,DARKZERO,def,Mira,Nade,TL ALIENWARE,atk,Nomad,1,0,VECTOR .45 ACP,gun,1,0,0,,1,4,4v1
+9117,1,kafe-dostoyevsky,3,87.5,2:17,137,,Nuers,DARKZERO,def,Solis,Jv92,TL ALIENWARE,atk,Thatcher,1,0,P90,gun,1,1,1,Maia,5,5,5v5
+9117,1,kafe-dostoyevsky,3,93.2,2:11,131,,Maia,TL ALIENWARE,atk,Gridlock,Nuers,DARKZERO,def,Solis,1,0,F90,gun,1,0,0,,4,5,4v5
+9117,1,kafe-dostoyevsky,3,110.5,1:54,114,,Maia,TL ALIENWARE,atk,Gridlock,Fultz,DARKZERO,def,Thorn,0,0,F90,gun,1,0,1,kyno,4,4,4v4
+9117,1,kafe-dostoyevsky,3,112.2,1:52,112,,Nade,TL ALIENWARE,atk,Buck,njr,DARKZERO,def,Mira,0,0,CAMRS,gun,1,0,0,,4,3,4v3
+9117,1,kafe-dostoyevsky,3,116.3,1:48,108,,kyno,DARKZERO,def,Warden,Maia,TL ALIENWARE,atk,Gridlock,1,0,MPX,gun,1,0,1,kheyzeSAKAGUTI,4,2,2v4
+9117,1,kafe-dostoyevsky,3,119.9,1:45,105,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Solid Snake,kyno,DARKZERO,def,Warden,1,0,F2,gun,1,0,0,,3,2,3v2
+9117,1,kafe-dostoyevsky,3,126.1,1:38,98,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Solid Snake,J9O,DARKZERO,def,Azami,1,0,F2,gun,1,0,0,,3,1,3v1
+9117,1,kafe-dostoyevsky,4,131.6,1:33,93,,Fultz,DARKZERO,def,Azami,Nade,TL ALIENWARE,atk,Striker,1,0,9x19VSN,gun,1,1,0,,5,5,5v5
+9117,1,kafe-dostoyevsky,4,136.9,1:28,88,,Nuers,DARKZERO,def,Thorn,FelipoX,TL ALIENWARE,atk,Flores,1,0,UZK50GI,gun,1,0,1,kheyzeSAKAGUTI,4,5,5v4
+9117,1,kafe-dostoyevsky,4,138.2,1:26,86,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Dokkaebi,Nuers,DARKZERO,def,Thorn,0,0,XK23,gun,1,0,1,kyno,3,5,3v5
+9117,1,kafe-dostoyevsky,4,141.6,1:23,83,,kyno,DARKZERO,def,Kaid,kheyzeSAKAGUTI,TL ALIENWARE,atk,Dokkaebi,1,0,TCSG12,gun,1,0,0,,3,4,4v3
+9117,1,kafe-dostoyevsky,4,142.7,1:22,82,,Maia,TL ALIENWARE,atk,Twitch,njr,DARKZERO,def,Mute,1,0,F2,gun,1,0,0,,2,4,2v4
+9117,1,kafe-dostoyevsky,4,150.6,1:14,74,,J9O,DARKZERO,def,Mira,Jv92,TL ALIENWARE,atk,Deimos,1,0,VECTOR .45 ACP,gun,1,0,0,,2,3,3v2
+9117,1,kafe-dostoyevsky,4,172.2,0:41,41,41,Maia,TL ALIENWARE,atk,Twitch,Fultz,DARKZERO,def,Azami,1,1,F2,gun,1,0,0,,1,3,1v3
+9117,1,kafe-dostoyevsky,4,175.3,0:38,38,38,Maia,TL ALIENWARE,atk,Twitch,kyno,DARKZERO,def,Kaid,0,1,F2,gun,1,0,0,,1,2,1v2
+9117,1,kafe-dostoyevsky,4,175.3,0:38,38,38,Maia,TL ALIENWARE,atk,Twitch,J9O,DARKZERO,def,Mira,1,1,F2,gun,1,0,0,,1,1,1v1
+9117,1,kafe-dostoyevsky,5,206.8,0:18,18,,Maia,TL ALIENWARE,atk,Gridlock,Nuers,DARKZERO,def,Azami,0,0,F90,gun,1,1,1,J9O,5,5,5v5
+9117,1,kafe-dostoyevsky,5,216.7,0:08,8,,J9O,DARKZERO,def,Ela,Maia,TL ALIENWARE,atk,Gridlock,1,0,SCORPION EVO 3 A1,gun,1,0,0,,5,4,4v5
+9117,1,kafe-dostoyevsky,5,217.8,0:07,7,,Fultz,DARKZERO,def,Smoke,kheyzeSAKAGUTI,TL ALIENWARE,atk,Sens,0,0,,unknown,0,0,0,,4,4,4v4
+9117,1,kafe-dostoyevsky,5,221.9,0:03,3,,kyno,DARKZERO,def,Kaid,FelipoX,TL ALIENWARE,atk,Montagne,0,0,TCSG12,gun,1,0,0,,3,4,4v3
+9117,1,kafe-dostoyevsky,6,108.7,1:56,116,,Jv92,TL ALIENWARE,atk,Thatcher,Nuers,DARKZERO,def,Valkyrie,0,0,L85A2,gun,1,1,0,,5,5,5v5
+9117,1,kafe-dostoyevsky,6,132.0,1:32,92,,njr,DARKZERO,def,Mute,Maia,TL ALIENWARE,atk,Gridlock,1,0,SMG-11,gun,1,0,0,,5,4,4v5
+9117,1,kafe-dostoyevsky,6,138.9,0:44,44,44,kyno,DARKZERO,def,Kaid,Nade,TL ALIENWARE,atk,Montagne,0,1,TCSG12,gun,1,0,0,,4,4,4v4
+9117,1,kafe-dostoyevsky,6,149.4,0:34,34,34,FelipoX,TL ALIENWARE,atk,Rauora,J9O,DARKZERO,def,Mira,0,1,XK23,gun,1,0,0,,3,4,3v4
+9117,1,kafe-dostoyevsky,6,160.2,0:23,23,23,kheyzeSAKAGUTI,TL ALIENWARE,atk,Flores,Fultz,DARKZERO,def,Castle,1,1,AR33,gun,1,0,0,,3,3,3v3
+9117,1,kafe-dostoyevsky,6,164.6,0:19,19,19,FelipoX,TL ALIENWARE,atk,Rauora,njr,DARKZERO,def,Mute,0,1,XK23,gun,1,0,0,,3,2,3v2
+9117,1,kafe-dostoyevsky,6,166.6,0:17,17,17,FelipoX,TL ALIENWARE,atk,Rauora,kyno,DARKZERO,def,Kaid,1,1,XK23,gun,1,0,0,,3,1,3v1
+9117,1,kafe-dostoyevsky,7,97.5,2:07,127,,Nade,TL ALIENWARE,def,Smoke,kyno,DARKZERO,atk,Glaz,0,0,SMG-11,gun,1,1,0,,5,5,5v5
+9117,1,kafe-dostoyevsky,7,98.7,2:06,126,,J9O,DARKZERO,atk,Twitch,kheyzeSAKAGUTI,TL ALIENWARE,def,Goyo,1,0,F2,gun,1,0,0,,4,5,4v5
+9117,1,kafe-dostoyevsky,7,185.2,0:39,39,,Nade,TL ALIENWARE,def,Smoke,Fultz,DARKZERO,atk,Capitão,0,0,,unknown,0,0,0,,4,4,4v4
+9117,1,kafe-dostoyevsky,7,191.5,0:33,33,,Jv92,TL ALIENWARE,def,Fenrir,J9O,DARKZERO,atk,Twitch,1,0,MP7,gun,1,0,0,,3,4,4v3
+9117,1,kafe-dostoyevsky,7,202.2,0:22,22,,njr,DARKZERO,atk,Ace,Jv92,TL ALIENWARE,def,Fenrir,1,0,AK-12,gun,1,0,0,,2,4,2v4
+9117,1,kafe-dostoyevsky,7,217.1,0:07,7,,Maia,TL ALIENWARE,def,Mute,Nuers,DARKZERO,atk,Solid Snake,0,0,SMG-11,gun,1,0,0,,2,3,3v2
+9117,1,kafe-dostoyevsky,7,225.0,0:00,0,,Nade,TL ALIENWARE,def,Smoke,njr,DARKZERO,atk,Ace,1,0,M590A1,gun,1,0,0,,1,3,3v1
+9117,1,kafe-dostoyevsky,8,139.6,1:25,85,,kheyzeSAKAGUTI,TL ALIENWARE,def,Solis,kyno,DARKZERO,atk,Lion,0,0,SMG-11,gun,1,1,0,,5,5,5v5
+9117,1,kafe-dostoyevsky,8,143.8,1:21,81,,njr,DARKZERO,atk,Buck,Nade,TL ALIENWARE,def,Goyo,0,0,C8-SFW,gun,1,0,0,,4,5,4v5
+9117,1,kafe-dostoyevsky,8,170.8,0:54,54,,Jv92,TL ALIENWARE,def,Noor,J9O,DARKZERO,atk,Hibana,1,0,COMMANDO 9,gun,1,0,1,njr,4,4,4v4
+9117,1,kafe-dostoyevsky,8,175.0,0:49,49,,njr,DARKZERO,atk,Buck,Jv92,TL ALIENWARE,def,Noor,0,0,C8-SFW,gun,1,0,1,Maia,3,4,3v4
+9117,1,kafe-dostoyevsky,8,176.6,0:48,48,,Maia,TL ALIENWARE,def,Pulse,njr,DARKZERO,atk,Buck,0,0,NITRO CELL,gadget,1,0,0,,3,3,3v3
+9117,1,kafe-dostoyevsky,8,181.3,0:43,43,,kheyzeSAKAGUTI,TL ALIENWARE,def,Solis,Fultz,DARKZERO,atk,Solid Snake,1,0,SMG-11,gun,1,0,0,,2,3,3v2
+9117,1,kafe-dostoyevsky,8,207.2,0:17,17,,Maia,TL ALIENWARE,def,Pulse,Nuers,DARKZERO,atk,Gridlock,1,0,Reaper MK2,gun,1,0,0,,1,3,3v1
+9117,1,kafe-dostoyevsky,9,182.8,0:42,42,,Nuers,DARKZERO,atk,Ram,FelipoX,TL ALIENWARE,def,Mute,0,0,R4-C,gun,1,1,0,,5,5,5v5
+9117,1,kafe-dostoyevsky,9,194.6,0:30,30,,Fultz,DARKZERO,atk,Zofia,Maia,TL ALIENWARE,def,Pulse,0,0,M762,gun,1,0,0,,5,4,5v4
+9117,1,kafe-dostoyevsky,9,205.6,0:39,39,39,njr,DARKZERO,atk,Ace,Jv92,TL ALIENWARE,def,Tubarão,0,1,AK-12,gun,1,0,1,Nade,5,3,5v3
+9117,1,kafe-dostoyevsky,9,210.7,0:34,34,34,Nade,TL ALIENWARE,def,Thorn,njr,DARKZERO,atk,Ace,0,1,UZK50GI,gun,1,0,0,,5,2,2v5
+9117,1,kafe-dostoyevsky,9,221.0,0:24,24,24,J9O,DARKZERO,atk,Hibana,kheyzeSAKAGUTI,TL ALIENWARE,def,Mozzie,0,1,BEARING 9,gun,1,0,0,,4,2,4v2
+9117,1,kafe-dostoyevsky,9,221.9,0:23,23,23,J9O,DARKZERO,atk,Hibana,Nade,TL ALIENWARE,def,Thorn,0,1,PMR90A2,gun,1,0,0,,4,1,4v1
+9117,1,kafe-dostoyevsky,10,113.4,1:51,111,,FelipoX,TL ALIENWARE,def,Valkyrie,Fultz,DARKZERO,atk,Capitão,0,0,NITRO CELL,gadget,1,1,0,,5,5,5v5
+9117,1,kafe-dostoyevsky,10,119.3,1:45,105,,Nuers,DARKZERO,atk,Solid Snake,Maia,TL ALIENWARE,def,Tubarão,1,0,F2,gun,1,0,0,,4,5,4v5
+9117,1,kafe-dostoyevsky,10,164.9,1:00,60,,Jv92,TL ALIENWARE,def,Ela,kyno,DARKZERO,atk,Glaz,0,0,SCORPION EVO 3 A1,gun,1,0,0,,4,4,4v4
+9117,1,kafe-dostoyevsky,10,197.5,0:27,27,,Jv92,TL ALIENWARE,def,Ela,njr,DARKZERO,atk,Ace,1,0,SCORPION EVO 3 A1,gun,1,0,0,,3,4,4v3
+9117,1,kafe-dostoyevsky,10,201.4,0:23,23,,FelipoX,TL ALIENWARE,def,Valkyrie,Nuers,DARKZERO,atk,Solid Snake,0,0,MPX,gun,1,0,0,,2,4,4v2
+9117,1,kafe-dostoyevsky,10,205.1,0:19,19,,Nade,TL ALIENWARE,def,Denari,J9O,DARKZERO,atk,Twitch,1,0,SCORPION EVO 3 A1,gun,1,0,0,,1,4,4v1
+9117,1,kafe-dostoyevsky,11,71.7,2:33,153,,J9O,DARKZERO,atk,Hibana,FelipoX,TL ALIENWARE,def,Clash,0,0,PMR90A2,gun,1,1,1,kheyzeSAKAGUTI,5,5,5v5
+9117,1,kafe-dostoyevsky,11,73.0,2:32,152,,kheyzeSAKAGUTI,TL ALIENWARE,def,Mozzie,J9O,DARKZERO,atk,Hibana,0,0,P10 RONI,gun,1,0,0,,5,4,4v5
+9117,1,kafe-dostoyevsky,11,76.6,2:28,148,,Maia,TL ALIENWARE,def,Solis,Fultz,DARKZERO,atk,Zofia,0,0,SMG-11,gun,1,0,1,njr,4,4,4v4
+9117,1,kafe-dostoyevsky,11,80.2,2:24,144,,njr,DARKZERO,atk,Ace,Maia,TL ALIENWARE,def,Solis,0,0,AK-12,gun,1,0,0,,3,4,3v4
+9117,1,kafe-dostoyevsky,11,130.3,1:34,94,,Jv92,TL ALIENWARE,def,Sentry,kyno,DARKZERO,atk,Blackbeard,0,0,IMPACT GRENADE,gadget,1,0,0,,3,3,3v3
+9117,1,kafe-dostoyevsky,11,147.5,1:17,77,,njr,DARKZERO,atk,Ace,kheyzeSAKAGUTI,TL ALIENWARE,def,Mozzie,0,0,AK-12,gun,1,0,0,,2,3,2v3
+9117,1,kafe-dostoyevsky,11,213.1,0:11,11,,njr,DARKZERO,atk,Ace,Jv92,TL ALIENWARE,def,Sentry,0,0,AK-12,gun,1,0,0,,2,2,2v2
+9117,1,kafe-dostoyevsky,11,220.5,0:04,4,,Nade,TL ALIENWARE,def,Goyo,Nuers,DARKZERO,atk,Ram,1,0,TCSG12,gun,1,0,0,,2,1,1v2
+9117,1,kafe-dostoyevsky,11,246.4,0:23,23,23,Nade,TL ALIENWARE,def,Goyo,njr,DARKZERO,atk,Ace,1,1,P229,gun,1,0,0,,1,1,1v1
+9117,2,nighthaven-labs,1,60.0,2:45,165,,Nade,TL ALIENWARE,def,Denari,J9O,DARKZERO,atk,Zofia,1,0,SCORPION EVO 3 A1,gun,1,1,0,,5,5,5v5
+9117,2,nighthaven-labs,1,159.5,1:05,65,,njr,DARKZERO,atk,Nomad,Nade,TL ALIENWARE,def,Denari,1,0,AK-74M,gun,1,0,0,,4,5,4v5
+9117,2,nighthaven-labs,1,175.0,0:50,50,,Maia,TL ALIENWARE,def,Wamai,njr,DARKZERO,atk,Nomad,1,0,MP5K,gun,1,0,0,,4,4,4v4
+9117,2,nighthaven-labs,1,181.5,0:43,43,,Nuers,DARKZERO,atk,Deimos,FelipoX,TL ALIENWARE,def,Mute,0,0,.44 Vendetta,gun,1,0,0,,3,4,3v4
+9117,2,nighthaven-labs,1,189.7,0:35,35,,kheyzeSAKAGUTI,TL ALIENWARE,def,Azami,Fultz,DARKZERO,atk,Hibana,1,0,9x19VSN,gun,1,0,0,,3,3,3v3
+9117,2,nighthaven-labs,1,191.0,0:33,33,,Jv92,TL ALIENWARE,def,Thorn,kyno,DARKZERO,atk,Blackbeard,1,0,UZK50GI,gun,1,0,0,,2,3,3v2
+9117,2,nighthaven-labs,1,191.3,0:33,33,,Jv92,TL ALIENWARE,def,Thorn,kheyzeSAKAGUTI,TL ALIENWARE,def,Azami,1,0,UZK50GI,gun,1,0,0,,1,3,
+9117,2,nighthaven-labs,1,213.6,0:11,11,,Nuers,DARKZERO,atk,Deimos,Maia,TL ALIENWARE,def,Wamai,0,0,AK-74M,gun,1,0,1,Jv92,1,2,1v2
+9117,2,nighthaven-labs,1,218.0,0:07,7,,Jv92,TL ALIENWARE,def,Thorn,Nuers,DARKZERO,atk,Deimos,0,0,C75 Auto,gun,1,0,0,,1,1,1v1
+9117,2,nighthaven-labs,2,90.4,2:14,134,,kheyzeSAKAGUTI,TL ALIENWARE,def,Solis,kyno,DARKZERO,atk,Blitz,1,0,SMG-11,gun,1,1,0,,5,5,5v5
+9117,2,nighthaven-labs,2,132.5,1:32,92,,njr,DARKZERO,atk,Striker,kheyzeSAKAGUTI,TL ALIENWARE,def,Solis,1,0,ITA12S,gun,1,0,0,,4,5,4v5
+9117,2,nighthaven-labs,2,133.4,1:31,91,,Maia,TL ALIENWARE,def,Goyo,J9O,DARKZERO,atk,Twitch,0,0,IMPACT GRENADE,gadget,1,0,0,,4,4,4v4
+9117,2,nighthaven-labs,2,174.9,0:50,50,,Jv92,TL ALIENWARE,def,Thorn,Nuers,DARKZERO,atk,Solid Snake,1,0,UZK50GI,gun,1,0,0,,3,4,4v3
+9117,2,nighthaven-labs,2,189.8,0:35,35,,Maia,TL ALIENWARE,def,Goyo,njr,DARKZERO,atk,Striker,0,0,TCSG12,gun,1,0,0,,2,4,4v2
+9117,2,nighthaven-labs,2,192.6,0:32,32,,Fultz,DARKZERO,atk,Buck,Jv92,TL ALIENWARE,def,Thorn,0,0,C8-SFW,gun,1,0,0,,1,4,1v4
+9117,2,nighthaven-labs,2,212.5,0:12,12,,Nade,TL ALIENWARE,def,Sentry,Fultz,DARKZERO,atk,Buck,0,0,TCSG12,gun,1,0,0,,1,3,3v1
+9117,2,nighthaven-labs,3,140.4,1:24,84,,Nade,TL ALIENWARE,def,Thorn,Fultz,DARKZERO,atk,Zofia,1,0,UZK50GI,gun,1,1,0,,5,5,5v5
+9117,2,nighthaven-labs,3,147.4,1:17,77,,njr,DARKZERO,atk,Grim,Maia,TL ALIENWARE,def,Goyo,0,0,552 COMMANDO,gun,1,0,0,,4,5,4v5
+9117,2,nighthaven-labs,3,198.6,0:26,26,,kyno,DARKZERO,atk,Twitch,Jv92,TL ALIENWARE,def,Wamai,1,0,F2,gun,1,0,0,,4,4,4v4
+9117,2,nighthaven-labs,3,208.6,0:16,16,,njr,DARKZERO,atk,Grim,FelipoX,TL ALIENWARE,def,Valkyrie,0,0,552 COMMANDO,gun,1,0,1,Nade,4,3,4v3
+9117,2,nighthaven-labs,3,212.1,0:12,12,,J9O,DARKZERO,atk,Ying,kheyzeSAKAGUTI,TL ALIENWARE,def,Azami,0,0,T-95 LSW,gun,1,0,0,,4,2,4v2
+9117,2,nighthaven-labs,3,212.8,0:12,12,,Nade,TL ALIENWARE,def,Thorn,njr,DARKZERO,atk,Grim,0,0,UZK50GI,gun,1,0,1,J9O,4,1,1v4
+9117,2,nighthaven-labs,3,215.1,0:09,9,,Nade,TL ALIENWARE,def,Thorn,Nuers,DARKZERO,atk,Rauora,1,0,UZK50GI,gun,1,0,1,J9O,3,1,1v3
+9117,2,nighthaven-labs,3,221.3,0:03,3,,J9O,DARKZERO,atk,Ying,Nade,TL ALIENWARE,def,Thorn,1,0,T-95 LSW,gun,1,0,0,,2,1,2v1
+9117,2,nighthaven-labs,4,146.6,1:18,78,,Nuers,DARKZERO,atk,Deimos,Jv92,TL ALIENWARE,def,Thorn,0,0,AK-74M,gun,1,1,0,,5,5,5v5
+9117,2,nighthaven-labs,4,163.7,1:01,61,,Nade,TL ALIENWARE,def,Denari,Fultz,DARKZERO,atk,Capitão,1,0,SCORPION EVO 3 A1,gun,1,0,0,,5,4,4v5
+9117,2,nighthaven-labs,4,179.4,0:45,45,,J9O,DARKZERO,atk,Striker,Nade,TL ALIENWARE,def,Denari,0,0,M4,gun,1,0,0,,4,4,4v4
+9117,2,nighthaven-labs,4,212.1,0:12,12,,njr,DARKZERO,atk,Nomad,FelipoX,TL ALIENWARE,def,Pulse,1,0,AK-74M,gun,1,0,1,kheyzeSAKAGUTI,4,3,4v3
+9117,2,nighthaven-labs,4,212.7,0:12,12,,njr,DARKZERO,atk,Nomad,Maia,TL ALIENWARE,def,Wamai,0,0,AK-74M,gun,1,0,1,kheyzeSAKAGUTI,4,2,4v2
+9117,2,nighthaven-labs,4,215.7,0:09,9,,kheyzeSAKAGUTI,TL ALIENWARE,def,Azami,njr,DARKZERO,atk,Nomad,0,0,9x19VSN,gun,1,0,1,Nuers,4,1,1v4
+9117,2,nighthaven-labs,4,219.0,0:06,6,,Nuers,DARKZERO,atk,Deimos,kheyzeSAKAGUTI,TL ALIENWARE,def,Azami,0,0,.44 Vendetta,gun,1,0,0,,3,1,3v1
+9117,2,nighthaven-labs,5,105.0,2:00,120,,Fultz,DARKZERO,atk,Sledge,kheyzeSAKAGUTI,TL ALIENWARE,def,Azami,0,0,L85A2,gun,1,1,0,,5,5,5v5
+9117,2,nighthaven-labs,5,116.6,1:48,108,,FelipoX,TL ALIENWARE,def,Pulse,Fultz,DARKZERO,atk,Sledge,1,0,Reaper MK2,gun,1,0,0,,5,4,4v5
+9117,2,nighthaven-labs,5,170.9,0:54,54,,Nuers,DARKZERO,atk,Solid Snake,Jv92,TL ALIENWARE,def,Thorn,0,0,F2,gun,1,0,0,,4,4,4v4
+9117,2,nighthaven-labs,5,206.7,0:18,18,,Maia,TL ALIENWARE,def,Goyo,njr,DARKZERO,atk,Striker,0,0,TCSG12,gun,1,0,1,kyno,4,3,3v4
+9117,2,nighthaven-labs,5,207.8,0:17,17,,kyno,DARKZERO,atk,Montagne,Maia,TL ALIENWARE,def,Goyo,0,0,P9,gun,1,0,0,,3,3,3v3
+9117,2,nighthaven-labs,5,209.0,0:16,16,,FelipoX,TL ALIENWARE,def,Pulse,Nuers,DARKZERO,atk,Solid Snake,0,0,M1014,gun,1,0,0,,3,2,2v3
+9117,2,nighthaven-labs,5,216.9,0:44,44,44,J9O,DARKZERO,atk,Twitch,Nade,TL ALIENWARE,def,Sentry,1,1,417,gun,1,0,0,,2,2,2v2
+9117,2,nighthaven-labs,5,223.6,0:37,37,37,FelipoX,TL ALIENWARE,def,Pulse,kyno,DARKZERO,atk,Montagne,0,1,,unknown,0,0,1,J9O,2,1,1v2
+9117,2,nighthaven-labs,5,224.6,0:37,37,37,J9O,DARKZERO,atk,Twitch,FelipoX,TL ALIENWARE,def,Pulse,0,1,417,gun,1,0,0,,1,1,1v1
+9117,2,nighthaven-labs,6,183.2,0:41,41,,kheyzeSAKAGUTI,TL ALIENWARE,def,Azami,Nuers,DARKZERO,atk,Deimos,1,0,9x19VSN,gun,1,1,0,,5,5,5v5
+9117,2,nighthaven-labs,6,195.4,0:29,29,,Maia,TL ALIENWARE,def,Warden,Fultz,DARKZERO,atk,Hibana,1,0,MPX,gun,1,0,0,,4,5,5v4
+9117,2,nighthaven-labs,6,195.5,0:29,29,,Maia,TL ALIENWARE,def,Warden,kyno,DARKZERO,atk,Twitch,1,0,MPX,gun,1,0,0,,3,5,5v3
+9117,2,nighthaven-labs,6,197.7,0:27,27,,FelipoX,TL ALIENWARE,def,Pulse,J9O,DARKZERO,atk,Zofia,0,0,Reaper MK2,gun,1,0,0,,2,5,5v2
+9117,2,nighthaven-labs,6,213.5,0:11,11,,kheyzeSAKAGUTI,TL ALIENWARE,def,Azami,njr,DARKZERO,atk,Nomad,0,0,9x19VSN,gun,1,0,0,,1,5,5v1
+9117,2,nighthaven-labs,7,148.1,1:16,76,,Nuers,DARKZERO,def,Solis,Maia,TL ALIENWARE,atk,Twitch,0,0,P90,gun,1,1,0,,5,5,5v5
+9117,2,nighthaven-labs,7,162.8,1:02,62,,Jv92,TL ALIENWARE,atk,Zofia,J9O,DARKZERO,def,Azami,1,0,M762,gun,1,0,0,,4,5,4v5
+9117,2,nighthaven-labs,7,183.8,0:41,41,,kyno,DARKZERO,def,Smoke,FelipoX,TL ALIENWARE,atk,Montagne,0,0,,unknown,0,0,1,kheyzeSAKAGUTI,4,4,4v4
+9117,2,nighthaven-labs,7,190.9,0:34,34,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Grim,kyno,DARKZERO,def,Smoke,0,0,552 COMMANDO,gun,1,0,0,,3,4,3v4
+9117,2,nighthaven-labs,7,199.8,0:25,25,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Grim,Fultz,DARKZERO,def,Kaid,1,0,552 COMMANDO,gun,1,0,1,Nuers,3,3,3v3
+9117,2,nighthaven-labs,7,203.8,0:21,21,,Nuers,DARKZERO,def,Solis,kheyzeSAKAGUTI,TL ALIENWARE,atk,Grim,1,0,P90,gun,1,0,0,,3,2,2v3
+9117,2,nighthaven-labs,7,207.5,0:17,17,,Jv92,TL ALIENWARE,atk,Zofia,njr,DARKZERO,def,Warden,1,0,M762,gun,1,0,1,Nuers,2,2,2v2
+9117,2,nighthaven-labs,7,216.9,0:08,8,,Nuers,DARKZERO,def,Solis,Jv92,TL ALIENWARE,atk,Zofia,0,0,P90,gun,1,0,1,Nade,2,1,1v2
+9117,2,nighthaven-labs,7,217.8,0:07,7,,Nade,TL ALIENWARE,atk,Maverick,Nuers,DARKZERO,def,Solis,0,0,M4,gun,1,0,0,,1,1,1v1
+9117,2,nighthaven-labs,8,90.9,2:14,134,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Blitz,J9O,DARKZERO,def,Azami,0,0,P12,gun,1,1,0,,5,5,5v5
+9117,2,nighthaven-labs,8,96.2,2:08,128,,Maia,TL ALIENWARE,atk,Solid Snake,Fultz,DARKZERO,def,Solis,0,0,F2,gun,1,0,0,,5,4,5v4
+9117,2,nighthaven-labs,8,99.5,2:05,125,,Nuers,DARKZERO,def,Thorn,FelipoX,TL ALIENWARE,atk,Lion,1,0,UZK50GI,gun,1,0,0,,5,3,3v5
+9117,2,nighthaven-labs,8,124.1,1:40,100,,njr,DARKZERO,def,Kaid,Maia,TL ALIENWARE,atk,Solid Snake,0,0,NITRO CELL,gadget,1,0,0,,4,3,3v4
+9117,2,nighthaven-labs,8,134.2,1:30,90,,Jv92,TL ALIENWARE,atk,Zofia,njr,DARKZERO,def,Kaid,0,0,M762,gun,1,0,1,Nuers,3,3,3v3
+9117,2,nighthaven-labs,8,135.2,1:29,89,,Nuers,DARKZERO,def,Thorn,Jv92,TL ALIENWARE,atk,Zofia,0,0,UZK50GI,gun,1,0,0,,3,2,2v3
+9117,2,nighthaven-labs,8,139.8,1:25,85,,kyno,DARKZERO,def,Mute,kheyzeSAKAGUTI,TL ALIENWARE,atk,Blitz,0,0,SMG-11,gun,1,0,0,,2,2,2v2
+9117,2,nighthaven-labs,8,139.9,1:25,85,,njr,DARKZERO,def,Kaid,Nade,TL ALIENWARE,atk,Ram,0,0,TCSG12,gun,1,0,0,,1,2,2v1
+9117,2,nighthaven-labs,9,152.1,1:12,72,,Jv92,TL ALIENWARE,atk,Maverick,Fultz,DARKZERO,def,Pulse,0,0,CLAYMORE,gadget,1,1,0,,5,5,5v5
+9117,2,nighthaven-labs,9,161.4,1:03,63,,Maia,TL ALIENWARE,atk,Zofia,Nuers,DARKZERO,def,Thorn,0,0,M762,gun,1,0,0,,5,4,5v4
+9117,2,nighthaven-labs,9,179.2,0:45,45,,kyno,DARKZERO,def,Denari,FelipoX,TL ALIENWARE,atk,Ying,1,0,SCORPION EVO 3 A1,gun,1,0,0,,5,3,3v5
+9117,2,nighthaven-labs,9,202.8,0:22,22,,J9O,DARKZERO,def,Azami,kheyzeSAKAGUTI,TL ALIENWARE,atk,Deimos,1,0,9x19VSN,gun,1,0,0,,4,3,3v4
+9117,2,nighthaven-labs,9,205.6,0:19,19,,Maia,TL ALIENWARE,atk,Zofia,njr,DARKZERO,def,Ela,0,0,M762,gun,1,0,0,,3,3,3v3
+9117,2,nighthaven-labs,9,231.5,0:19,19,19,Jv92,TL ALIENWARE,atk,Maverick,kyno,DARKZERO,def,Denari,0,1,M4,gun,1,0,1,J9O,3,2,3v2
+9117,2,nighthaven-labs,9,237.6,0:13,13,13,J9O,DARKZERO,def,Azami,Jv92,TL ALIENWARE,atk,Maverick,0,1,9x19VSN,gun,1,0,1,Nade,3,1,1v3
+9117,2,nighthaven-labs,9,241.2,0:09,9,9,Nade,TL ALIENWARE,atk,Lion,J9O,DARKZERO,def,Azami,1,1,417,gun,1,0,0,,2,1,2v1
+9117,2,nighthaven-labs,10,165.4,0:59,59,,Nuers,DARKZERO,def,Denari,kheyzeSAKAGUTI,TL ALIENWARE,atk,Nomad,1,0,SCORPION EVO 3 A1,gun,1,1,0,,5,5,5v5
+9117,2,nighthaven-labs,10,169.7,0:55,55,,njr,DARKZERO,def,Wamai,Maia,TL ALIENWARE,atk,Hibana,1,0,MP5K,gun,1,0,0,,4,5,5v4
+9117,2,nighthaven-labs,10,178.0,0:46,46,,Jv92,TL ALIENWARE,atk,Twitch,Fultz,DARKZERO,def,Thorn,1,0,F2,gun,1,0,1,kyno,3,5,3v5
+9117,2,nighthaven-labs,10,182.6,0:42,42,,kyno,DARKZERO,def,Mute,Jv92,TL ALIENWARE,atk,Twitch,1,0,SMG-11,gun,1,0,0,,3,4,4v3
+9117,2,nighthaven-labs,10,185.8,0:39,39,,FelipoX,TL ALIENWARE,atk,Blackbeard,njr,DARKZERO,def,Wamai,0,0,MK17 CQB,gun,1,0,0,,2,4,2v4
+9117,2,nighthaven-labs,10,189.6,0:35,35,,FelipoX,TL ALIENWARE,atk,Blackbeard,Nuers,DARKZERO,def,Denari,0,0,MK17 CQB,gun,1,0,0,,2,3,2v3
+9117,2,nighthaven-labs,10,201.6,0:23,23,,kyno,DARKZERO,def,Mute,Nade,TL ALIENWARE,atk,Grim,1,0,SMG-11,gun,1,0,0,,2,2,2v2
+9117,2,nighthaven-labs,10,213.5,0:11,11,,kyno,DARKZERO,def,Mute,FelipoX,TL ALIENWARE,atk,Blackbeard,1,0,SMG-11,gun,1,0,0,,1,2,2v1
+9117,2,nighthaven-labs,11,72.9,2:32,152,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Ram,Nuers,DARKZERO,def,Vigil,1,0,R4-C,gun,1,1,0,,5,5,5v5
+9117,2,nighthaven-labs,11,145.2,1:19,79,,Jv92,TL ALIENWARE,atk,Deimos,njr,DARKZERO,def,Tachanka,0,0,AK-74M,gun,1,0,1,J9O,5,4,5v4
+9117,2,nighthaven-labs,11,146.9,1:18,78,,Maia,TL ALIENWARE,atk,Solid Snake,Fultz,DARKZERO,def,Clash,0,0,F2,gun,1,0,0,,5,3,5v3
+9117,2,nighthaven-labs,11,152.7,1:12,72,,J9O,DARKZERO,def,Goyo,Jv92,TL ALIENWARE,atk,Deimos,1,0,TCSG12,gun,1,0,1,Nade,5,2,2v5
+9117,2,nighthaven-labs,11,154.2,1:10,70,,Nade,TL ALIENWARE,atk,Montagne,J9O,DARKZERO,def,Goyo,0,0,P9,gun,1,0,0,,4,2,4v2
+9117,2,nighthaven-labs,11,165.0,1:00,60,,kyno,DARKZERO,def,Valkyrie,Nade,TL ALIENWARE,atk,Montagne,0,0,NITRO CELL,gadget,1,0,0,,4,1,1v4
+9117,2,nighthaven-labs,11,169.1,0:55,55,,kyno,DARKZERO,def,Valkyrie,kheyzeSAKAGUTI,TL ALIENWARE,atk,Ram,1,0,MPX,gun,1,0,0,,3,1,1v3
+9117,2,nighthaven-labs,11,187.9,0:37,37,,kyno,DARKZERO,def,Valkyrie,FelipoX,TL ALIENWARE,atk,Zofia,1,0,MPX,gun,1,0,1,Maia,2,1,1v2
+9117,2,nighthaven-labs,11,194.0,0:42,42,42,Maia,TL ALIENWARE,atk,Solid Snake,kyno,DARKZERO,def,Valkyrie,0,1,F2,gun,1,0,0,,1,1,1v1
+9117,2,nighthaven-labs,12,147.7,1:17,77,,Nuers,DARKZERO,def,Valkyrie,Maia,TL ALIENWARE,atk,Zofia,1,0,MPX,gun,1,1,0,,5,5,5v5
+9117,2,nighthaven-labs,12,153.3,1:11,71,,njr,DARKZERO,def,Warden,Nade,TL ALIENWARE,atk,Lion,0,0,M590A1,gun,1,0,0,,4,5,5v4
+9117,2,nighthaven-labs,12,157.4,1:07,67,,njr,DARKZERO,def,Warden,kheyzeSAKAGUTI,TL ALIENWARE,atk,Blackbeard,0,0,M590A1,gun,1,0,0,,3,5,5v3
+9117,2,nighthaven-labs,12,164.5,1:00,60,,Jv92,TL ALIENWARE,atk,Maverick,Fultz,DARKZERO,def,Solis,1,0,M4,gun,1,0,0,,2,5,2v5
+9117,2,nighthaven-labs,12,166.8,0:58,58,,njr,DARKZERO,def,Warden,FelipoX,TL ALIENWARE,atk,Grim,0,0,M590A1,gun,1,0,0,,2,4,4v2
+9117,2,nighthaven-labs,12,188.4,0:36,36,,Jv92,TL ALIENWARE,atk,Maverick,kyno,DARKZERO,def,Smoke,1,0,Reaper MK2,gun,1,0,1,J9O,1,4,1v4
+9117,2,nighthaven-labs,12,198.0,0:27,27,,J9O,DARKZERO,def,Azami,Jv92,TL ALIENWARE,atk,Maverick,1,0,9x19VSN,gun,1,0,0,,1,3,3v1
+9117,2,nighthaven-labs,13,113.0,1:51,111,,Nuers,DARKZERO,def,Warden,Jv92,TL ALIENWARE,atk,Striker,1,0,MPX,gun,1,1,0,,5,5,5v5
+9117,2,nighthaven-labs,13,146.9,1:18,78,,Nade,TL ALIENWARE,atk,Blitz,Fultz,DARKZERO,def,Clash,0,0,P12,gun,1,0,0,,4,5,4v5
+9117,2,nighthaven-labs,13,169.7,0:55,55,,J9O,DARKZERO,def,Azami,Maia,TL ALIENWARE,atk,Capitão,1,0,9x19VSN,gun,1,0,1,FelipoX,4,4,4v4
+9117,2,nighthaven-labs,13,170.7,0:54,54,,FelipoX,TL ALIENWARE,atk,Glaz,J9O,DARKZERO,def,Azami,0,0,OTs-03,gun,1,0,0,,3,4,3v4
+9117,2,nighthaven-labs,13,178.1,0:46,46,,kyno,DARKZERO,def,Mute,kheyzeSAKAGUTI,TL ALIENWARE,atk,Ram,1,0,SMG-11,gun,1,0,0,,3,3,3v3
+9117,2,nighthaven-labs,13,181.7,0:43,43,,FelipoX,TL ALIENWARE,atk,Glaz,njr,DARKZERO,def,Pulse,0,0,OTs-03,gun,1,0,0,,2,3,2v3
+9117,2,nighthaven-labs,13,188.2,0:36,36,,kyno,DARKZERO,def,Mute,Nade,TL ALIENWARE,atk,Blitz,1,0,SMG-11,gun,1,0,0,,2,2,2v2
+9117,2,nighthaven-labs,13,195.7,0:29,29,,FelipoX,TL ALIENWARE,atk,Glaz,Nuers,DARKZERO,def,Warden,0,0,BEARING 9,gun,1,0,0,,1,2,1v2
+9117,2,nighthaven-labs,13,215.9,0:09,9,,kyno,DARKZERO,def,Mute,FelipoX,TL ALIENWARE,atk,Glaz,0,0,M590A1,gun,1,0,0,,1,1,1v1
+9117,2,nighthaven-labs,14,176.9,0:48,48,,kheyzeSAKAGUTI,TL ALIENWARE,def,Azami,Fultz,DARKZERO,atk,Hibana,1,0,9x19VSN,gun,1,1,0,,5,5,5v5
+9117,2,nighthaven-labs,14,184.7,0:40,40,,kyno,DARKZERO,atk,Twitch,Nade,TL ALIENWARE,def,Thorn,0,0,F2,gun,1,0,0,,4,5,4v5
+9117,2,nighthaven-labs,14,189.2,0:35,35,,Maia,TL ALIENWARE,def,Warden,Nuers,DARKZERO,atk,Kali,1,0,MPX,gun,1,0,0,,4,4,4v4
+9117,2,nighthaven-labs,14,191.5,0:33,33,,kheyzeSAKAGUTI,TL ALIENWARE,def,Azami,njr,DARKZERO,atk,Nomad,0,0,D-50,gun,1,0,0,,3,4,4v3
+9117,2,nighthaven-labs,14,195.2,0:29,29,,kheyzeSAKAGUTI,TL ALIENWARE,def,Azami,kyno,DARKZERO,atk,Twitch,0,0,D-50,gun,1,0,0,,2,4,4v2
+9117,2,nighthaven-labs,14,202.6,0:22,22,,FelipoX,TL ALIENWARE,def,Pulse,J9O,DARKZERO,atk,Zofia,1,0,Reaper MK2,gun,1,0,0,,1,4,4v1
+9117,2,nighthaven-labs,15,170.9,0:54,54,,Nuers,DARKZERO,def,Thorn,kheyzeSAKAGUTI,TL ALIENWARE,atk,Striker,1,0,UZK50GI,gun,1,1,0,,5,5,5v5
+9117,2,nighthaven-labs,15,188.1,0:36,36,,njr,DARKZERO,def,Warden,FelipoX,TL ALIENWARE,atk,Sledge,1,0,M590A1,gun,1,0,1,Jv92,4,5,5v4
+9117,2,nighthaven-labs,15,188.2,0:36,36,,Maia,TL ALIENWARE,atk,Twitch,Nuers,DARKZERO,def,Thorn,1,0,F2,gun,1,0,0,,3,5,3v5
+9117,2,nighthaven-labs,15,188.7,0:36,36,,Jv92,TL ALIENWARE,atk,Zofia,njr,DARKZERO,def,Warden,1,0,M762,gun,1,0,1,J9O,3,4,3v4
+9117,2,nighthaven-labs,15,197.2,0:27,27,,J9O,DARKZERO,def,Azami,Jv92,TL ALIENWARE,atk,Zofia,0,0,9x19VSN,gun,1,0,0,,3,3,3v3
+9117,2,nighthaven-labs,15,204.2,0:20,20,,kyno,DARKZERO,def,Smoke,Nade,TL ALIENWARE,atk,Grim,0,0,SMG-11,gun,1,0,0,,2,3,3v2
+9117,2,nighthaven-labs,15,210.6,0:14,14,,J9O,DARKZERO,def,Azami,Maia,TL ALIENWARE,atk,Twitch,1,0,9x19VSN,gun,1,0,0,,1,3,3v1
+9117,3,clubhouse,1,202.3,0:22,22,,kheyzeSAKAGUTI,TL ALIENWARE,def,Wamai,kyno,DARKZERO,atk,Blitz,0,0,NITRO CELL,gadget,1,1,0,,5,5,5v5
+9117,3,clubhouse,1,205.7,0:19,19,,Nade,TL ALIENWARE,def,Melusi,njr,DARKZERO,atk,Hibana,1,0,MP5,gun,1,0,0,,4,5,5v4
+9117,3,clubhouse,1,206.2,0:18,18,,FelipoX,TL ALIENWARE,def,Mute,Fultz,DARKZERO,atk,Deimos,1,0,SMG-11,gun,1,0,0,,3,5,5v3
+9117,3,clubhouse,1,214.6,0:10,10,,FelipoX,TL ALIENWARE,def,Mute,Nuers,DARKZERO,atk,Zofia,0,0,M590A1,gun,1,0,0,,2,5,5v2
+9117,3,clubhouse,1,214.6,0:10,10,,kheyzeSAKAGUTI,TL ALIENWARE,def,Wamai,J9O,DARKZERO,atk,Grim,0,0,MP5K,gun,1,0,0,,1,5,5v1
+9117,3,clubhouse,2,95.5,2:09,129,,kheyzeSAKAGUTI,TL ALIENWARE,def,Mute,J9O,DARKZERO,atk,Striker,0,0,SMG-11,gun,1,1,0,,5,5,5v5
+9117,3,clubhouse,2,132.4,1:32,92,,njr,DARKZERO,atk,Hibana,Jv92,TL ALIENWARE,def,Azami,1,0,BEARING 9,gun,1,0,0,,4,5,4v5
+9117,3,clubhouse,2,138.3,1:26,86,,kyno,DARKZERO,atk,Ying,Nade,TL ALIENWARE,def,Thorn,0,0,SIX12,gun,1,0,0,,4,4,4v4
+9117,3,clubhouse,2,163.4,1:01,61,,Maia,TL ALIENWARE,def,Melusi,Nuers,DARKZERO,atk,Solid Snake,1,0,MP5,gun,1,0,0,,4,3,3v4
+9117,3,clubhouse,2,178.0,0:46,46,,njr,DARKZERO,atk,Hibana,Maia,TL ALIENWARE,def,Melusi,1,0,BEARING 9,gun,1,0,0,,3,3,3v3
+9117,3,clubhouse,2,187.5,0:37,37,,njr,DARKZERO,atk,Hibana,kheyzeSAKAGUTI,TL ALIENWARE,def,Mute,0,0,PMR90A2,gun,1,0,1,FelipoX,3,2,3v2
+9117,3,clubhouse,2,190.1,0:34,34,,FelipoX,TL ALIENWARE,def,Smoke,njr,DARKZERO,atk,Hibana,1,0,SMG-11,gun,1,0,0,,3,1,1v3
+9117,3,clubhouse,2,217.1,0:23,23,23,kyno,DARKZERO,atk,Ying,FelipoX,TL ALIENWARE,def,Smoke,0,1,SIX12,gun,1,0,0,,2,1,2v1
+9117,3,clubhouse,3,117.5,1:47,107,,Maia,TL ALIENWARE,def,Warden,Nuers,DARKZERO,atk,Solid Snake,1,0,MPX,gun,1,1,0,,5,5,5v5
+9117,3,clubhouse,3,146.8,1:18,78,,njr,DARKZERO,atk,Capitão,Jv92,TL ALIENWARE,def,Wamai,1,0,PARA-308,gun,1,0,0,,4,5,4v5
+9117,3,clubhouse,3,190.7,0:34,34,,Nade,TL ALIENWARE,def,Denari,Fultz,DARKZERO,atk,Zofia,1,0,SCORPION EVO 3 A1,gun,1,0,1,J9O,4,4,4v4
+9117,3,clubhouse,3,193.9,0:31,31,,J9O,DARKZERO,atk,Grim,Nade,TL ALIENWARE,def,Denari,1,0,552 COMMANDO,gun,1,0,1,FelipoX,3,4,3v4
+9117,3,clubhouse,3,194.0,0:31,31,,FelipoX,TL ALIENWARE,def,Smoke,J9O,DARKZERO,atk,Grim,0,0,SMG-11,gun,1,0,0,,3,3,3v3
+9117,3,clubhouse,3,196.5,0:28,28,,FelipoX,TL ALIENWARE,def,Smoke,kyno,DARKZERO,atk,Montagne,0,0,SMG-11,gun,1,0,0,,2,3,3v2
+9117,3,clubhouse,3,197.0,0:28,28,,kheyzeSAKAGUTI,TL ALIENWARE,def,Azami,njr,DARKZERO,atk,Capitão,0,0,9x19VSN,gun,1,0,0,,1,3,3v1
+9117,3,clubhouse,4,181.5,0:43,43,,njr,DARKZERO,atk,Hibana,Jv92,TL ALIENWARE,def,Noor,1,0,BEARING 9,gun,1,1,0,,5,5,5v5
+9117,3,clubhouse,4,199.7,0:25,25,,Nuers,DARKZERO,atk,Sledge,kheyzeSAKAGUTI,TL ALIENWARE,def,Wamai,0,0,L85A2,gun,1,0,0,,5,4,5v4
+9117,3,clubhouse,4,204.9,0:20,20,,Nuers,DARKZERO,atk,Sledge,Maia,TL ALIENWARE,def,Azami,1,0,L85A2,gun,1,0,0,,5,3,5v3
+9117,3,clubhouse,4,206.0,0:18,18,,Fultz,DARKZERO,atk,Montagne,Nade,TL ALIENWARE,def,Melusi,0,0,P9,gun,1,0,0,,5,2,5v2
+9117,3,clubhouse,4,208.1,0:16,16,,FelipoX,TL ALIENWARE,def,Mute,njr,DARKZERO,atk,Hibana,0,0,NITRO CELL,gadget,1,0,1,J9O,5,1,1v5
+9117,3,clubhouse,4,209.0,0:16,16,,J9O,DARKZERO,atk,Grim,FelipoX,TL ALIENWARE,def,Mute,1,0,552 COMMANDO,gun,1,0,0,,4,1,4v1
+9117,3,clubhouse,5,128.6,1:36,96,,kyno,DARKZERO,atk,Blackbeard,Jv92,TL ALIENWARE,def,Azami,1,0,SR-25,gun,1,1,0,,5,5,5v5
+9117,3,clubhouse,5,141.2,1:23,83,,Nuers,DARKZERO,atk,Zofia,Maia,TL ALIENWARE,def,Melusi,1,0,M762,gun,1,0,0,,5,4,5v4
+9117,3,clubhouse,5,168.5,0:56,56,,kheyzeSAKAGUTI,TL ALIENWARE,def,Denari,Nuers,DARKZERO,atk,Zofia,1,0,SCORPION EVO 3 A1,gun,1,0,0,,5,3,3v5
+9117,3,clubhouse,5,179.8,0:45,45,,Fultz,DARKZERO,atk,Twitch,Nade,TL ALIENWARE,def,Tachanka,1,0,F2,gun,1,0,0,,4,3,4v3
+9117,3,clubhouse,5,183.4,0:41,41,,FelipoX,TL ALIENWARE,def,Thorn,kyno,DARKZERO,atk,Blackbeard,0,0,RAZORBLOOM SHELL,gadget,1,0,0,,4,2,2v4
+9117,3,clubhouse,5,189.6,0:35,35,,FelipoX,TL ALIENWARE,def,Thorn,njr,DARKZERO,atk,Hibana,0,0,UZK50GI,gun,1,0,0,,3,2,2v3
+9117,3,clubhouse,5,213.9,0:38,38,38,J9O,DARKZERO,atk,Capitão,kheyzeSAKAGUTI,TL ALIENWARE,def,Denari,0,1,PMR90A2,gun,1,0,0,,2,2,2v2
+9117,3,clubhouse,5,219.1,0:33,33,33,J9O,DARKZERO,atk,Capitão,FelipoX,TL ALIENWARE,def,Thorn,1,1,PMR90A2,gun,1,0,0,,2,1,2v1
+9117,3,clubhouse,6,88.1,2:16,136,,Nade,TL ALIENWARE,def,Melusi,Nuers,DARKZERO,atk,Solid Snake,1,0,MP5,gun,1,1,0,,5,5,5v5
+9117,3,clubhouse,6,160.0,1:05,65,,kyno,DARKZERO,atk,Blackbeard,FelipoX,TL ALIENWARE,def,Skopós,0,0,FRAG GRENADE,gadget,1,0,0,,4,5,4v5
+9117,3,clubhouse,6,162.6,1:02,62,,Fultz,DARKZERO,atk,Deimos,kheyzeSAKAGUTI,TL ALIENWARE,def,Wamai,0,0,AK-74M,gun,1,0,0,,4,4,4v4
+9117,3,clubhouse,6,176.2,0:48,48,,Jv92,TL ALIENWARE,def,Ela,njr,DARKZERO,atk,Hibana,1,0,SCORPION EVO 3 A1,gun,1,0,0,,4,3,3v4
+9117,3,clubhouse,6,180.0,0:44,44,,J9O,DARKZERO,atk,Zofia,Maia,TL ALIENWARE,def,Azami,1,0,M762,gun,1,0,0,,3,3,3v3
+9117,3,clubhouse,6,186.7,0:38,38,,Fultz,DARKZERO,atk,Deimos,Nade,TL ALIENWARE,def,Melusi,1,0,AK-74M,gun,1,0,0,,3,2,3v2
+9117,3,clubhouse,6,193.3,0:31,31,,J9O,DARKZERO,atk,Zofia,Jv92,TL ALIENWARE,def,Ela,1,0,M762,gun,1,0,0,,3,1,3v1
+9117,3,clubhouse,7,128.3,1:36,96,,Maia,TL ALIENWARE,atk,Grim,kyno,DARKZERO,def,Mira,0,0,552 COMMANDO,gun,1,1,0,,5,5,5v5
+9117,3,clubhouse,7,151.1,1:13,73,,Nuers,DARKZERO,def,Wamai,kheyzeSAKAGUTI,TL ALIENWARE,atk,Thermite,1,0,MP5K,gun,1,0,0,,5,4,4v5
+9117,3,clubhouse,7,151.4,1:13,73,,Jv92,TL ALIENWARE,atk,Hibana,njr,DARKZERO,def,Tachanka,0,0,BEARING 9,gun,1,0,0,,4,4,4v4
+9117,3,clubhouse,7,159.2,1:05,65,,Jv92,TL ALIENWARE,atk,Hibana,J9O,DARKZERO,def,Azami,1,0,BEARING 9,gun,1,0,0,,4,3,4v3
+9117,3,clubhouse,7,180.9,0:44,44,,FelipoX,TL ALIENWARE,atk,Twitch,Nuers,DARKZERO,def,Wamai,1,0,417,gun,1,0,0,,4,2,4v2
+9117,3,clubhouse,7,181.5,0:44,44,44,Fultz,DARKZERO,def,Clash,Maia,TL ALIENWARE,atk,Grim,0,1,SPSMG9,gun,1,0,0,,4,1,1v4
+9117,3,clubhouse,7,196.1,0:30,30,30,Jv92,TL ALIENWARE,atk,Hibana,Fultz,DARKZERO,def,Clash,1,1,PMR90A2,gun,1,0,0,,3,1,3v1
+9117,3,clubhouse,8,72.0,2:33,153,,Nuers,DARKZERO,def,Azami,Maia,TL ALIENWARE,atk,Solid Snake,1,0,9x19VSN,gun,1,1,0,,5,5,5v5
+9117,3,clubhouse,8,192.5,0:32,32,,Nuers,DARKZERO,def,Azami,Nade,TL ALIENWARE,atk,Sledge,1,0,9x19VSN,gun,1,0,1,Jv92,4,5,5v4
+9117,3,clubhouse,8,196.2,0:28,28,,njr,DARKZERO,def,Goyo,FelipoX,TL ALIENWARE,atk,Blitz,0,0,TCSG12,gun,1,0,0,,3,5,5v3
+9117,3,clubhouse,8,196.6,0:28,28,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Grim,Fultz,DARKZERO,def,Clash,1,0,552 COMMANDO,gun,1,0,1,Nuers,2,5,2v5
+9117,3,clubhouse,8,196.8,0:28,28,,Nuers,DARKZERO,def,Azami,kheyzeSAKAGUTI,TL ALIENWARE,atk,Grim,1,0,9x19VSN,gun,1,0,1,Jv92,2,4,4v2
+9117,3,clubhouse,8,197.5,0:27,27,,Jv92,TL ALIENWARE,atk,Hibana,Nuers,DARKZERO,def,Azami,1,0,PMR90A2,gun,1,0,0,,1,4,1v4
+9117,3,clubhouse,8,211.7,0:13,13,,J9O,DARKZERO,def,Jäger,Jv92,TL ALIENWARE,atk,Hibana,0,0,416-C CARBINE,gun,1,0,0,,1,3,3v1
+9117,3,clubhouse,9,143.6,1:21,81,,Nade,TL ALIENWARE,atk,Zofia,Fultz,DARKZERO,def,Warden,0,0,,unknown,0,1,0,,5,5,5v5
+9117,3,clubhouse,9,146.0,1:19,79,,J9O,DARKZERO,def,Jäger,FelipoX,TL ALIENWARE,atk,Nomad,1,0,416-C CARBINE,gun,1,0,0,,5,4,4v5
+9117,3,clubhouse,9,156.9,1:08,68,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Flores,J9O,DARKZERO,def,Jäger,0,0,AR33,gun,1,0,0,,4,4,4v4
+9117,3,clubhouse,9,192.4,0:32,32,,kyno,DARKZERO,def,Thorn,kheyzeSAKAGUTI,TL ALIENWARE,atk,Flores,0,0,C75 Auto,gun,1,0,0,,4,3,3v4
+9117,3,clubhouse,9,197.9,0:27,27,,Nade,TL ALIENWARE,atk,Zofia,Nuers,DARKZERO,def,Azami,0,0,M762,gun,1,0,0,,3,3,3v3
+9117,3,clubhouse,9,199.6,0:25,25,,Maia,TL ALIENWARE,atk,Capitão,njr,DARKZERO,def,Tachanka,1,0,PMR90A2,gun,1,0,0,,3,2,3v2
+9117,3,clubhouse,9,207.7,0:17,17,,Jv92,TL ALIENWARE,atk,Hibana,kyno,DARKZERO,def,Thorn,0,0,BEARING 9,gun,1,0,0,,3,1,3v1
+9117,3,clubhouse,10,117.8,1:47,107,,kyno,DARKZERO,def,Mira,Nade,TL ALIENWARE,atk,Thermite,0,0,NITRO CELL,gadget,1,1,1,kheyzeSAKAGUTI,5,5,5v5
+9117,3,clubhouse,10,122.5,1:42,102,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Flores,kyno,DARKZERO,def,Mira,1,0,AR33,gun,1,0,0,,4,5,4v5
+9117,3,clubhouse,10,163.1,1:01,61,,Nuers,DARKZERO,def,Thorn,Maia,TL ALIENWARE,atk,Capitão,1,0,UZK50GI,gun,1,0,0,,4,4,4v4
+9117,3,clubhouse,10,171.6,0:53,53,,Jv92,TL ALIENWARE,atk,Hibana,Fultz,DARKZERO,def,Mute,0,0,PMR90A2,gun,1,0,0,,3,4,3v4
+9117,3,clubhouse,10,196.0,0:28,28,,njr,DARKZERO,def,Tachanka,Jv92,TL ALIENWARE,atk,Hibana,1,0,BEARING 9,gun,1,0,0,,3,3,3v3
+9117,3,clubhouse,10,199.5,0:25,25,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Flores,Nuers,DARKZERO,def,Thorn,0,0,AR33,gun,1,0,0,,2,3,2v3
+9117,3,clubhouse,10,217.5,0:07,7,,FelipoX,TL ALIENWARE,atk,Twitch,njr,DARKZERO,def,Tachanka,0,0,417,gun,1,0,0,,2,2,2v2
+9117,3,clubhouse,10,217.9,0:07,7,,J9O,DARKZERO,def,Azami,kheyzeSAKAGUTI,TL ALIENWARE,atk,Flores,0,0,9x19VSN,gun,1,0,1,FelipoX,2,1,1v2
+9117,3,clubhouse,10,222.1,0:02,2,,FelipoX,TL ALIENWARE,atk,Twitch,J9O,DARKZERO,def,Azami,1,0,417,gun,1,0,0,,1,1,1v1
+9117,3,clubhouse,11,108.1,1:56,116,,njr,DARKZERO,def,Goyo,kheyzeSAKAGUTI,TL ALIENWARE,atk,Capitão,1,0,VECTOR .45 ACP,gun,1,1,0,,5,5,5v5
+9117,3,clubhouse,11,163.6,1:01,61,,J9O,DARKZERO,def,Warden,FelipoX,TL ALIENWARE,atk,Nomad,1,0,MPX,gun,1,0,0,,4,5,5v4
+9117,3,clubhouse,11,210.5,0:14,14,,Nuers,DARKZERO,def,Castle,Maia,TL ALIENWARE,atk,Striker,1,0,UMP45,gun,1,0,0,,3,5,5v3
+9117,3,clubhouse,11,212.5,0:12,12,,Fultz,DARKZERO,def,Mute,Nade,TL ALIENWARE,atk,Sledge,0,0,M590A1,gun,1,0,0,,2,5,5v2
+9117,3,clubhouse,11,214.8,0:10,10,,Fultz,DARKZERO,def,Mute,Jv92,TL ALIENWARE,atk,Hibana,1,0,SMG-11,gun,1,0,0,,1,5,5v1
+9117,3,clubhouse,12,142.2,1:22,82,,Fultz,DARKZERO,def,Mute,Maia,TL ALIENWARE,atk,Capitão,1,0,SMG-11,gun,1,1,1,kheyzeSAKAGUTI,5,5,5v5
+9117,3,clubhouse,12,148.5,1:16,76,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Thermite,Fultz,DARKZERO,def,Mute,1,0,556XI,gun,1,0,0,,4,5,4v5
+9117,3,clubhouse,12,169.1,0:55,55,,J9O,DARKZERO,def,Warden,FelipoX,TL ALIENWARE,atk,Nomad,0,0,MPX,gun,1,0,1,kheyzeSAKAGUTI,4,4,4v4
+9117,3,clubhouse,12,170.1,0:54,54,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Thermite,J9O,DARKZERO,def,Warden,0,0,556XI,gun,1,0,0,,3,4,3v4
+9117,3,clubhouse,12,207.1,0:17,17,,Nuers,DARKZERO,def,Azami,Nade,TL ALIENWARE,atk,Deimos,1,0,9x19VSN,gun,1,0,0,,3,3,3v3
+9117,3,clubhouse,12,209.4,0:15,15,,Nuers,DARKZERO,def,Azami,Jv92,TL ALIENWARE,atk,Hibana,1,0,9x19VSN,gun,1,0,0,,2,3,3v2
+9117,3,clubhouse,12,211.5,0:13,13,,njr,DARKZERO,def,Tachanka,kheyzeSAKAGUTI,TL ALIENWARE,atk,Thermite,0,0,,unknown,0,0,0,,1,3,3v1

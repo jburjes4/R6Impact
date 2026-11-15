@@ -1,0 +1,152 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+8885,1,clubhouse,1,92.8,2:12,132,,Reeps965G,WEIBO,atk,Grim,kyno,DARKZERO,def,Wamai,1,0,552 COMMANDO,gun,1,1,0,,5,5,5v5
+8885,1,clubhouse,1,135.9,1:29,89,,Nuers,DARKZERO,def,Kaid,Hoven5G,WEIBO,atk,Sens,0,0,TCSG12,gun,1,0,0,,5,4,4v5
+8885,1,clubhouse,1,136.7,1:28,88,,J9O,DARKZERO,def,Azami,SpeakEasy5G,WEIBO,atk,Ram,1,0,9x19VSN,gun,1,0,0,,4,4,4v4
+8885,1,clubhouse,1,141.8,1:23,83,,J9O,DARKZERO,def,Azami,Reeps965G,WEIBO,atk,Grim,0,0,9x19VSN,gun,1,0,0,,3,4,4v3
+8885,1,clubhouse,1,146.3,1:18,78,,Terd5G,WEIBO,atk,Solid Snake,Nuers,DARKZERO,def,Kaid,0,0,F2,gun,1,0,1,Fultz,2,4,2v4
+8885,1,clubhouse,1,147.6,1:17,77,,Fultz,DARKZERO,def,Clash,Terd5G,WEIBO,atk,Solid Snake,1,0,SPSMG9,gun,1,0,1,Gotti5G,2,3,3v2
+8885,1,clubhouse,1,155.7,1:09,69,,Gotti5G,WEIBO,atk,Hibana,Fultz,DARKZERO,def,Clash,1,0,BEARING 9,gun,1,0,0,,1,3,1v3
+8885,1,clubhouse,1,225.0,0:00,0,,J9O,DARKZERO,def,Azami,Gotti5G,WEIBO,atk,Hibana,0,0,9x19VSN,gun,1,0,0,,1,2,2v1
+8885,1,clubhouse,2,154.5,1:10,70,,Nuers,DARKZERO,def,Azami,Gotti5G,WEIBO,atk,Ying,0,0,9x19VSN,gun,1,1,0,,5,5,5v5
+8885,1,clubhouse,2,163.6,1:01,61,,SpeakEasy5G,WEIBO,atk,Maverick,J9O,DARKZERO,def,Warden,1,0,M4,gun,1,0,0,,4,5,4v5
+8885,1,clubhouse,2,166.2,0:58,58,,Terd5G,WEIBO,atk,Nomad,Nuers,DARKZERO,def,Azami,1,0,AK-74M,gun,1,0,0,,4,4,4v4
+8885,1,clubhouse,2,180.7,0:44,44,,Hoven5G,WEIBO,atk,Capitão,kyno,DARKZERO,def,Kaid,1,0,PMR90A2,gun,1,0,0,,4,3,4v3
+8885,1,clubhouse,2,208.5,0:16,16,,njr,DARKZERO,def,Wamai,Hoven5G,WEIBO,atk,Capitão,1,0,MP5K,gun,1,0,0,,4,2,2v4
+8885,1,clubhouse,2,208.6,0:16,16,,Terd5G,WEIBO,atk,Nomad,Reeps965G,WEIBO,atk,Deimos,0,0,AK-74M,gun,1,0,0,,3,2,
+8885,1,clubhouse,2,211.6,0:13,13,,njr,DARKZERO,def,Wamai,SpeakEasy5G,WEIBO,atk,Maverick,1,0,MP5K,gun,1,0,0,,2,2,2v2
+8885,1,clubhouse,2,212.9,0:12,12,,Fultz,DARKZERO,def,Clash,Terd5G,WEIBO,atk,Nomad,0,0,SPSMG9,gun,1,0,0,,1,2,2v1
+8885,1,clubhouse,3,175.7,0:49,49,,Fultz,DARKZERO,def,Warden,Hoven5G,WEIBO,atk,Grim,1,0,MPX,gun,1,1,0,,5,5,5v5
+8885,1,clubhouse,3,186.6,0:38,38,,kyno,DARKZERO,def,Mute,SpeakEasy5G,WEIBO,atk,Blackbeard,0,0,SMG-11,gun,1,0,0,,4,5,5v4
+8885,1,clubhouse,3,187.0,0:37,37,,Reeps965G,WEIBO,atk,Kali,Fultz,DARKZERO,def,Warden,1,0,CSRX300,gun,1,0,0,,3,5,3v5
+8885,1,clubhouse,3,188.3,0:36,36,,Reeps965G,WEIBO,atk,Kali,J9O,DARKZERO,def,Azami,1,0,CSRX300,gun,1,0,0,,3,4,3v4
+8885,1,clubhouse,3,193.8,0:31,31,,kyno,DARKZERO,def,Mute,Gotti5G,WEIBO,atk,Hibana,1,0,SMG-11,gun,1,0,0,,3,3,3v3
+8885,1,clubhouse,3,196.3,0:28,28,,Nuers,DARKZERO,def,Wamai,Terd5G,WEIBO,atk,Deimos,1,0,MP5K,gun,1,0,0,,2,3,3v2
+8885,1,clubhouse,3,202.0,0:23,23,,kyno,DARKZERO,def,Mute,Reeps965G,WEIBO,atk,Kali,1,0,SMG-11,gun,1,0,0,,1,3,3v1
+8885,1,clubhouse,4,202.7,0:22,22,,Reeps965G,WEIBO,atk,Capitão,Fultz,DARKZERO,def,Clash,0,0,TACTICAL CROSSBOW,gadget,1,1,0,,5,5,5v5
+8885,1,clubhouse,4,206.1,0:18,18,,Nuers,DARKZERO,def,Azami,Hoven5G,WEIBO,atk,Sens,1,0,9x19VSN,gun,1,0,1,Gotti5G,5,4,4v5
+8885,1,clubhouse,4,207.0,0:18,18,,kyno,DARKZERO,def,Smoke,SpeakEasy5G,WEIBO,atk,Ram,1,0,SMG-11,gun,1,0,0,,4,4,4v4
+8885,1,clubhouse,4,209.3,0:15,15,,Gotti5G,WEIBO,atk,Hibana,Nuers,DARKZERO,def,Azami,0,0,BEARING 9,gun,1,0,1,J9O,3,4,3v4
+8885,1,clubhouse,4,214.7,0:10,10,,kyno,DARKZERO,def,Smoke,Reeps965G,WEIBO,atk,Capitão,0,0,M590A1,gun,1,0,0,,3,3,3v3
+8885,1,clubhouse,4,216.1,0:08,8,,J9O,DARKZERO,def,Wamai,Gotti5G,WEIBO,atk,Hibana,0,0,AUG A2,gun,1,0,0,,2,3,3v2
+8885,1,clubhouse,4,219.7,0:05,5,,kyno,DARKZERO,def,Smoke,Terd5G,WEIBO,atk,Solid Snake,0,0,M590A1,gun,1,0,0,,1,3,3v1
+8885,1,clubhouse,5,87.8,2:17,137,,Terd5G,WEIBO,atk,Gridlock,Nuers,DARKZERO,def,Azami,0,0,F90,gun,1,1,0,,5,5,5v5
+8885,1,clubhouse,5,137.0,1:27,87,,SpeakEasy5G,WEIBO,atk,Montagne,J9O,DARKZERO,def,Jäger,0,0,P9,gun,1,0,0,,5,4,5v4
+8885,1,clubhouse,5,189.5,0:35,35,,njr,DARKZERO,def,Tachanka,SpeakEasy5G,WEIBO,atk,Montagne,0,0,,unknown,0,0,0,,5,3,3v5
+8885,1,clubhouse,5,190.9,0:34,34,,Fultz,DARKZERO,def,Warden,Hoven5G,WEIBO,atk,Capitão,1,0,MPX,gun,1,0,0,,4,3,3v4
+8885,1,clubhouse,5,203.3,0:21,21,,Fultz,DARKZERO,def,Warden,Reeps965G,WEIBO,atk,Deimos,1,0,SMG-12,gun,1,0,0,,3,3,3v3
+8885,1,clubhouse,5,207.8,0:17,17,,Fultz,DARKZERO,def,Warden,Gotti5G,WEIBO,atk,Thermite,1,0,SMG-12,gun,1,0,0,,2,3,3v2
+8885,1,clubhouse,5,213.9,0:11,11,,Fultz,DARKZERO,def,Warden,Terd5G,WEIBO,atk,Gridlock,1,0,SMG-12,gun,1,0,0,,1,3,3v1
+8885,1,clubhouse,6,160.3,1:04,64,,Nuers,DARKZERO,def,Thorn,Hoven5G,WEIBO,atk,Solid Snake,1,0,UZK50GI,gun,1,1,0,,5,5,5v5
+8885,1,clubhouse,6,176.3,0:48,48,,J9O,DARKZERO,def,Azami,Gotti5G,WEIBO,atk,Hibana,1,0,9x19VSN,gun,1,0,0,,4,5,5v4
+8885,1,clubhouse,6,188.2,0:36,36,,kyno,DARKZERO,def,Mute,Reeps965G,WEIBO,atk,Capitão,0,0,M590A1,gun,1,0,0,,3,5,5v3
+8885,1,clubhouse,6,188.4,0:36,36,,Nuers,DARKZERO,def,Thorn,Terd5G,WEIBO,atk,Deimos,1,0,UZK50GI,gun,1,0,0,,2,5,5v2
+8885,1,clubhouse,6,194.7,0:30,30,,SpeakEasy5G,WEIBO,atk,Zofia,J9O,DARKZERO,def,Azami,0,0,M762,gun,1,0,1,kyno,1,5,1v5
+8885,1,clubhouse,6,194.9,0:30,30,,kyno,DARKZERO,def,Mute,SpeakEasy5G,WEIBO,atk,Zofia,0,0,SMG-11,gun,1,0,0,,1,4,4v1
+8885,1,clubhouse,7,103.3,2:01,121,,SpeakEasy5G,WEIBO,def,Smoke,Fultz,DARKZERO,atk,Montagne,0,0,,unknown,0,1,0,,5,5,5v5
+8885,1,clubhouse,7,110.1,1:54,114,,SpeakEasy5G,WEIBO,def,Smoke,kyno,DARKZERO,atk,Blackbeard,1,0,SMG-11,gun,1,0,1,J9O,4,5,5v4
+8885,1,clubhouse,7,112.6,1:52,112,,njr,DARKZERO,atk,Nomad,Reeps965G,WEIBO,def,Thorn,1,0,AK-74M,gun,1,0,0,,3,5,3v5
+8885,1,clubhouse,7,119.3,1:45,105,,J9O,DARKZERO,atk,Glaz,SpeakEasy5G,WEIBO,def,Smoke,1,0,OTs-03,gun,1,0,0,,3,4,3v4
+8885,1,clubhouse,7,120.4,1:44,104,,Gotti5G,WEIBO,def,Goyo,Nuers,DARKZERO,atk,Grim,1,0,TCSG12,gun,1,0,0,,3,3,3v3
+8885,1,clubhouse,7,131.7,1:33,93,,Terd5G,WEIBO,def,Ela,J9O,DARKZERO,atk,Glaz,0,0,SCORPION EVO 3 A1,gun,1,0,0,,2,3,3v2
+8885,1,clubhouse,7,131.8,1:33,93,,SpeakEasy5G,WEIBO,def,Smoke,njr,DARKZERO,atk,Nomad,0,0,SMG-11,gun,1,0,0,,1,3,3v1
+8885,1,clubhouse,8,70.4,2:34,154,,kyno,DARKZERO,atk,Blackbeard,Terd5G,WEIBO,def,Azami,1,0,SR-25,gun,1,1,0,,5,5,5v5
+8885,1,clubhouse,8,163.0,1:01,61,,Reeps965G,WEIBO,def,Mute,Fultz,DARKZERO,atk,Sens,0,0,M590A1,gun,1,0,0,,5,4,4v5
+8885,1,clubhouse,8,168.8,0:56,56,,Gotti5G,WEIBO,def,Warden,J9O,DARKZERO,atk,Capitão,0,0,MPX,gun,1,0,1,Nuers,4,4,4v4
+8885,1,clubhouse,8,170.1,0:54,54,,Nuers,DARKZERO,atk,Solid Snake,Gotti5G,WEIBO,def,Warden,0,0,F2,gun,1,0,0,,3,4,3v4
+8885,1,clubhouse,8,174.2,0:50,50,,Nuers,DARKZERO,atk,Solid Snake,SpeakEasy5G,WEIBO,def,Tachanka,0,0,F2,gun,1,0,0,,3,3,3v3
+8885,1,clubhouse,8,188.3,0:42,42,42,Hoven5G,WEIBO,def,Thorn,Nuers,DARKZERO,atk,Solid Snake,0,1,UZK50GI,gun,1,0,0,,3,2,2v3
+8885,1,clubhouse,8,188.4,0:42,42,42,Hoven5G,WEIBO,def,Thorn,kyno,DARKZERO,atk,Blackbeard,0,1,UZK50GI,gun,1,0,0,,2,2,2v2
+8885,1,clubhouse,8,189.3,0:41,41,41,njr,DARKZERO,atk,Ace,Reeps965G,WEIBO,def,Mute,0,1,AK-12,gun,1,0,1,Hoven5G,1,2,1v2
+8885,1,clubhouse,8,193.9,0:37,37,37,Hoven5G,WEIBO,def,Thorn,njr,DARKZERO,atk,Ace,0,1,UZK50GI,gun,1,0,0,,1,1,1v1
+8885,1,clubhouse,9,107.8,1:57,117,,Fultz,DARKZERO,atk,Solid Snake,Reeps965G,WEIBO,def,Fenrir,1,0,F2,gun,1,1,0,,5,5,5v5
+8885,1,clubhouse,9,108.0,1:56,116,,J9O,DARKZERO,atk,Buck,Gotti5G,WEIBO,def,Smoke,1,0,C8-SFW,gun,1,0,0,,5,4,5v4
+8885,1,clubhouse,9,108.8,1:56,116,,Nuers,DARKZERO,atk,Grim,Hoven5G,WEIBO,def,Wamai,1,0,552 COMMANDO,gun,1,0,1,Terd5G,5,3,5v3
+8885,1,clubhouse,9,117.5,1:47,107,,Terd5G,WEIBO,def,Azami,Nuers,DARKZERO,atk,Grim,1,0,9x19VSN,gun,1,0,0,,5,2,2v5
+8885,1,clubhouse,9,122.0,1:42,102,,Terd5G,WEIBO,def,Azami,J9O,DARKZERO,atk,Buck,1,0,9x19VSN,gun,1,0,0,,4,2,2v4
+8885,1,clubhouse,9,129.8,1:35,95,,Terd5G,WEIBO,def,Azami,kyno,DARKZERO,atk,Ying,1,0,9x19VSN,gun,1,0,1,Fultz,3,2,2v3
+8885,1,clubhouse,9,134.9,1:30,90,,Fultz,DARKZERO,atk,Solid Snake,SpeakEasy5G,WEIBO,def,Clash,0,0,FRAG GRENADE,gadget,1,0,0,,2,2,2v2
+8885,1,clubhouse,9,134.9,1:30,90,,Fultz,DARKZERO,atk,Solid Snake,Terd5G,WEIBO,def,Azami,0,0,F2,gun,1,0,0,,2,1,2v1
+8885,2,villa,1,162.0,1:03,63,,Fultz,DARKZERO,atk,Ying,Terd5G,WEIBO,def,Azami,1,0,T-95 LSW,gun,1,1,1,SpeakEasy5G,5,5,5v5
+8885,2,villa,1,167.6,0:57,57,,Hoven5G,WEIBO,def,Thorn,njr,DARKZERO,atk,Kali,0,0,UZK50GI,gun,1,0,0,,5,4,4v5
+8885,2,villa,1,169.4,0:55,55,,SpeakEasy5G,WEIBO,def,Mira,Fultz,DARKZERO,atk,Ying,0,0,VECTOR .45 ACP,gun,1,0,1,Nuers,4,4,4v4
+8885,2,villa,1,173.2,0:51,51,,Hoven5G,WEIBO,def,Thorn,kyno,DARKZERO,atk,Montagne,1,0,UZK50GI,gun,1,0,0,,3,4,4v3
+8885,2,villa,1,174.7,0:50,50,,Nuers,DARKZERO,atk,Flores,SpeakEasy5G,WEIBO,def,Mira,1,0,AR33,gun,1,0,0,,2,4,2v4
+8885,2,villa,1,176.0,0:48,48,,J9O,DARKZERO,atk,Twitch,Gotti5G,WEIBO,def,Smoke,0,0,417,gun,1,0,0,,2,3,2v3
+8885,2,villa,1,191.4,0:33,33,,Hoven5G,WEIBO,def,Thorn,Nuers,DARKZERO,atk,Flores,0,0,UZK50GI,gun,1,0,0,,2,2,2v2
+8885,2,villa,1,193.0,0:32,32,,Reeps965G,WEIBO,def,Mute,J9O,DARKZERO,atk,Twitch,1,0,SMG-11,gun,1,0,0,,1,2,2v1
+8885,2,villa,2,51.9,2:53,173,,Terd5G,WEIBO,def,Sentry,kyno,DARKZERO,atk,Gridlock,0,0,TCSG12,gun,1,1,0,,5,5,5v5
+8885,2,villa,2,125.1,1:39,99,,Nuers,DARKZERO,atk,Deimos,Gotti5G,WEIBO,def,Tachanka,1,0,AK-74M,gun,1,0,0,,4,5,4v5
+8885,2,villa,2,136.1,1:28,88,,J9O,DARKZERO,atk,Zofia,Hoven5G,WEIBO,def,Thorn,0,0,M762,gun,1,0,0,,4,4,4v4
+8885,2,villa,2,151.0,1:13,73,,Reeps965G,WEIBO,def,Solis,Fultz,DARKZERO,atk,Buck,0,0,SMG-11,gun,1,0,0,,4,3,3v4
+8885,2,villa,2,164.4,1:00,60,,njr,DARKZERO,atk,Ash,SpeakEasy5G,WEIBO,def,Mute,1,0,R4-C,gun,1,0,0,,3,3,3v3
+8885,2,villa,2,180.5,0:44,44,,Reeps965G,WEIBO,def,Solis,J9O,DARKZERO,atk,Zofia,0,0,SMG-11,gun,1,0,0,,3,2,2v3
+8885,2,villa,2,184.3,0:40,40,,njr,DARKZERO,atk,Ash,Terd5G,WEIBO,def,Sentry,0,0,R4-C,gun,1,0,0,,2,2,2v2
+8885,2,villa,2,193.7,0:31,31,,Nuers,DARKZERO,atk,Deimos,Reeps965G,WEIBO,def,Solis,0,0,.44 Vendetta,gun,1,0,0,,2,1,2v1
+8885,2,villa,3,86.3,2:18,138,,Terd5G,WEIBO,def,Bandit,njr,DARKZERO,atk,Thatcher,0,0,MP7,gun,1,1,0,,5,5,5v5
+8885,2,villa,3,87.2,2:17,137,,Terd5G,WEIBO,def,Bandit,Fultz,DARKZERO,atk,Thermite,1,0,MP7,gun,1,0,0,,4,5,5v4
+8885,2,villa,3,125.1,1:39,99,,Terd5G,WEIBO,def,Bandit,kyno,DARKZERO,atk,Montagne,0,0,MP7,gun,1,0,0,,3,5,5v3
+8885,2,villa,3,145.5,1:19,79,,Reeps965G,WEIBO,def,Ela,J9O,DARKZERO,atk,Flores,1,0,SCORPION EVO 3 A1,gun,1,0,0,,2,5,5v2
+8885,2,villa,3,208.8,0:16,16,,Nuers,DARKZERO,atk,Striker,Reeps965G,WEIBO,def,Ela,1,0,M4,gun,1,0,1,Terd5G,1,5,1v5
+8885,2,villa,3,213.8,0:11,11,,Terd5G,WEIBO,def,Bandit,Nuers,DARKZERO,atk,Striker,1,0,MP7,gun,1,0,0,,1,4,4v1
+8885,2,villa,4,189.1,0:35,35,,J9O,DARKZERO,atk,Buck,Gotti5G,WEIBO,def,Smoke,0,0,C8-SFW,gun,1,1,0,,5,5,5v5
+8885,2,villa,4,195.1,0:29,29,,SpeakEasy5G,WEIBO,def,Noor,Fultz,DARKZERO,atk,Striker,0,0,ALDA 556,gun,1,0,1,kyno,5,4,4v5
+8885,2,villa,4,195.5,0:29,29,,kyno,DARKZERO,atk,Zofia,SpeakEasy5G,WEIBO,def,Noor,0,0,M762,gun,1,0,0,,4,4,4v4
+8885,2,villa,4,199.2,0:25,25,,J9O,DARKZERO,atk,Buck,Hoven5G,WEIBO,def,Thorn,0,0,C8-SFW,gun,1,0,0,,4,3,4v3
+8885,2,villa,4,199.6,0:25,25,,Terd5G,WEIBO,def,Ela,Nuers,DARKZERO,atk,Twitch,0,0,SCORPION EVO 3 A1,gun,1,0,0,,4,2,2v4
+8885,2,villa,4,211.0,0:13,13,,Reeps965G,WEIBO,def,Mute,njr,DARKZERO,atk,Capitão,0,0,M590A1,gun,1,0,0,,3,2,2v3
+8885,2,villa,4,231.2,0:25,25,25,kyno,DARKZERO,atk,Zofia,Terd5G,WEIBO,def,Ela,0,1,M762,gun,1,0,0,,2,2,2v2
+8885,2,villa,4,232.9,0:23,23,23,kyno,DARKZERO,atk,Zofia,Reeps965G,WEIBO,def,Mute,0,1,M762,gun,1,0,0,,2,1,2v1
+8885,2,villa,5,74.7,2:30,150,,kyno,DARKZERO,atk,Blitz,Hoven5G,WEIBO,def,Pulse,0,0,P12,gun,1,1,0,,5,5,5v5
+8885,2,villa,5,95.9,2:09,129,,Reeps965G,WEIBO,def,Solis,Fultz,DARKZERO,atk,Buck,1,0,SMG-11,gun,1,0,0,,5,4,4v5
+8885,2,villa,5,134.1,1:30,90,,Reeps965G,WEIBO,def,Solis,J9O,DARKZERO,atk,Lion,1,0,SMG-11,gun,1,0,1,Nuers,4,4,4v4
+8885,2,villa,5,136.4,1:28,88,,njr,DARKZERO,atk,Hibana,SpeakEasy5G,WEIBO,def,Mira,1,0,BEARING 9,gun,1,0,0,,3,4,3v4
+8885,2,villa,5,139.5,1:25,85,,Nuers,DARKZERO,atk,Sledge,Reeps965G,WEIBO,def,Solis,0,0,L85A2,gun,1,0,0,,3,3,3v3
+8885,2,villa,5,197.3,0:27,27,,Terd5G,WEIBO,def,Ela,Nuers,DARKZERO,atk,Sledge,1,0,SCORPION EVO 3 A1,gun,1,0,0,,3,2,2v3
+8885,2,villa,5,199.2,0:44,44,44,Gotti5G,WEIBO,def,Smoke,kyno,DARKZERO,atk,Blitz,0,1,SMG-11,gun,1,0,0,,2,2,2v2
+8885,2,villa,5,212.9,0:30,30,30,njr,DARKZERO,atk,Hibana,Terd5G,WEIBO,def,Ela,0,1,BEARING 9,gun,1,0,0,,1,2,1v2
+8885,2,villa,5,222.8,0:20,20,20,njr,DARKZERO,atk,Hibana,Gotti5G,WEIBO,def,Smoke,0,1,BEARING 9,gun,1,0,0,,1,1,1v1
+8885,2,villa,6,149.9,1:15,75,,Nuers,DARKZERO,atk,Nomad,Gotti5G,WEIBO,def,Tachanka,0,0,AK-74M,gun,1,1,1,Hoven5G,5,5,5v5
+8885,2,villa,6,150.3,1:14,74,,Hoven5G,WEIBO,def,Warden,Nuers,DARKZERO,atk,Nomad,1,0,SMG-12,gun,1,0,1,Fultz,5,4,4v5
+8885,2,villa,6,159.2,1:05,65,,Fultz,DARKZERO,atk,Maverick,Hoven5G,WEIBO,def,Warden,1,0,M4,gun,1,0,0,,4,4,4v4
+8885,2,villa,6,178.4,0:46,46,,kyno,DARKZERO,atk,Glaz,Terd5G,WEIBO,def,Bandit,0,0,OTs-03,gun,1,0,0,,4,3,4v3
+8885,2,villa,6,199.1,0:25,25,,Reeps965G,WEIBO,def,Ela,Fultz,DARKZERO,atk,Maverick,1,0,SCORPION EVO 3 A1,gun,1,0,0,,4,2,2v4
+8885,2,villa,6,199.3,0:25,25,,Reeps965G,WEIBO,def,Ela,kyno,DARKZERO,atk,Glaz,1,0,SCORPION EVO 3 A1,gun,1,0,0,,3,2,2v3
+8885,2,villa,6,201.7,0:23,23,,SpeakEasy5G,WEIBO,def,Echo,J9O,DARKZERO,atk,Flores,1,0,BEARING 9,gun,1,0,0,,2,2,2v2
+8885,2,villa,6,208.2,0:16,16,,Reeps965G,WEIBO,def,Ela,njr,DARKZERO,atk,Zofia,0,0,SCORPION EVO 3 A1,gun,1,0,0,,1,2,2v1
+8885,2,villa,7,126.6,1:38,98,,njr,DARKZERO,def,Jäger,Hoven5G,WEIBO,atk,Sens,1,0,416-C CARBINE,gun,1,1,1,Terd5G,5,5,5v5
+8885,2,villa,7,126.9,1:38,98,,Terd5G,WEIBO,atk,Nomad,njr,DARKZERO,def,Jäger,0,0,AK-74M,gun,1,0,0,,4,5,4v5
+8885,2,villa,7,200.6,0:24,24,,Nuers,DARKZERO,def,Kaid,SpeakEasy5G,WEIBO,atk,Thermite,0,0,TCSG12,gun,1,0,1,Terd5G,4,4,4v4
+8885,2,villa,7,200.9,0:24,24,,Terd5G,WEIBO,atk,Nomad,Nuers,DARKZERO,def,Kaid,1,0,AK-74M,gun,1,0,1,kyno,3,4,3v4
+8885,2,villa,7,202.3,0:22,22,,kyno,DARKZERO,def,Warden,Terd5G,WEIBO,atk,Nomad,1,0,SMG-12,gun,1,0,0,,3,3,3v3
+8885,2,villa,7,208.7,0:16,16,,Gotti5G,WEIBO,atk,Thatcher,J9O,DARKZERO,def,Smoke,0,0,P226 MK 25,gun,1,0,1,kyno,2,3,2v3
+8885,2,villa,7,216.9,0:08,8,,kyno,DARKZERO,def,Warden,Gotti5G,WEIBO,atk,Thatcher,1,0,SMG-12,gun,1,0,1,Reeps965G,2,2,2v2
+8885,2,villa,7,223.6,0:01,1,,Reeps965G,WEIBO,atk,Twitch,kyno,DARKZERO,def,Warden,1,0,P9,gun,1,0,0,,1,2,1v2
+8885,2,villa,8,131.9,1:33,93,,Terd5G,WEIBO,atk,Glaz,njr,DARKZERO,def,Warden,0,0,OTs-03,gun,1,1,1,J9O,5,5,5v5
+8885,2,villa,8,132.9,1:32,92,,J9O,DARKZERO,def,Melusi,Terd5G,WEIBO,atk,Glaz,1,0,MP5,gun,1,0,0,,5,4,4v5
+8885,2,villa,8,141.9,1:23,83,,J9O,DARKZERO,def,Melusi,Fultz,DARKZERO,def,Solis,1,0,MP5,gun,1,0,0,,4,4,
+8885,2,villa,8,142.5,1:22,82,,J9O,DARKZERO,def,Melusi,Hoven5G,WEIBO,atk,Nøkk,0,0,MP5,gun,1,0,0,,4,3,3v4
+8885,2,villa,8,150.4,1:14,74,,Nuers,DARKZERO,def,Kaid,Gotti5G,WEIBO,atk,Capitão,1,0,TCSG12,gun,1,0,0,,3,3,3v3
+8885,2,villa,8,158.8,1:06,66,,Nuers,DARKZERO,def,Kaid,SpeakEasy5G,WEIBO,atk,Montagne,0,0,NITRO CELL,gadget,1,0,0,,2,3,3v2
+8885,2,villa,8,185.7,0:39,39,,kyno,DARKZERO,def,Smoke,Reeps965G,WEIBO,atk,Flores,0,0,M590A1,gun,1,0,0,,1,3,3v1
+8885,2,villa,9,167.1,0:57,57,,Hoven5G,WEIBO,atk,Lion,Fultz,DARKZERO,def,Thorn,0,0,417,gun,1,1,0,,5,5,5v5
+8885,2,villa,9,169.4,0:55,55,,Nuers,DARKZERO,def,Warden,SpeakEasy5G,WEIBO,atk,Montagne,0,0,MPX,gun,1,0,1,Reeps965G,5,4,4v5
+8885,2,villa,9,172.8,0:52,52,,Reeps965G,WEIBO,atk,Flores,J9O,DARKZERO,def,Azami,0,0,AR33,gun,1,0,0,,4,4,4v4
+8885,2,villa,9,174.9,0:50,50,,Reeps965G,WEIBO,atk,Flores,Nuers,DARKZERO,def,Warden,0,0,AR33,gun,1,0,0,,4,3,4v3
+8885,2,villa,9,182.9,0:42,42,,njr,DARKZERO,def,Tachanka,Hoven5G,WEIBO,atk,Lion,0,0,BEARING 9,gun,1,0,1,Reeps965G,4,2,2v4
+8885,2,villa,9,184.1,0:40,40,,kyno,DARKZERO,def,Kaid,Gotti5G,WEIBO,atk,Grim,0,0,TCSG12,gun,1,0,0,,3,2,2v3
+8885,2,villa,9,192.8,0:32,32,,Reeps965G,WEIBO,atk,Flores,njr,DARKZERO,def,Tachanka,0,0,AR33,gun,1,0,0,,2,2,2v2
+8885,2,villa,9,208.9,0:44,44,44,Reeps965G,WEIBO,atk,Flores,kyno,DARKZERO,def,Kaid,0,1,AR33,gun,1,0,0,,2,1,2v1
+8885,2,villa,10,149.2,1:15,75,,Fultz,DARKZERO,def,Pulse,Hoven5G,WEIBO,atk,Blitz,0,0,Reaper MK2,gun,1,1,0,,5,5,5v5
+8885,2,villa,10,150.1,1:14,74,,kyno,DARKZERO,def,Mozzie,Reeps965G,WEIBO,atk,Thermite,0,0,SUPER SHORTY,gun,1,0,1,SpeakEasy5G,4,5,5v4
+8885,2,villa,10,154.6,1:10,70,,Fultz,DARKZERO,def,Pulse,Terd5G,WEIBO,atk,Dokkaebi,0,0,Reaper MK2,gun,1,0,0,,3,5,5v3
+8885,2,villa,10,155.8,1:09,69,,SpeakEasy5G,WEIBO,atk,Blackbeard,kyno,DARKZERO,def,Mozzie,0,0,MK17 CQB,gun,1,0,0,,2,5,2v5
+8885,2,villa,10,163.1,1:01,61,,Gotti5G,WEIBO,atk,Thatcher,njr,DARKZERO,def,Goyo,1,0,PMR90A2,gun,1,0,1,J9O,2,4,2v4
+8885,2,villa,10,166.4,0:58,58,,J9O,DARKZERO,def,Thorn,Gotti5G,WEIBO,atk,Thatcher,0,0,UZK50GI,gun,1,0,0,,2,3,3v2
+8885,2,villa,10,169.7,0:55,55,,J9O,DARKZERO,def,Thorn,SpeakEasy5G,WEIBO,atk,Blackbeard,0,0,UZK50GI,gun,1,0,0,,1,3,3v1
+8885,2,villa,11,134.2,1:30,90,,Gotti5G,WEIBO,atk,Ace,Fultz,DARKZERO,def,Valkyrie,0,0,AK-12,gun,1,1,0,,5,5,5v5
+8885,2,villa,11,137.5,1:27,87,,J9O,DARKZERO,def,Melusi,Terd5G,WEIBO,atk,Dokkaebi,0,0,MP5,gun,1,0,0,,5,4,4v5
+8885,2,villa,11,148.5,1:16,76,,J9O,DARKZERO,def,Melusi,Gotti5G,WEIBO,atk,Ace,1,0,MP5,gun,1,0,0,,4,4,4v4
+8885,2,villa,11,207.5,0:17,17,,njr,DARKZERO,def,Warden,Reeps965G,WEIBO,atk,Twitch,1,0,SMG-12,gun,1,0,0,,3,4,4v3
+8885,2,villa,11,211.2,0:13,13,,Hoven5G,WEIBO,atk,Gridlock,kyno,DARKZERO,def,Smoke,1,0,F90,gun,1,0,0,,2,4,2v4
+8885,2,villa,11,217.5,0:07,7,,Nuers,DARKZERO,def,Kaid,SpeakEasy5G,WEIBO,atk,IQ,0,0,TCSG12,gun,1,0,0,,2,3,3v2
+8885,2,villa,11,224.0,0:01,1,,njr,DARKZERO,def,Warden,Hoven5G,WEIBO,atk,Gridlock,1,0,MPX,gun,1,0,0,,1,3,3v1

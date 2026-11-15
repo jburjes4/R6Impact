@@ -1,0 +1,135 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+8851,1,nighthaven-labs,1,147.7,1:17,77,,Reeps965G,WEIBO,def,Wamai,SoloMiD,ALL GAMERS,atk,Ying,1,0,MP5K,gun,1,1,0,,5,5,5v5
+8851,1,nighthaven-labs,1,150.7,1:14,74,,Hoven5G,WEIBO,def,Ela,MoonL1ght,ALL GAMERS,atk,Zofia,0,0,SCORPION EVO 3 A1,gun,1,0,0,,4,5,5v4
+8851,1,nighthaven-labs,1,154.0,1:11,71,,SpeakEasy5G,WEIBO,def,Thorn,Ra3LGuN,ALL GAMERS,atk,Grim,1,0,UZK50GI,gun,1,0,1,YaZ,3,5,5v3
+8851,1,nighthaven-labs,1,155.4,1:09,69,,Gotti5G,WEIBO,def,Warden,Mcie,ALL GAMERS,atk,Blackbeard,1,0,SMG-12,gun,1,0,0,,2,5,5v2
+8851,1,nighthaven-labs,1,157.7,1:07,67,,YaZ,ALL GAMERS,atk,Hibana,SpeakEasy5G,WEIBO,def,Thorn,0,0,PMR90A2,gun,1,0,1,Gotti5G,1,5,1v5
+8851,1,nighthaven-labs,1,162.3,1:02,62,,Gotti5G,WEIBO,def,Warden,YaZ,ALL GAMERS,atk,Hibana,1,0,M590A1,gun,1,0,0,,1,4,4v1
+8851,1,nighthaven-labs,2,121.8,1:43,103,,Hoven5G,WEIBO,def,Thorn,MoonL1ght,ALL GAMERS,atk,Zofia,1,0,UZK50GI,gun,1,1,0,,5,5,5v5
+8851,1,nighthaven-labs,2,198.1,0:26,26,,Reeps965G,WEIBO,def,Ela,YaZ,ALL GAMERS,atk,Capitão,1,0,SCORPION EVO 3 A1,gun,1,0,0,,4,5,5v4
+8851,1,nighthaven-labs,2,204.8,0:43,43,43,SoloMiD,ALL GAMERS,atk,Ram,Gotti5G,WEIBO,def,Goyo,0,1,R4-C,gun,1,0,0,,3,5,3v5
+8851,1,nighthaven-labs,2,211.0,0:37,37,37,SpeakEasy5G,WEIBO,def,Valkyrie,Mcie,ALL GAMERS,atk,Hibana,1,1,MPX,gun,1,0,1,SoloMiD,3,4,4v3
+8851,1,nighthaven-labs,2,216.1,0:32,32,32,SpeakEasy5G,WEIBO,def,Valkyrie,Ra3LGuN,ALL GAMERS,atk,Blackbeard,0,1,MPX,gun,1,0,1,SoloMiD,2,4,4v2
+8851,1,nighthaven-labs,2,217.2,0:31,31,31,SoloMiD,ALL GAMERS,atk,Ram,SpeakEasy5G,WEIBO,def,Valkyrie,0,1,R4-C,gun,1,0,0,,1,4,1v4
+8851,1,nighthaven-labs,2,218.2,0:30,30,30,SoloMiD,ALL GAMERS,atk,Ram,Terd5G,WEIBO,def,Wamai,1,1,R4-C,gun,1,0,0,,1,3,1v3
+8851,1,nighthaven-labs,2,229.7,0:18,18,18,SoloMiD,ALL GAMERS,atk,Ram,Reeps965G,WEIBO,def,Ela,0,1,R4-C,gun,1,0,1,Hoven5G,1,2,1v2
+8851,1,nighthaven-labs,2,239.0,0:09,9,9,Hoven5G,WEIBO,def,Thorn,SoloMiD,ALL GAMERS,atk,Ram,0,1,C75 Auto,gun,1,0,0,,1,1,1v1
+8851,1,nighthaven-labs,3,142.9,1:22,82,,Hoven5G,WEIBO,def,Pulse,Mcie,ALL GAMERS,atk,Solid Snake,0,0,NITRO CELL,gadget,1,1,1,YaZ,5,5,5v5
+8851,1,nighthaven-labs,3,143.0,1:21,81,,Hoven5G,WEIBO,def,Pulse,MoonL1ght,ALL GAMERS,atk,Dokkaebi,0,0,NITRO CELL,gadget,1,0,1,YaZ,4,5,5v4
+8851,1,nighthaven-labs,3,150.8,1:14,74,,YaZ,ALL GAMERS,atk,Flores,SoloMiD,ALL GAMERS,atk,Zofia,0,0,VOLCAN CANISTER,gadget,1,0,0,,3,5,
+8851,1,nighthaven-labs,3,152.4,1:12,72,,YaZ,ALL GAMERS,atk,Flores,Hoven5G,WEIBO,def,Pulse,0,0,VOLCAN CANISTER,gadget,1,0,0,,2,5,2v5
+8851,1,nighthaven-labs,3,162.4,1:02,62,,Reeps965G,WEIBO,def,Thorn,Ra3LGuN,ALL GAMERS,atk,Hibana,1,0,UZK50GI,gun,1,0,0,,2,4,4v2
+8851,1,nighthaven-labs,3,164.7,1:00,60,,SpeakEasy5G,WEIBO,def,Mira,YaZ,ALL GAMERS,atk,Flores,0,0,VECTOR .45 ACP,gun,1,0,0,,1,4,4v1
+8851,1,nighthaven-labs,4,137.7,1:27,87,,Reeps965G,WEIBO,def,Wamai,Mcie,ALL GAMERS,atk,Nomad,1,0,MP5K,gun,1,1,0,,5,5,5v5
+8851,1,nighthaven-labs,4,166.1,0:58,58,,Hoven5G,WEIBO,def,Ela,MoonL1ght,ALL GAMERS,atk,Zofia,1,0,SCORPION EVO 3 A1,gun,1,0,0,,4,5,5v4
+8851,1,nighthaven-labs,4,176.4,0:48,48,,SoloMiD,ALL GAMERS,atk,Capitão,Terd5G,WEIBO,def,Bandit,1,0,PARA-308,gun,1,0,1,Gotti5G,3,5,3v5
+8851,1,nighthaven-labs,4,179.1,0:45,45,,Gotti5G,WEIBO,def,Warden,SoloMiD,ALL GAMERS,atk,Capitão,0,0,M590A1,gun,1,0,1,YaZ,3,4,4v3
+8851,1,nighthaven-labs,4,179.9,0:45,45,,YaZ,ALL GAMERS,atk,Flores,Gotti5G,WEIBO,def,Warden,1,0,T-95 LSW,gun,1,0,0,,2,4,2v4
+8851,1,nighthaven-labs,4,183.5,0:41,41,,YaZ,ALL GAMERS,atk,Flores,Reeps965G,WEIBO,def,Wamai,0,0,T-95 LSW,gun,1,0,0,,2,3,2v3
+8851,1,nighthaven-labs,4,193.9,0:31,31,,Hoven5G,WEIBO,def,Ela,YaZ,ALL GAMERS,atk,Flores,0,0,SCORPION EVO 3 A1,gun,1,0,0,,2,2,2v2
+8851,1,nighthaven-labs,4,195.3,0:29,29,,Hoven5G,WEIBO,def,Ela,Ra3LGuN,ALL GAMERS,atk,Montagne,1,0,SCORPION EVO 3 A1,gun,1,0,0,,1,2,2v1
+8851,1,nighthaven-labs,5,132.7,1:32,92,,Ra3LGuN,ALL GAMERS,atk,Striker,Gotti5G,WEIBO,def,Goyo,1,0,M4,gun,1,1,0,,5,5,5v5
+8851,1,nighthaven-labs,5,133.7,1:31,91,,YaZ,ALL GAMERS,atk,Flores,Hoven5G,WEIBO,def,Thorn,1,0,T-95 LSW,gun,1,0,0,,5,4,5v4
+8851,1,nighthaven-labs,5,137.0,1:27,87,,MoonL1ght,ALL GAMERS,atk,Solid Snake,Reeps965G,WEIBO,def,Ela,0,0,F2,gun,1,0,0,,5,3,5v3
+8851,1,nighthaven-labs,5,142.8,1:22,82,,SoloMiD,ALL GAMERS,atk,Buck,Terd5G,WEIBO,def,Noor,0,0,C8-SFW,gun,1,0,0,,5,2,5v2
+8851,1,nighthaven-labs,5,153.1,0:35,35,35,Mcie,ALL GAMERS,atk,Deimos,SpeakEasy5G,WEIBO,def,Smoke,1,1,.44 Vendetta,gun,1,0,0,,5,1,5v1
+8851,1,nighthaven-labs,6,150.0,1:14,74,,Reeps965G,WEIBO,def,Ela,YaZ,ALL GAMERS,atk,Flores,1,0,SCORPION EVO 3 A1,gun,1,1,0,,5,5,5v5
+8851,1,nighthaven-labs,6,160.1,1:04,64,,MoonL1ght,ALL GAMERS,atk,Solid Snake,Reeps965G,WEIBO,def,Ela,1,0,F2,gun,1,0,0,,4,5,4v5
+8851,1,nighthaven-labs,6,163.6,1:01,61,,MoonL1ght,ALL GAMERS,atk,Solid Snake,SpeakEasy5G,WEIBO,def,Castle,1,0,F2,gun,1,0,0,,4,4,4v4
+8851,1,nighthaven-labs,6,166.0,0:59,59,,Hoven5G,WEIBO,def,Thorn,SoloMiD,ALL GAMERS,atk,Buck,0,0,UZK50GI,gun,1,0,0,,4,3,3v4
+8851,1,nighthaven-labs,6,179.6,0:45,45,,Terd5G,WEIBO,def,Mute,Mcie,ALL GAMERS,atk,Deimos,0,0,M590A1,gun,1,0,0,,3,3,3v3
+8851,1,nighthaven-labs,6,190.0,0:35,35,,Ra3LGuN,ALL GAMERS,atk,Striker,Gotti5G,WEIBO,def,Goyo,0,0,M4,gun,1,0,1,Hoven5G,2,3,2v3
+8851,1,nighthaven-labs,6,192.8,0:32,32,,Hoven5G,WEIBO,def,Thorn,Ra3LGuN,ALL GAMERS,atk,Striker,0,0,UZK50GI,gun,1,0,1,MoonL1ght,2,2,2v2
+8851,1,nighthaven-labs,6,195.4,0:29,29,,MoonL1ght,ALL GAMERS,atk,Solid Snake,Terd5G,WEIBO,def,Mute,0,0,F2,gun,1,0,0,,1,2,1v2
+8851,1,nighthaven-labs,6,201.7,0:23,23,,MoonL1ght,ALL GAMERS,atk,Solid Snake,Hoven5G,WEIBO,def,Thorn,1,0,F2,gun,1,0,0,,1,1,1v1
+8851,1,nighthaven-labs,7,118.7,1:46,106,,Terd5G,WEIBO,atk,Solid Snake,YaZ,ALL GAMERS,def,Noor,1,0,F2,gun,1,1,0,,5,5,5v5
+8851,1,nighthaven-labs,7,123.1,1:41,101,,Hoven5G,WEIBO,atk,Ying,MoonL1ght,ALL GAMERS,def,Ela,1,0,SIX12,gun,1,0,0,,5,4,5v4
+8851,1,nighthaven-labs,7,139.2,1:25,85,,Gotti5G,WEIBO,atk,Thermite,Ra3LGuN,ALL GAMERS,def,Goyo,0,0,556XI,gun,1,0,0,,5,3,5v3
+8851,1,nighthaven-labs,7,145.9,1:19,79,,Mcie,ALL GAMERS,def,Thorn,Reeps965G,WEIBO,atk,Dokkaebi,0,0,UZK50GI,gun,1,0,0,,5,2,2v5
+8851,1,nighthaven-labs,7,168.2,0:30,30,30,SoloMiD,ALL GAMERS,def,Pulse,Gotti5G,WEIBO,atk,Thermite,0,1,M1014,gun,1,0,0,,4,2,2v4
+8851,1,nighthaven-labs,7,174.3,0:24,24,24,Mcie,ALL GAMERS,def,Thorn,Hoven5G,WEIBO,atk,Ying,1,1,UZK50GI,gun,1,0,0,,3,2,2v3
+8851,1,nighthaven-labs,7,176.2,0:22,22,22,Mcie,ALL GAMERS,def,Thorn,Terd5G,WEIBO,atk,Solid Snake,0,1,RAZORBLOOM SHELL,gadget,1,0,1,SpeakEasy5G,2,2,2v2
+8851,1,nighthaven-labs,7,184.5,0:14,14,14,SpeakEasy5G,WEIBO,atk,Deimos,Mcie,ALL GAMERS,def,Thorn,0,1,AK-74M,gun,1,0,0,,1,2,1v2
+8851,1,nighthaven-labs,7,184.5,0:14,14,14,SpeakEasy5G,WEIBO,atk,Deimos,SoloMiD,ALL GAMERS,def,Pulse,1,1,AK-74M,gun,1,0,0,,1,1,1v1
+8851,1,nighthaven-labs,8,114.8,1:50,110,,Reeps965G,WEIBO,atk,Striker,MoonL1ght,ALL GAMERS,def,Wamai,0,0,M4,gun,1,1,0,,5,5,5v5
+8851,1,nighthaven-labs,8,120.8,1:44,104,,Ra3LGuN,ALL GAMERS,def,Denari,SpeakEasy5G,WEIBO,atk,Thermite,0,0,SCORPION EVO 3 A1,gun,1,0,0,,5,4,4v5
+8851,1,nighthaven-labs,8,121.9,1:43,103,,YaZ,ALL GAMERS,def,Azami,Gotti5G,WEIBO,atk,Nomad,1,0,9x19VSN,gun,1,0,0,,4,4,4v4
+8851,1,nighthaven-labs,8,132.4,1:32,92,,Reeps965G,WEIBO,atk,Striker,SoloMiD,ALL GAMERS,def,Smoke,1,0,M4,gun,1,0,0,,3,4,3v4
+8851,1,nighthaven-labs,8,134.4,1:30,90,,Reeps965G,WEIBO,atk,Striker,YaZ,ALL GAMERS,def,Azami,1,0,M4,gun,1,0,0,,3,3,3v3
+8851,1,nighthaven-labs,8,137.4,1:27,87,,Mcie,ALL GAMERS,def,Fenrir,Hoven5G,WEIBO,atk,Deimos,0,0,MP7,gun,1,0,0,,3,2,2v3
+8851,1,nighthaven-labs,8,188.5,0:36,36,,Reeps965G,WEIBO,atk,Striker,Mcie,ALL GAMERS,def,Fenrir,0,0,M4,gun,1,0,0,,2,2,2v2
+8851,1,nighthaven-labs,8,200.8,0:43,43,43,Reeps965G,WEIBO,atk,Striker,Ra3LGuN,ALL GAMERS,def,Denari,1,1,M4,gun,1,0,0,,2,1,2v1
+8851,1,nighthaven-labs,9,88.8,2:16,136,,Reeps965G,WEIBO,atk,Striker,YaZ,ALL GAMERS,def,Pulse,1,0,M4,gun,1,1,0,,5,5,5v5
+8851,1,nighthaven-labs,9,124.8,1:40,100,,Ra3LGuN,ALL GAMERS,def,Clash,Gotti5G,WEIBO,atk,Ying,1,0,SPSMG9,gun,1,0,0,,5,4,4v5
+8851,1,nighthaven-labs,9,159.7,1:05,65,,Terd5G,WEIBO,atk,Ram,SoloMiD,ALL GAMERS,def,Warden,1,0,R4-C,gun,1,0,0,,4,4,4v4
+8851,1,nighthaven-labs,9,161.8,1:03,63,,Reeps965G,WEIBO,atk,Striker,MoonL1ght,ALL GAMERS,def,Thorn,0,0,M4,gun,1,0,0,,4,3,4v3
+8851,1,nighthaven-labs,9,176.6,0:48,48,,Ra3LGuN,ALL GAMERS,def,Clash,Hoven5G,WEIBO,atk,Sens,0,0,SPSMG9,gun,1,0,0,,4,2,2v4
+8851,1,nighthaven-labs,9,179.1,0:45,45,,Reeps965G,WEIBO,atk,Striker,Mcie,ALL GAMERS,def,Melusi,0,0,M4,gun,1,0,1,Ra3LGuN,3,2,3v2
+8851,1,nighthaven-labs,9,181.8,0:43,43,,Ra3LGuN,ALL GAMERS,def,Clash,Reeps965G,WEIBO,atk,Striker,1,0,SPSMG9,gun,1,0,0,,3,1,1v3
+8851,1,nighthaven-labs,9,186.5,0:38,38,,Ra3LGuN,ALL GAMERS,def,Clash,Terd5G,WEIBO,atk,Ram,1,0,SPSMG9,gun,1,0,0,,2,1,1v2
+8851,1,nighthaven-labs,9,207.0,0:29,29,29,SpeakEasy5G,WEIBO,atk,Nomad,Ra3LGuN,ALL GAMERS,def,Clash,0,1,ARX200,gun,1,0,0,,1,1,1v1
+8851,2,border,1,120.2,1:44,104,,YaZ,ALL GAMERS,def,Solis,SpeakEasy5G,WEIBO,atk,Striker,1,0,SMG-11,gun,1,1,0,,5,5,5v5
+8851,2,border,1,141.9,1:23,83,,YaZ,ALL GAMERS,def,Solis,Hoven5G,WEIBO,atk,Ace,0,0,SMG-11,gun,1,0,0,,4,5,5v4
+8851,2,border,1,150.4,1:14,74,,Terd5G,WEIBO,atk,Solid Snake,MoonL1ght,ALL GAMERS,def,Mozzie,0,0,F2,gun,1,0,0,,3,5,3v5
+8851,2,border,1,168.1,0:56,56,,Reeps965G,WEIBO,atk,Deimos,YaZ,ALL GAMERS,def,Solis,0,0,.44 Vendetta,gun,1,0,0,,3,4,3v4
+8851,2,border,1,194.7,0:30,30,,SoloMiD,ALL GAMERS,def,Azami,Terd5G,WEIBO,atk,Solid Snake,0,0,9x19VSN,gun,1,0,0,,3,3,3v3
+8851,2,border,1,238.2,0:13,13,13,SoloMiD,ALL GAMERS,def,Azami,Gotti5G,WEIBO,atk,Twitch,0,1,9x19VSN,gun,1,0,1,Reeps965G,2,3,3v2
+8851,2,border,1,239.1,0:12,12,12,Reeps965G,WEIBO,atk,Deimos,Mcie,ALL GAMERS,def,Ela,1,1,AK-74M,gun,1,0,0,,1,3,1v3
+8851,2,border,1,242.5,0:08,8,8,Gotti5G,WEIBO,atk,Twitch,Ra3LGuN,ALL GAMERS,def,Goyo,0,1,417,gun,1,0,0,,1,2,1v2
+8851,2,border,1,242.5,0:08,8,8,Reeps965G,WEIBO,atk,Deimos,SoloMiD,ALL GAMERS,def,Azami,0,1,.44 Vendetta,gun,1,0,0,,1,1,1v1
+8851,2,border,2,124.7,1:40,100,,Terd5G,WEIBO,atk,Solid Snake,MoonL1ght,ALL GAMERS,def,Castle,1,0,F2,gun,1,1,0,,5,5,5v5
+8851,2,border,2,134.2,1:30,90,,YaZ,ALL GAMERS,def,Tubarão,Reeps965G,WEIBO,atk,Deimos,0,0,MPX,gun,1,0,0,,5,4,4v5
+8851,2,border,2,148.8,1:16,76,,Mcie,ALL GAMERS,def,Ela,Hoven5G,WEIBO,atk,Thermite,1,0,SCORPION EVO 3 A1,gun,1,0,0,,4,4,4v4
+8851,2,border,2,169.0,0:55,55,,SpeakEasy5G,WEIBO,atk,Thatcher,YaZ,ALL GAMERS,def,Tubarão,0,0,PMR90A2,gun,1,0,0,,3,4,3v4
+8851,2,border,2,183.6,0:41,41,,Mcie,ALL GAMERS,def,Ela,SpeakEasy5G,WEIBO,atk,Thatcher,0,0,SCORPION EVO 3 A1,gun,1,0,1,Terd5G,3,3,3v3
+8851,2,border,2,184.5,0:40,40,,Terd5G,WEIBO,atk,Solid Snake,Mcie,ALL GAMERS,def,Ela,1,0,F2,gun,1,0,1,Ra3LGuN,2,3,2v3
+8851,2,border,2,185.9,0:39,39,,Ra3LGuN,ALL GAMERS,def,Oryx,Terd5G,WEIBO,atk,Solid Snake,0,0,T-5 SMG,gun,1,0,0,,2,2,2v2
+8851,2,border,2,219.0,0:06,6,,Ra3LGuN,ALL GAMERS,def,Oryx,Gotti5G,WEIBO,atk,Lion,0,0,T-5 SMG,gun,1,0,0,,1,2,2v1
+8851,2,border,3,125.6,1:39,99,,Ra3LGuN,ALL GAMERS,def,Mira,Hoven5G,WEIBO,atk,Ace,1,0,VECTOR .45 ACP,gun,1,1,0,,5,5,5v5
+8851,2,border,3,133.8,1:31,91,,MoonL1ght,ALL GAMERS,def,Goyo,SpeakEasy5G,WEIBO,atk,Blackbeard,0,0,TCSG12,gun,1,0,1,Reeps965G,4,5,5v4
+8851,2,border,3,142.5,1:22,82,,Reeps965G,WEIBO,atk,Dokkaebi,MoonL1ght,ALL GAMERS,def,Goyo,0,0,XK23,gun,1,0,0,,3,5,3v5
+8851,2,border,3,152.9,1:12,72,,Gotti5G,WEIBO,atk,Twitch,Mcie,ALL GAMERS,def,Tubarão,0,0,417,gun,1,0,1,SoloMiD,3,4,3v4
+8851,2,border,3,154.9,1:10,70,,SoloMiD,ALL GAMERS,def,Kaid,Gotti5G,WEIBO,atk,Twitch,0,0,NITRO CELL,gadget,1,0,0,,3,3,3v3
+8851,2,border,3,183.5,0:41,41,,Terd5G,WEIBO,atk,Solid Snake,YaZ,ALL GAMERS,def,Sentry,1,0,F2,gun,1,0,0,,2,3,2v3
+8851,2,border,3,197.1,0:27,27,,Reeps965G,WEIBO,atk,Dokkaebi,SoloMiD,ALL GAMERS,def,Kaid,1,0,XK23,gun,1,0,0,,2,2,2v2
+8851,2,border,3,212.9,0:12,12,,Terd5G,WEIBO,atk,Solid Snake,Ra3LGuN,ALL GAMERS,def,Mira,0,0,F2,gun,1,0,0,,2,1,2v1
+8851,2,border,4,142.5,1:22,82,,Terd5G,WEIBO,atk,Deimos,MoonL1ght,ALL GAMERS,def,Fenrir,1,0,.44 Vendetta,gun,1,1,0,,5,5,5v5
+8851,2,border,4,155.2,1:09,69,,Reeps965G,WEIBO,atk,Dokkaebi,SoloMiD,ALL GAMERS,def,Ela,0,0,XK23,gun,1,0,1,YaZ,5,4,5v4
+8851,2,border,4,163.4,0:39,39,39,Ra3LGuN,ALL GAMERS,def,Warden,Hoven5G,WEIBO,atk,Ace,0,1,M590A1,gun,1,0,0,,5,3,3v5
+8851,2,border,4,164.0,0:38,38,38,YaZ,ALL GAMERS,def,Pulse,Reeps965G,WEIBO,atk,Dokkaebi,0,1,UMP45,gun,1,0,0,,4,3,3v4
+8851,2,border,4,165.6,0:37,37,37,Ra3LGuN,ALL GAMERS,def,Warden,SpeakEasy5G,WEIBO,atk,Twitch,0,1,M590A1,gun,1,0,0,,3,3,3v3
+8851,2,border,4,173.5,0:29,29,29,YaZ,ALL GAMERS,def,Pulse,Terd5G,WEIBO,atk,Deimos,1,1,UMP45,gun,1,0,0,,2,3,3v2
+8851,2,border,4,174.3,0:28,28,28,Mcie,ALL GAMERS,def,Solis,Gotti5G,WEIBO,atk,Lion,0,1,SMG-11,gun,1,0,0,,1,3,3v1
+8851,2,border,5,162.8,1:02,62,,Gotti5G,WEIBO,atk,Ram,Mcie,ALL GAMERS,def,Solis,0,0,R4-C,gun,1,1,0,,5,5,5v5
+8851,2,border,5,163.9,1:01,61,,MoonL1ght,ALL GAMERS,def,Valkyrie,Hoven5G,WEIBO,atk,Ace,1,0,MPX,gun,1,0,0,,5,4,4v5
+8851,2,border,5,168.7,0:56,56,,Reeps965G,WEIBO,atk,IQ,YaZ,ALL GAMERS,def,Mute,1,0,552 COMMANDO,gun,1,0,0,,4,4,4v4
+8851,2,border,5,175.0,0:49,49,,Terd5G,WEIBO,atk,Deimos,MoonL1ght,ALL GAMERS,def,Valkyrie,0,0,.44 Vendetta,gun,1,0,0,,4,3,4v3
+8851,2,border,5,198.4,0:26,26,,Terd5G,WEIBO,atk,Deimos,SoloMiD,ALL GAMERS,def,Kaid,0,0,.44 Vendetta,gun,1,0,0,,4,2,4v2
+8851,2,border,5,203.9,0:21,21,,Gotti5G,WEIBO,atk,Ram,Ra3LGuN,ALL GAMERS,def,Smoke,0,0,R4-C,gun,1,0,0,,4,1,4v1
+8851,2,border,6,100.0,2:04,124,,Reeps965G,WEIBO,atk,Dokkaebi,YaZ,ALL GAMERS,def,Tubarão,1,0,XK23,gun,1,1,0,,5,5,5v5
+8851,2,border,6,163.2,1:01,61,,Reeps965G,WEIBO,atk,Dokkaebi,SoloMiD,ALL GAMERS,def,Bandit,0,0,XK23,gun,1,0,0,,5,4,5v4
+8851,2,border,6,172.5,0:52,52,,Mcie,ALL GAMERS,def,Ela,SpeakEasy5G,WEIBO,atk,Thatcher,1,0,SCORPION EVO 3 A1,gun,1,0,1,Hoven5G,5,3,3v5
+8851,2,border,6,174.1,0:50,50,,Hoven5G,WEIBO,atk,Thermite,Mcie,ALL GAMERS,def,Ela,0,0,556XI,gun,1,0,0,,4,3,4v3
+8851,2,border,6,181.7,0:43,43,,Gotti5G,WEIBO,atk,Twitch,Ra3LGuN,ALL GAMERS,def,Oryx,1,0,417,gun,1,0,1,MoonL1ght,4,2,4v2
+8851,2,border,6,183.9,0:41,41,,MoonL1ght,ALL GAMERS,def,Castle,Gotti5G,WEIBO,atk,Twitch,0,0,UMP45,gun,1,0,1,Reeps965G,4,1,1v4
+8851,2,border,6,189.3,0:35,35,,Reeps965G,WEIBO,atk,Dokkaebi,MoonL1ght,ALL GAMERS,def,Castle,0,0,C75 Auto,gun,1,0,0,,3,1,3v1
+8851,2,border,7,98.8,2:06,126,,Ra3LGuN,ALL GAMERS,atk,Solid Snake,SpeakEasy5G,WEIBO,def,Goyo,1,0,F2,gun,1,1,0,,5,5,5v5
+8851,2,border,7,116.5,1:48,108,,Terd5G,WEIBO,def,Mute,Ra3LGuN,ALL GAMERS,atk,Solid Snake,1,0,SMG-11,gun,1,0,0,,5,4,4v5
+8851,2,border,7,149.7,1:15,75,,Hoven5G,WEIBO,def,Ela,SoloMiD,ALL GAMERS,atk,Zofia,1,0,SCORPION EVO 3 A1,gun,1,0,0,,4,4,4v4
+8851,2,border,7,152.5,1:12,72,,Gotti5G,WEIBO,def,Warden,MoonL1ght,ALL GAMERS,atk,Dokkaebi,1,0,SMG-12,gun,1,0,0,,3,4,4v3
+8851,2,border,7,153.5,1:11,71,,Hoven5G,WEIBO,def,Ela,YaZ,ALL GAMERS,atk,Nomad,0,0,RG15,gun,1,0,0,,2,4,4v2
+8851,2,border,7,154.2,1:10,70,,Mcie,ALL GAMERS,atk,Deimos,Reeps965G,WEIBO,def,Thorn,0,0,.44 Vendetta,gun,1,0,0,,1,4,1v4
+8851,2,border,7,164.8,1:00,60,,Terd5G,WEIBO,def,Mute,Mcie,ALL GAMERS,atk,Deimos,0,0,SMG-11,gun,1,0,0,,1,3,3v1
+8851,2,border,8,119.9,1:45,105,,Terd5G,WEIBO,def,Solis,Ra3LGuN,ALL GAMERS,atk,Capitão,1,0,P90,gun,1,1,0,,5,5,5v5
+8851,2,border,8,147.1,1:17,77,,Reeps965G,WEIBO,def,Mute,MoonL1ght,ALL GAMERS,atk,Solid Snake,1,0,SMG-11,gun,1,0,0,,4,5,5v4
+8851,2,border,8,156.8,1:08,68,,SoloMiD,ALL GAMERS,atk,IQ,Gotti5G,WEIBO,def,Kaid,0,0,552 COMMANDO,gun,1,0,0,,3,5,3v5
+8851,2,border,8,198.8,0:26,26,,Reeps965G,WEIBO,def,Mute,SoloMiD,ALL GAMERS,atk,IQ,0,0,M590A1,gun,1,0,1,Mcie,3,4,4v3
+8851,2,border,8,199.8,0:25,25,,Mcie,ALL GAMERS,atk,Ace,Reeps965G,WEIBO,def,Mute,0,0,AK-12,gun,1,0,1,SpeakEasy5G,2,4,2v4
+8851,2,border,8,201.7,0:23,23,,SpeakEasy5G,WEIBO,def,Smoke,Mcie,ALL GAMERS,atk,Ace,1,0,SMG-11,gun,1,0,0,,2,3,3v2
+8851,2,border,8,205.5,0:19,19,,Hoven5G,WEIBO,def,Valkyrie,YaZ,ALL GAMERS,atk,Nomad,0,0,MPX,gun,1,0,0,,1,3,3v1
+8851,2,border,9,76.5,2:28,148,,SpeakEasy5G,WEIBO,def,Sentry,Ra3LGuN,ALL GAMERS,atk,Ace,0,0,NITRO CELL,gadget,1,1,0,,5,5,5v5
+8851,2,border,9,99.5,2:05,125,,SpeakEasy5G,WEIBO,def,Sentry,MoonL1ght,ALL GAMERS,atk,Solid Snake,0,0,TCSG12,gun,1,0,0,,4,5,5v4
+8851,2,border,9,103.1,2:01,121,,SpeakEasy5G,WEIBO,def,Sentry,SoloMiD,ALL GAMERS,atk,Buck,0,0,SUPER SHORTY,gun,1,0,1,Mcie,3,5,5v3
+8851,2,border,9,112.7,1:52,112,,Mcie,ALL GAMERS,atk,Hibana,SpeakEasy5G,WEIBO,def,Sentry,1,0,PMR90A2,gun,1,0,0,,2,5,2v5
+8851,2,border,9,132.3,1:32,92,,Reeps965G,WEIBO,def,Mute,Mcie,ALL GAMERS,atk,Hibana,1,0,SMG-11,gun,1,0,0,,2,4,4v2
+8851,2,border,9,149.8,1:15,75,,Reeps965G,WEIBO,def,Mute,YaZ,ALL GAMERS,atk,Nomad,0,0,SMG-11,gun,1,0,0,,1,4,4v1

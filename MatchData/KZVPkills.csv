@@ -1,0 +1,63 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+8843,1,lair,1,133.1,1:31,91,,KzB,KINGZERO,def,Bandit,p4sh4,VIRTUS PRO,atk,Grim,1,0,MP7,gun,1,1,0,,5,5,5v5
+8843,1,lair,1,135.1,1:29,89,,Nayqo,VIRTUS PRO,atk,Deimos,Fiber,KINGZERO,def,Smoke,0,0,M590A1,gun,1,0,0,,4,5,4v5
+8843,1,lair,1,148.3,1:16,76,,KzB,KINGZERO,def,Bandit,RORICK,VIRTUS PRO,atk,Capitão,1,0,MP7,gun,1,0,0,,4,4,4v4
+8843,1,lair,1,191.4,0:33,33,,SkyZs,VIRTUS PRO,atk,Ace,MomoRiNs,KINGZERO,def,Azami,0,0,AK-12,gun,1,0,0,,3,4,3v4
+8843,1,lair,1,192.7,0:32,32,,Nayqo,VIRTUS PRO,atk,Deimos,KzB,KINGZERO,def,Bandit,0,0,.44 Vendetta,gun,1,0,0,,3,3,3v3
+8843,1,lair,1,198.1,0:26,26,,dan-_-,VIRTUS PRO,atk,Kali,Sunset,KINGZERO,def,Tachanka,0,0,CSRX300,gun,1,0,1,lian,3,2,3v2
+8843,1,lair,1,198.9,0:26,26,,lian,KINGZERO,def,Mira,dan-_-,VIRTUS PRO,atk,Kali,1,0,VECTOR .45 ACP,gun,1,0,0,,3,1,1v3
+8843,1,lair,1,227.9,0:33,33,33,SkyZs,VIRTUS PRO,atk,Ace,lian,KINGZERO,def,Mira,1,1,AK-12,gun,1,0,0,,2,1,2v1
+8843,1,lair,2,180.2,0:44,44,,KzB,KINGZERO,def,Valkyrie,dan-_-,VIRTUS PRO,atk,Sledge,1,0,MPX,gun,1,1,1,Nayqo,5,5,5v5
+8843,1,lair,2,187.7,0:37,37,,Nayqo,VIRTUS PRO,atk,Montagne,KzB,KINGZERO,def,Valkyrie,0,0,P9,gun,1,0,0,,4,5,4v5
+8843,1,lair,2,218.5,0:06,6,,Fiber,KINGZERO,def,Smoke,p4sh4,VIRTUS PRO,atk,Ram,1,0,SMG-11,gun,1,0,1,RORICK,4,4,4v4
+8843,1,lair,2,220.3,0:04,4,,RORICK,VIRTUS PRO,atk,Nomad,lian,KINGZERO,def,Ela,0,0,AK-74M,gun,1,0,0,,3,4,3v4
+8843,1,lair,2,220.6,0:04,4,,SkyZs,VIRTUS PRO,atk,Capitão,MomoRiNs,KINGZERO,def,Goyo,1,0,PARA-308,gun,1,0,0,,3,3,3v3
+8843,1,lair,2,223.1,0:01,1,,Sunset,KINGZERO,def,Tachanka,Nayqo,VIRTUS PRO,atk,Montagne,0,0,DP28,gun,1,0,1,RORICK,3,2,2v3
+8843,1,lair,2,224.0,0:00,0,,RORICK,VIRTUS PRO,atk,Nomad,Sunset,KINGZERO,def,Tachanka,0,0,AK-74M,gun,1,0,0,,2,2,2v2
+8843,1,lair,2,224.8,0:00,0,,RORICK,VIRTUS PRO,atk,Nomad,Fiber,KINGZERO,def,Smoke,0,0,AK-74M,gun,1,0,0,,2,1,2v1
+8843,1,lair,3,128.3,1:36,96,,Nayqo,VIRTUS PRO,atk,Deimos,lian,KINGZERO,def,Bandit,0,0,.44 Vendetta,gun,1,1,0,,5,5,5v5
+8843,1,lair,3,161.8,1:03,63,,Fiber,KINGZERO,def,Pulse,p4sh4,VIRTUS PRO,atk,Grim,0,0,M1014,gun,1,0,1,SkyZs,5,4,4v5
+8843,1,lair,3,164.3,1:00,60,,Sunset,KINGZERO,def,Solis,Nayqo,VIRTUS PRO,atk,Deimos,0,0,ITA12L,gun,1,0,0,,4,4,4v4
+8843,1,lair,3,170.6,0:54,54,,Sunset,KINGZERO,def,Solis,dan-_-,VIRTUS PRO,atk,Kali,0,0,ITA12L,gun,1,0,0,,3,4,4v3
+8843,1,lair,3,171.2,0:53,53,,SkyZs,VIRTUS PRO,atk,Striker,Fiber,KINGZERO,def,Pulse,0,0,M4,gun,1,0,0,,2,4,2v4
+8843,1,lair,3,189.3,0:35,35,,RORICK,VIRTUS PRO,atk,Glaz,MomoRiNs,KINGZERO,def,Smoke,0,0,OTs-03,gun,1,0,0,,2,3,2v3
+8843,1,lair,3,212.4,0:12,12,,KzB,KINGZERO,def,Clash,SkyZs,VIRTUS PRO,atk,Striker,1,0,SPSMG9,gun,1,0,1,RORICK,2,2,2v2
+8843,1,lair,3,221.4,0:03,3,,RORICK,VIRTUS PRO,atk,Glaz,KzB,KINGZERO,def,Clash,0,0,OTs-03,gun,1,0,1,Sunset,1,2,1v2
+8843,1,lair,3,230.7,0:44,44,44,Sunset,KINGZERO,def,Solis,RORICK,VIRTUS PRO,atk,Glaz,0,1,SMG-11,gun,1,0,0,,1,1,1v1
+8843,1,lair,4,183.1,0:41,41,,KzB,KINGZERO,def,Solis,SkyZs,VIRTUS PRO,atk,Ace,1,0,P90,gun,1,1,0,,5,5,5v5
+8843,1,lair,4,189.3,0:35,35,,lian,KINGZERO,def,Mira,p4sh4,VIRTUS PRO,atk,Buck,1,0,VECTOR .45 ACP,gun,1,0,1,dan-_-,4,5,5v4
+8843,1,lair,4,196.6,0:28,28,,dan-_-,VIRTUS PRO,atk,Deimos,lian,KINGZERO,def,Mira,0,0,.44 Vendetta,gun,1,0,0,,3,5,3v5
+8843,1,lair,4,206.4,0:18,18,,dan-_-,VIRTUS PRO,atk,Deimos,Fiber,KINGZERO,def,Smoke,0,0,.44 Vendetta,gun,1,0,0,,3,4,3v4
+8843,1,lair,4,217.0,0:33,33,33,Sunset,KINGZERO,def,Tachanka,Nayqo,VIRTUS PRO,atk,Glaz,0,1,,unknown,0,0,0,,3,3,3v3
+8843,1,lair,4,219.0,0:31,31,31,RORICK,VIRTUS PRO,atk,Nomad,MomoRiNs,KINGZERO,def,Azami,1,1,AK-74M,gun,1,0,0,,2,3,2v3
+8843,1,lair,4,228.0,0:22,22,22,RORICK,VIRTUS PRO,atk,Nomad,KzB,KINGZERO,def,Solis,0,1,AK-74M,gun,1,0,0,,2,2,2v2
+8843,1,lair,4,237.0,0:13,13,13,RORICK,VIRTUS PRO,atk,Nomad,Sunset,KINGZERO,def,Tachanka,0,1,PRB92,gun,1,0,0,,2,1,2v1
+8843,1,lair,5,123.7,1:41,101,,Sunset,KINGZERO,def,Fenrir,Nayqo,VIRTUS PRO,atk,Solid Snake,0,0,MP7,gun,1,1,1,dan-_-,5,5,5v5
+8843,1,lair,5,124.1,1:40,100,,Fiber,KINGZERO,def,Skopós,RORICK,VIRTUS PRO,atk,Capitão,1,0,PCX-33,gun,1,0,0,,4,5,5v4
+8843,1,lair,5,124.2,1:40,100,,dan-_-,VIRTUS PRO,atk,Gridlock,Sunset,KINGZERO,def,Fenrir,0,0,F90,gun,1,0,0,,3,5,3v5
+8843,1,lair,5,158.2,1:06,66,,MomoRiNs,KINGZERO,def,Azami,SkyZs,VIRTUS PRO,atk,Twitch,0,0,9x19VSN,gun,1,0,0,,3,4,4v3
+8843,1,lair,5,167.0,0:31,31,31,dan-_-,VIRTUS PRO,atk,Gridlock,KzB,KINGZERO,def,Goyo,0,1,F90,gun,1,0,0,,2,4,2v4
+8843,1,lair,5,172.0,0:26,26,26,p4sh4,VIRTUS PRO,atk,Nomad,MomoRiNs,KINGZERO,def,Azami,0,1,AK-74M,gun,1,0,0,,2,3,2v3
+8843,1,lair,5,176.0,0:22,22,22,p4sh4,VIRTUS PRO,atk,Nomad,lian,KINGZERO,def,Mute,0,1,AK-74M,gun,1,0,0,,2,2,2v2
+8843,1,lair,5,181.0,0:17,17,17,dan-_-,VIRTUS PRO,atk,Gridlock,Fiber,KINGZERO,def,Skopós,1,1,F90,gun,1,0,0,,2,1,2v1
+8843,1,lair,6,153.4,1:11,71,,KzB,KINGZERO,def,Goyo,Nayqo,VIRTUS PRO,atk,Glaz,1,0,VECTOR .45 ACP,gun,1,1,0,,5,5,5v5
+8843,1,lair,6,213.7,0:40,40,40,p4sh4,VIRTUS PRO,atk,Buck,KzB,KINGZERO,def,Goyo,1,1,C8-SFW,gun,1,0,0,,4,5,4v5
+8843,1,lair,6,215.4,0:38,38,38,SkyZs,VIRTUS PRO,atk,Thermite,lian,KINGZERO,def,Mira,0,1,556XI,gun,1,0,0,,4,4,4v4
+8843,1,lair,6,217.4,0:36,36,36,RORICK,VIRTUS PRO,atk,Nomad,Sunset,KINGZERO,def,Tachanka,1,1,AK-74M,gun,1,0,0,,4,3,4v3
+8843,1,lair,6,219.1,0:35,35,35,RORICK,VIRTUS PRO,atk,Nomad,MomoRiNs,KINGZERO,def,Azami,1,1,AK-74M,gun,1,0,0,,4,2,4v2
+8843,1,lair,6,219.3,0:34,34,34,SkyZs,VIRTUS PRO,atk,Thermite,Fiber,KINGZERO,def,Smoke,0,1,556XI,gun,1,0,0,,4,1,4v1
+8843,1,lair,7,175.3,0:49,49,,p4sh4,VIRTUS PRO,def,Ela,lian,KINGZERO,atk,Ace,1,0,SCORPION EVO 3 A1,gun,1,1,0,,5,5,5v5
+8843,1,lair,7,186.6,0:38,38,,RORICK,VIRTUS PRO,def,Azami,MomoRiNs,KINGZERO,atk,Blackbeard,1,0,9x19VSN,gun,1,0,0,,4,5,5v4
+8843,1,lair,7,189.5,0:35,35,,Nayqo,VIRTUS PRO,def,Tachanka,Fiber,KINGZERO,atk,Solid Snake,1,0,DP28,gun,1,0,0,,3,5,5v3
+8843,1,lair,7,197.8,0:27,27,,KzB,KINGZERO,atk,Buck,dan-_-,VIRTUS PRO,def,Wamai,0,0,C8-SFW,gun,1,0,0,,2,5,2v5
+8843,1,lair,7,213.1,0:11,11,,Sunset,KINGZERO,atk,Flores,SkyZs,VIRTUS PRO,def,Warden,1,0,AR33,gun,1,0,1,Nayqo,2,4,2v4
+8843,1,lair,7,215.0,0:09,9,,KzB,KINGZERO,atk,Buck,RORICK,VIRTUS PRO,def,Azami,1,0,C8-SFW,gun,1,0,1,Nayqo,2,3,2v3
+8843,1,lair,7,218.2,0:06,6,,Sunset,KINGZERO,atk,Flores,p4sh4,VIRTUS PRO,def,Ela,0,0,AR33,gun,1,0,1,Nayqo,2,2,2v2
+8843,1,lair,7,218.9,0:06,6,,Nayqo,VIRTUS PRO,def,Tachanka,Sunset,KINGZERO,atk,Flores,0,0,DP28,gun,1,0,0,,2,1,1v2
+8843,1,lair,7,220.2,0:04,4,,Nayqo,VIRTUS PRO,def,Tachanka,KzB,KINGZERO,atk,Buck,0,0,DP28,gun,1,0,0,,1,1,1v1
+8843,1,lair,8,158.4,1:06,66,,Sunset,KINGZERO,atk,Ace,dan-_-,VIRTUS PRO,def,Azami,1,0,AK-12,gun,1,1,0,,5,5,5v5
+8843,1,lair,8,169.5,0:55,55,,KzB,KINGZERO,atk,Solid Snake,RORICK,VIRTUS PRO,def,Wamai,0,0,F2,gun,1,0,0,,5,4,5v4
+8843,1,lair,8,203.4,0:21,21,,SkyZs,VIRTUS PRO,def,Goyo,MomoRiNs,KINGZERO,atk,Blitz,0,0,TCSG12,gun,1,0,0,,5,3,3v5
+8843,1,lair,8,205.3,0:19,19,,Nayqo,VIRTUS PRO,def,Ela,Sunset,KINGZERO,atk,Ace,1,0,SCORPION EVO 3 A1,gun,1,0,0,,4,3,3v4
+8843,1,lair,8,217.8,0:07,7,,SkyZs,VIRTUS PRO,def,Goyo,KzB,KINGZERO,atk,Solid Snake,0,0,TCSG12,gun,1,0,0,,3,3,3v3
+8843,1,lair,8,218.9,0:06,6,,Nayqo,VIRTUS PRO,def,Ela,lian,KINGZERO,atk,Nomad,1,0,SCORPION EVO 3 A1,gun,1,0,0,,2,3,3v2

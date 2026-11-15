@@ -1,0 +1,148 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+8882,1,clubhouse,1,132.3,1:32,92,,Nuers,DARKZERO,def,Ela,BGMan,SHARPER,atk,Capitão,1,0,SCORPION EVO 3 A1,gun,1,1,0,,5,5,5v5
+8882,1,clubhouse,1,150.7,1:14,74,,J9O,DARKZERO,def,Goyo,Kritj,SHARPER,atk,Grim,1,0,TCSG12,gun,1,0,0,,4,5,5v4
+8882,1,clubhouse,1,154.5,1:10,70,,Fultz,DARKZERO,def,Valkyrie,Nay..Pew,SHARPER,atk,Ram,0,0,MPX,gun,1,0,0,,3,5,5v3
+8882,1,clubhouse,1,202.8,0:22,22,,Lycolis,SHARPER,atk,Blackbeard,Fultz,DARKZERO,def,Valkyrie,1,0,MK17 CQB,gun,1,0,1,kyno,2,5,2v5
+8882,1,clubhouse,1,203.9,0:21,21,,Lycolis,SHARPER,atk,Blackbeard,njr,DARKZERO,def,Smoke,0,0,MK17 CQB,gun,1,0,1,kyno,2,4,2v4
+8882,1,clubhouse,1,205.5,0:19,19,,kyno,DARKZERO,def,Mute,Lycolis,SHARPER,atk,Blackbeard,0,0,SMG-11,gun,1,0,0,,2,3,3v2
+8882,1,clubhouse,1,208.5,0:16,16,,kyno,DARKZERO,def,Mute,Peeps,SHARPER,atk,Twitch,0,0,SMG-11,gun,1,0,0,,1,3,3v1
+8882,1,clubhouse,2,119.0,1:45,105,,Nuers,DARKZERO,def,Azami,Lycolis,SHARPER,atk,Blackbeard,1,0,9x19VSN,gun,1,1,1,Kritj,5,5,5v5
+8882,1,clubhouse,2,122.1,1:42,102,,Kritj,SHARPER,atk,Solid Snake,Nuers,DARKZERO,def,Azami,1,0,F2,gun,1,0,0,,4,5,4v5
+8882,1,clubhouse,2,132.3,1:32,92,,Peeps,SHARPER,atk,Grim,njr,DARKZERO,def,Tachanka,0,0,552 COMMANDO,gun,1,0,0,,4,4,4v4
+8882,1,clubhouse,2,132.8,1:32,92,,Nay..Pew,SHARPER,atk,Ying,Fultz,DARKZERO,def,Bandit,1,0,SIX12,gun,1,0,0,,4,3,4v3
+8882,1,clubhouse,2,136.6,1:28,88,,Nay..Pew,SHARPER,atk,Ying,J9O,DARKZERO,def,Jäger,0,0,SIX12,gun,1,0,0,,4,2,4v2
+8882,1,clubhouse,2,145.5,1:19,79,,BGMan,SHARPER,atk,Ace,kyno,DARKZERO,def,Mira,1,0,AK-12,gun,1,0,0,,4,1,4v1
+8882,1,clubhouse,3,86.3,2:18,138,,J9O,DARKZERO,def,Noor,Peeps,SHARPER,atk,Grim,0,0,ALDA 556,gun,1,1,1,Lycolis,5,5,5v5
+8882,1,clubhouse,3,87.6,2:17,137,,Lycolis,SHARPER,atk,Capitão,J9O,DARKZERO,def,Noor,0,0,TACTICAL CROSSBOW,gadget,1,0,0,,4,5,4v5
+8882,1,clubhouse,3,203.3,0:21,21,,BGMan,SHARPER,atk,Ace,njr,DARKZERO,def,Warden,1,0,AK-12,gun,1,0,1,Fultz,4,4,4v4
+8882,1,clubhouse,3,203.7,0:21,21,,Kritj,SHARPER,atk,Kali,kyno,DARKZERO,def,Mira,0,0,SPSMG9,gun,1,0,0,,4,3,4v3
+8882,1,clubhouse,3,210.1,0:14,14,,Fultz,DARKZERO,def,Bandit,BGMan,SHARPER,atk,Ace,1,0,MP7,gun,1,0,1,Lycolis,4,2,2v4
+8882,1,clubhouse,3,212.4,0:12,12,,Lycolis,SHARPER,atk,Capitão,Fultz,DARKZERO,def,Bandit,0,0,PARA-308,gun,1,0,0,,3,2,3v2
+8882,1,clubhouse,3,215.9,0:09,9,,Nay..Pew,SHARPER,atk,Deimos,Nuers,DARKZERO,def,Castle,1,0,.44 Vendetta,gun,1,0,0,,3,1,3v1
+8882,1,clubhouse,4,177.7,0:47,47,,Kritj,SHARPER,atk,Grim,J9O,DARKZERO,def,Jäger,0,0,552 COMMANDO,gun,1,1,0,,5,5,5v5
+8882,1,clubhouse,4,180.2,0:44,44,,Kritj,SHARPER,atk,Grim,njr,DARKZERO,def,Goyo,1,0,552 COMMANDO,gun,1,0,0,,5,4,5v4
+8882,1,clubhouse,4,190.4,0:34,34,,kyno,DARKZERO,def,Denari,Peeps,SHARPER,atk,Ying,1,0,SCORPION EVO 3 A1,gun,1,0,0,,5,3,3v5
+8882,1,clubhouse,4,196.7,0:28,28,,BGMan,SHARPER,atk,Striker,Nuers,DARKZERO,def,Thorn,1,0,M4,gun,1,0,1,kyno,4,3,4v3
+8882,1,clubhouse,4,206.3,0:36,36,36,kyno,DARKZERO,def,Denari,BGMan,SHARPER,atk,Striker,1,1,SCORPION EVO 3 A1,gun,1,0,0,,4,2,2v4
+8882,1,clubhouse,4,214.9,0:27,27,27,Kritj,SHARPER,atk,Grim,Fultz,DARKZERO,def,Clash,1,1,552 COMMANDO,gun,1,0,0,,3,2,3v2
+8882,1,clubhouse,4,218.2,0:24,24,24,Nay..Pew,SHARPER,atk,Ram,kyno,DARKZERO,def,Denari,0,1,R4-C,gun,1,0,0,,3,1,3v1
+8882,1,clubhouse,5,152.9,1:12,72,,Nuers,DARKZERO,def,Azami,Kritj,SHARPER,atk,Solid Snake,0,0,9x19VSN,gun,1,1,0,,5,5,5v5
+8882,1,clubhouse,5,166.1,0:58,58,,Fultz,DARKZERO,def,Warden,Nay..Pew,SHARPER,atk,Ying,0,0,MPX,gun,1,0,0,,4,5,5v4
+8882,1,clubhouse,5,168.2,0:56,56,,kyno,DARKZERO,def,Thorn,BGMan,SHARPER,atk,Maverick,1,0,C75 Auto,gun,1,0,0,,3,5,5v3
+8882,1,clubhouse,5,170.7,0:54,54,,Nuers,DARKZERO,def,Azami,Lycolis,SHARPER,atk,Blackbeard,1,0,9x19VSN,gun,1,0,0,,2,5,5v2
+8882,1,clubhouse,5,176.4,0:48,48,,Nuers,DARKZERO,def,Azami,Peeps,SHARPER,atk,Grim,0,0,9x19VSN,gun,1,0,0,,1,5,5v1
+8882,1,clubhouse,6,178.8,0:46,46,,njr,DARKZERO,def,Tachanka,Lycolis,SHARPER,atk,Montagne,0,0,,unknown,0,1,0,,5,5,5v5
+8882,1,clubhouse,6,185.0,0:39,39,,J9O,DARKZERO,def,Azami,Peeps,SHARPER,atk,Grim,1,0,9x19VSN,gun,1,0,0,,4,5,5v4
+8882,1,clubhouse,6,185.3,0:39,39,,Nuers,DARKZERO,def,Bandit,Kritj,SHARPER,atk,Zofia,1,0,MP7,gun,1,0,0,,3,5,5v3
+8882,1,clubhouse,6,185.8,0:39,39,,Nuers,DARKZERO,def,Bandit,BGMan,SHARPER,atk,Maverick,0,0,MP7,gun,1,0,0,,2,5,5v2
+8882,1,clubhouse,7,131.0,1:33,93,,Peeps,SHARPER,def,Smoke,njr,DARKZERO,atk,Ace,1,0,SMG-11,gun,1,1,0,,5,5,5v5
+8882,1,clubhouse,7,185.7,0:39,39,,Nay..Pew,SHARPER,def,Skopós,kyno,DARKZERO,atk,Blackbeard,1,0,PCX-33,gun,1,0,0,,4,5,5v4
+8882,1,clubhouse,7,186.0,0:38,38,,BGMan,SHARPER,def,Castle,Nuers,DARKZERO,atk,Ash,1,0,UMP45,gun,1,0,0,,3,5,5v3
+8882,1,clubhouse,7,188.8,0:36,36,,Fultz,DARKZERO,atk,Deimos,Lycolis,SHARPER,def,Mute,1,0,AK-74M,gun,1,0,1,Peeps,2,5,2v5
+8882,1,clubhouse,7,194.1,0:30,30,,Peeps,SHARPER,def,Smoke,Fultz,DARKZERO,atk,Deimos,1,0,SMG-11,gun,1,0,0,,2,4,4v2
+8882,1,clubhouse,7,196.0,0:28,28,,J9O,DARKZERO,atk,Grim,Kritj,SHARPER,def,Goyo,0,0,552 COMMANDO,gun,1,0,1,Peeps,1,4,1v4
+8882,1,clubhouse,7,198.6,0:26,26,,J9O,DARKZERO,atk,Grim,BGMan,SHARPER,def,Castle,0,0,552 COMMANDO,gun,1,0,1,Peeps,1,3,1v3
+8882,1,clubhouse,7,198.8,0:26,26,,Peeps,SHARPER,def,Smoke,J9O,DARKZERO,atk,Grim,0,0,SMG-11,gun,1,0,0,,1,2,2v1
+8882,1,clubhouse,8,81.0,2:24,144,,Nay..Pew,SHARPER,def,Wamai,Nuers,DARKZERO,atk,Striker,1,0,MP5K,gun,1,1,0,,5,5,5v5
+8882,1,clubhouse,8,194.5,0:30,30,,njr,DARKZERO,atk,Ace,Nay..Pew,SHARPER,def,Wamai,1,0,AK-12,gun,1,0,0,,4,5,4v5
+8882,1,clubhouse,8,195.9,0:29,29,,Peeps,SHARPER,def,Denari,kyno,DARKZERO,atk,Glaz,0,0,SCORPION EVO 3 A1,gun,1,0,1,njr,4,4,4v4
+8882,1,clubhouse,8,198.2,0:26,26,,njr,DARKZERO,atk,Ace,Lycolis,SHARPER,def,Smoke,1,0,AK-12,gun,1,0,0,,3,4,3v4
+8882,1,clubhouse,8,202.4,0:22,22,,njr,DARKZERO,atk,Ace,Peeps,SHARPER,def,Denari,1,0,AK-12,gun,1,0,0,,3,3,3v3
+8882,1,clubhouse,8,202.6,0:22,22,,BGMan,SHARPER,def,Azami,Fultz,DARKZERO,atk,Zofia,0,0,9x19VSN,gun,1,0,0,,3,2,2v3
+8882,1,clubhouse,8,211.5,0:13,13,,J9O,DARKZERO,atk,Grim,Kritj,SHARPER,def,Tachanka,0,0,552 COMMANDO,gun,1,0,0,,2,2,2v2
+8882,1,clubhouse,8,218.8,0:06,6,,J9O,DARKZERO,atk,Grim,BGMan,SHARPER,def,Azami,0,0,552 COMMANDO,gun,1,0,0,,2,1,2v1
+8882,1,clubhouse,9,125.9,1:39,99,,Kritj,SHARPER,def,Tachanka,kyno,DARKZERO,atk,Ying,1,0,DP28,gun,1,1,0,,5,5,5v5
+8882,1,clubhouse,9,140.4,0:32,32,32,Nuers,DARKZERO,atk,Zofia,Nay..Pew,SHARPER,def,Castle,0,1,M762,gun,1,0,0,,4,5,4v5
+8882,1,clubhouse,9,146.3,0:26,26,26,njr,DARKZERO,atk,Glaz,Lycolis,SHARPER,def,Azami,0,1,OTs-03,gun,1,0,0,,4,4,4v4
+8882,1,clubhouse,9,157.3,0:15,15,15,Fultz,DARKZERO,atk,Maverick,Kritj,SHARPER,def,Tachanka,0,1,Reaper MK2,gun,1,0,1,Peeps,4,3,4v3
+8882,1,clubhouse,9,157.5,0:14,14,14,Peeps,SHARPER,def,Goyo,Fultz,DARKZERO,atk,Maverick,1,1,TCSG12,gun,1,0,1,njr,4,2,2v4
+8882,1,clubhouse,9,158.7,0:13,13,13,Peeps,SHARPER,def,Goyo,J9O,DARKZERO,atk,Rauora,0,1,TCSG12,gun,1,0,1,njr,3,2,2v3
+8882,1,clubhouse,9,163.2,0:09,9,9,Nuers,DARKZERO,atk,Zofia,BGMan,SHARPER,def,Wamai,0,1,M762,gun,1,0,0,,2,2,2v2
+8882,1,clubhouse,9,166.0,0:06,6,6,njr,DARKZERO,atk,Glaz,Peeps,SHARPER,def,Goyo,0,1,OTs-03,gun,1,0,0,,2,1,2v1
+8882,1,clubhouse,10,127.9,1:37,97,,njr,DARKZERO,atk,Ace,Kritj,SHARPER,def,Mute,1,0,AK-12,gun,1,1,0,,5,5,5v5
+8882,1,clubhouse,10,183.8,0:41,41,,Nay..Pew,SHARPER,def,Jäger,njr,DARKZERO,atk,Ace,0,0,416-C CARBINE,gun,1,0,1,Nuers,5,4,4v5
+8882,1,clubhouse,10,184.5,0:40,40,,Nuers,DARKZERO,atk,Sledge,Nay..Pew,SHARPER,def,Jäger,1,0,L85A2,gun,1,0,0,,4,4,4v4
+8882,1,clubhouse,10,185.9,0:39,39,,Peeps,SHARPER,def,Smoke,Fultz,DARKZERO,atk,Ying,1,0,SMG-11,gun,1,0,0,,4,3,3v4
+8882,1,clubhouse,10,191.7,0:33,33,,BGMan,SHARPER,def,Warden,kyno,DARKZERO,atk,Blackbeard,0,0,MPX,gun,1,0,0,,3,3,3v3
+8882,1,clubhouse,10,201.3,0:23,23,,BGMan,SHARPER,def,Warden,J9O,DARKZERO,atk,Grim,1,0,MPX,gun,1,0,0,,2,3,3v2
+8882,1,clubhouse,10,213.8,0:11,11,,Nuers,DARKZERO,atk,Sledge,Peeps,SHARPER,def,Smoke,1,0,L85A2,gun,1,0,1,Lycolis,1,3,1v3
+8882,1,clubhouse,10,220.0,0:05,5,,Lycolis,SHARPER,def,Noor,Nuers,DARKZERO,atk,Sledge,0,0,Bailiff 410,gun,1,0,0,,1,2,2v1
+8882,1,clubhouse,11,109.2,1:55,115,,njr,DARKZERO,atk,Ace,Lycolis,SHARPER,def,Warden,1,0,AK-12,gun,1,1,0,,5,5,5v5
+8882,1,clubhouse,11,134.5,1:30,90,,kyno,DARKZERO,atk,Sens,BGMan,SHARPER,def,Azami,0,0,417,gun,1,0,0,,5,4,5v4
+8882,1,clubhouse,11,153.0,1:12,72,,Nay..Pew,SHARPER,def,Ela,Nuers,DARKZERO,atk,Deimos,1,0,SCORPION EVO 3 A1,gun,1,0,0,,5,3,3v5
+8882,1,clubhouse,11,170.1,0:54,54,,Kritj,SHARPER,def,Tachanka,Fultz,DARKZERO,atk,Grim,0,0,DP28,gun,1,0,0,,4,3,3v4
+8882,1,clubhouse,11,176.7,0:48,48,,J9O,DARKZERO,atk,Buck,Peeps,SHARPER,def,Thorn,1,0,C8-SFW,gun,1,0,0,,3,3,3v3
+8882,1,clubhouse,11,180.9,0:44,44,,njr,DARKZERO,atk,Ace,Nay..Pew,SHARPER,def,Ela,0,0,AK-12,gun,1,0,0,,3,2,3v2
+8882,1,clubhouse,11,183.3,0:41,41,,J9O,DARKZERO,atk,Buck,Kritj,SHARPER,def,Tachanka,0,0,C8-SFW,gun,1,0,0,,3,1,3v1
+8882,1,clubhouse,12,77.9,2:27,147,,kyno,DARKZERO,atk,Blackbeard,Lycolis,SHARPER,def,Azami,1,0,SR-25,gun,1,1,0,,5,5,5v5
+8882,1,clubhouse,12,132.4,1:32,92,,J9O,DARKZERO,atk,Capitão,BGMan,SHARPER,def,Warden,1,0,PARA-308,gun,1,0,0,,5,4,5v4
+8882,1,clubhouse,12,137.6,1:27,87,,Nuers,DARKZERO,atk,Zofia,Nay..Pew,SHARPER,def,Smoke,0,0,M762,gun,1,0,0,,5,3,5v3
+8882,1,clubhouse,12,164.2,1:00,60,,Peeps,SHARPER,def,Goyo,Fultz,DARKZERO,atk,Sens,1,0,TCSG12,gun,1,0,0,,5,2,2v5
+8882,1,clubhouse,12,185.2,0:39,39,,Nuers,DARKZERO,atk,Zofia,Kritj,SHARPER,def,Tachanka,1,0,M762,gun,1,0,0,,4,2,4v2
+8882,1,clubhouse,12,189.4,0:35,35,,Nuers,DARKZERO,atk,Zofia,Peeps,SHARPER,def,Goyo,0,0,VOLCAN CANISTER,gadget,1,0,0,,4,1,4v1
+8882,2,chalet,1,137.8,1:27,87,,kyno,DARKZERO,atk,Ace,Nay..Pew,SHARPER,def,Smoke,1,0,AK-12,gun,1,1,0,,5,5,5v5
+8882,2,chalet,1,145.7,1:19,79,,Kritj,SHARPER,def,Thorn,Fultz,DARKZERO,atk,Twitch,0,0,UZK50GI,gun,1,0,0,,5,4,4v5
+8882,2,chalet,1,153.7,0:38,38,38,J9O,DARKZERO,atk,Sens,BGMan,SHARPER,def,Kaid,0,1,XK23,gun,1,0,0,,4,4,4v4
+8882,2,chalet,1,157.4,0:34,34,34,Peeps,SHARPER,def,Fenrir,kyno,DARKZERO,atk,Ace,1,1,MP7,gun,1,0,0,,4,3,3v4
+8882,2,chalet,1,162.7,0:29,29,29,njr,DARKZERO,atk,Finka,Lycolis,SHARPER,def,Clash,1,1,6P41,gun,1,0,1,Peeps,3,3,3v3
+8882,2,chalet,1,164.1,0:28,28,28,Peeps,SHARPER,def,Fenrir,njr,DARKZERO,atk,Finka,0,1,MP7,gun,1,0,1,J9O,3,2,2v3
+8882,2,chalet,1,171.2,0:20,20,20,J9O,DARKZERO,atk,Sens,Peeps,SHARPER,def,Fenrir,0,1,XK23,gun,1,0,0,,2,2,2v2
+8882,2,chalet,1,179.7,0:12,12,12,J9O,DARKZERO,atk,Sens,Kritj,SHARPER,def,Thorn,0,1,XK23,gun,1,0,0,,2,1,2v1
+8882,2,chalet,2,148.5,1:16,76,,Kritj,SHARPER,def,Ela,kyno,DARKZERO,atk,Blitz,1,0,SCORPION EVO 3 A1,gun,1,1,0,,5,5,5v5
+8882,2,chalet,2,163.6,1:01,61,,J9O,DARKZERO,atk,Zofia,Nay..Pew,SHARPER,def,Smoke,1,0,M762,gun,1,0,0,,4,5,4v5
+8882,2,chalet,2,165.6,0:59,59,,Nuers,DARKZERO,atk,Dokkaebi,Kritj,SHARPER,def,Ela,0,0,XK23,gun,1,0,0,,4,4,4v4
+8882,2,chalet,2,217.0,0:08,8,,Fultz,DARKZERO,atk,Ace,Peeps,SHARPER,def,Goyo,0,0,P9,gun,1,0,0,,4,3,4v3
+8882,2,chalet,2,219.8,0:05,5,,Fultz,DARKZERO,atk,Ace,Lycolis,SHARPER,def,Tachanka,0,0,P9,gun,1,0,0,,4,2,4v2
+8882,2,chalet,2,225.0,0:00,0,,Nuers,DARKZERO,atk,Dokkaebi,BGMan,SHARPER,def,Jäger,0,0,XK23,gun,1,0,0,,4,1,4v1
+8882,2,chalet,3,75.6,2:29,149,,Nuers,DARKZERO,atk,Dokkaebi,BGMan,SHARPER,def,Smoke,0,0,XK23,gun,1,1,0,,5,5,5v5
+8882,2,chalet,3,103.3,2:01,121,,Lycolis,SHARPER,def,Thorn,kyno,DARKZERO,atk,Ying,1,0,C75 Auto,gun,1,0,0,,5,4,4v5
+8882,2,chalet,3,116.1,1:48,108,,Peeps,SHARPER,def,Fenrir,Fultz,DARKZERO,atk,Montagne,1,0,MP7,gun,1,0,1,J9O,4,4,4v4
+8882,2,chalet,3,119.2,1:45,105,,J9O,DARKZERO,atk,Twitch,Peeps,SHARPER,def,Fenrir,1,0,F2,gun,1,0,1,Lycolis,3,4,3v4
+8882,2,chalet,3,120.1,1:44,104,,Lycolis,SHARPER,def,Thorn,J9O,DARKZERO,atk,Twitch,1,0,C75 Auto,gun,1,0,0,,3,3,3v3
+8882,2,chalet,3,187.9,0:37,37,,Nuers,DARKZERO,atk,Dokkaebi,Lycolis,SHARPER,def,Thorn,0,0,XK23,gun,1,0,0,,2,3,2v3
+8882,2,chalet,3,217.6,0:07,7,,Kritj,SHARPER,def,Kaid,Nuers,DARKZERO,atk,Dokkaebi,1,0,TCSG12,gun,1,0,1,njr,2,2,2v2
+8882,2,chalet,3,219.6,0:05,5,,njr,DARKZERO,atk,Capitão,Nay..Pew,SHARPER,def,Mute,1,0,PARA-308,gun,1,0,0,,1,2,1v2
+8882,2,chalet,3,221.5,0:03,3,,njr,DARKZERO,atk,Capitão,Kritj,SHARPER,def,Kaid,0,0,PARA-308,gun,1,0,0,,1,1,1v1
+8882,2,chalet,4,66.4,2:38,158,,njr,DARKZERO,atk,Finka,Lycolis,SHARPER,def,Mira,1,0,6P41,gun,1,1,0,,5,5,5v5
+8882,2,chalet,4,87.9,2:17,137,,Peeps,SHARPER,def,Fenrir,Fultz,DARKZERO,atk,Deimos,1,0,MP7,gun,1,0,0,,5,4,4v5
+8882,2,chalet,4,111.7,1:53,113,,njr,DARKZERO,atk,Finka,Nay..Pew,SHARPER,def,Smoke,1,0,6P41,gun,1,0,0,,4,4,4v4
+8882,2,chalet,4,115.5,1:49,109,,BGMan,SHARPER,def,Kaid,kyno,DARKZERO,atk,Ace,1,0,TCSG12,gun,1,0,1,njr,4,3,3v4
+8882,2,chalet,4,118.8,1:46,106,,J9O,DARKZERO,atk,Sens,Peeps,SHARPER,def,Fenrir,1,0,XK23,gun,1,0,0,,3,3,3v3
+8882,2,chalet,4,123.6,1:41,101,,njr,DARKZERO,atk,Finka,BGMan,SHARPER,def,Kaid,1,0,6P41,gun,1,0,0,,3,2,3v2
+8882,2,chalet,4,142.2,1:22,82,,J9O,DARKZERO,atk,Sens,Kritj,SHARPER,def,Solis,0,0,XK23,gun,1,0,0,,3,1,3v1
+8882,2,chalet,5,82.5,2:22,142,,kyno,DARKZERO,atk,Blitz,Lycolis,SHARPER,def,Tachanka,1,0,P12,gun,1,1,0,,5,5,5v5
+8882,2,chalet,5,84.9,2:20,140,,J9O,DARKZERO,atk,Striker,BGMan,SHARPER,def,Jäger,1,0,M4,gun,1,0,1,Kritj,5,4,5v4
+8882,2,chalet,5,86.5,2:18,138,,Kritj,SHARPER,def,Ela,J9O,DARKZERO,atk,Striker,1,0,SCORPION EVO 3 A1,gun,1,0,1,kyno,5,3,3v5
+8882,2,chalet,5,89.0,2:16,136,,Peeps,SHARPER,def,Goyo,Nuers,DARKZERO,atk,Deimos,1,0,VECTOR .45 ACP,gun,1,0,0,,4,3,3v4
+8882,2,chalet,5,89.2,2:15,135,,kyno,DARKZERO,atk,Blitz,Kritj,SHARPER,def,Ela,0,0,P12,gun,1,0,0,,3,3,3v3
+8882,2,chalet,5,107.3,1:57,117,,Nay..Pew,SHARPER,def,Sentry,njr,DARKZERO,atk,Zofia,0,0,TCSG12,gun,1,0,0,,3,2,2v3
+8882,2,chalet,5,108.7,1:56,116,,kyno,DARKZERO,atk,Blitz,Peeps,SHARPER,def,Goyo,0,0,P12,gun,1,0,0,,2,2,2v2
+8882,2,chalet,5,130.8,0:37,37,37,kyno,DARKZERO,atk,Blitz,Nay..Pew,SHARPER,def,Sentry,1,1,P12,gun,1,0,0,,2,1,2v1
+8882,2,chalet,6,102.4,2:02,122,,kyno,DARKZERO,atk,Blitz,Peeps,SHARPER,def,Fenrir,1,0,P12,gun,1,1,1,BGMan,5,5,5v5
+8882,2,chalet,6,103.5,2:01,121,,BGMan,SHARPER,def,Smoke,kyno,DARKZERO,atk,Blitz,1,0,SMG-11,gun,1,0,0,,5,4,4v5
+8882,2,chalet,6,107.8,1:57,117,,BGMan,SHARPER,def,Smoke,Fultz,DARKZERO,atk,Ash,1,0,SMG-11,gun,1,0,0,,4,4,4v4
+8882,2,chalet,6,109.5,1:55,115,,Nay..Pew,SHARPER,def,Mute,J9O,DARKZERO,atk,Zofia,1,0,SMG-11,gun,1,0,0,,3,4,4v3
+8882,2,chalet,6,179.2,0:45,45,,Nay..Pew,SHARPER,def,Mute,Nuers,DARKZERO,atk,Grim,1,0,SMG-11,gun,1,0,0,,2,4,4v2
+8882,2,chalet,7,91.9,2:13,133,,njr,DARKZERO,def,Ela,Kritj,SHARPER,atk,Deimos,0,0,SCORPION EVO 3 A1,gun,1,1,0,,5,5,5v5
+8882,2,chalet,7,97.5,2:07,127,,Nuers,DARKZERO,def,Sentry,Peeps,SHARPER,atk,Ash,0,0,SUPER SHORTY,gun,1,0,0,,4,5,5v4
+8882,2,chalet,7,103.5,2:01,121,,Nay..Pew,SHARPER,atk,Lion,J9O,DARKZERO,def,Thorn,0,0,417,gun,1,0,0,,3,5,3v5
+8882,2,chalet,7,104.7,2:00,120,,Nay..Pew,SHARPER,atk,Lion,Fultz,DARKZERO,def,Pulse,0,0,417,gun,1,0,0,,3,4,3v4
+8882,2,chalet,7,107.7,1:57,117,,Nuers,DARKZERO,def,Sentry,Lycolis,SHARPER,atk,Montagne,0,0,TCSG12,gun,1,0,0,,3,3,3v3
+8882,2,chalet,7,116.8,1:48,108,,Nuers,DARKZERO,def,Sentry,Nay..Pew,SHARPER,atk,Lion,1,0,TCSG12,gun,1,0,0,,2,3,3v2
+8882,2,chalet,7,193.6,0:31,31,,njr,DARKZERO,def,Ela,BGMan,SHARPER,atk,Capitão,0,0,SCORPION EVO 3 A1,gun,1,0,0,,1,3,3v1
+8882,2,chalet,8,81.0,2:24,144,,Lycolis,SHARPER,atk,Ying,Nuers,DARKZERO,def,Sentry,1,0,T-95 LSW,gun,1,1,0,,5,5,5v5
+8882,2,chalet,8,114.6,1:50,110,,BGMan,SHARPER,atk,Ace,J9O,DARKZERO,def,Ela,1,0,AK-12,gun,1,0,0,,5,4,5v4
+8882,2,chalet,8,128.6,1:36,96,,Fultz,DARKZERO,def,Thorn,Peeps,SHARPER,atk,Twitch,1,0,C75 Auto,gun,1,0,0,,5,3,3v5
+8882,2,chalet,8,137.7,1:27,87,,Kritj,SHARPER,atk,Grim,njr,DARKZERO,def,Denari,0,0,552 COMMANDO,gun,1,0,1,Fultz,4,3,4v3
+8882,2,chalet,8,139.4,1:25,85,,Fultz,DARKZERO,def,Thorn,Kritj,SHARPER,atk,Grim,0,0,C75 Auto,gun,1,0,0,,4,2,2v4
+8882,2,chalet,8,150.4,1:14,74,,Nay..Pew,SHARPER,atk,Dokkaebi,Fultz,DARKZERO,def,Thorn,0,0,XK23,gun,1,0,0,,3,2,3v2
+8882,2,chalet,8,154.3,1:10,70,,kyno,DARKZERO,def,Warden,Lycolis,SHARPER,atk,Ying,1,0,SMG-12,gun,1,0,0,,3,1,1v3
+8882,2,chalet,8,208.9,0:16,16,,Nay..Pew,SHARPER,atk,Dokkaebi,kyno,DARKZERO,def,Warden,0,0,XK23,gun,1,0,0,,2,1,2v1
+8882,2,chalet,9,156.7,1:08,68,,kyno,DARKZERO,def,Smoke,Peeps,SHARPER,atk,Capitão,1,0,SMG-11,gun,1,1,1,BGMan,5,5,5v5
+8882,2,chalet,9,161.6,1:03,63,,BGMan,SHARPER,atk,Ace,kyno,DARKZERO,def,Smoke,1,0,AK-12,gun,1,0,0,,4,5,4v5
+8882,2,chalet,9,162.3,1:02,62,,J9O,DARKZERO,def,Jäger,Nay..Pew,SHARPER,atk,Thatcher,1,0,416-C CARBINE,gun,1,0,0,,4,4,4v4
+8882,2,chalet,9,191.3,0:33,33,,Kritj,SHARPER,atk,Grim,Nuers,DARKZERO,def,Denari,0,0,552 COMMANDO,gun,1,0,0,,3,4,3v4
+8882,2,chalet,9,192.1,0:32,32,,BGMan,SHARPER,atk,Ace,njr,DARKZERO,def,Kaid,0,0,AK-12,gun,1,0,0,,3,3,3v3
+8882,2,chalet,9,215.3,0:09,9,,J9O,DARKZERO,def,Jäger,BGMan,SHARPER,atk,Ace,0,0,416-C CARBINE,gun,1,0,1,Kritj,3,2,2v3
+8882,2,chalet,9,218.2,0:06,6,,Kritj,SHARPER,atk,Grim,J9O,DARKZERO,def,Jäger,1,0,552 COMMANDO,gun,1,0,1,Fultz,2,2,2v2
+8882,2,chalet,9,219.8,0:05,5,,Fultz,DARKZERO,def,Thorn,Kritj,SHARPER,atk,Grim,0,0,C75 Auto,gun,1,0,0,,2,1,1v2

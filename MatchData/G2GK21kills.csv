@@ -1,0 +1,148 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+8879,1,lair,1,195.6,0:29,29,,Stompn,G2,atk,Ram,Eupor,GEEKAY,def,Warden,0,0,R4-C,gun,1,1,0,,5,5,5v5
+8879,1,lair,1,196.5,0:28,28,,AsK,GEEKAY,def,Clash,Benjamaster,G2,atk,Dokkaebi,1,0,SPSMG9,gun,1,0,1,DOKIsan,5,4,4v5
+8879,1,lair,1,199.0,0:25,25,,DOKIsan,G2,atk,Capitão,AsK,GEEKAY,def,Clash,0,0,TACTICAL CROSSBOW,gadget,1,0,0,,4,4,4v4
+8879,1,lair,1,205.4,0:41,41,41,Gruby,GEEKAY,def,Jäger,Shaiiko,G2,atk,Grim,0,1,416-C CARBINE,gun,1,0,0,,4,3,3v4
+8879,1,lair,1,221.7,0:25,25,25,Gruby,GEEKAY,def,Jäger,Stompn,G2,atk,Ram,1,1,416-C CARBINE,gun,1,0,1,Alem4o,3,3,3v3
+8879,1,lair,1,226.0,0:20,20,20,Alem4o,G2,atk,Montagne,Gruby,GEEKAY,def,Jäger,0,1,P9,gun,1,0,1,Sarks,2,3,2v3
+8879,1,lair,1,231.4,0:15,15,15,Sarks,GEEKAY,def,Thorn,Alem4o,G2,atk,Montagne,1,1,UZK50GI,gun,1,0,0,,2,2,2v2
+8879,1,lair,1,233.1,0:13,13,13,Yoggah,GEEKAY,def,Goyo,DOKIsan,G2,atk,Capitão,0,1,TCSG12,gun,1,0,0,,1,2,2v1
+8879,1,lair,2,63.8,2:41,161,,Shaiiko,G2,atk,Capitão,Gruby,GEEKAY,def,Azami,1,0,PMR90A2,gun,1,1,0,,5,5,5v5
+8879,1,lair,2,108.0,1:57,117,,Benjamaster,G2,atk,Striker,Sarks,GEEKAY,def,Warden,1,0,M4,gun,1,0,1,Eupor,5,4,5v4
+8879,1,lair,2,110.5,1:54,114,,Eupor,GEEKAY,def,Goyo,Benjamaster,G2,atk,Striker,0,0,TCSG12,gun,1,0,0,,5,3,3v5
+8879,1,lair,2,137.1,1:27,87,,Alem4o,G2,atk,Nomad,Eupor,GEEKAY,def,Goyo,1,0,ARX200,gun,1,0,0,,4,3,4v3
+8879,1,lair,2,145.2,1:19,79,,Yoggah,GEEKAY,def,Mira,Stompn,G2,atk,Grim,1,0,VECTOR .45 ACP,gun,1,0,1,DOKIsan,4,2,2v4
+8879,1,lair,2,148.2,1:16,76,,DOKIsan,G2,atk,Zofia,Yoggah,GEEKAY,def,Mira,1,0,M762,gun,1,0,0,,3,2,3v2
+8879,1,lair,2,152.3,1:12,72,,Shaiiko,G2,atk,Capitão,AsK,GEEKAY,def,Smoke,0,0,PMR90A2,gun,1,0,0,,3,1,3v1
+8879,1,lair,3,79.5,2:25,145,,AsK,GEEKAY,def,Smoke,Shaiiko,G2,atk,Capitão,0,0,M590A1,gun,1,1,0,,5,5,5v5
+8879,1,lair,3,142.3,1:22,82,,AsK,GEEKAY,def,Smoke,DOKIsan,G2,atk,Zofia,1,0,SMG-11,gun,1,0,0,,4,5,5v4
+8879,1,lair,3,144.6,1:20,80,,Stompn,G2,atk,Grim,Eupor,GEEKAY,def,Goyo,1,0,552 COMMANDO,gun,1,0,1,Eupor,3,5,3v5
+8879,1,lair,3,144.6,1:20,80,,Eupor,GEEKAY,def,Goyo,Stompn,G2,atk,Grim,1,0,TCSG12,gun,1,0,0,,3,4,4v3
+8879,1,lair,3,153.2,1:11,71,,AsK,GEEKAY,def,Smoke,Alem4o,G2,atk,Flores,0,0,M590A1,gun,1,0,0,,2,4,4v2
+8879,1,lair,3,154.0,1:11,71,,Sarks,GEEKAY,def,Mira,Benjamaster,G2,atk,Striker,1,0,VECTOR .45 ACP,gun,1,0,0,,1,4,4v1
+8879,1,lair,4,153.0,1:11,71,,Alem4o,G2,atk,Montagne,Sarks,GEEKAY,def,Denari,0,0,P9,gun,1,1,0,,5,5,5v5
+8879,1,lair,4,198.2,0:26,26,,Eupor,GEEKAY,def,Ela,Shaiiko,G2,atk,Hibana,1,0,SCORPION EVO 3 A1,gun,1,0,0,,5,4,4v5
+8879,1,lair,4,202.6,0:22,22,,Gruby,GEEKAY,def,Mute,Benjamaster,G2,atk,Dokkaebi,1,0,SMG-11,gun,1,0,1,DOKIsan,4,4,4v4
+8879,1,lair,4,209.0,0:16,16,,DOKIsan,G2,atk,Sledge,Gruby,GEEKAY,def,Mute,0,0,L85A2,gun,1,0,0,,3,4,3v4
+8879,1,lair,4,209.2,0:15,15,,Alem4o,G2,atk,Montagne,Yoggah,GEEKAY,def,Azami,1,0,P9,gun,1,0,1,AsK,3,3,3v3
+8879,1,lair,4,210.1,0:14,14,,Eupor,GEEKAY,def,Ela,Stompn,G2,atk,Ram,1,0,SCORPION EVO 3 A1,gun,1,0,0,,3,2,2v3
+8879,1,lair,4,213.6,0:11,11,,AsK,GEEKAY,def,Tachanka,Alem4o,G2,atk,Montagne,0,0,BEARING 9,gun,1,0,0,,2,2,2v2
+8879,1,lair,4,225.0,0:00,0,,Eupor,GEEKAY,def,Ela,DOKIsan,G2,atk,Sledge,0,0,SCORPION EVO 3 A1,gun,1,0,0,,1,2,2v1
+8879,1,lair,5,151.4,1:13,73,,Stompn,G2,atk,Sens,AsK,GEEKAY,def,Clash,0,0,SDP 9mm,gun,1,1,0,,5,5,5v5
+8879,1,lair,5,189.3,0:35,35,,Gruby,GEEKAY,def,Goyo,Shaiiko,G2,atk,Nomad,1,0,TCSG12,gun,1,0,0,,5,4,4v5
+8879,1,lair,5,196.3,0:28,28,,Alem4o,G2,atk,Ace,Sarks,GEEKAY,def,Azami,0,0,AK-12,gun,1,0,0,,4,4,4v4
+8879,1,lair,5,214.9,0:40,40,40,Eupor,GEEKAY,def,Thorn,Stompn,G2,atk,Sens,1,1,UZK50GI,gun,1,0,0,,4,3,3v4
+8879,1,lair,5,220.7,0:35,35,35,Benjamaster,G2,atk,Zofia,Gruby,GEEKAY,def,Goyo,1,1,M762,gun,1,0,0,,3,3,3v3
+8879,1,lair,5,221.6,0:34,34,34,Eupor,GEEKAY,def,Thorn,DOKIsan,G2,atk,Montagne,0,1,UZK50GI,gun,1,0,0,,3,2,2v3
+8879,1,lair,5,242.8,0:13,13,13,Benjamaster,G2,atk,Zofia,Yoggah,GEEKAY,def,Smoke,0,1,M762,gun,1,0,0,,2,2,2v2
+8879,1,lair,6,107.5,1:57,117,,Benjamaster,G2,atk,Twitch,AsK,GEEKAY,def,Smoke,1,0,F2,gun,1,1,0,,5,5,5v5
+8879,1,lair,6,124.7,1:40,100,,Stompn,G2,atk,Ace,Gruby,GEEKAY,def,Azami,1,0,AK-12,gun,1,0,0,,5,4,5v4
+8879,1,lair,6,170.1,0:54,54,,Alem4o,G2,atk,Striker,Eupor,GEEKAY,def,Goyo,1,0,M4,gun,1,0,0,,5,3,5v3
+8879,1,lair,6,171.3,0:53,53,,Alem4o,G2,atk,Striker,Yoggah,GEEKAY,def,Tachanka,0,0,M4,gun,1,0,0,,5,2,5v2
+8879,1,lair,6,177.4,0:47,47,,Sarks,GEEKAY,def,Mira,Benjamaster,G2,atk,Twitch,1,0,VECTOR .45 ACP,gun,1,0,1,DOKIsan,5,1,1v5
+8879,1,lair,6,177.7,0:47,47,,DOKIsan,G2,atk,Ying,Sarks,GEEKAY,def,Mira,1,0,Reaper MK2,gun,1,0,0,,4,1,4v1
+8879,1,lair,7,132.3,1:32,92,,Stompn,G2,def,Warden,AsK,GEEKAY,atk,Ying,1,0,SMG-12,gun,1,1,0,,5,5,5v5
+8879,1,lair,7,144.0,1:20,80,,Sarks,GEEKAY,atk,Solid Snake,Alem4o,G2,def,Smoke,0,0,F2,gun,1,0,0,,4,5,4v5
+8879,1,lair,7,146.5,1:18,78,,Shaiiko,G2,def,Azami,Gruby,GEEKAY,atk,Thermite,1,0,9x19VSN,gun,1,0,0,,4,4,4v4
+8879,1,lair,7,149.0,1:15,75,,Shaiiko,G2,def,Azami,Yoggah,GEEKAY,atk,Striker,0,0,9x19VSN,gun,1,0,0,,3,4,4v3
+8879,1,lair,7,153.0,1:12,72,,Shaiiko,G2,def,Azami,Eupor,GEEKAY,atk,Ace,0,0,9x19VSN,gun,1,0,0,,2,4,4v2
+8879,1,lair,7,156.4,1:08,68,,Stompn,G2,def,Warden,Sarks,GEEKAY,atk,Solid Snake,1,0,SMG-12,gun,1,0,0,,1,4,4v1
+8879,1,lair,8,128.4,1:36,96,,Yoggah,GEEKAY,atk,Blackbeard,Alem4o,G2,def,Azami,1,0,MK17 CQB,gun,1,1,0,,5,5,5v5
+8879,1,lair,8,168.8,0:56,56,,Stompn,G2,def,Smoke,Gruby,GEEKAY,atk,Deimos,1,0,SMG-11,gun,1,0,0,,5,4,4v5
+8879,1,lair,8,170.1,0:54,54,,DOKIsan,G2,def,Solis,Yoggah,GEEKAY,atk,Blackbeard,0,0,IMPACT GRENADE,gadget,1,0,0,,4,4,4v4
+8879,1,lair,8,179.9,0:45,45,,DOKIsan,G2,def,Solis,AsK,GEEKAY,atk,Ying,1,0,P90,gun,1,0,1,Eupor,3,4,4v3
+8879,1,lair,8,181.0,0:43,43,,Eupor,GEEKAY,atk,Thatcher,DOKIsan,G2,def,Solis,0,0,L85A2,gun,1,0,1,Benjamaster,2,4,2v4
+8879,1,lair,8,183.6,0:41,41,,Benjamaster,G2,def,Skopós,Sarks,GEEKAY,atk,Capitão,1,0,PCX-33,gun,1,0,0,,2,3,3v2
+8879,1,lair,8,187.9,0:37,37,,Benjamaster,G2,def,Skopós,Eupor,GEEKAY,atk,Thatcher,1,0,PCX-33,gun,1,0,0,,1,3,3v1
+8879,1,lair,9,117.1,1:47,107,,DOKIsan,G2,def,Solis,Eupor,GEEKAY,atk,Solid Snake,1,0,P90,gun,1,1,0,,5,5,5v5
+8879,1,lair,9,146.5,1:18,78,,Benjamaster,G2,def,Wamai,AsK,GEEKAY,atk,Zofia,1,0,MP5K,gun,1,0,0,,4,5,5v4
+8879,1,lair,9,150.9,1:14,74,,Shaiiko,G2,def,Azami,Gruby,GEEKAY,atk,Ace,1,0,9x19VSN,gun,1,0,0,,3,5,5v3
+8879,1,lair,9,157.5,1:07,67,,Sarks,GEEKAY,atk,Ash,DOKIsan,G2,def,Solis,0,0,R4-C,gun,1,0,0,,2,5,2v5
+8879,1,lair,9,187.3,0:37,37,,Shaiiko,G2,def,Azami,Sarks,GEEKAY,atk,Ash,1,0,9x19VSN,gun,1,0,0,,2,4,4v2
+8879,1,lair,9,209.4,0:15,15,,Alem4o,G2,def,Smoke,Yoggah,GEEKAY,atk,Blackbeard,1,0,SMG-11,gun,1,0,0,,1,4,4v1
+8879,1,lair,10,96.5,2:08,128,,Stompn,G2,def,Warden,Gruby,GEEKAY,atk,Deimos,0,0,M590A1,gun,1,1,0,,5,5,5v5
+8879,1,lair,10,99.2,2:05,125,,Stompn,G2,def,Warden,Yoggah,GEEKAY,atk,Gridlock,0,0,SMG-12,gun,1,0,0,,4,5,5v4
+8879,1,lair,10,102.5,2:02,122,,Alem4o,G2,def,Smoke,Sarks,GEEKAY,atk,Solid Snake,1,0,SMG-11,gun,1,0,0,,3,5,5v3
+8879,1,lair,10,107.5,1:57,117,,Stompn,G2,def,Warden,AsK,GEEKAY,atk,Glaz,0,0,SMG-12,gun,1,0,0,,2,5,5v2
+8879,1,lair,10,111.1,1:53,113,,Stompn,G2,def,Warden,Eupor,GEEKAY,atk,Thermite,1,0,SMG-12,gun,1,0,0,,1,5,5v1
+8879,2,clubhouse,1,105.2,1:59,119,,Benjamaster,G2,atk,Sledge,Gruby,GEEKAY,def,Mira,0,0,L85A2,gun,1,1,0,,5,5,5v5
+8879,2,clubhouse,1,191.7,0:33,33,,Benjamaster,G2,atk,Sledge,AsK,GEEKAY,def,Smoke,1,0,L85A2,gun,1,0,0,,5,4,5v4
+8879,2,clubhouse,1,195.8,0:29,29,,Sarks,GEEKAY,def,Wamai,Shaiiko,G2,atk,Lion,0,0,AUG A2,gun,1,0,0,,5,3,3v5
+8879,2,clubhouse,1,196.1,0:28,28,,DOKIsan,G2,atk,Capitão,DOKIsan,G2,atk,Capitão,0,0,,suicide,0,0,0,,4,3,
+8879,2,clubhouse,1,196.1,0:28,28,,DOKIsan,G2,atk,Capitão,DOKIsan,G2,atk,Capitão,0,0,,suicide,0,0,0,,3,3,
+8879,2,clubhouse,1,196.1,0:28,28,,DOKIsan,G2,atk,Capitão,DOKIsan,G2,atk,Capitão,0,0,,suicide,0,0,0,,3,3,
+8879,2,clubhouse,1,196.5,0:28,28,,Stompn,G2,atk,Grim,Eupor,GEEKAY,def,Warden,0,0,552 COMMANDO,gun,1,0,0,,3,3,3v3
+8879,2,clubhouse,1,198.9,0:26,26,,Yoggah,GEEKAY,def,Castle,Alem4o,G2,atk,Ying,0,0,UMP45,gun,1,0,0,,3,2,2v3
+8879,2,clubhouse,1,202.7,0:22,22,,Sarks,GEEKAY,def,Wamai,Benjamaster,G2,atk,Sledge,1,0,AUG A2,gun,1,0,0,,2,2,2v2
+8879,2,clubhouse,1,218.4,0:06,6,,Sarks,GEEKAY,def,Wamai,Stompn,G2,atk,Grim,0,0,AUG A2,gun,1,0,0,,1,2,2v1
+8879,2,clubhouse,2,101.3,2:03,123,,Benjamaster,G2,atk,Solid Snake,AsK,GEEKAY,def,Noor,1,0,F2,gun,1,1,1,Sarks,5,5,5v5
+8879,2,clubhouse,2,102.5,2:02,122,,Sarks,GEEKAY,def,Wamai,Benjamaster,G2,atk,Solid Snake,0,0,AUG A2,gun,1,0,0,,5,4,4v5
+8879,2,clubhouse,2,102.5,2:02,122,,Shaiiko,G2,atk,Capitão,Eupor,GEEKAY,def,Mira,0,0,PMR90A2,gun,1,0,1,Sarks,4,4,4v4
+8879,2,clubhouse,2,103.5,2:01,121,,Sarks,GEEKAY,def,Wamai,Shaiiko,G2,atk,Capitão,0,0,AUG A2,gun,1,0,0,,4,3,3v4
+8879,2,clubhouse,2,124.7,1:40,100,,DOKIsan,G2,atk,Deimos,Sarks,GEEKAY,def,Wamai,0,0,.44 Vendetta,gun,1,0,0,,3,3,3v3
+8879,2,clubhouse,2,131.7,1:33,93,,Stompn,G2,atk,Thermite,Yoggah,GEEKAY,def,Tubarão,1,0,556XI,gun,1,0,1,Gruby,3,2,3v2
+8879,2,clubhouse,2,133.6,1:31,91,,Gruby,GEEKAY,def,Valkyrie,Stompn,G2,atk,Thermite,1,0,MPX,gun,1,0,0,,3,1,1v3
+8879,2,clubhouse,2,152.3,1:12,72,,DOKIsan,G2,atk,Deimos,Gruby,GEEKAY,def,Valkyrie,1,0,.44 Vendetta,gun,1,0,0,,2,1,2v1
+8879,2,clubhouse,3,147.4,1:17,77,,DOKIsan,G2,atk,Glaz,Gruby,GEEKAY,def,Warden,1,0,OTs-03,gun,1,1,0,,5,5,5v5
+8879,2,clubhouse,3,152.6,1:12,72,,Eupor,GEEKAY,def,Mute,Benjamaster,G2,atk,Solid Snake,1,0,SMG-11,gun,1,0,0,,5,4,4v5
+8879,2,clubhouse,3,164.4,1:00,60,,Yoggah,GEEKAY,def,Fenrir,Alem4o,G2,atk,Blackbeard,1,0,MP7,gun,1,0,0,,4,4,4v4
+8879,2,clubhouse,3,178.0,0:46,46,,Stompn,G2,atk,Thermite,AsK,GEEKAY,def,Tachanka,0,0,556XI,gun,1,0,0,,3,4,3v4
+8879,2,clubhouse,3,179.7,0:45,45,,DOKIsan,G2,atk,Glaz,Eupor,GEEKAY,def,Mute,0,0,OTs-03,gun,1,0,0,,3,3,3v3
+8879,2,clubhouse,3,206.6,0:29,29,29,Yoggah,GEEKAY,def,Fenrir,DOKIsan,G2,atk,Glaz,1,1,MP7,gun,1,0,0,,3,2,2v3
+8879,2,clubhouse,3,219.0,0:17,17,17,Stompn,G2,atk,Thermite,Yoggah,GEEKAY,def,Fenrir,1,1,556XI,gun,1,0,0,,2,2,2v2
+8879,2,clubhouse,3,223.8,0:12,12,12,Shaiiko,G2,atk,Capitão,Sarks,GEEKAY,def,Thorn,0,1,PMR90A2,gun,1,0,0,,2,1,2v1
+8879,2,clubhouse,4,112.9,1:52,112,,Sarks,GEEKAY,def,Bandit,Alem4o,G2,atk,Montagne,0,0,MP7,gun,1,1,1,DOKIsan,5,5,5v5
+8879,2,clubhouse,4,116.7,1:48,108,,DOKIsan,G2,atk,Grim,Sarks,GEEKAY,def,Bandit,0,0,552 COMMANDO,gun,1,0,0,,4,5,4v5
+8879,2,clubhouse,4,121.2,1:43,103,,Yoggah,GEEKAY,def,Noor,Benjamaster,G2,atk,Ram,1,0,ALDA 556,gun,1,0,0,,4,4,4v4
+8879,2,clubhouse,4,132.8,1:32,92,,DOKIsan,G2,atk,Grim,Gruby,GEEKAY,def,Wamai,1,0,552 COMMANDO,gun,1,0,0,,3,4,3v4
+8879,2,clubhouse,4,138.0,1:27,87,,AsK,GEEKAY,def,Smoke,Stompn,G2,atk,Striker,0,0,SMG-11,gun,1,0,0,,3,3,3v3
+8879,2,clubhouse,4,143.5,1:21,81,,Eupor,GEEKAY,def,Goyo,DOKIsan,G2,atk,Grim,0,0,IMPACT GRENADE,gadget,1,0,0,,2,3,3v2
+8879,2,clubhouse,4,147.0,1:18,78,,Shaiiko,G2,atk,Deimos,Yoggah,GEEKAY,def,Noor,1,0,AK-74M,gun,1,0,0,,1,3,1v3
+8879,2,clubhouse,4,205.0,0:20,20,,Eupor,GEEKAY,def,Goyo,Shaiiko,G2,atk,Deimos,0,0,TCSG12,gun,1,0,0,,1,2,2v1
+8879,2,clubhouse,5,80.4,2:24,144,,Sarks,GEEKAY,def,Bandit,Shaiiko,G2,atk,Capitão,1,0,MP7,gun,1,1,0,,5,5,5v5
+8879,2,clubhouse,5,88.6,2:16,136,,DOKIsan,G2,atk,Grim,Yoggah,GEEKAY,def,Tubarão,1,0,552 COMMANDO,gun,1,0,1,Sarks,4,5,4v5
+8879,2,clubhouse,5,92.3,2:12,132,,Sarks,GEEKAY,def,Bandit,DOKIsan,G2,atk,Grim,0,0,MP7,gun,1,0,0,,4,4,4v4
+8879,2,clubhouse,5,103.8,2:01,121,,Stompn,G2,atk,Solid Snake,Gruby,GEEKAY,def,Valkyrie,0,0,F2,gun,1,0,0,,3,4,3v4
+8879,2,clubhouse,5,110.7,1:54,114,,Benjamaster,G2,atk,Thermite,AsK,GEEKAY,def,Goyo,1,0,556XI,gun,1,0,0,,3,3,3v3
+8879,2,clubhouse,5,213.8,0:11,11,,Sarks,GEEKAY,def,Bandit,Stompn,G2,atk,Solid Snake,1,0,MP7,gun,1,0,1,Benjamaster,3,2,2v3
+8879,2,clubhouse,5,215.7,0:09,9,,Benjamaster,G2,atk,Thermite,Sarks,GEEKAY,def,Bandit,0,0,556XI,gun,1,0,0,,2,2,2v2
+8879,2,clubhouse,5,217.3,0:07,7,,Alem4o,G2,atk,Deimos,Eupor,GEEKAY,def,Fenrir,0,0,AK-74M,gun,1,0,0,,2,1,2v1
+8879,2,clubhouse,6,144.8,1:20,80,,Stompn,G2,atk,Thermite,Gruby,GEEKAY,def,Wamai,0,0,556XI,gun,1,1,0,,5,5,5v5
+8879,2,clubhouse,6,150.5,1:14,74,,DOKIsan,G2,atk,Deimos,AsK,GEEKAY,def,Clash,0,0,AK-74M,gun,1,0,1,Eupor,5,4,5v4
+8879,2,clubhouse,6,154.7,1:10,70,,DOKIsan,G2,atk,Deimos,Sarks,GEEKAY,def,Melusi,1,0,AK-74M,gun,1,0,1,Eupor,5,3,5v3
+8879,2,clubhouse,6,155.8,1:09,69,,Eupor,GEEKAY,def,Mute,DOKIsan,G2,atk,Deimos,1,0,SMG-11,gun,1,0,1,Shaiiko,5,2,2v5
+8879,2,clubhouse,6,160.4,1:04,64,,Shaiiko,G2,atk,Capitão,Eupor,GEEKAY,def,Mute,0,0,PMR90A2,gun,1,0,0,,4,2,4v2
+8879,2,clubhouse,6,171.1,0:53,53,,Yoggah,GEEKAY,def,Fenrir,Shaiiko,G2,atk,Capitão,1,0,MP7,gun,1,0,0,,4,1,1v4
+8879,2,clubhouse,6,222.2,0:36,36,36,Alem4o,G2,atk,Maverick,Yoggah,GEEKAY,def,Fenrir,1,1,M4,gun,1,0,0,,3,1,3v1
+8879,2,clubhouse,7,104.9,2:00,120,,Alem4o,G2,def,Solis,Eupor,GEEKAY,atk,Grim,1,0,P90,gun,1,1,1,Sarks,5,5,5v5
+8879,2,clubhouse,7,107.8,1:57,117,,Sarks,GEEKAY,atk,Solid Snake,Alem4o,G2,def,Solis,1,0,F2,gun,1,0,0,,4,5,4v5
+8879,2,clubhouse,7,120.7,1:44,104,,Yoggah,GEEKAY,atk,Blackbeard,Benjamaster,G2,def,Mute,0,0,MK17 CQB,gun,1,0,0,,4,4,4v4
+8879,2,clubhouse,7,128.1,1:36,96,,AsK,GEEKAY,atk,Ace,DOKIsan,G2,def,Tachanka,1,0,AK-12,gun,1,0,0,,4,3,4v3
+8879,2,clubhouse,7,163.7,1:01,61,,Shaiiko,G2,def,Azami,Gruby,GEEKAY,atk,Lion,1,0,9x19VSN,gun,1,0,0,,4,2,2v4
+8879,2,clubhouse,7,174.5,0:50,50,,AsK,GEEKAY,atk,Ace,Stompn,G2,def,Jäger,0,0,AK-12,gun,1,0,1,Shaiiko,3,2,3v2
+8879,2,clubhouse,7,176.8,0:48,48,,Shaiiko,G2,def,Azami,AsK,GEEKAY,atk,Ace,1,0,9x19VSN,gun,1,0,1,Yoggah,3,1,1v3
+8879,2,clubhouse,7,180.0,0:44,44,,Shaiiko,G2,def,Azami,Sarks,GEEKAY,atk,Solid Snake,0,0,9x19VSN,gun,1,0,1,Yoggah,2,1,1v2
+8879,2,clubhouse,7,182.0,0:43,43,,Yoggah,GEEKAY,atk,Blackbeard,Shaiiko,G2,def,Azami,0,0,MK17 CQB,gun,1,0,0,,1,1,1v1
+8879,2,clubhouse,8,187.1,0:37,37,,Shaiiko,G2,def,Wamai,Yoggah,GEEKAY,atk,Grim,1,0,MP5K,gun,1,1,1,Sarks,5,5,5v5
+8879,2,clubhouse,8,189.2,0:35,35,,Sarks,GEEKAY,atk,Solid Snake,Shaiiko,G2,def,Wamai,0,0,F2,gun,1,0,1,Stompn,4,5,4v5
+8879,2,clubhouse,8,193.3,0:31,31,,DOKIsan,G2,def,Azami,Gruby,GEEKAY,atk,Ram,1,0,9x19VSN,gun,1,0,1,AsK,4,4,4v4
+8879,2,clubhouse,8,197.0,0:27,27,,Sarks,GEEKAY,atk,Solid Snake,Alem4o,G2,def,Noor,1,0,F2,gun,1,0,1,Stompn,3,4,3v4
+8879,2,clubhouse,8,197.9,0:27,27,,DOKIsan,G2,def,Azami,Eupor,GEEKAY,atk,Ying,0,0,9x19VSN,gun,1,0,1,AsK,3,3,3v3
+8879,2,clubhouse,8,198.5,0:26,26,,Stompn,G2,def,Warden,Sarks,GEEKAY,atk,Solid Snake,1,0,MPX,gun,1,0,0,,2,3,3v2
+8879,2,clubhouse,8,202.9,0:22,22,,AsK,GEEKAY,atk,Ace,DOKIsan,G2,def,Azami,0,0,AK-12,gun,1,0,1,Stompn,1,3,1v3
+8879,2,clubhouse,8,207.3,0:17,17,,Stompn,G2,def,Warden,AsK,GEEKAY,atk,Ace,0,0,SMG-12,gun,1,0,0,,1,2,2v1
+8879,2,clubhouse,9,82.4,2:22,142,,Shaiiko,G2,def,Azami,Eupor,GEEKAY,atk,Ace,1,0,9x19VSN,gun,1,1,0,,5,5,5v5
+8879,2,clubhouse,9,104.9,2:00,120,,Shaiiko,G2,def,Azami,AsK,GEEKAY,atk,Lion,1,0,9x19VSN,gun,1,0,0,,4,5,5v4
+8879,2,clubhouse,9,105.5,1:59,119,,Alem4o,G2,def,Smoke,Sarks,GEEKAY,atk,Blitz,0,0,,unknown,0,0,0,,3,5,5v3
+8879,2,clubhouse,9,108.5,1:56,116,,Shaiiko,G2,def,Azami,Gruby,GEEKAY,atk,Glaz,0,0,9x19VSN,gun,1,0,0,,2,5,5v2
+8879,2,clubhouse,9,115.3,1:49,109,,Yoggah,GEEKAY,atk,Blackbeard,Stompn,G2,def,Wamai,0,0,MK17 CQB,gun,1,0,0,,1,5,1v5
+8879,2,clubhouse,9,119.7,1:45,105,,Yoggah,GEEKAY,atk,Blackbeard,Alem4o,G2,def,Smoke,1,0,MK17 CQB,gun,1,0,1,Shaiiko,1,4,1v4
+8879,2,clubhouse,9,126.9,1:38,98,,Shaiiko,G2,def,Azami,Yoggah,GEEKAY,atk,Blackbeard,1,0,9x19VSN,gun,1,0,0,,1,3,3v1
+8879,2,clubhouse,10,124.2,1:40,100,,DOKIsan,G2,def,Smoke,Yoggah,GEEKAY,atk,Blackbeard,0,0,SMG-11,gun,1,1,0,,5,5,5v5
+8879,2,clubhouse,10,125.3,1:39,99,,Eupor,GEEKAY,atk,Ace,Benjamaster,G2,def,Thorn,1,0,AK-12,gun,1,0,0,,4,5,4v5
+8879,2,clubhouse,10,127.9,1:37,97,,Stompn,G2,def,Jäger,AsK,GEEKAY,atk,Glaz,1,0,416-C CARBINE,gun,1,0,0,,4,4,4v4
+8879,2,clubhouse,10,139.8,1:25,85,,Eupor,GEEKAY,atk,Ace,Alem4o,G2,def,Solis,0,0,AK-12,gun,1,0,1,DOKIsan,3,4,3v4
+8879,2,clubhouse,10,143.2,1:21,81,,Eupor,GEEKAY,atk,Ace,Stompn,G2,def,Jäger,1,0,AK-12,gun,1,0,1,DOKIsan,3,3,3v3
+8879,2,clubhouse,10,148.1,1:16,76,,DOKIsan,G2,def,Smoke,Eupor,GEEKAY,atk,Ace,0,0,SMG-11,gun,1,0,0,,3,2,2v3
+8879,2,clubhouse,10,151.8,1:13,73,,DOKIsan,G2,def,Smoke,Gruby,GEEKAY,atk,Ash,1,0,SMG-11,gun,1,0,0,,2,2,2v2
+8879,2,clubhouse,10,159.0,1:06,66,,DOKIsan,G2,def,Smoke,Sarks,GEEKAY,atk,Solid Snake,0,0,SMG-11,gun,1,0,0,,1,2,2v1

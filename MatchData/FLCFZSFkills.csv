@@ -1,0 +1,167 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+9119,1,clubhouse,1,207.0,0:17,17,,Kds,FAZE,def,Wamai,Solotov,FALCONS,atk,Grim,0,0,MP5K,gun,1,1,0,,5,5,5v5
+9119,1,clubhouse,1,207.4,0:17,17,,BriD,FALCONS,atk,Blitz,Vitaking,FAZE,def,Azami,0,0,P12,gun,1,0,1,Cyber,4,5,4v5
+9119,1,clubhouse,1,210.3,0:14,14,,Kds,FAZE,def,Wamai,JumeDOOM,FALCONS,atk,Glaz,0,0,MP5K,gun,1,0,0,,4,4,4v4
+9119,1,clubhouse,1,211.3,0:13,13,,Cyber,FAZE,def,Valkyrie,BriD,FALCONS,atk,Blitz,1,0,D-50,gun,1,0,0,,3,4,4v3
+9119,1,clubhouse,1,215.7,0:09,9,,LikEfac,FALCONS,atk,Hibana,Soulz1,FAZE,def,Goyo,1,0,BEARING 9,gun,1,0,1,Cyber,2,4,2v4
+9119,1,clubhouse,1,216.7,0:08,8,,Cyber,FAZE,def,Valkyrie,LikEfac,FALCONS,atk,Hibana,1,0,D-50,gun,1,0,0,,2,3,3v2
+9119,1,clubhouse,1,219.0,0:06,6,,Kds,FAZE,def,Wamai,Yuzus,FALCONS,atk,Flores,0,0,MP5K,gun,1,0,0,,1,3,3v1
+9119,1,clubhouse,2,126.2,1:38,98,,JumeDOOM,FALCONS,atk,Sens,Soulz1,FAZE,def,Thorn,0,0,417,gun,1,1,0,,5,5,5v5
+9119,1,clubhouse,2,131.1,1:33,93,,Yuzus,FALCONS,atk,Ying,Vitaking,FAZE,def,Smoke,1,0,Reaper MK2,gun,1,0,0,,5,4,5v4
+9119,1,clubhouse,2,136.4,1:28,88,,Solotov,FALCONS,atk,Solid Snake,Cyber,FAZE,def,Wamai,0,0,F2,gun,1,0,0,,5,3,5v3
+9119,1,clubhouse,2,141.4,1:23,83,,Yuzus,FALCONS,atk,Ying,handyy,FAZE,def,Sentry,0,0,SIX12,gun,1,0,1,Kds,5,2,5v2
+9119,1,clubhouse,2,143.3,1:21,81,,Kds,FAZE,def,Warden,Yuzus,FALCONS,atk,Ying,1,0,MPX,gun,1,0,0,,5,1,1v5
+9119,1,clubhouse,2,156.7,1:08,68,,Kds,FAZE,def,Warden,LikEfac,FALCONS,atk,Maverick,0,0,MPX,gun,1,0,1,Solotov,4,1,1v4
+9119,1,clubhouse,2,157.9,1:07,67,,Kds,FAZE,def,Warden,JumeDOOM,FALCONS,atk,Sens,1,0,MPX,gun,1,0,1,Solotov,3,1,1v3
+9119,1,clubhouse,2,160.8,1:04,64,,Solotov,FALCONS,atk,Solid Snake,Kds,FAZE,def,Warden,0,0,F2,gun,1,0,0,,2,1,2v1
+9119,1,clubhouse,3,109.5,1:55,115,,Solotov,FALCONS,atk,Blitz,Vitaking,FAZE,def,Smoke,0,0,P12,gun,1,1,0,,5,5,5v5
+9119,1,clubhouse,3,113.0,1:51,111,,BriD,FALCONS,atk,Thermite,Cyber,FAZE,def,Fenrir,0,0,556XI,gun,1,0,0,,5,4,5v4
+9119,1,clubhouse,3,114.4,1:50,110,,Kds,FAZE,def,Wamai,JumeDOOM,FALCONS,atk,Solid Snake,1,0,MP5K,gun,1,0,0,,5,3,3v5
+9119,1,clubhouse,3,118.7,1:46,106,,handyy,FAZE,def,Sentry,LikEfac,FALCONS,atk,Lion,0,0,COMMANDO 9,gun,1,0,0,,4,3,3v4
+9119,1,clubhouse,3,122.7,1:42,102,,Kds,FAZE,def,Wamai,Yuzus,FALCONS,atk,Ying,1,0,MP5K,gun,1,0,0,,3,3,3v3
+9119,1,clubhouse,3,133.5,1:31,91,,Solotov,FALCONS,atk,Blitz,handyy,FAZE,def,Sentry,0,0,P12,gun,1,0,0,,2,3,2v3
+9119,1,clubhouse,3,170.3,0:54,54,,Soulz1,FAZE,def,Azami,Solotov,FALCONS,atk,Blitz,0,0,9x19VSN,gun,1,0,0,,2,2,2v2
+9119,1,clubhouse,3,177.5,0:47,47,,Soulz1,FAZE,def,Azami,BriD,FALCONS,atk,Thermite,1,0,9x19VSN,gun,1,0,0,,1,2,2v1
+9119,1,clubhouse,4,70.2,2:34,154,,Soulz1,FAZE,def,Goyo,Solotov,FALCONS,atk,Sledge,0,0,TCSG12,gun,1,1,0,,5,5,5v5
+9119,1,clubhouse,4,73.2,2:31,151,,Kds,FAZE,def,Thorn,BriD,FALCONS,atk,Blitz,1,0,UZK50GI,gun,1,0,0,,4,5,5v4
+9119,1,clubhouse,4,75.8,2:29,149,,Soulz1,FAZE,def,Goyo,JumeDOOM,FALCONS,atk,Lion,0,0,TCSG12,gun,1,0,1,LikEfac,3,5,5v3
+9119,1,clubhouse,4,77.4,2:27,147,,Cyber,FAZE,def,Solis,Yuzus,FALCONS,atk,Twitch,0,0,P90,gun,1,0,0,,2,5,5v2
+9119,1,clubhouse,4,81.5,2:23,143,,LikEfac,FALCONS,atk,Striker,Soulz1,FAZE,def,Goyo,0,0,M4,gun,1,0,1,Vitaking,1,5,1v5
+9119,1,clubhouse,4,82.5,2:22,142,,Vitaking,FAZE,def,Wamai,LikEfac,FALCONS,atk,Striker,1,0,MP5K,gun,1,0,0,,1,4,4v1
+9119,1,clubhouse,5,73.2,2:31,151,,Solotov,FALCONS,atk,Ace,Soulz1,FAZE,def,Bandit,0,0,AK-12,gun,1,1,0,,5,5,5v5
+9119,1,clubhouse,5,77.4,2:27,147,,Cyber,FAZE,def,Thorn,LikEfac,FALCONS,atk,Maverick,0,0,UZK50GI,gun,1,0,0,,5,4,4v5
+9119,1,clubhouse,5,142.3,1:22,82,,JumeDOOM,FALCONS,atk,Grim,Kds,FAZE,def,Warden,0,0,,unknown,0,0,0,,4,4,4v4
+9119,1,clubhouse,5,204.7,0:20,20,,Cyber,FAZE,def,Thorn,JumeDOOM,FALCONS,atk,Grim,0,0,UZK50GI,gun,1,0,0,,4,3,3v4
+9119,1,clubhouse,5,212.5,0:12,12,,Vitaking,FAZE,def,Smoke,BriD,FALCONS,atk,Montagne,1,0,SMG-11,gun,1,0,0,,3,3,3v3
+9119,1,clubhouse,5,220.4,0:04,4,,Vitaking,FAZE,def,Smoke,Yuzus,FALCONS,atk,Flores,1,0,SMG-11,gun,1,0,0,,2,3,3v2
+9119,1,clubhouse,5,220.6,0:04,4,,Cyber,FAZE,def,Thorn,Solotov,FALCONS,atk,Ace,0,0,UZK50GI,gun,1,0,0,,1,3,3v1
+9119,1,clubhouse,6,175.1,0:49,49,,Soulz1,FAZE,def,Wamai,Solotov,FALCONS,atk,Hibana,0,0,MP5K,gun,1,1,0,,5,5,5v5
+9119,1,clubhouse,6,177.5,0:47,47,,JumeDOOM,FALCONS,atk,Capitão,handyy,FAZE,def,Sentry,1,0,PMR90A2,gun,1,0,0,,4,5,4v5
+9119,1,clubhouse,6,181.8,0:43,43,,LikEfac,FALCONS,atk,Zofia,Cyber,FAZE,def,Fenrir,0,0,M762,gun,1,0,0,,4,4,4v4
+9119,1,clubhouse,6,199.4,0:25,25,,Yuzus,FALCONS,atk,Flores,Soulz1,FAZE,def,Wamai,0,0,AR33,gun,1,0,1,Vitaking,4,3,4v3
+9119,1,clubhouse,6,201.8,0:23,23,,LikEfac,FALCONS,atk,Zofia,Kds,FAZE,def,Thorn,0,0,M762,gun,1,0,0,,4,2,4v2
+9119,1,clubhouse,6,203.5,0:21,21,,Vitaking,FAZE,def,Smoke,Yuzus,FALCONS,atk,Flores,0,0,SMG-11,gun,1,0,1,LikEfac,4,1,1v4
+9119,1,clubhouse,6,204.7,0:20,20,,Vitaking,FAZE,def,Smoke,JumeDOOM,FALCONS,atk,Capitão,1,0,SMG-11,gun,1,0,1,LikEfac,3,1,1v3
+9119,1,clubhouse,6,212.4,0:12,12,,LikEfac,FALCONS,atk,Zofia,Vitaking,FAZE,def,Smoke,0,0,M762,gun,1,0,0,,2,1,2v1
+9119,1,clubhouse,7,158.9,1:06,66,,Soulz1,FAZE,atk,Ace,BriD,FALCONS,def,Goyo,0,0,AK-12,gun,1,1,0,,5,5,5v5
+9119,1,clubhouse,7,173.9,0:51,51,,Cyber,FAZE,atk,Maverick,JumeDOOM,FALCONS,def,Thorn,0,0,M4,gun,1,0,0,,5,4,5v4
+9119,1,clubhouse,7,186.2,0:38,38,,Solotov,FALCONS,def,Tubarão,Vitaking,FAZE,atk,Blackbeard,0,0,NITRO CELL,gadget,1,0,1,handyy,5,3,3v5
+9119,1,clubhouse,7,188.5,0:36,36,,handyy,FAZE,atk,Zofia,Solotov,FALCONS,def,Tubarão,0,0,M762,gun,1,0,0,,4,3,4v3
+9119,1,clubhouse,7,200.0,0:24,24,,LikEfac,FALCONS,def,Mira,handyy,FAZE,atk,Zofia,1,0,VECTOR .45 ACP,gun,1,0,1,Cyber,4,2,2v4
+9119,1,clubhouse,7,205.5,0:19,19,,Cyber,FAZE,atk,Maverick,LikEfac,FALCONS,def,Mira,1,0,Reaper MK2,gun,1,0,0,,3,2,3v2
+9119,1,clubhouse,7,210.2,0:14,14,,Cyber,FAZE,atk,Maverick,Yuzus,FALCONS,def,Kaid,0,0,FRAG GRENADE,gadget,1,0,0,,3,1,3v1
+9119,1,clubhouse,8,97.3,2:07,127,,Cyber,FAZE,atk,Zofia,Solotov,FALCONS,def,Valkyrie,0,0,M762,gun,1,1,0,,5,5,5v5
+9119,1,clubhouse,8,183.1,0:41,41,,JumeDOOM,FALCONS,def,Goyo,Cyber,FAZE,atk,Zofia,0,0,TCSG12,gun,1,0,1,Soulz1,5,4,4v5
+9119,1,clubhouse,8,185.2,0:39,39,,JumeDOOM,FALCONS,def,Goyo,Kds,FAZE,atk,Nomad,0,0,TCSG12,gun,1,0,1,Soulz1,4,4,4v4
+9119,1,clubhouse,8,185.2,0:39,39,,Vitaking,FAZE,atk,Blackbeard,Yuzus,FALCONS,def,Kaid,0,0,MK17 CQB,gun,1,0,1,LikEfac,3,4,3v4
+9119,1,clubhouse,8,190.2,0:34,34,,LikEfac,FALCONS,def,Bandit,Vitaking,FAZE,atk,Blackbeard,1,0,MP7,gun,1,0,1,handyy,3,3,3v3
+9119,1,clubhouse,8,192.6,0:32,32,,Soulz1,FAZE,atk,IQ,JumeDOOM,FALCONS,def,Goyo,0,0,552 COMMANDO,gun,1,0,0,,2,3,2v3
+9119,1,clubhouse,8,199.2,0:25,25,,handyy,FAZE,atk,Ace,LikEfac,FALCONS,def,Bandit,1,0,AK-12,gun,1,0,1,BriD,2,2,2v2
+9119,1,clubhouse,8,199.4,0:25,25,,BriD,FALCONS,def,Mira,handyy,FAZE,atk,Ace,1,0,VECTOR .45 ACP,gun,1,0,0,,2,1,1v2
+9119,1,clubhouse,8,213.5,0:11,11,,Soulz1,FAZE,atk,IQ,BriD,FALCONS,def,Mira,1,0,552 COMMANDO,gun,1,0,0,,1,1,1v1
+9119,1,clubhouse,9,137.8,1:27,87,,Cyber,FAZE,atk,Zofia,Solotov,FALCONS,def,Valkyrie,0,0,M762,gun,1,1,0,,5,5,5v5
+9119,1,clubhouse,9,188.7,0:36,36,,JumeDOOM,FALCONS,def,Thorn,Soulz1,FAZE,atk,Ace,1,0,UZK50GI,gun,1,0,0,,5,4,4v5
+9119,1,clubhouse,9,194.6,0:30,30,,Kds,FAZE,atk,Grim,LikEfac,FALCONS,def,Mute,1,0,552 COMMANDO,gun,1,0,0,,4,4,4v4
+9119,1,clubhouse,9,198.2,0:26,26,,Yuzus,FALCONS,def,Kaid,handyy,FAZE,atk,Ash,0,0,TCSG12,gun,1,0,0,,4,3,3v4
+9119,1,clubhouse,9,203.8,0:21,21,,Yuzus,FALCONS,def,Kaid,Vitaking,FAZE,atk,Montagne,0,0,TCSG12,gun,1,0,0,,3,3,3v3
+9119,1,clubhouse,9,204.1,0:20,20,,Cyber,FAZE,atk,Zofia,JumeDOOM,FALCONS,def,Thorn,0,0,M762,gun,1,0,0,,2,3,2v3
+9119,1,clubhouse,9,217.2,0:07,7,,BriD,FALCONS,def,Goyo,Kds,FAZE,atk,Grim,0,0,P229,gun,1,0,0,,2,2,2v2
+9119,1,clubhouse,9,219.8,0:05,5,,Cyber,FAZE,atk,Zofia,Yuzus,FALCONS,def,Kaid,1,0,M762,gun,1,0,1,BriD,1,2,1v2
+9119,1,clubhouse,9,222.8,0:02,2,,BriD,FALCONS,def,Goyo,Cyber,FAZE,atk,Zofia,0,0,P229,gun,1,0,0,,1,1,1v1
+9119,1,clubhouse,10,136.2,1:28,88,,LikEfac,FALCONS,def,Noor,Vitaking,FAZE,atk,Montagne,0,0,ALDA 556,gun,1,1,0,,5,5,5v5
+9119,1,clubhouse,10,136.6,1:28,88,,Kds,FAZE,atk,Nomad,JumeDOOM,FALCONS,def,Warden,1,0,AK-74M,gun,1,0,0,,4,5,4v5
+9119,1,clubhouse,10,163.1,1:01,61,,Solotov,FALCONS,def,Thorn,handyy,FAZE,atk,Zofia,1,0,UZK50GI,gun,1,0,0,,4,4,4v4
+9119,1,clubhouse,10,168.8,0:56,56,,Soulz1,FAZE,atk,Capitão,LikEfac,FALCONS,def,Noor,1,0,PMR90A2,gun,1,0,0,,3,4,3v4
+9119,1,clubhouse,10,205.9,0:19,19,,Cyber,FAZE,atk,Maverick,Yuzus,FALCONS,def,Kaid,1,0,M4,gun,1,0,0,,3,3,3v3
+9119,1,clubhouse,10,209.6,0:15,15,,Cyber,FAZE,atk,Maverick,BriD,FALCONS,def,Smoke,0,0,Reaper MK2,gun,1,0,0,,3,2,3v2
+9119,1,clubhouse,10,210.6,0:14,14,,Kds,FAZE,atk,Nomad,Solotov,FALCONS,def,Thorn,1,0,AK-74M,gun,1,0,0,,3,1,3v1
+9119,2,bank,1,120.1,1:44,104,,LikEfac,FALCONS,def,Valkyrie,Cyber,FAZE,atk,Deimos,0,0,NITRO CELL,gadget,1,1,0,,5,5,5v5
+9119,2,bank,1,130.4,1:34,94,,Vitaking,FAZE,atk,Grim,JumeDOOM,FALCONS,def,Goyo,0,0,552 COMMANDO,gun,1,0,0,,4,5,4v5
+9119,2,bank,1,211.4,0:13,13,,Solotov,FALCONS,def,Sentry,handyy,FAZE,atk,Twitch,0,0,TCSG12,gun,1,0,1,Vitaking,4,4,4v4
+9119,2,bank,1,213.1,0:11,11,,Solotov,FALCONS,def,Sentry,Kds,FAZE,atk,IQ,1,0,TCSG12,gun,1,0,1,Vitaking,3,4,4v3
+9119,2,bank,1,215.3,0:09,9,,Vitaking,FAZE,atk,Grim,Solotov,FALCONS,def,Sentry,0,0,552 COMMANDO,gun,1,0,1,Yuzus,2,4,2v4
+9119,2,bank,1,219.7,0:05,5,,Yuzus,FALCONS,def,Fenrir,Vitaking,FAZE,atk,Grim,0,0,MP7,gun,1,0,0,,2,3,3v2
+9119,2,bank,1,220.6,0:04,4,,Soulz1,FAZE,atk,Ying,BriD,FALCONS,def,Smoke,1,0,Reaper MK2,gun,1,0,1,LikEfac,1,3,1v3
+9119,2,bank,1,224.0,0:01,1,,LikEfac,FALCONS,def,Valkyrie,Soulz1,FAZE,atk,Ying,1,0,MPX,gun,1,0,0,,1,2,2v1
+9119,2,bank,2,86.9,2:18,138,,Soulz1,FAZE,atk,Flores,JumeDOOM,FALCONS,def,Valkyrie,0,0,,unknown,0,1,0,,5,5,5v5
+9119,2,bank,2,138.5,1:26,86,,Cyber,FAZE,atk,Zofia,LikEfac,FALCONS,def,Solis,1,0,M762,gun,1,0,0,,5,4,5v4
+9119,2,bank,2,155.3,1:09,69,,Vitaking,FAZE,atk,Grim,Yuzus,FALCONS,def,Noor,1,0,552 COMMANDO,gun,1,0,0,,5,3,5v3
+9119,2,bank,2,159.4,1:05,65,,Cyber,FAZE,atk,Zofia,BriD,FALCONS,def,Mira,1,0,M762,gun,1,0,0,,5,2,5v2
+9119,2,bank,2,165.0,0:59,59,,Solotov,FALCONS,def,Warden,handyy,FAZE,atk,Lion,1,0,MPX,gun,1,0,1,Vitaking,5,1,1v5
+9119,2,bank,2,165.3,0:59,59,,Vitaking,FAZE,atk,Grim,Solotov,FALCONS,def,Warden,1,0,552 COMMANDO,gun,1,0,0,,4,1,4v1
+9119,2,bank,3,122.6,1:42,102,,Cyber,FAZE,atk,IQ,JumeDOOM,FALCONS,def,Sentry,0,0,552 COMMANDO,gun,1,1,1,Solotov,5,5,5v5
+9119,2,bank,3,124.8,1:40,100,,Solotov,FALCONS,def,Mozzie,Cyber,FAZE,atk,IQ,1,0,P10 RONI,gun,1,0,0,,5,4,4v5
+9119,2,bank,3,156.3,1:08,68,,Kds,FAZE,atk,Ram,Solotov,FALCONS,def,Mozzie,0,0,R4-C,gun,1,0,0,,4,4,4v4
+9119,2,bank,3,201.2,0:23,23,,Soulz1,FAZE,atk,Striker,LikEfac,FALCONS,def,Valkyrie,0,0,M4,gun,1,0,0,,4,3,4v3
+9119,2,bank,3,207.0,0:17,17,,Yuzus,FALCONS,def,Thorn,handyy,FAZE,atk,Twitch,1,0,UZK50GI,gun,1,0,0,,4,2,2v4
+9119,2,bank,3,232.1,0:35,35,35,Soulz1,FAZE,atk,Striker,Yuzus,FALCONS,def,Thorn,0,1,M4,gun,1,0,0,,3,2,3v2
+9119,2,bank,3,232.1,0:35,35,35,Kds,FAZE,atk,Ram,BriD,FALCONS,def,Goyo,0,1,R4-C,gun,1,0,0,,3,1,3v1
+9119,2,bank,4,196.2,0:28,28,,Cyber,FAZE,atk,Deimos,Solotov,FALCONS,def,Tubarão,0,0,AK-74M,gun,1,1,0,,5,5,5v5
+9119,2,bank,4,201.6,0:23,23,,LikEfac,FALCONS,def,Smoke,Soulz1,FAZE,atk,Thermite,0,0,M590A1,gun,1,0,1,Vitaking,5,4,4v5
+9119,2,bank,4,203.8,0:21,21,,Vitaking,FAZE,atk,Sens,LikEfac,FALCONS,def,Smoke,0,0,417,gun,1,0,0,,4,4,4v4
+9119,2,bank,4,214.4,0:10,10,,Cyber,FAZE,atk,Deimos,JumeDOOM,FALCONS,def,Goyo,0,0,AK-74M,gun,1,0,1,Yuzus,4,3,4v3
+9119,2,bank,4,215.1,0:09,9,,Kds,FAZE,atk,Osa,BriD,FALCONS,def,Tachanka,1,0,556XI,gun,1,0,0,,4,2,4v2
+9119,2,bank,4,219.7,0:43,43,43,Yuzus,FALCONS,def,Echo,handyy,FAZE,atk,Twitch,1,1,BEARING 9,gun,1,0,0,,4,1,1v4
+9119,2,bank,4,222.8,0:40,40,40,Yuzus,FALCONS,def,Echo,Cyber,FAZE,atk,Deimos,0,1,BEARING 9,gun,1,0,0,,3,1,1v3
+9119,2,bank,4,238.1,0:25,25,25,Vitaking,FAZE,atk,Sens,Yuzus,FALCONS,def,Echo,0,1,417,gun,1,0,0,,2,1,2v1
+9119,2,bank,5,185.1,0:39,39,,JumeDOOM,FALCONS,def,Solis,Kds,FAZE,atk,Ying,0,0,SMG-11,gun,1,1,1,handyy,5,5,5v5
+9119,2,bank,5,187.8,0:37,37,,Soulz1,FAZE,atk,Kali,BriD,FALCONS,def,Mira,1,0,SPSMG9,gun,1,0,0,,4,5,4v5
+9119,2,bank,5,192.8,0:32,32,,handyy,FAZE,atk,Dokkaebi,JumeDOOM,FALCONS,def,Solis,0,0,XK23,gun,1,0,1,Yuzus,4,4,4v4
+9119,2,bank,5,194.2,0:30,30,,Solotov,FALCONS,def,Sentry,Cyber,FAZE,atk,Zofia,1,0,TCSG12,gun,1,0,0,,4,3,3v4
+9119,2,bank,5,194.5,0:30,30,,LikEfac,FALCONS,def,Mute,Vitaking,FAZE,atk,Thermite,0,0,NITRO CELL,gadget,1,0,0,,3,3,3v3
+9119,2,bank,5,197.1,0:27,27,,Yuzus,FALCONS,def,Echo,handyy,FAZE,atk,Dokkaebi,0,0,MP5SD,gun,1,0,0,,2,3,3v2
+9119,2,bank,5,203.8,0:21,21,,Solotov,FALCONS,def,Sentry,Soulz1,FAZE,atk,Kali,0,0,TCSG12,gun,1,0,0,,1,3,3v1
+9119,2,bank,6,124.4,1:40,100,,JumeDOOM,FALCONS,def,Solis,Cyber,FAZE,atk,Solid Snake,1,0,SMG-11,gun,1,1,0,,5,5,5v5
+9119,2,bank,6,130.9,1:34,94,,Solotov,FALCONS,def,Denari,Kds,FAZE,atk,Ram,1,0,SCORPION EVO 3 A1,gun,1,0,0,,4,5,5v4
+9119,2,bank,6,143.7,1:21,81,,Soulz1,FAZE,atk,Striker,Solotov,FALCONS,def,Denari,0,0,M4,gun,1,0,0,,3,5,3v5
+9119,2,bank,6,147.1,1:17,77,,handyy,FAZE,atk,Twitch,LikEfac,FALCONS,def,Smoke,0,0,F2,gun,1,0,0,,3,4,3v4
+9119,2,bank,6,202.2,0:22,22,,handyy,FAZE,atk,Twitch,Yuzus,FALCONS,def,Noor,0,0,F2,gun,1,0,0,,3,3,3v3
+9119,2,bank,6,209.2,0:15,15,,BriD,FALCONS,def,Azami,Soulz1,FAZE,atk,Striker,1,0,9x19VSN,gun,1,0,1,handyy,3,2,2v3
+9119,2,bank,6,211.4,0:13,13,,handyy,FAZE,atk,Twitch,JumeDOOM,FALCONS,def,Solis,0,0,F2,gun,1,0,0,,2,2,2v2
+9119,2,bank,6,214.3,0:10,10,,handyy,FAZE,atk,Twitch,BriD,FALCONS,def,Azami,1,0,F2,gun,1,0,0,,2,1,2v1
+9119,2,bank,7,85.7,2:19,139,,Cyber,FAZE,def,Azami,BriD,FALCONS,atk,Blitz,1,0,9x19VSN,gun,1,1,0,,5,5,5v5
+9119,2,bank,7,89.1,2:15,135,,Cyber,FAZE,def,Azami,Kds,FAZE,def,Goyo,0,0,VOLCAN CANISTER,gadget,1,0,0,,4,5,
+9119,2,bank,7,160.1,1:04,64,,LikEfac,FALCONS,atk,Deimos,Cyber,FAZE,def,Azami,1,0,.44 Vendetta,gun,1,0,0,,4,4,4v4
+9119,2,bank,7,165.7,0:59,59,,Vitaking,FAZE,def,Tubarão,JumeDOOM,FALCONS,atk,Capitão,1,0,MPX,gun,1,0,0,,4,3,3v4
+9119,2,bank,7,166.1,0:58,58,,LikEfac,FALCONS,atk,Deimos,Soulz1,FAZE,def,Smoke,0,0,M590A1,gun,1,0,0,,3,3,3v3
+9119,2,bank,7,169.5,0:55,55,,Yuzus,FALCONS,atk,Sens,handyy,FAZE,def,Fenrir,0,0,417,gun,1,0,0,,3,2,3v2
+9119,2,bank,7,189.7,0:35,35,,Solotov,FALCONS,atk,Solid Snake,Vitaking,FAZE,def,Tubarão,0,0,F2,gun,1,0,0,,3,1,3v1
+9119,2,bank,8,107.7,1:57,117,,Yuzus,FALCONS,atk,Lion,handyy,FAZE,def,Azami,0,0,417,gun,1,1,0,,5,5,5v5
+9119,2,bank,8,148.4,1:16,76,,JumeDOOM,FALCONS,atk,Zofia,Cyber,FAZE,def,Mozzie,1,0,M762,gun,1,0,0,,5,4,5v4
+9119,2,bank,8,184.7,0:40,40,,Soulz1,FAZE,def,Noor,Solotov,FALCONS,atk,Kali,0,0,ALDA 556,gun,1,0,0,,5,3,3v5
+9119,2,bank,8,191.9,0:33,33,,Kds,FAZE,def,Thorn,LikEfac,FALCONS,atk,Deimos,0,0,UZK50GI,gun,1,0,0,,4,3,3v4
+9119,2,bank,8,200.2,0:24,24,,JumeDOOM,FALCONS,atk,Zofia,Soulz1,FAZE,def,Noor,1,0,M762,gun,1,0,1,Kds,3,3,3v3
+9119,2,bank,8,202.4,0:22,22,,Kds,FAZE,def,Thorn,JumeDOOM,FALCONS,atk,Zofia,0,0,UZK50GI,gun,1,0,0,,3,2,2v3
+9119,2,bank,8,212.9,0:12,12,,Yuzus,FALCONS,atk,Lion,Vitaking,FAZE,def,Smoke,1,0,417,gun,1,0,0,,2,2,2v2
+9119,2,bank,8,236.9,0:37,37,37,BriD,FALCONS,atk,Grim,Kds,FAZE,def,Thorn,0,1,552 COMMANDO,gun,1,0,0,,2,1,2v1
+9119,2,bank,9,145.6,1:19,79,,Vitaking,FAZE,def,Solis,LikEfac,FALCONS,atk,Lion,1,0,SMG-11,gun,1,1,0,,5,5,5v5
+9119,2,bank,9,156.5,1:08,68,,Vitaking,FAZE,def,Solis,JumeDOOM,FALCONS,atk,Glaz,1,0,SMG-11,gun,1,0,0,,4,5,5v4
+9119,2,bank,9,156.8,1:08,68,,Solotov,FALCONS,atk,Ram,handyy,FAZE,def,Azami,0,0,R4-C,gun,1,0,0,,3,5,3v5
+9119,2,bank,9,160.0,1:04,64,,Yuzus,FALCONS,atk,Dokkaebi,Kds,FAZE,def,Ela,0,0,XK23,gun,1,0,0,,3,4,3v4
+9119,2,bank,9,206.2,0:18,18,,Cyber,FAZE,def,Mozzie,BriD,FALCONS,atk,Grim,0,0,COMMANDO 9,gun,1,0,1,Yuzus,3,3,3v3
+9119,2,bank,9,209.7,0:15,15,,Yuzus,FALCONS,atk,Dokkaebi,Cyber,FAZE,def,Mozzie,0,0,XK23,gun,1,0,1,Soulz1,2,3,2v3
+9119,2,bank,9,212.2,0:12,12,,Soulz1,FAZE,def,Thorn,Yuzus,FALCONS,atk,Dokkaebi,1,0,UZK50GI,gun,1,0,0,,2,2,2v2
+9119,2,bank,9,214.0,0:11,11,,Vitaking,FAZE,def,Solis,Solotov,FALCONS,atk,Ram,0,0,ITA12L,gun,1,0,0,,1,2,2v1
+9119,2,bank,10,134.2,1:30,90,,Yuzus,FALCONS,atk,Sens,handyy,FAZE,def,Fenrir,1,0,417,gun,1,1,0,,5,5,5v5
+9119,2,bank,10,159.8,1:05,65,,BriD,FALCONS,atk,Montagne,Soulz1,FAZE,def,Azami,1,0,P9,gun,1,0,0,,5,4,5v4
+9119,2,bank,10,180.1,0:44,44,,Cyber,FAZE,def,Mozzie,JumeDOOM,FALCONS,atk,Ram,1,0,COMMANDO 9,gun,1,0,0,,5,3,3v5
+9119,2,bank,10,198.4,0:26,26,,Kds,FAZE,def,Goyo,Solotov,FALCONS,atk,Solid Snake,0,0,TCSG12,gun,1,0,0,,4,3,3v4
+9119,2,bank,10,209.4,0:15,15,,Yuzus,FALCONS,atk,Sens,Kds,FAZE,def,Goyo,0,0,417,gun,1,0,0,,3,3,3v3
+9119,2,bank,10,211.2,0:13,13,,Vitaking,FAZE,def,Pulse,LikEfac,FALCONS,atk,Twitch,0,0,Reaper MK2,gun,1,0,0,,3,2,2v3
+9119,2,bank,10,218.0,0:07,7,,Vitaking,FAZE,def,Pulse,BriD,FALCONS,atk,Montagne,1,0,Reaper MK2,gun,1,0,0,,2,2,2v2
+9119,2,bank,10,220.6,0:04,4,,Cyber,FAZE,def,Mozzie,Yuzus,FALCONS,atk,Sens,1,0,COMMANDO 9,gun,1,0,0,,1,2,2v1
+9119,2,bank,11,86.7,2:18,138,,Kds,FAZE,def,Warden,JumeDOOM,FALCONS,atk,Blackbeard,0,0,MPX,gun,1,1,0,,5,5,5v5
+9119,2,bank,11,90.6,2:14,134,,Yuzus,FALCONS,atk,Lion,Soulz1,FAZE,def,Noor,0,0,417,gun,1,0,0,,4,5,4v5
+9119,2,bank,11,91.6,2:13,133,,Solotov,FALCONS,atk,Zofia,handyy,FAZE,def,Azami,1,0,M762,gun,1,0,0,,4,4,4v4
+9119,2,bank,11,93.9,2:11,131,,Solotov,FALCONS,atk,Zofia,Vitaking,FAZE,def,Smoke,0,0,M762,gun,1,0,0,,4,3,4v3
+9119,2,bank,11,97.7,2:07,127,,Kds,FAZE,def,Warden,LikEfac,FALCONS,atk,Grim,1,0,MPX,gun,1,0,1,Solotov,4,2,2v4
+9119,2,bank,11,101.3,2:03,123,,BriD,FALCONS,atk,Blitz,Cyber,FAZE,def,Valkyrie,1,0,P12,gun,1,0,1,Kds,3,2,3v2
+9119,2,bank,11,101.8,2:03,123,,Solotov,FALCONS,atk,Zofia,Kds,FAZE,def,Warden,0,0,M762,gun,1,0,0,,3,1,3v1
+9119,2,bank,11,101.9,2:03,123,,Kds,FAZE,def,Warden,BriD,FALCONS,atk,Blitz,0,0,MPX,gun,1,0,0,,3,0,0v3
+9119,2,bank,12,86.1,2:18,138,,Solotov,FALCONS,atk,Lion,handyy,FAZE,def,Mozzie,1,0,417,gun,1,1,0,,5,5,5v5
+9119,2,bank,12,184.0,0:41,41,,Vitaking,FAZE,def,Solis,LikEfac,FALCONS,atk,Twitch,0,0,,unknown,0,0,0,,5,4,4v5
+9119,2,bank,12,189.0,0:35,35,,Vitaking,FAZE,def,Solis,Solotov,FALCONS,atk,Lion,1,0,SMG-11,gun,1,0,1,Yuzus,4,4,4v4
+9119,2,bank,12,196.8,0:28,28,,Yuzus,FALCONS,atk,Dokkaebi,Vitaking,FAZE,def,Solis,0,0,XK23,gun,1,0,1,Soulz1,3,4,3v4
+9119,2,bank,12,206.6,0:18,18,,Soulz1,FAZE,def,Thorn,Yuzus,FALCONS,atk,Dokkaebi,1,0,UZK50GI,gun,1,0,0,,3,3,3v3
+9119,2,bank,12,213.2,0:11,11,,Soulz1,FAZE,def,Thorn,JumeDOOM,FALCONS,atk,Deimos,1,0,UZK50GI,gun,1,0,0,,2,3,3v2
+9119,2,bank,12,215.6,0:09,9,,Soulz1,FAZE,def,Thorn,BriD,FALCONS,atk,Capitão,1,0,UZK50GI,gun,1,0,0,,1,3,3v1

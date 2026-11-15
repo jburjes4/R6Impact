@@ -1,0 +1,77 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+8874,1,clubhouse,1,175.8,0:49,49,,DOKIsan,G2,atk,Ying,J9O,DARKZERO,def,Jäger,1,0,Reaper MK2,gun,1,1,1,kyno,5,5,5v5
+8874,1,clubhouse,1,178.5,0:46,46,,kyno,DARKZERO,def,Bandit,DOKIsan,G2,atk,Ying,0,0,MP7,gun,1,0,1,Shaiiko,5,4,4v5
+8874,1,clubhouse,1,181.9,0:43,43,,Benjamaster,G2,atk,Sledge,Fultz,DARKZERO,def,Mira,1,0,L85A2,gun,1,0,0,,4,4,4v4
+8874,1,clubhouse,1,185.4,0:43,43,43,Shaiiko,G2,atk,Thatcher,kyno,DARKZERO,def,Bandit,1,1,AR33,gun,1,0,0,,4,3,4v3
+8874,1,clubhouse,1,187.2,0:42,42,42,Benjamaster,G2,atk,Sledge,Nuers,DARKZERO,def,Azami,0,1,L85A2,gun,1,0,0,,4,2,4v2
+8874,1,clubhouse,1,188.6,0:41,41,41,Stompn,G2,atk,Grim,njr,DARKZERO,def,Goyo,0,1,552 COMMANDO,gun,1,0,0,,4,1,4v1
+8874,1,clubhouse,2,76.2,2:28,148,,Nuers,DARKZERO,def,Azami,Benjamaster,G2,atk,Solid Snake,1,0,9x19VSN,gun,1,1,0,,5,5,5v5
+8874,1,clubhouse,2,93.6,2:11,131,,DOKIsan,G2,atk,Deimos,kyno,DARKZERO,def,Mira,1,0,AK-74M,gun,1,0,0,,4,5,4v5
+8874,1,clubhouse,2,145.0,1:19,79,,J9O,DARKZERO,def,Warden,Shaiiko,G2,atk,Capitão,1,0,MPX,gun,1,0,0,,4,4,4v4
+8874,1,clubhouse,2,160.6,1:04,64,,Nuers,DARKZERO,def,Azami,Alem4o,G2,atk,Zofia,1,0,9x19VSN,gun,1,0,0,,3,4,4v3
+8874,1,clubhouse,2,192.6,0:32,32,,njr,DARKZERO,def,Ela,DOKIsan,G2,atk,Deimos,0,0,SCORPION EVO 3 A1,gun,1,0,0,,2,4,4v2
+8874,1,clubhouse,2,198.4,0:26,26,,Stompn,G2,atk,Ace,Nuers,DARKZERO,def,Azami,0,0,AK-12,gun,1,0,0,,1,4,1v4
+8874,1,clubhouse,3,113.0,1:51,111,,Benjamaster,G2,atk,Ace,Nuers,DARKZERO,def,Sentry,1,0,AK-12,gun,1,1,0,,5,5,5v5
+8874,1,clubhouse,3,117.0,1:47,107,,Benjamaster,G2,atk,Ace,J9O,DARKZERO,def,Azami,1,0,AK-12,gun,1,0,0,,5,4,5v4
+8874,1,clubhouse,3,133.3,1:31,91,,Alem4o,G2,atk,Deimos,Fultz,DARKZERO,def,Warden,0,0,AK-74M,gun,1,0,0,,5,3,5v3
+8874,1,clubhouse,3,153.0,1:11,71,,kyno,DARKZERO,def,Mira,DOKIsan,G2,atk,Montagne,0,0,NITRO CELL,gadget,1,0,0,,5,2,2v5
+8874,1,clubhouse,3,163.3,1:01,61,,kyno,DARKZERO,def,Mira,Alem4o,G2,atk,Deimos,1,0,VECTOR .45 ACP,gun,1,0,1,Stompn,4,2,2v4
+8874,1,clubhouse,3,164.2,1:00,60,,Benjamaster,G2,atk,Ace,njr,DARKZERO,def,Tachanka,1,0,AK-12,gun,1,0,0,,3,2,3v2
+8874,1,clubhouse,3,165.8,0:59,59,,Stompn,G2,atk,Grim,kyno,DARKZERO,def,Mira,0,0,552 COMMANDO,gun,1,0,0,,3,1,3v1
+8874,1,clubhouse,4,213.2,0:11,11,,kyno,DARKZERO,def,Smoke,Alem4o,G2,atk,Montagne,0,0,SMG-11,gun,1,1,1,Stompn,5,5,5v5
+8874,1,clubhouse,4,215.6,0:09,9,,Nuers,DARKZERO,def,Castle,DOKIsan,G2,atk,Ying,0,0,UMP45,gun,1,0,1,Shaiiko,4,5,5v4
+8874,1,clubhouse,4,216.4,0:08,8,,Shaiiko,G2,atk,Thatcher,Nuers,DARKZERO,def,Castle,1,0,AR33,gun,1,0,0,,3,5,3v5
+8874,1,clubhouse,4,216.7,0:08,8,,Stompn,G2,atk,Ash,kyno,DARKZERO,def,Smoke,0,0,R4-C,gun,1,0,0,,3,4,3v4
+8874,1,clubhouse,4,217.6,0:07,7,,Benjamaster,G2,atk,Grim,J9O,DARKZERO,def,Warden,0,0,552 COMMANDO,gun,1,0,1,njr,3,3,3v3
+8874,1,clubhouse,4,218.4,0:06,6,,Stompn,G2,atk,Ash,Fultz,DARKZERO,def,Mute,1,0,R4-C,gun,1,0,0,,3,2,3v2
+8874,1,clubhouse,4,223.3,0:01,1,,njr,DARKZERO,def,Goyo,Benjamaster,G2,atk,Grim,1,0,VECTOR .45 ACP,gun,1,0,0,,3,1,1v3
+8874,1,clubhouse,5,109.5,1:55,115,,Nuers,DARKZERO,def,Jäger,Benjamaster,G2,atk,Sledge,1,0,416-C CARBINE,gun,1,1,0,,5,5,5v5
+8874,1,clubhouse,5,123.3,1:41,101,,J9O,DARKZERO,def,Warden,DOKIsan,G2,atk,Deimos,1,0,MPX,gun,1,0,0,,4,5,5v4
+8874,1,clubhouse,5,126.1,1:38,98,,Shaiiko,G2,atk,Capitão,Nuers,DARKZERO,def,Jäger,1,0,PMR90A2,gun,1,0,1,J9O,3,5,3v5
+8874,1,clubhouse,5,130.7,1:34,94,,J9O,DARKZERO,def,Warden,Shaiiko,G2,atk,Capitão,0,0,SMG-12,gun,1,0,1,Alem4o,3,4,4v3
+8874,1,clubhouse,5,139.7,1:25,85,,Alem4o,G2,atk,Maverick,J9O,DARKZERO,def,Warden,0,0,M4,gun,1,0,0,,2,4,2v4
+8874,1,clubhouse,5,188.1,0:36,36,,Alem4o,G2,atk,Maverick,njr,DARKZERO,def,Tachanka,1,0,M4,gun,1,0,0,,2,3,2v3
+8874,1,clubhouse,5,203.9,0:21,21,,Alem4o,G2,atk,Maverick,Fultz,DARKZERO,def,Mira,1,0,M4,gun,1,0,0,,2,2,2v2
+8874,1,clubhouse,5,206.3,0:18,18,,Alem4o,G2,atk,Maverick,kyno,DARKZERO,def,Bandit,0,0,M4,gun,1,0,0,,2,1,2v1
+8874,1,clubhouse,6,107.2,1:57,117,,Stompn,G2,atk,Grim,Nuers,DARKZERO,def,Thorn,1,0,552 COMMANDO,gun,1,1,0,,5,5,5v5
+8874,1,clubhouse,6,122.0,1:42,102,,Fultz,DARKZERO,def,Warden,Shaiiko,G2,atk,Capitão,1,0,SMG-12,gun,1,0,1,Stompn,5,4,4v5
+8874,1,clubhouse,6,122.2,1:42,102,,Benjamaster,G2,atk,Striker,J9O,DARKZERO,def,Sentry,1,0,M4,gun,1,0,0,,4,4,4v4
+8874,1,clubhouse,6,126.1,1:38,98,,Stompn,G2,atk,Grim,Fultz,DARKZERO,def,Warden,1,0,552 COMMANDO,gun,1,0,0,,4,3,4v3
+8874,1,clubhouse,6,132.0,1:33,93,,Stompn,G2,atk,Grim,kyno,DARKZERO,def,Mira,1,0,552 COMMANDO,gun,1,0,0,,4,2,4v2
+8874,1,clubhouse,6,134.9,1:30,90,,njr,DARKZERO,def,Tachanka,DOKIsan,G2,atk,Deimos,1,0,BEARING 9,gun,1,0,1,Alem4o,4,1,1v4
+8874,1,clubhouse,6,140.5,1:24,84,,njr,DARKZERO,def,Tachanka,Benjamaster,G2,atk,Striker,1,0,BEARING 9,gun,1,0,1,Alem4o,3,1,1v3
+8874,1,clubhouse,6,141.6,1:23,83,,Alem4o,G2,atk,Blackbeard,njr,DARKZERO,def,Tachanka,0,0,MK17 CQB,gun,1,0,0,,2,1,2v1
+8874,1,clubhouse,7,201.4,0:23,23,,DOKIsan,G2,def,Azami,njr,DARKZERO,atk,Hibana,1,0,9x19VSN,gun,1,1,0,,5,5,5v5
+8874,1,clubhouse,7,203.0,0:21,21,,J9O,DARKZERO,atk,Grim,Alem4o,G2,def,Smoke,0,0,552 COMMANDO,gun,1,0,1,Shaiiko,4,5,4v5
+8874,1,clubhouse,7,203.4,0:21,21,,J9O,DARKZERO,atk,Grim,Stompn,G2,def,Mira,1,0,552 COMMANDO,gun,1,0,1,Shaiiko,4,4,4v4
+8874,1,clubhouse,7,204.3,0:20,20,,Shaiiko,G2,def,Wamai,J9O,DARKZERO,atk,Grim,0,0,MP5K,gun,1,0,0,,4,3,3v4
+8874,1,clubhouse,7,204.3,0:20,20,,Benjamaster,G2,def,Mute,Fultz,DARKZERO,atk,Montagne,0,0,SMG-11,gun,1,0,1,Nuers,3,3,3v3
+8874,1,clubhouse,7,206.5,0:18,18,,Nuers,DARKZERO,atk,Sledge,Benjamaster,G2,def,Mute,1,0,L85A2,gun,1,0,0,,2,3,2v3
+8874,1,clubhouse,7,225.0,0:00,0,,Shaiiko,G2,def,Wamai,kyno,DARKZERO,atk,Blackbeard,0,0,MP5K,gun,1,0,0,,2,2,2v2
+8874,1,clubhouse,7,225.0,0:00,0,,DOKIsan,G2,def,Azami,Nuers,DARKZERO,atk,Sledge,0,0,9x19VSN,gun,1,0,0,,1,2,2v1
+8874,1,clubhouse,8,126.7,1:38,98,,Alem4o,G2,def,Mute,Fultz,DARKZERO,atk,Zofia,1,0,SMG-11,gun,1,1,0,,5,5,5v5
+8874,1,clubhouse,8,142.8,1:22,82,,J9O,DARKZERO,atk,Capitão,Benjamaster,G2,def,Mira,1,0,PARA-308,gun,1,0,0,,4,5,4v5
+8874,1,clubhouse,8,151.6,1:13,73,,J9O,DARKZERO,atk,Capitão,Stompn,G2,def,Wamai,0,0,PARA-308,gun,1,0,0,,4,4,4v4
+8874,1,clubhouse,8,163.0,1:01,61,,njr,DARKZERO,atk,Grim,DOKIsan,G2,def,Noor,1,0,552 COMMANDO,gun,1,0,0,,4,3,4v3
+8874,1,clubhouse,8,184.7,0:40,40,,Nuers,DARKZERO,atk,Solid Snake,Shaiiko,G2,def,Azami,0,0,F2,gun,1,0,0,,4,2,4v2
+8874,1,clubhouse,8,188.0,0:37,37,,J9O,DARKZERO,atk,Capitão,Alem4o,G2,def,Mute,1,0,PARA-308,gun,1,0,0,,4,1,4v1
+8874,1,clubhouse,9,116.6,1:48,108,,Stompn,G2,def,Jäger,kyno,DARKZERO,atk,Ying,1,0,416-C CARBINE,gun,1,1,1,Nuers,5,5,5v5
+8874,1,clubhouse,9,119.5,1:45,105,,Nuers,DARKZERO,atk,Lion,Stompn,G2,def,Jäger,0,0,417,gun,1,0,1,Alem4o,4,5,4v5
+8874,1,clubhouse,9,123.1,1:41,101,,Alem4o,G2,def,Solis,Nuers,DARKZERO,atk,Lion,1,0,P90,gun,1,0,0,,4,4,4v4
+8874,1,clubhouse,9,127.9,1:37,97,,Benjamaster,G2,def,Thorn,J9O,DARKZERO,atk,Glaz,0,0,RAZORBLOOM SHELL,gadget,1,0,0,,3,4,4v3
+8874,1,clubhouse,9,189.9,0:35,35,,Alem4o,G2,def,Solis,Fultz,DARKZERO,atk,Maverick,0,0,P90,gun,1,0,0,,2,4,4v2
+8874,1,clubhouse,9,190.1,0:34,34,,DOKIsan,G2,def,Tachanka,njr,DARKZERO,atk,Zofia,0,0,,unknown,0,0,0,,1,4,4v1
+8874,1,clubhouse,10,177.7,0:47,47,,Nuers,DARKZERO,atk,Sledge,Benjamaster,G2,def,Mute,0,0,FRAG GRENADE,gadget,1,1,0,,5,5,5v5
+8874,1,clubhouse,10,182.5,0:42,42,,Fultz,DARKZERO,atk,Montagne,Alem4o,G2,def,Smoke,0,0,P9,gun,1,0,0,,5,4,5v4
+8874,1,clubhouse,10,196.0,0:41,41,41,Shaiiko,G2,def,Wamai,J9O,DARKZERO,atk,Ying,1,1,MP5K,gun,1,0,0,,5,3,3v5
+8874,1,clubhouse,10,205.0,0:32,32,32,kyno,DARKZERO,atk,Blackbeard,Stompn,G2,def,Warden,1,1,MK17 CQB,gun,1,0,0,,4,3,4v3
+8874,1,clubhouse,10,207.0,0:30,30,30,J9O,DARKZERO,atk,Ying,DOKIsan,G2,def,Azami,0,1,T-95 LSW,gun,1,0,0,,4,2,4v2
+8874,1,clubhouse,10,230.0,0:07,7,7,Nuers,DARKZERO,atk,Sledge,Shaiiko,G2,def,Wamai,0,1,,unknown,0,0,0,,4,1,4v1
+8874,1,clubhouse,11,176.2,0:48,48,,Alem4o,G2,def,Smoke,Nuers,DARKZERO,atk,Solid Snake,1,0,SMG-11,gun,1,1,0,,5,5,5v5
+8874,1,clubhouse,11,183.5,0:41,41,,Fultz,DARKZERO,atk,Zofia,Shaiiko,G2,def,Azami,1,0,M762,gun,1,0,0,,4,5,4v5
+8874,1,clubhouse,11,200.9,0:24,24,,Benjamaster,G2,def,Wamai,Fultz,DARKZERO,atk,Zofia,0,0,MP5K,gun,1,0,0,,4,4,4v4
+8874,1,clubhouse,11,201.4,0:23,23,,Alem4o,G2,def,Smoke,J9O,DARKZERO,atk,Capitão,0,0,SMG-11,gun,1,0,1,njr,3,4,4v3
+8874,1,clubhouse,11,205.0,0:20,20,,DOKIsan,G2,def,Warden,kyno,DARKZERO,atk,Blackbeard,1,0,MPX,gun,1,0,0,,2,4,4v2
+8874,1,clubhouse,11,207.7,0:17,17,,njr,DARKZERO,atk,Flores,Stompn,G2,def,Clash,1,0,AR33,gun,1,0,0,,1,4,1v4
+8874,1,clubhouse,11,211.2,0:13,13,,njr,DARKZERO,atk,Flores,Alem4o,G2,def,Smoke,1,0,AR33,gun,1,0,1,Benjamaster,1,3,1v3
+8874,1,clubhouse,11,218.8,0:06,6,,Benjamaster,G2,def,Wamai,njr,DARKZERO,atk,Flores,1,0,MP5K,gun,1,0,0,,1,2,2v1

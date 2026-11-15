@@ -1,0 +1,158 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+8878,1,kafe-dostoyevsky,1,136.6,1:28,88,,dfuzr,M80,atk,Gridlock,dan-_-,VIRTUS PRO,def,Goyo,0,0,F90,gun,1,1,1,RORICK,5,5,5v5
+8878,1,kafe-dostoyevsky,1,142.7,1:22,82,,Ashn,M80,atk,Nomad,Nayqo,VIRTUS PRO,def,Castle,0,0,ARX200,gun,1,0,0,,5,4,5v4
+8878,1,kafe-dostoyevsky,1,144.4,1:20,80,,SkyZs,VIRTUS PRO,def,Tubarão,Gaveni,M80,atk,Ace,1,0,MPX,gun,1,0,1,Gunna,5,3,3v5
+8878,1,kafe-dostoyevsky,1,144.4,1:20,80,,RORICK,VIRTUS PRO,def,Jäger,dfuzr,M80,atk,Gridlock,1,0,416-C CARBINE,gun,1,0,1,Savage,4,3,3v4
+8878,1,kafe-dostoyevsky,1,145.3,1:19,79,,Savage,M80,atk,Zofia,RORICK,VIRTUS PRO,def,Jäger,1,0,M762,gun,1,0,0,,3,3,3v3
+8878,1,kafe-dostoyevsky,1,148.7,1:16,76,,Ashn,M80,atk,Nomad,p4sh4,VIRTUS PRO,def,Sentry,1,0,ARX200,gun,1,0,0,,3,2,3v2
+8878,1,kafe-dostoyevsky,1,149.3,1:15,75,,Gunna,M80,atk,Blackbeard,SkyZs,VIRTUS PRO,def,Tubarão,0,0,MK17 CQB,gun,1,0,0,,3,1,3v1
+8878,1,kafe-dostoyevsky,2,76.1,2:28,148,,p4sh4,VIRTUS PRO,def,Tubarão,Gunna,M80,atk,Zofia,1,0,MPX,gun,1,1,0,,5,5,5v5
+8878,1,kafe-dostoyevsky,2,126.2,1:38,98,,SkyZs,VIRTUS PRO,def,Valkyrie,Gaveni,M80,atk,Deimos,1,0,MPX,gun,1,0,1,dfuzr,4,5,5v4
+8878,1,kafe-dostoyevsky,2,129.2,1:35,95,,dfuzr,M80,atk,Twitch,SkyZs,VIRTUS PRO,def,Valkyrie,1,0,F2,gun,1,0,0,,3,5,3v5
+8878,1,kafe-dostoyevsky,2,170.2,0:54,54,,dfuzr,M80,atk,Twitch,RORICK,VIRTUS PRO,def,Melusi,1,0,F2,gun,1,0,0,,3,4,3v4
+8878,1,kafe-dostoyevsky,2,193.1,0:31,31,,Savage,M80,atk,Striker,dan-_-,VIRTUS PRO,def,Goyo,1,0,M4,gun,1,0,0,,3,3,3v3
+8878,1,kafe-dostoyevsky,2,196.7,0:28,28,,Savage,M80,atk,Striker,Nayqo,VIRTUS PRO,def,Pulse,1,0,M4,gun,1,0,0,,3,2,3v2
+8878,1,kafe-dostoyevsky,2,202.5,0:22,22,,Ashn,M80,atk,Sledge,p4sh4,VIRTUS PRO,def,Tubarão,0,0,L85A2,gun,1,0,0,,3,1,3v1
+8878,1,kafe-dostoyevsky,3,147.5,1:17,77,,Ashn,M80,atk,Rauora,SkyZs,VIRTUS PRO,def,Warden,1,0,417,gun,1,1,0,,5,5,5v5
+8878,1,kafe-dostoyevsky,3,158.2,1:06,66,,Savage,M80,atk,Nomad,Nayqo,VIRTUS PRO,def,Clash,0,0,AK-74M,gun,1,0,0,,5,4,5v4
+8878,1,kafe-dostoyevsky,3,167.3,0:57,57,,dan-_-,VIRTUS PRO,def,Tubarão,Gunna,M80,atk,Glaz,1,0,MPX,gun,1,0,1,Ashn,5,3,3v5
+8878,1,kafe-dostoyevsky,3,174.0,0:51,51,,Ashn,M80,atk,Rauora,RORICK,VIRTUS PRO,def,Tachanka,1,0,417,gun,1,0,0,,4,3,4v3
+8878,1,kafe-dostoyevsky,3,176.9,0:48,48,,Ashn,M80,atk,Rauora,dan-_-,VIRTUS PRO,def,Tubarão,0,0,417,gun,1,0,0,,4,2,4v2
+8878,1,kafe-dostoyevsky,3,189.0,0:36,36,,dfuzr,M80,atk,Twitch,p4sh4,VIRTUS PRO,def,Skopós,0,0,F2,gun,1,0,0,,4,1,4v1
+8878,1,kafe-dostoyevsky,4,121.8,1:43,103,,p4sh4,VIRTUS PRO,def,Tubarão,Savage,M80,atk,Ram,0,0,MPX,gun,1,1,0,,5,5,5v5
+8878,1,kafe-dostoyevsky,4,131.6,1:33,93,,SkyZs,VIRTUS PRO,def,Warden,Gaveni,M80,atk,Hibana,0,0,MPX,gun,1,0,1,dfuzr,4,5,5v4
+8878,1,kafe-dostoyevsky,4,135.1,1:29,89,,dfuzr,M80,atk,IQ,SkyZs,VIRTUS PRO,def,Warden,1,0,552 COMMANDO,gun,1,0,0,,3,5,3v5
+8878,1,kafe-dostoyevsky,4,169.3,0:55,55,,RORICK,VIRTUS PRO,def,Melusi,dfuzr,M80,atk,IQ,1,0,MP5,gun,1,0,0,,3,4,4v3
+8878,1,kafe-dostoyevsky,4,192.5,0:32,32,,p4sh4,VIRTUS PRO,def,Tubarão,Gunna,M80,atk,Brava,1,0,MPX,gun,1,0,0,,2,4,4v2
+8878,1,kafe-dostoyevsky,4,198.4,0:26,26,,p4sh4,VIRTUS PRO,def,Tubarão,Ashn,M80,atk,Nomad,1,0,MPX,gun,1,0,0,,1,4,4v1
+8878,1,kafe-dostoyevsky,5,165.8,0:59,59,,Nayqo,VIRTUS PRO,def,Mira,dfuzr,M80,atk,Gridlock,1,0,VECTOR .45 ACP,gun,1,1,0,,5,5,5v5
+8878,1,kafe-dostoyevsky,5,166.4,0:58,58,,RORICK,VIRTUS PRO,def,Noor,Ashn,M80,atk,Lion,1,0,COMMANDO 9,gun,1,0,0,,4,5,5v4
+8878,1,kafe-dostoyevsky,5,176.1,0:48,48,,Gunna,M80,atk,Flores,p4sh4,VIRTUS PRO,def,Solis,0,0,AR33,gun,1,0,0,,3,5,3v5
+8878,1,kafe-dostoyevsky,5,197.7,0:27,27,,SkyZs,VIRTUS PRO,def,Castle,Savage,M80,atk,Blackbeard,0,0,UMP45,gun,1,0,1,Gunna,3,4,4v3
+8878,1,kafe-dostoyevsky,5,198.3,0:26,26,,Nayqo,VIRTUS PRO,def,Mira,Gaveni,M80,atk,Zofia,1,0,VECTOR .45 ACP,gun,1,0,0,,2,4,4v2
+8878,1,kafe-dostoyevsky,5,200.7,0:24,24,,Gunna,M80,atk,Flores,SkyZs,VIRTUS PRO,def,Castle,1,0,AR33,gun,1,0,1,dan-_-,1,4,1v4
+8878,1,kafe-dostoyevsky,5,204.6,0:20,20,,dan-_-,VIRTUS PRO,def,Kaid,Gunna,M80,atk,Flores,0,0,TCSG12,gun,1,0,0,,1,3,3v1
+8878,1,kafe-dostoyevsky,6,107.5,1:57,117,,Nayqo,VIRTUS PRO,def,Mira,dfuzr,M80,atk,Gridlock,0,0,VECTOR .45 ACP,gun,1,1,0,,5,5,5v5
+8878,1,kafe-dostoyevsky,6,130.3,1:34,94,,RORICK,VIRTUS PRO,def,Thorn,Savage,M80,atk,Striker,0,0,UZK50GI,gun,1,0,0,,4,5,5v4
+8878,1,kafe-dostoyevsky,6,131.8,1:33,93,,RORICK,VIRTUS PRO,def,Thorn,Gaveni,M80,atk,Twitch,1,0,UZK50GI,gun,1,0,0,,3,5,5v3
+8878,1,kafe-dostoyevsky,6,142.9,1:22,82,,dan-_-,VIRTUS PRO,def,Kaid,Gunna,M80,atk,Zofia,0,0,TCSG12,gun,1,0,0,,2,5,5v2
+8878,1,kafe-dostoyevsky,6,145.3,1:19,79,,Ashn,M80,atk,Nomad,SkyZs,VIRTUS PRO,def,Tubarão,1,0,ARX200,gun,1,0,1,dan-_-,1,5,1v5
+8878,1,kafe-dostoyevsky,6,154.8,1:10,70,,dan-_-,VIRTUS PRO,def,Kaid,Ashn,M80,atk,Nomad,1,0,TCSG12,gun,1,0,0,,1,4,4v1
+8878,1,kafe-dostoyevsky,7,118.0,1:47,107,,RORICK,VIRTUS PRO,atk,Sledge,Gaveni,M80,def,Kaid,1,0,L85A2,gun,1,1,0,,5,5,5v5
+8878,1,kafe-dostoyevsky,7,119.3,1:45,105,,Gunna,M80,def,Thorn,Nayqo,VIRTUS PRO,atk,Solid Snake,0,0,UZK50GI,gun,1,0,0,,5,4,4v5
+8878,1,kafe-dostoyevsky,7,189.2,0:35,35,,SkyZs,VIRTUS PRO,atk,Zofia,Gunna,M80,def,Thorn,0,0,M762,gun,1,0,0,,4,4,4v4
+8878,1,kafe-dostoyevsky,7,199.2,0:25,25,,RORICK,VIRTUS PRO,atk,Sledge,Ashn,M80,def,Azami,0,0,L85A2,gun,1,0,0,,4,3,4v3
+8878,1,kafe-dostoyevsky,7,215.9,0:09,9,,SkyZs,VIRTUS PRO,atk,Zofia,Savage,M80,def,Solis,0,0,M762,gun,1,0,0,,4,2,4v2
+8878,1,kafe-dostoyevsky,7,225.0,0:00,0,,SkyZs,VIRTUS PRO,atk,Zofia,dfuzr,M80,def,Pulse,0,0,M762,gun,1,0,0,,4,1,4v1
+8878,1,kafe-dostoyevsky,8,69.8,2:35,155,,Ashn,M80,def,Warden,dan-_-,VIRTUS PRO,atk,Sens,1,0,MPX,gun,1,1,0,,5,5,5v5
+8878,1,kafe-dostoyevsky,8,144.7,1:20,80,,p4sh4,VIRTUS PRO,atk,Solid Snake,dfuzr,M80,def,Azami,0,0,F2,gun,1,0,0,,4,5,4v5
+8878,1,kafe-dostoyevsky,8,179.2,0:45,45,,RORICK,VIRTUS PRO,atk,Ram,Savage,M80,def,Smoke,1,0,R4-C,gun,1,0,0,,4,4,4v4
+8878,1,kafe-dostoyevsky,8,180.4,0:44,44,,SkyZs,VIRTUS PRO,atk,Sledge,Ashn,M80,def,Warden,0,0,FRAG GRENADE,gadget,1,0,0,,4,3,4v3
+8878,1,kafe-dostoyevsky,8,193.6,0:31,31,,Nayqo,VIRTUS PRO,atk,Deimos,Gaveni,M80,def,Tubarão,0,0,.44 Vendetta,gun,1,0,0,,4,2,4v2
+8878,1,kafe-dostoyevsky,8,193.7,0:31,31,,RORICK,VIRTUS PRO,atk,Ram,Gunna,M80,def,Fenrir,1,0,R4-C,gun,1,0,0,,4,1,4v1
+8878,1,kafe-dostoyevsky,9,78.9,2:26,146,,Gunna,M80,def,Thorn,SkyZs,VIRTUS PRO,atk,Nomad,0,0,UZK50GI,gun,1,1,0,,5,5,5v5
+8878,1,kafe-dostoyevsky,9,129.1,1:35,95,,RORICK,VIRTUS PRO,atk,Grim,Gunna,M80,def,Thorn,1,0,552 COMMANDO,gun,1,0,0,,4,5,4v5
+8878,1,kafe-dostoyevsky,9,131.8,1:33,93,,Gaveni,M80,def,Sentry,dan-_-,VIRTUS PRO,atk,Brava,0,0,TCSG12,gun,1,0,0,,4,4,4v4
+8878,1,kafe-dostoyevsky,9,142.2,1:22,82,,Gaveni,M80,def,Sentry,p4sh4,VIRTUS PRO,atk,Zofia,0,0,TCSG12,gun,1,0,0,,3,4,4v3
+8878,1,kafe-dostoyevsky,9,171.8,0:53,53,,Gaveni,M80,def,Sentry,Nayqo,VIRTUS PRO,atk,Gridlock,0,0,NITRO CELL,gadget,1,0,0,,2,4,4v2
+8878,1,kafe-dostoyevsky,9,200.6,0:24,24,,dfuzr,M80,def,Pulse,RORICK,VIRTUS PRO,atk,Grim,1,0,Reaper MK2,gun,1,0,0,,1,4,4v1
+8878,1,kafe-dostoyevsky,10,86.7,2:18,138,,Nayqo,VIRTUS PRO,atk,Ying,Savage,M80,def,Solis,1,0,T-95 LSW,gun,1,1,0,,5,5,5v5
+8878,1,kafe-dostoyevsky,10,126.0,1:39,99,,Gunna,M80,def,Thorn,SkyZs,VIRTUS PRO,atk,Striker,0,0,UZK50GI,gun,1,0,1,SkyZs,5,4,4v5
+8878,1,kafe-dostoyevsky,10,126.4,1:38,98,,SkyZs,VIRTUS PRO,atk,Striker,Gunna,M80,def,Thorn,0,0,CLAYMORE,gadget,1,0,0,,4,4,4v4
+8878,1,kafe-dostoyevsky,10,154.1,1:10,70,,RORICK,VIRTUS PRO,atk,Sledge,Ashn,M80,def,Azami,0,0,L85A2,gun,1,0,0,,4,3,4v3
+8878,1,kafe-dostoyevsky,10,156.9,1:08,68,,Gaveni,M80,def,Sentry,Nayqo,VIRTUS PRO,atk,Ying,1,0,TCSG12,gun,1,0,0,,4,2,2v4
+8878,1,kafe-dostoyevsky,10,173.5,0:37,37,37,RORICK,VIRTUS PRO,atk,Sledge,Gaveni,M80,def,Sentry,0,1,L85A2,gun,1,0,0,,3,2,3v2
+8878,1,kafe-dostoyevsky,10,179.8,0:31,31,31,p4sh4,VIRTUS PRO,atk,Gridlock,dfuzr,M80,def,Kaid,1,1,F90,gun,1,0,0,,3,1,3v1
+8878,1,kafe-dostoyevsky,11,135.5,1:29,89,,Ashn,M80,def,Warden,dan-_-,VIRTUS PRO,atk,Sens,0,0,NITRO CELL,gadget,1,1,0,,5,5,5v5
+8878,1,kafe-dostoyevsky,11,185.7,0:39,39,,Ashn,M80,def,Warden,p4sh4,VIRTUS PRO,atk,Buck,1,0,MPX,gun,1,0,0,,4,5,5v4
+8878,1,kafe-dostoyevsky,11,195.6,0:29,29,,Gunna,M80,def,Fenrir,RORICK,VIRTUS PRO,atk,Gridlock,0,0,MP7,gun,1,0,1,SkyZs,3,5,5v3
+8878,1,kafe-dostoyevsky,11,199.0,0:25,25,,Savage,M80,def,Smoke,Nayqo,VIRTUS PRO,atk,Fuze,1,0,SMG-11,gun,1,0,0,,2,5,5v2
+8878,1,kafe-dostoyevsky,11,199.3,0:25,25,,SkyZs,VIRTUS PRO,atk,Sledge,Gunna,M80,def,Fenrir,1,0,L85A2,gun,1,0,0,,1,5,1v5
+8878,1,kafe-dostoyevsky,11,212.0,0:13,13,,SkyZs,VIRTUS PRO,atk,Sledge,Savage,M80,def,Smoke,0,0,L85A2,gun,1,0,1,Gaveni,1,4,1v4
+8878,1,kafe-dostoyevsky,11,221.0,0:04,4,,Gaveni,M80,def,Tubarão,SkyZs,VIRTUS PRO,atk,Sledge,1,0,P226 MK 25,gun,1,0,0,,1,3,3v1
+8878,1,kafe-dostoyevsky,12,131.5,1:33,93,,SkyZs,VIRTUS PRO,atk,Striker,Ashn,M80,def,Warden,0,0,FRAG GRENADE,gadget,1,1,1,dfuzr,5,5,5v5
+8878,1,kafe-dostoyevsky,12,132.7,1:32,92,,Gaveni,M80,def,Sentry,Nayqo,VIRTUS PRO,atk,Ying,1,0,TCSG12,gun,1,0,1,dan-_-,5,4,4v5
+8878,1,kafe-dostoyevsky,12,134.6,1:30,90,,dfuzr,M80,def,Valkyrie,SkyZs,VIRTUS PRO,atk,Striker,0,0,NITRO CELL,gadget,1,0,0,,4,4,4v4
+8878,1,kafe-dostoyevsky,12,138.0,1:26,86,,dan-_-,VIRTUS PRO,atk,IQ,Gaveni,M80,def,Sentry,1,0,552 COMMANDO,gun,1,0,0,,3,4,3v4
+8878,1,kafe-dostoyevsky,12,138.8,1:26,86,,Savage,M80,def,Mozzie,RORICK,VIRTUS PRO,atk,Solid Snake,1,0,P10 RONI,gun,1,0,0,,3,3,3v3
+8878,1,kafe-dostoyevsky,12,166.7,0:58,58,,p4sh4,VIRTUS PRO,atk,Nomad,dfuzr,M80,def,Valkyrie,0,0,AK-74M,gun,1,0,0,,2,3,2v3
+8878,1,kafe-dostoyevsky,12,168.3,0:56,56,,p4sh4,VIRTUS PRO,atk,Nomad,Gunna,M80,def,Thorn,0,0,AK-74M,gun,1,0,0,,2,2,2v2
+8878,1,kafe-dostoyevsky,12,190.3,0:34,34,,Savage,M80,def,Mozzie,p4sh4,VIRTUS PRO,atk,Nomad,1,0,P10 RONI,gun,1,0,0,,2,1,1v2
+8878,1,kafe-dostoyevsky,12,216.0,0:43,43,43,dan-_-,VIRTUS PRO,atk,IQ,Savage,M80,def,Mozzie,0,1,552 COMMANDO,gun,1,0,0,,1,1,1v1
+8878,2,lair,1,174.2,0:50,50,,Ashn,M80,def,Smoke,RORICK,VIRTUS PRO,atk,Solid Snake,1,0,SMG-11,gun,1,1,0,,5,5,5v5
+8878,2,lair,1,204.3,0:20,20,,Ashn,M80,def,Smoke,SkyZs,VIRTUS PRO,atk,Ace,0,0,M590A1,gun,1,0,0,,4,5,5v4
+8878,2,lair,1,204.4,0:20,20,,dfuzr,M80,def,Mira,Nayqo,VIRTUS PRO,atk,Blitz,1,0,VECTOR .45 ACP,gun,1,0,0,,3,5,5v3
+8878,2,lair,2,153.7,1:11,71,,SkyZs,VIRTUS PRO,atk,Striker,Ashn,M80,def,Smoke,0,0,M4,gun,1,1,0,,5,5,5v5
+8878,2,lair,2,163.4,1:01,61,,RORICK,VIRTUS PRO,atk,IQ,Savage,M80,def,Tachanka,1,0,552 COMMANDO,gun,1,0,0,,5,4,5v4
+8878,2,lair,2,180.6,0:44,44,,dfuzr,M80,def,Thorn,RORICK,VIRTUS PRO,atk,IQ,1,0,UZK50GI,gun,1,0,0,,5,3,3v5
+8878,2,lair,2,207.0,0:17,17,,dan-_-,VIRTUS PRO,atk,Deimos,Gaveni,M80,def,Azami,1,0,AK-74M,gun,1,0,0,,4,3,4v3
+8878,2,lair,2,209.7,0:15,15,,dan-_-,VIRTUS PRO,atk,Deimos,Gunna,M80,def,Valkyrie,1,0,AK-74M,gun,1,0,0,,4,2,4v2
+8878,2,lair,2,209.9,0:15,15,,p4sh4,VIRTUS PRO,atk,Ram,dfuzr,M80,def,Thorn,0,0,R4-C,gun,1,0,0,,4,1,4v1
+8878,2,lair,3,159.5,1:05,65,,RORICK,VIRTUS PRO,atk,Thatcher,Ashn,M80,def,Bandit,0,0,PMR90A2,gun,1,1,0,,5,5,5v5
+8878,2,lair,3,189.6,0:39,39,39,Savage,M80,def,Mira,RORICK,VIRTUS PRO,atk,Thatcher,1,1,VECTOR .45 ACP,gun,1,0,1,SkyZs,5,4,4v5
+8878,2,lair,3,194.3,0:34,34,34,SkyZs,VIRTUS PRO,atk,Maverick,Savage,M80,def,Mira,0,1,M4,gun,1,0,1,Gaveni,4,4,4v4
+8878,2,lair,3,197.6,0:31,31,31,SkyZs,VIRTUS PRO,atk,Maverick,Gunna,M80,def,Thorn,1,1,M4,gun,1,0,1,Gaveni,4,3,4v3
+8878,2,lair,3,200.5,0:28,28,28,Gaveni,M80,def,Azami,SkyZs,VIRTUS PRO,atk,Maverick,0,1,9x19VSN,gun,1,0,1,Nayqo,4,2,2v4
+8878,2,lair,3,202.0,0:27,27,27,Nayqo,VIRTUS PRO,atk,Sens,Gaveni,M80,def,Azami,0,1,417,gun,1,0,0,,3,2,3v2
+8878,2,lair,3,204.0,0:25,25,25,dfuzr,M80,def,Smoke,p4sh4,VIRTUS PRO,atk,Capitão,1,1,SMG-11,gun,1,0,0,,3,1,1v3
+8878,2,lair,3,214.2,0:15,15,15,Nayqo,VIRTUS PRO,atk,Sens,dfuzr,M80,def,Smoke,0,1,417,gun,1,0,0,,2,1,2v1
+8878,2,lair,4,113.1,1:51,111,,p4sh4,VIRTUS PRO,atk,Nomad,Gunna,M80,def,Thorn,1,0,AK-74M,gun,1,1,0,,5,5,5v5
+8878,2,lair,4,143.5,1:21,81,,Nayqo,VIRTUS PRO,atk,Blitz,Ashn,M80,def,Smoke,1,0,P12,gun,1,0,0,,5,4,5v4
+8878,2,lair,4,161.6,1:03,63,,Gaveni,M80,def,Azami,SkyZs,VIRTUS PRO,atk,Ace,1,0,9x19VSN,gun,1,0,0,,5,3,3v5
+8878,2,lair,4,217.8,0:07,7,,RORICK,VIRTUS PRO,atk,Deimos,Savage,M80,def,Tachanka,0,0,M590A1,gun,1,0,0,,4,3,4v3
+8878,2,lair,4,222.8,0:02,2,,p4sh4,VIRTUS PRO,atk,Nomad,dfuzr,M80,def,Goyo,0,0,AK-74M,gun,1,0,0,,4,2,4v2
+8878,2,lair,4,225.0,0:00,0,,dan-_-,VIRTUS PRO,atk,Kali,Gaveni,M80,def,Azami,0,0,SPSMG9,gun,1,0,0,,4,1,4v1
+8878,2,lair,5,90.1,2:14,134,,Ashn,M80,def,Mute,RORICK,VIRTUS PRO,atk,Ram,1,0,SMG-11,gun,1,1,0,,5,5,5v5
+8878,2,lair,5,96.0,2:08,128,,Ashn,M80,def,Mute,SkyZs,VIRTUS PRO,atk,Deimos,0,0,NITRO CELL,gadget,1,0,0,,4,5,5v4
+8878,2,lair,5,99.3,2:05,125,,Savage,M80,def,Tachanka,Nayqo,VIRTUS PRO,atk,Blitz,0,0,,unknown,0,0,0,,3,5,5v3
+8878,2,lair,5,100.3,2:04,124,,Ashn,M80,def,Mute,dan-_-,VIRTUS PRO,atk,Nomad,0,0,SMG-11,gun,1,0,0,,2,5,5v2
+8878,2,lair,5,101.4,2:03,123,,p4sh4,VIRTUS PRO,atk,Ace,Gaveni,M80,def,Azami,1,0,AK-12,gun,1,0,0,,1,5,1v5
+8878,2,lair,5,192.0,0:33,33,,Gunna,M80,def,Goyo,p4sh4,VIRTUS PRO,atk,Ace,0,0,TCSG12,gun,1,0,0,,1,4,4v1
+8878,2,lair,6,139.9,1:25,85,,Nayqo,VIRTUS PRO,atk,Glaz,Gunna,M80,def,Thorn,0,0,OTs-03,gun,1,1,0,,5,5,5v5
+8878,2,lair,6,141.7,1:23,83,,Gaveni,M80,def,Azami,dan-_-,VIRTUS PRO,atk,Kali,1,0,9x19VSN,gun,1,0,0,,5,4,4v5
+8878,2,lair,6,142.3,1:22,82,,Nayqo,VIRTUS PRO,atk,Glaz,Ashn,M80,def,Mute,1,0,OTs-03,gun,1,0,0,,4,4,4v4
+8878,2,lair,6,150.8,1:14,74,,RORICK,VIRTUS PRO,atk,Deimos,dfuzr,M80,def,Ela,1,0,.44 Vendetta,gun,1,0,0,,4,3,4v3
+8878,2,lair,6,186.0,0:38,38,,Gaveni,M80,def,Azami,p4sh4,VIRTUS PRO,atk,Nomad,1,0,9x19VSN,gun,1,0,1,RORICK,4,2,2v4
+8878,2,lair,6,187.6,0:37,37,,Nayqo,VIRTUS PRO,atk,Glaz,Savage,M80,def,Tachanka,1,0,OTs-03,gun,1,0,0,,3,2,3v2
+8878,2,lair,6,194.8,0:43,43,43,RORICK,VIRTUS PRO,atk,Deimos,Gaveni,M80,def,Azami,0,1,.44 Vendetta,gun,1,0,0,,3,1,3v1
+8878,2,lair,7,130.2,1:34,94,,dan-_-,VIRTUS PRO,def,Azami,Gunna,M80,atk,Hibana,1,0,9x19VSN,gun,1,1,0,,5,5,5v5
+8878,2,lair,7,135.1,1:29,89,,Gaveni,M80,atk,Flores,RORICK,VIRTUS PRO,def,Mute,1,0,AR33,gun,1,0,0,,4,5,4v5
+8878,2,lair,7,135.4,1:29,89,,SkyZs,VIRTUS PRO,def,Smoke,dfuzr,M80,atk,Deimos,0,0,M590A1,gun,1,0,1,Savage,4,4,4v4
+8878,2,lair,7,136.0,1:28,88,,Savage,M80,atk,Dokkaebi,SkyZs,VIRTUS PRO,def,Smoke,0,0,FIRE,fire,1,0,0,,3,4,3v4
+8878,2,lair,7,198.4,0:26,26,,Ashn,M80,atk,Twitch,p4sh4,VIRTUS PRO,def,Ela,0,0,F2,gun,1,0,0,,3,3,3v3
+8878,2,lair,7,216.6,0:08,8,,dan-_-,VIRTUS PRO,def,Azami,Savage,M80,atk,Dokkaebi,1,0,9x19VSN,gun,1,0,1,Ashn,3,2,2v3
+8878,2,lair,7,216.8,0:08,8,,Nayqo,VIRTUS PRO,def,Tachanka,Gaveni,M80,atk,Flores,0,0,DP28,gun,1,0,1,Ashn,2,2,2v2
+8878,2,lair,7,218.4,0:06,6,,Ashn,M80,atk,Twitch,Nayqo,VIRTUS PRO,def,Tachanka,0,0,F2,gun,1,0,0,,1,2,1v2
+8878,2,lair,7,225.0,0:00,0,,Ashn,M80,atk,Twitch,dan-_-,VIRTUS PRO,def,Azami,0,0,F2,gun,1,0,0,,1,1,1v1
+8878,2,lair,8,59.9,2:45,165,,RORICK,VIRTUS PRO,def,Thorn,Gaveni,M80,atk,Ace,1,0,UZK50GI,gun,1,1,0,,5,5,5v5
+8878,2,lair,8,145.4,1:19,79,,Savage,M80,atk,Twitch,SkyZs,VIRTUS PRO,def,Noor,1,0,F2,gun,1,0,0,,4,5,4v5
+8878,2,lair,8,158.7,1:06,66,,dfuzr,M80,atk,Deimos,dan-_-,VIRTUS PRO,def,Azami,0,0,AK-74M,gun,1,0,1,RORICK,4,4,4v4
+8878,2,lair,8,164.0,1:01,61,,dfuzr,M80,atk,Deimos,p4sh4,VIRTUS PRO,def,Skopós,0,0,AK-74M,gun,1,0,1,RORICK,4,3,4v3
+8878,2,lair,8,167.7,0:57,57,,RORICK,VIRTUS PRO,def,Thorn,dfuzr,M80,atk,Deimos,1,0,UZK50GI,gun,1,0,0,,4,2,2v4
+8878,2,lair,8,203.8,0:21,21,,Savage,M80,atk,Twitch,RORICK,VIRTUS PRO,def,Thorn,0,0,F2,gun,1,0,0,,3,2,3v2
+8878,2,lair,8,210.2,0:14,14,,Gunna,M80,atk,Dokkaebi,Nayqo,VIRTUS PRO,def,Smoke,0,0,XK23,gun,1,0,0,,3,1,3v1
+8878,2,lair,9,143.6,1:21,81,,SkyZs,VIRTUS PRO,def,Smoke,Savage,M80,atk,Blitz,0,0,SMG-11,gun,1,1,0,,5,5,5v5
+8878,2,lair,9,148.5,1:16,76,,SkyZs,VIRTUS PRO,def,Smoke,Gunna,M80,atk,Ace,0,0,M590A1,gun,1,0,1,dfuzr,4,5,5v4
+8878,2,lair,9,148.6,1:16,76,,RORICK,VIRTUS PRO,def,Mute,Gaveni,M80,atk,Flores,1,0,M590A1,gun,1,0,0,,3,5,5v3
+8878,2,lair,9,154.1,1:10,70,,RORICK,VIRTUS PRO,def,Mute,Ashn,M80,atk,IQ,1,0,SMG-11,gun,1,0,0,,2,5,5v2
+8878,2,lair,9,156.5,1:08,68,,dfuzr,M80,atk,Deimos,SkyZs,VIRTUS PRO,def,Smoke,0,0,.44 Vendetta,gun,1,0,1,RORICK,1,5,1v5
+8878,2,lair,9,159.7,1:05,65,,RORICK,VIRTUS PRO,def,Mute,dfuzr,M80,atk,Deimos,0,0,M590A1,gun,1,0,0,,1,4,4v1
+8878,2,lair,10,109.8,1:55,115,,Gunna,M80,atk,Dokkaebi,p4sh4,VIRTUS PRO,def,Lesion,1,0,XK23,gun,1,1,0,,5,5,5v5
+8878,2,lair,10,133.5,1:31,91,,Ashn,M80,atk,Solid Snake,dan-_-,VIRTUS PRO,def,Noor,1,0,F2,gun,1,0,0,,5,4,5v4
+8878,2,lair,10,158.1,1:06,66,,Gaveni,M80,atk,Ace,RORICK,VIRTUS PRO,def,Wamai,0,0,AK-12,gun,1,0,0,,5,3,5v3
+8878,2,lair,10,162.6,1:02,62,,dfuzr,M80,atk,Flores,Nayqo,VIRTUS PRO,def,Denari,0,0,AR33,gun,1,0,0,,5,2,5v2
+8878,2,lair,10,173.2,0:51,51,,SkyZs,VIRTUS PRO,def,Mute,Gaveni,M80,atk,Ace,1,0,SMG-11,gun,1,0,1,dfuzr,5,1,1v5
+8878,2,lair,10,173.4,0:51,51,,dfuzr,M80,atk,Flores,SkyZs,VIRTUS PRO,def,Mute,1,0,AR33,gun,1,0,0,,4,1,4v1
+8878,2,lair,11,149.8,1:15,75,,SkyZs,VIRTUS PRO,def,Wamai,dfuzr,M80,atk,Thermite,0,0,MP5K,gun,1,1,1,Gaveni,5,5,5v5
+8878,2,lair,11,150.5,1:14,74,,dan-_-,VIRTUS PRO,def,Solis,Savage,M80,atk,Blitz,0,0,SMG-11,gun,1,0,0,,4,5,5v4
+8878,2,lair,11,152.7,1:12,72,,SkyZs,VIRTUS PRO,def,Wamai,Gunna,M80,atk,Sens,0,0,MP5K,gun,1,0,1,Gaveni,3,5,5v3
+8878,2,lair,11,153.6,1:11,71,,Gaveni,M80,atk,Nomad,SkyZs,VIRTUS PRO,def,Wamai,0,0,AK-74M,gun,1,0,0,,2,5,2v5
+8878,2,lair,11,180.7,0:44,44,,Nayqo,VIRTUS PRO,def,Warden,Ashn,M80,atk,Capitão,0,0,MPX,gun,1,0,0,,2,4,4v2
+8878,2,lair,11,193.7,0:31,31,,p4sh4,VIRTUS PRO,def,Mira,Gaveni,M80,atk,Nomad,0,0,NITRO CELL,gadget,1,0,0,,1,4,4v1
+8878,2,lair,12,156.8,1:08,68,,p4sh4,VIRTUS PRO,def,Warden,Ashn,M80,atk,Glaz,1,0,MPX,gun,1,1,0,,5,5,5v5
+8878,2,lair,12,160.1,1:04,64,,Savage,M80,atk,Blitz,Nayqo,VIRTUS PRO,def,Tachanka,0,0,P12,gun,1,0,1,SkyZs,4,5,4v5
+8878,2,lair,12,161.7,1:03,63,,Gaveni,M80,atk,Ace,SkyZs,VIRTUS PRO,def,Smoke,0,0,AK-12,gun,1,0,0,,4,4,4v4
+8878,2,lair,12,163.5,1:01,61,,SkyZs,VIRTUS PRO,def,Smoke,Savage,M80,atk,Blitz,0,0,,unknown,0,0,0,,4,3,3v4
+8878,2,lair,12,197.0,0:28,28,,p4sh4,VIRTUS PRO,def,Warden,Gunna,M80,atk,IQ,1,0,MPX,gun,1,0,0,,3,3,3v3
+8878,2,lair,12,210.7,0:14,14,,dan-_-,VIRTUS PRO,def,Wamai,Gaveni,M80,atk,Ace,1,0,MP5K,gun,1,0,0,,2,3,3v2
+8878,2,lair,12,216.7,0:08,8,,RORICK,VIRTUS PRO,def,Mute,dfuzr,M80,atk,Deimos,0,0,M590A1,gun,1,0,0,,1,3,3v1

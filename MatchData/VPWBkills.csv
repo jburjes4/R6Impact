@@ -1,0 +1,243 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+8841,1,chalet,1,95.4,2:09,129,,RORICK,VIRTUS PRO,def,Ela,Reeps965G,WEIBO,atk,Twitch,1,0,SCORPION EVO 3 A1,gun,1,1,0,,5,5,5v5
+8841,1,chalet,1,127.7,1:37,97,,Terd5G,WEIBO,atk,Solid Snake,p4sh4,VIRTUS PRO,def,Goyo,0,0,FRAG GRENADE,gadget,1,0,0,,4,5,4v5
+8841,1,chalet,1,141.4,1:23,83,,Terd5G,WEIBO,atk,Solid Snake,RORICK,VIRTUS PRO,def,Ela,1,0,F2,gun,1,0,0,,4,4,4v4
+8841,1,chalet,1,197.2,0:27,27,,SpeakEasy5G,WEIBO,atk,Montagne,SkyZs,VIRTUS PRO,def,Noor,0,0,P9,gun,1,0,0,,4,3,4v3
+8841,1,chalet,1,200.6,0:24,24,,Nayqo,VIRTUS PRO,def,Warden,Gotti5G,WEIBO,atk,Ace,0,0,NITRO CELL,gadget,1,0,0,,4,2,2v4
+8841,1,chalet,1,216.7,0:08,8,,dan-_-,VIRTUS PRO,def,Kaid,SpeakEasy5G,WEIBO,atk,Montagne,0,0,TCSG12,gun,1,0,0,,3,2,2v3
+8841,1,chalet,1,219.0,0:43,43,43,dan-_-,VIRTUS PRO,def,Kaid,Hoven5G,WEIBO,atk,Lion,1,1,TCSG12,gun,1,0,0,,2,2,2v2
+8841,1,chalet,1,229.8,0:32,32,32,Nayqo,VIRTUS PRO,def,Warden,Terd5G,WEIBO,atk,Solid Snake,1,1,MPX,gun,1,0,0,,1,2,2v1
+8841,1,chalet,2,131.5,1:33,93,,Gotti5G,WEIBO,atk,Capitão,p4sh4,VIRTUS PRO,def,Fenrir,1,0,PMR90A2,gun,1,1,0,,5,5,5v5
+8841,1,chalet,2,144.6,1:20,80,,Hoven5G,WEIBO,atk,Twitch,SkyZs,VIRTUS PRO,def,Castle,1,0,F2,gun,1,0,0,,5,4,5v4
+8841,1,chalet,2,151.4,1:13,73,,SpeakEasy5G,WEIBO,atk,Kali,RORICK,VIRTUS PRO,def,Noor,1,0,SPSMG9,gun,1,0,0,,5,3,5v3
+8841,1,chalet,2,171.2,0:53,53,,dan-_-,VIRTUS PRO,def,Goyo,SpeakEasy5G,WEIBO,atk,Kali,0,0,TCSG12,gun,1,0,0,,5,2,2v5
+8841,1,chalet,2,200.7,0:24,24,,Hoven5G,WEIBO,atk,Twitch,Nayqo,VIRTUS PRO,def,Azami,1,0,F2,gun,1,0,0,,4,2,4v2
+8841,1,chalet,2,217.3,0:07,7,,Terd5G,WEIBO,atk,Solid Snake,dan-_-,VIRTUS PRO,def,Goyo,1,0,F2,gun,1,0,0,,4,1,4v1
+8841,1,chalet,3,144.3,1:20,80,,Reeps965G,WEIBO,atk,Twitch,RORICK,VIRTUS PRO,def,Ela,0,0,417,gun,1,1,0,,5,5,5v5
+8841,1,chalet,3,165.7,0:59,59,,Reeps965G,WEIBO,atk,Twitch,dan-_-,VIRTUS PRO,def,Kaid,1,0,417,gun,1,0,0,,5,4,5v4
+8841,1,chalet,3,172.0,0:53,53,,Reeps965G,WEIBO,atk,Twitch,p4sh4,VIRTUS PRO,def,Goyo,0,0,417,gun,1,0,0,,5,3,5v3
+8841,1,chalet,3,220.9,0:33,33,33,Nayqo,VIRTUS PRO,def,Mute,Reeps965G,WEIBO,atk,Twitch,1,1,SMG-11,gun,1,0,1,Gotti5G,5,2,2v5
+8841,1,chalet,3,225.5,0:29,29,29,SkyZs,VIRTUS PRO,def,Warden,Terd5G,WEIBO,atk,Solid Snake,1,1,SMG-12,gun,1,0,0,,4,2,2v4
+8841,1,chalet,3,226.5,0:28,28,28,Gotti5G,WEIBO,atk,Capitão,Nayqo,VIRTUS PRO,def,Mute,0,1,CLAYMORE,gadget,1,0,0,,3,2,3v2
+8841,1,chalet,3,236.6,0:18,18,18,SkyZs,VIRTUS PRO,def,Warden,Gotti5G,WEIBO,atk,Capitão,1,1,SMG-12,gun,1,0,0,,3,1,1v3
+8841,1,chalet,4,143.4,1:21,81,,Nayqo,VIRTUS PRO,def,Warden,Reeps965G,WEIBO,atk,Capitão,1,0,MPX,gun,1,1,0,,5,5,5v5
+8841,1,chalet,4,152.6,1:12,72,,SkyZs,VIRTUS PRO,def,Azami,SpeakEasy5G,WEIBO,atk,Blackbeard,1,0,9x19VSN,gun,1,0,0,,4,5,5v4
+8841,1,chalet,4,156.4,1:08,68,,Gotti5G,WEIBO,atk,Sens,RORICK,VIRTUS PRO,def,Smoke,0,0,417,gun,1,0,0,,3,5,3v5
+8841,1,chalet,4,167.5,0:57,57,,Gotti5G,WEIBO,atk,Sens,p4sh4,VIRTUS PRO,def,Thorn,1,0,417,gun,1,0,0,,3,4,3v4
+8841,1,chalet,4,170.3,0:54,54,,Hoven5G,WEIBO,atk,Twitch,SkyZs,VIRTUS PRO,def,Azami,0,0,F2,gun,1,0,1,Nayqo,3,3,3v3
+8841,1,chalet,4,177.4,0:47,47,,Nayqo,VIRTUS PRO,def,Warden,Hoven5G,WEIBO,atk,Twitch,1,0,SMG-12,gun,1,0,0,,3,2,2v3
+8841,1,chalet,4,210.2,0:14,14,,Nayqo,VIRTUS PRO,def,Warden,Terd5G,WEIBO,atk,Solid Snake,1,0,MPX,gun,1,0,0,,2,2,2v2
+8841,1,chalet,4,215.2,0:09,9,,Gotti5G,WEIBO,atk,Sens,dan-_-,VIRTUS PRO,def,Kaid,0,0,SDP 9mm,gun,1,0,1,Nayqo,1,2,1v2
+8841,1,chalet,4,222.0,0:03,3,,Nayqo,VIRTUS PRO,def,Warden,Gotti5G,WEIBO,atk,Sens,1,0,MPX,gun,1,0,0,,1,1,1v1
+8841,1,chalet,5,151.4,1:13,73,,Terd5G,WEIBO,atk,Solid Snake,RORICK,VIRTUS PRO,def,Valkyrie,1,0,F2,gun,1,1,1,dan-_-,5,5,5v5
+8841,1,chalet,5,151.8,1:13,73,,dan-_-,VIRTUS PRO,def,Kaid,Terd5G,WEIBO,atk,Solid Snake,1,0,TCSG12,gun,1,0,0,,5,4,4v5
+8841,1,chalet,5,154.3,1:10,70,,Reeps965G,WEIBO,atk,Lion,Nayqo,VIRTUS PRO,def,Azami,1,0,417,gun,1,0,0,,4,4,4v4
+8841,1,chalet,5,195.2,0:29,29,,SpeakEasy5G,WEIBO,atk,Blackbeard,dan-_-,VIRTUS PRO,def,Kaid,0,0,MK17 CQB,gun,1,0,0,,4,3,4v3
+8841,1,chalet,5,195.9,0:29,29,,p4sh4,VIRTUS PRO,def,Solis,Hoven5G,WEIBO,atk,Twitch,0,0,SMG-11,gun,1,0,0,,4,2,2v4
+8841,1,chalet,5,201.8,0:23,23,,SpeakEasy5G,WEIBO,atk,Blackbeard,SkyZs,VIRTUS PRO,def,Fenrir,1,0,MK17 CQB,gun,1,0,0,,3,2,3v2
+8841,1,chalet,5,206.3,0:18,18,,Reeps965G,WEIBO,atk,Lion,p4sh4,VIRTUS PRO,def,Solis,0,0,417,gun,1,0,0,,3,1,3v1
+8841,1,chalet,6,165.2,0:59,59,,dan-_-,VIRTUS PRO,def,Kaid,Reeps965G,WEIBO,atk,Twitch,0,0,NITRO CELL,gadget,1,1,0,,5,5,5v5
+8841,1,chalet,6,168.7,0:56,56,,Nayqo,VIRTUS PRO,def,Mute,Gotti5G,WEIBO,atk,Thatcher,0,0,NITRO CELL,gadget,1,0,0,,4,5,5v4
+8841,1,chalet,6,171.1,0:53,53,,p4sh4,VIRTUS PRO,def,Castle,SpeakEasy5G,WEIBO,atk,Blackbeard,0,0,UMP45,gun,1,0,1,Hoven5G,3,5,5v3
+8841,1,chalet,6,172.9,0:52,52,,Hoven5G,WEIBO,atk,Ace,p4sh4,VIRTUS PRO,def,Castle,1,0,AK-12,gun,1,0,0,,2,5,2v5
+8841,1,chalet,6,211.4,0:13,13,,SkyZs,VIRTUS PRO,def,Warden,Hoven5G,WEIBO,atk,Ace,0,0,M590A1,gun,1,0,0,,2,4,4v2
+8841,1,chalet,6,214.3,0:10,10,,Terd5G,WEIBO,atk,Solid Snake,dan-_-,VIRTUS PRO,def,Kaid,1,0,F2,gun,1,0,1,Nayqo,1,4,1v4
+8841,1,chalet,6,215.4,0:09,9,,Nayqo,VIRTUS PRO,def,Mute,Terd5G,WEIBO,atk,Solid Snake,1,0,SMG-11,gun,1,0,0,,1,3,3v1
+8841,1,chalet,7,96.0,2:08,128,,Hoven5G,WEIBO,def,Noor,p4sh4,VIRTUS PRO,atk,Solid Snake,1,0,COMMANDO 9,gun,1,1,0,,5,5,5v5
+8841,1,chalet,7,126.8,1:38,98,,Reeps965G,WEIBO,def,Thorn,RORICK,VIRTUS PRO,atk,Deimos,0,0,UZK50GI,gun,1,0,0,,4,5,5v4
+8841,1,chalet,7,179.7,0:45,45,,SkyZs,VIRTUS PRO,atk,Grim,Hoven5G,WEIBO,def,Noor,1,0,552 COMMANDO,gun,1,0,0,,3,5,3v5
+8841,1,chalet,7,218.0,0:07,7,,Gotti5G,WEIBO,def,Denari,SkyZs,VIRTUS PRO,atk,Grim,0,0,SCORPION EVO 3 A1,gun,1,0,1,Nayqo,3,4,4v3
+8841,1,chalet,7,220.0,0:04,4,,dan-_-,VIRTUS PRO,atk,Lion,SpeakEasy5G,WEIBO,def,Smoke,0,0,417,gun,1,0,1,Gotti5G,2,4,2v4
+8841,1,chalet,7,220.5,0:04,4,,Gotti5G,WEIBO,def,Denari,dan-_-,VIRTUS PRO,atk,Lion,1,0,SCORPION EVO 3 A1,gun,1,0,1,Nayqo,2,3,3v2
+8841,1,chalet,7,221.0,0:03,3,,Nayqo,VIRTUS PRO,atk,Twitch,Gotti5G,WEIBO,def,Denari,1,0,F2,gun,1,0,0,,1,3,1v3
+8841,1,chalet,8,122.6,1:42,102,,SkyZs,VIRTUS PRO,atk,Grim,Gotti5G,WEIBO,def,Thorn,1,0,552 COMMANDO,gun,1,1,1,Reeps965G,5,5,5v5
+8841,1,chalet,8,125.5,1:39,99,,Reeps965G,WEIBO,def,Warden,SkyZs,VIRTUS PRO,atk,Grim,1,0,MPX,gun,1,0,1,Nayqo,5,4,4v5
+8841,1,chalet,8,132.7,1:32,92,,Nayqo,VIRTUS PRO,atk,Blackbeard,Reeps965G,WEIBO,def,Warden,0,0,MK17 CQB,gun,1,0,0,,4,4,4v4
+8841,1,chalet,8,171.7,0:53,53,,p4sh4,VIRTUS PRO,atk,Nomad,Terd5G,WEIBO,def,Fenrir,1,0,AK-74M,gun,1,0,0,,4,3,4v3
+8841,1,chalet,8,175.7,0:49,49,,Hoven5G,WEIBO,def,Sentry,Nayqo,VIRTUS PRO,atk,Blackbeard,0,0,TCSG12,gun,1,0,1,RORICK,4,2,2v4
+8841,1,chalet,8,177.9,0:47,47,,RORICK,VIRTUS PRO,atk,Twitch,Hoven5G,WEIBO,def,Sentry,0,0,F2,gun,1,0,0,,3,2,3v2
+8841,1,chalet,8,207.9,0:17,17,,p4sh4,VIRTUS PRO,atk,Nomad,SpeakEasy5G,WEIBO,def,Kaid,1,0,AK-74M,gun,1,0,0,,3,1,3v1
+8841,1,chalet,9,107.0,1:58,118,,SkyZs,VIRTUS PRO,atk,Flores,Gotti5G,WEIBO,def,Castle,1,0,AR33,gun,1,1,0,,5,5,5v5
+8841,1,chalet,9,134.1,1:30,90,,RORICK,VIRTUS PRO,atk,Solid Snake,Terd5G,WEIBO,def,Solis,1,0,F2,gun,1,0,0,,5,4,5v4
+8841,1,chalet,9,150.2,1:14,74,,Hoven5G,WEIBO,def,Ela,dan-_-,VIRTUS PRO,atk,Ace,0,0,SCORPION EVO 3 A1,gun,1,0,0,,5,3,3v5
+8841,1,chalet,9,189.0,0:35,35,,SkyZs,VIRTUS PRO,atk,Flores,SpeakEasy5G,WEIBO,def,Smoke,0,0,AR33,gun,1,0,1,Hoven5G,4,3,4v3
+8841,1,chalet,9,192.9,0:32,32,,Hoven5G,WEIBO,def,Ela,SkyZs,VIRTUS PRO,atk,Flores,0,0,SCORPION EVO 3 A1,gun,1,0,0,,4,2,2v4
+8841,1,chalet,9,212.5,0:12,12,,p4sh4,VIRTUS PRO,atk,Ying,Reeps965G,WEIBO,def,Noor,0,0,SIX12,gun,1,0,0,,3,2,3v2
+8841,1,chalet,9,214.7,0:10,10,,RORICK,VIRTUS PRO,atk,Solid Snake,Hoven5G,WEIBO,def,Ela,0,0,F2,gun,1,0,0,,3,1,3v1
+8841,1,chalet,10,167.3,0:57,57,,Nayqo,VIRTUS PRO,atk,Blackbeard,Gotti5G,WEIBO,def,Melusi,0,0,FRAG GRENADE,gadget,1,1,0,,5,5,5v5
+8841,1,chalet,10,204.9,0:20,20,,Terd5G,WEIBO,def,Solis,p4sh4,VIRTUS PRO,atk,Deimos,1,0,P90,gun,1,0,0,,5,4,4v5
+8841,1,chalet,10,205.1,0:19,19,,RORICK,VIRTUS PRO,atk,Thermite,SpeakEasy5G,WEIBO,def,Mute,1,0,556XI,gun,1,0,0,,4,4,4v4
+8841,1,chalet,10,207.7,0:17,17,,SkyZs,VIRTUS PRO,atk,Twitch,Reeps965G,WEIBO,def,Warden,1,0,F2,gun,1,0,0,,4,3,4v3
+8841,1,chalet,10,216.3,0:37,37,37,SkyZs,VIRTUS PRO,atk,Twitch,Hoven5G,WEIBO,def,Denari,1,1,F2,gun,1,0,0,,4,2,4v2
+8841,1,chalet,10,232.8,0:21,21,21,Terd5G,WEIBO,def,Solis,Nayqo,VIRTUS PRO,atk,Blackbeard,1,1,P90,gun,1,0,1,SkyZs,4,1,1v4
+8841,1,chalet,10,238.0,0:15,15,15,SkyZs,VIRTUS PRO,atk,Twitch,Terd5G,WEIBO,def,Solis,0,1,F2,gun,1,0,0,,3,1,3v1
+8841,1,chalet,11,104.7,2:00,120,,Terd5G,WEIBO,def,Ela,p4sh4,VIRTUS PRO,atk,Solid Snake,1,0,SCORPION EVO 3 A1,gun,1,1,0,,5,5,5v5
+8841,1,chalet,11,108.8,1:56,116,,Nayqo,VIRTUS PRO,atk,Deimos,Hoven5G,WEIBO,def,Jäger,0,0,.44 Vendetta,gun,1,0,0,,4,5,4v5
+8841,1,chalet,11,115.4,1:49,109,,Terd5G,WEIBO,def,Ela,RORICK,VIRTUS PRO,atk,Twitch,0,0,SCORPION EVO 3 A1,gun,1,0,0,,4,4,4v4
+8841,1,chalet,11,145.3,1:19,79,,Reeps965G,WEIBO,def,Thorn,Nayqo,VIRTUS PRO,atk,Deimos,1,0,UZK50GI,gun,1,0,0,,3,4,4v3
+8841,1,chalet,11,188.8,0:36,36,,Gotti5G,WEIBO,def,Denari,dan-_-,VIRTUS PRO,atk,Ying,1,0,SCORPION EVO 3 A1,gun,1,0,0,,2,4,4v2
+8841,1,chalet,11,213.3,0:11,11,,SkyZs,VIRTUS PRO,atk,Flores,SpeakEasy5G,WEIBO,def,Smoke,1,0,AR33,gun,1,0,1,Terd5G,1,4,1v4
+8841,1,chalet,11,214.4,0:10,10,,Terd5G,WEIBO,def,Ela,SkyZs,VIRTUS PRO,atk,Flores,0,0,SCORPION EVO 3 A1,gun,1,0,0,,1,3,3v1
+8841,1,chalet,12,133.5,1:31,91,,dan-_-,VIRTUS PRO,atk,Twitch,Gotti5G,WEIBO,def,Castle,0,0,417,gun,1,1,0,,5,5,5v5
+8841,1,chalet,12,142.1,1:22,82,,Hoven5G,WEIBO,def,Ela,SkyZs,VIRTUS PRO,atk,Lion,1,0,SCORPION EVO 3 A1,gun,1,0,0,,5,4,4v5
+8841,1,chalet,12,211.6,0:13,13,,dan-_-,VIRTUS PRO,atk,Twitch,Hoven5G,WEIBO,def,Ela,0,0,417,gun,1,0,0,,4,4,4v4
+8841,1,chalet,12,217.4,0:07,7,,dan-_-,VIRTUS PRO,atk,Twitch,Reeps965G,WEIBO,def,Thorn,0,0,417,gun,1,0,0,,4,3,4v3
+8841,1,chalet,12,221.4,0:03,3,,Terd5G,WEIBO,def,Solis,p4sh4,VIRTUS PRO,atk,Hibana,1,0,P90,gun,1,0,1,RORICK,4,2,2v4
+8841,1,chalet,12,222.3,0:02,2,,RORICK,VIRTUS PRO,atk,Deimos,Terd5G,WEIBO,def,Solis,1,0,AK-74M,gun,1,0,1,SpeakEasy5G,3,2,3v2
+8841,1,chalet,12,230.0,0:40,40,40,SpeakEasy5G,WEIBO,def,Smoke,RORICK,VIRTUS PRO,atk,Deimos,0,1,SMG-11,gun,1,0,0,,3,1,1v3
+8841,1,chalet,12,236.5,0:34,34,34,SpeakEasy5G,WEIBO,def,Smoke,Nayqo,VIRTUS PRO,atk,Blackbeard,0,1,SMG-11,gun,1,0,0,,2,1,1v2
+8841,1,chalet,12,243.8,0:26,26,26,SpeakEasy5G,WEIBO,def,Smoke,dan-_-,VIRTUS PRO,atk,Twitch,0,1,M590A1,gun,1,0,0,,1,1,1v1
+8841,1,chalet,13,117.8,1:47,107,,Gotti5G,WEIBO,def,Denari,SkyZs,VIRTUS PRO,atk,Deimos,1,0,SCORPION EVO 3 A1,gun,1,1,1,Nayqo,5,5,5v5
+8841,1,chalet,13,119.8,1:45,105,,SpeakEasy5G,WEIBO,def,Smoke,p4sh4,VIRTUS PRO,atk,IQ,0,0,SMG-11,gun,1,0,1,dan-_-,4,5,5v4
+8841,1,chalet,13,120.1,1:44,104,,Nayqo,VIRTUS PRO,atk,Blitz,Gotti5G,WEIBO,def,Denari,0,0,P12,gun,1,0,0,,3,5,3v5
+8841,1,chalet,13,122.6,1:42,102,,dan-_-,VIRTUS PRO,atk,Lion,SpeakEasy5G,WEIBO,def,Smoke,0,0,417,gun,1,0,0,,3,4,3v4
+8841,1,chalet,13,130.5,1:34,94,,dan-_-,VIRTUS PRO,atk,Lion,Reeps965G,WEIBO,def,Thorn,0,0,417,gun,1,0,0,,3,3,3v3
+8841,1,chalet,13,148.3,1:16,76,,Terd5G,WEIBO,def,Ela,dan-_-,VIRTUS PRO,atk,Lion,1,0,SCORPION EVO 3 A1,gun,1,0,0,,3,2,2v3
+8841,1,chalet,13,187.8,0:37,37,,Terd5G,WEIBO,def,Ela,RORICK,VIRTUS PRO,atk,Ying,1,0,SCORPION EVO 3 A1,gun,1,0,0,,2,2,2v2
+8841,1,chalet,13,210.3,0:43,43,43,Terd5G,WEIBO,def,Ela,Nayqo,VIRTUS PRO,atk,Blitz,1,1,SCORPION EVO 3 A1,gun,1,0,0,,1,2,2v1
+8841,1,chalet,14,125.2,1:39,99,,RORICK,VIRTUS PRO,def,Mute,Reeps965G,WEIBO,atk,Dokkaebi,1,0,SMG-11,gun,1,1,1,Terd5G,5,5,5v5
+8841,1,chalet,14,125.8,1:39,99,,Terd5G,WEIBO,atk,Solid Snake,RORICK,VIRTUS PRO,def,Mute,1,0,F2,gun,1,0,0,,4,5,4v5
+8841,1,chalet,14,150.7,1:14,74,,p4sh4,VIRTUS PRO,def,Thorn,Hoven5G,WEIBO,atk,Lion,1,0,UZK50GI,gun,1,0,0,,4,4,4v4
+8841,1,chalet,14,151.0,1:13,73,,SkyZs,VIRTUS PRO,def,Azami,SpeakEasy5G,WEIBO,atk,Blitz,1,0,9x19VSN,gun,1,0,1,Terd5G,3,4,4v3
+8841,1,chalet,14,154.6,1:10,70,,Terd5G,WEIBO,atk,Solid Snake,dan-_-,VIRTUS PRO,def,Kaid,0,0,F2,gun,1,0,1,p4sh4,2,4,2v4
+8841,1,chalet,14,156.3,1:08,68,,Terd5G,WEIBO,atk,Solid Snake,SkyZs,VIRTUS PRO,def,Azami,1,0,F2,gun,1,0,1,p4sh4,2,3,2v3
+8841,1,chalet,14,157.8,1:07,67,,Gotti5G,WEIBO,atk,Sledge,Nayqo,VIRTUS PRO,def,Warden,1,0,L85A2,gun,1,0,0,,2,2,2v2
+8841,1,chalet,14,159.8,1:05,65,,p4sh4,VIRTUS PRO,def,Thorn,Terd5G,WEIBO,atk,Solid Snake,0,0,UZK50GI,gun,1,0,0,,2,1,1v2
+8841,1,chalet,14,205.8,0:19,19,,p4sh4,VIRTUS PRO,def,Thorn,Gotti5G,WEIBO,atk,Sledge,1,0,UZK50GI,gun,1,0,0,,1,1,1v1
+8841,1,chalet,15,132.9,1:32,92,,Nayqo,VIRTUS PRO,atk,Blitz,Gotti5G,WEIBO,def,Castle,1,0,P12,gun,1,1,0,,5,5,5v5
+8841,1,chalet,15,135.2,1:29,89,,Reeps965G,WEIBO,def,Mute,dan-_-,VIRTUS PRO,atk,Sens,1,0,M590A1,gun,1,0,0,,5,4,4v5
+8841,1,chalet,15,167.6,0:57,57,,Hoven5G,WEIBO,def,Ela,RORICK,VIRTUS PRO,atk,Solid Snake,0,0,RG15,gun,1,0,0,,4,4,4v4
+8841,1,chalet,15,171.0,0:53,53,,Nayqo,VIRTUS PRO,atk,Blitz,Reeps965G,WEIBO,def,Mute,0,0,P12,gun,1,0,0,,3,4,3v4
+8841,1,chalet,15,211.3,0:13,13,,SkyZs,VIRTUS PRO,atk,Flores,Hoven5G,WEIBO,def,Ela,0,0,AR33,gun,1,0,0,,3,3,3v3
+8841,1,chalet,15,224.4,0:00,0,,Terd5G,WEIBO,def,Solis,Nayqo,VIRTUS PRO,atk,Blitz,0,0,P90,gun,1,0,0,,3,2,2v3
+8841,2,fortress,1,160.4,1:04,64,,Reeps965G,WEIBO,def,Ela,RORICK,VIRTUS PRO,atk,Deimos,0,0,SCORPION EVO 3 A1,gun,1,1,0,,5,5,5v5
+8841,2,fortress,1,174.3,0:50,50,,Nayqo,VIRTUS PRO,atk,Blitz,SpeakEasy5G,WEIBO,def,Warden,1,0,P12,gun,1,0,0,,4,5,4v5
+8841,2,fortress,1,175.8,0:49,49,,Reeps965G,WEIBO,def,Ela,dan-_-,VIRTUS PRO,atk,Flores,1,0,SCORPION EVO 3 A1,gun,1,0,1,p4sh4,4,4,4v4
+8841,2,fortress,1,176.7,0:48,48,,Nayqo,VIRTUS PRO,atk,Blitz,Gotti5G,WEIBO,def,Smoke,0,0,P12,gun,1,0,0,,3,4,3v4
+8841,2,fortress,1,179.4,0:45,45,,p4sh4,VIRTUS PRO,atk,Solid Snake,Reeps965G,WEIBO,def,Ela,0,0,F2,gun,1,0,0,,3,3,3v3
+8841,2,fortress,1,191.9,0:33,33,,Hoven5G,WEIBO,def,Goyo,p4sh4,VIRTUS PRO,atk,Solid Snake,0,0,TCSG12,gun,1,0,1,SkyZs,3,2,2v3
+8841,2,fortress,1,192.1,0:32,32,,SkyZs,VIRTUS PRO,atk,Grim,Terd5G,WEIBO,def,Azami,1,0,552 COMMANDO,gun,1,0,0,,2,2,2v2
+8841,2,fortress,1,194.1,0:30,30,,SkyZs,VIRTUS PRO,atk,Grim,Hoven5G,WEIBO,def,Goyo,1,0,552 COMMANDO,gun,1,0,0,,2,1,2v1
+8841,2,fortress,2,143.1,1:21,81,,Terd5G,WEIBO,def,Mute,Nayqo,VIRTUS PRO,atk,Blitz,0,0,NITRO CELL,gadget,1,1,0,,5,5,5v5
+8841,2,fortress,2,144.4,1:20,80,,dan-_-,VIRTUS PRO,atk,Flores,Hoven5G,WEIBO,def,Kaid,0,0,SR-25,gun,1,0,0,,4,5,4v5
+8841,2,fortress,2,208.1,0:16,16,,SpeakEasy5G,WEIBO,def,Noor,RORICK,VIRTUS PRO,atk,Kali,0,0,ALDA 556,gun,1,0,1,p4sh4,4,4,4v4
+8841,2,fortress,2,210.2,0:14,14,,p4sh4,VIRTUS PRO,atk,Nomad,SpeakEasy5G,WEIBO,def,Noor,0,0,AK-74M,gun,1,0,1,Terd5G,3,4,3v4
+8841,2,fortress,2,210.7,0:14,14,,Reeps965G,WEIBO,def,Thorn,dan-_-,VIRTUS PRO,atk,Flores,1,0,UZK50GI,gun,1,0,1,SkyZs,3,3,3v3
+8841,2,fortress,2,214.8,0:10,10,,Terd5G,WEIBO,def,Mute,p4sh4,VIRTUS PRO,atk,Nomad,0,0,SMG-11,gun,1,0,0,,2,3,3v2
+8841,2,fortress,2,215.1,0:09,9,,SkyZs,VIRTUS PRO,atk,Ace,Reeps965G,WEIBO,def,Thorn,1,0,AK-12,gun,1,0,1,Gotti5G,1,3,1v3
+8841,2,fortress,2,217.8,0:07,7,,Gotti5G,WEIBO,def,Smoke,SkyZs,VIRTUS PRO,atk,Ace,0,0,SMG-11,gun,1,0,0,,1,2,2v1
+8841,2,fortress,3,180.9,0:44,44,,RORICK,VIRTUS PRO,atk,Grim,Terd5G,WEIBO,def,Thorn,1,0,552 COMMANDO,gun,1,1,0,,5,5,5v5
+8841,2,fortress,3,182.7,0:42,42,,SkyZs,VIRTUS PRO,atk,Gridlock,Gotti5G,WEIBO,def,Smoke,0,0,F90,gun,1,0,0,,5,4,5v4
+8841,2,fortress,3,184.2,0:43,43,43,Reeps965G,WEIBO,def,Ela,p4sh4,VIRTUS PRO,atk,Rauora,1,1,SCORPION EVO 3 A1,gun,1,0,0,,5,3,3v5
+8841,2,fortress,3,187.5,0:40,40,40,RORICK,VIRTUS PRO,atk,Grim,SpeakEasy5G,WEIBO,def,Azami,0,1,552 COMMANDO,gun,1,0,0,,4,3,4v3
+8841,2,fortress,3,188.0,0:40,40,40,Hoven5G,WEIBO,def,Goyo,dan-_-,VIRTUS PRO,atk,Thatcher,0,1,TCSG12,gun,1,0,0,,4,2,2v4
+8841,2,fortress,3,205.6,0:22,22,22,Hoven5G,WEIBO,def,Goyo,SkyZs,VIRTUS PRO,atk,Gridlock,0,1,TCSG12,gun,1,0,1,Nayqo,3,2,2v3
+8841,2,fortress,3,209.3,0:18,18,18,Nayqo,VIRTUS PRO,atk,Solid Snake,Hoven5G,WEIBO,def,Goyo,0,1,F2,gun,1,0,0,,2,2,2v2
+8841,2,fortress,3,209.3,0:18,18,18,RORICK,VIRTUS PRO,atk,Grim,Reeps965G,WEIBO,def,Ela,0,1,552 COMMANDO,gun,1,0,0,,2,1,2v1
+8841,2,fortress,4,116.0,1:49,109,,Terd5G,WEIBO,def,Thorn,p4sh4,VIRTUS PRO,atk,Lion,1,0,UZK50GI,gun,1,1,0,,5,5,5v5
+8841,2,fortress,4,183.4,0:41,41,,RORICK,VIRTUS PRO,atk,Ace,Gotti5G,WEIBO,def,Smoke,0,0,AK-12,gun,1,0,0,,4,5,4v5
+8841,2,fortress,4,183.9,0:41,41,,Hoven5G,WEIBO,def,Goyo,Nayqo,VIRTUS PRO,atk,Blitz,0,0,TCSG12,gun,1,0,1,dan-_-,4,4,4v4
+8841,2,fortress,4,184.5,0:40,40,,dan-_-,VIRTUS PRO,atk,Twitch,Hoven5G,WEIBO,def,Goyo,1,0,F2,gun,1,0,0,,3,4,3v4
+8841,2,fortress,4,205.9,0:19,19,,RORICK,VIRTUS PRO,atk,Ace,Terd5G,WEIBO,def,Thorn,1,0,AK-12,gun,1,0,0,,3,3,3v3
+8841,2,fortress,4,208.6,0:16,16,,dan-_-,VIRTUS PRO,atk,Twitch,SpeakEasy5G,WEIBO,def,Mira,1,0,F2,gun,1,0,0,,3,2,3v2
+8841,2,fortress,4,208.6,0:16,16,,RORICK,VIRTUS PRO,atk,Ace,Reeps965G,WEIBO,def,Ela,0,0,AK-12,gun,1,0,0,,3,1,3v1
+8841,2,fortress,5,115.4,1:49,109,,SpeakEasy5G,WEIBO,def,Bandit,SkyZs,VIRTUS PRO,atk,Ace,0,0,NITRO CELL,gadget,1,1,0,,5,5,5v5
+8841,2,fortress,5,136.9,1:28,88,,SpeakEasy5G,WEIBO,def,Bandit,RORICK,VIRTUS PRO,atk,Deimos,1,0,MP7,gun,1,0,0,,4,5,5v4
+8841,2,fortress,5,145.0,1:19,79,,SpeakEasy5G,WEIBO,def,Bandit,p4sh4,VIRTUS PRO,atk,Striker,0,0,MP7,gun,1,0,0,,3,5,5v3
+8841,2,fortress,5,145.6,1:19,79,,SpeakEasy5G,WEIBO,def,Bandit,Nayqo,VIRTUS PRO,atk,Blitz,1,0,MP7,gun,1,0,0,,2,5,5v2
+8841,2,fortress,5,147.0,1:18,78,,SpeakEasy5G,WEIBO,def,Bandit,dan-_-,VIRTUS PRO,atk,Flores,1,0,MP7,gun,1,0,0,,1,5,5v1
+8841,2,fortress,6,132.6,1:32,92,,Gotti5G,WEIBO,def,Smoke,dan-_-,VIRTUS PRO,atk,Flores,0,0,SMG-11,gun,1,1,1,p4sh4,5,5,5v5
+8841,2,fortress,6,135.6,1:29,89,,Terd5G,WEIBO,def,Goyo,Nayqo,VIRTUS PRO,atk,Blitz,1,0,VECTOR .45 ACP,gun,1,0,1,RORICK,4,5,5v4
+8841,2,fortress,6,136.8,1:28,88,,p4sh4,VIRTUS PRO,atk,Striker,Gotti5G,WEIBO,def,Smoke,0,0,M4,gun,1,0,1,Terd5G,3,5,3v5
+8841,2,fortress,6,137.4,1:27,87,,Terd5G,WEIBO,def,Goyo,p4sh4,VIRTUS PRO,atk,Striker,1,0,VECTOR .45 ACP,gun,1,0,1,RORICK,3,4,4v3
+8841,2,fortress,6,139.6,1:25,85,,RORICK,VIRTUS PRO,atk,Deimos,Terd5G,WEIBO,def,Goyo,1,0,AK-74M,gun,1,0,0,,2,4,2v4
+8841,2,fortress,6,169.7,0:55,55,,SkyZs,VIRTUS PRO,atk,Ace,SpeakEasy5G,WEIBO,def,Ela,1,0,AK-12,gun,1,0,0,,2,3,2v3
+8841,2,fortress,6,170.9,0:54,54,,SkyZs,VIRTUS PRO,atk,Ace,Hoven5G,WEIBO,def,Bandit,1,0,AK-12,gun,1,0,0,,2,2,2v2
+8841,2,fortress,6,185.8,0:39,39,,SkyZs,VIRTUS PRO,atk,Ace,Reeps965G,WEIBO,def,Thorn,1,0,AK-12,gun,1,0,0,,2,1,2v1
+8841,2,fortress,7,156.9,1:08,68,,Reeps965G,WEIBO,atk,Dokkaebi,dan-_-,VIRTUS PRO,def,Noor,0,0,XK23,gun,1,1,0,,5,5,5v5
+8841,2,fortress,7,184.4,0:40,40,,RORICK,VIRTUS PRO,def,Smoke,Reeps965G,WEIBO,atk,Dokkaebi,0,0,SMG-11,gun,1,0,1,Hoven5G,5,4,4v5
+8841,2,fortress,7,188.5,0:36,36,,Reeps965G,WEIBO,atk,Dokkaebi,p4sh4,VIRTUS PRO,def,Wamai,0,0,FIRE,fire,1,0,0,,4,4,4v4
+8841,2,fortress,7,191.9,0:33,33,,Hoven5G,WEIBO,atk,Flores,RORICK,VIRTUS PRO,def,Smoke,0,0,AR33,gun,1,0,0,,4,3,4v3
+8841,2,fortress,7,192.2,0:32,32,,Terd5G,WEIBO,atk,Solid Snake,Nayqo,VIRTUS PRO,def,Tubarão,1,0,F2,gun,1,0,0,,4,2,4v2
+8841,2,fortress,7,196.0,0:28,28,,SkyZs,VIRTUS PRO,def,Azami,SpeakEasy5G,WEIBO,atk,Capitão,0,0,9x19VSN,gun,1,0,0,,4,1,1v4
+8841,2,fortress,7,215.2,0:36,36,36,Terd5G,WEIBO,atk,Solid Snake,SkyZs,VIRTUS PRO,def,Azami,1,1,F2,gun,1,0,0,,3,1,3v1
+8841,2,fortress,8,91.0,2:14,134,,p4sh4,VIRTUS PRO,def,Tubarão,Terd5G,WEIBO,atk,Solid Snake,1,0,MPX,gun,1,1,0,,5,5,5v5
+8841,2,fortress,8,160.2,1:04,64,,Hoven5G,WEIBO,atk,Ace,dan-_-,VIRTUS PRO,def,Melusi,1,0,AK-12,gun,1,0,0,,4,5,4v5
+8841,2,fortress,8,204.0,0:21,21,,Reeps965G,WEIBO,atk,Flores,p4sh4,VIRTUS PRO,def,Tubarão,0,0,AR33,gun,1,0,1,SkyZs,4,4,4v4
+8841,2,fortress,8,211.6,0:13,13,,SkyZs,VIRTUS PRO,def,Noor,Reeps965G,WEIBO,atk,Flores,1,0,COMMANDO 9,gun,1,0,0,,4,3,3v4
+8841,2,fortress,8,213.8,0:11,11,,RORICK,VIRTUS PRO,def,Warden,Hoven5G,WEIBO,atk,Ace,1,0,SMG-12,gun,1,0,1,SpeakEasy5G,3,3,3v3
+8841,2,fortress,8,218.8,0:06,6,,SpeakEasy5G,WEIBO,atk,Ram,RORICK,VIRTUS PRO,def,Warden,1,0,R4-C,gun,1,0,0,,2,3,2v3
+8841,2,fortress,8,222.9,0:02,2,,SpeakEasy5G,WEIBO,atk,Ram,Nayqo,VIRTUS PRO,def,Azami,1,0,R4-C,gun,1,0,0,,2,2,2v2
+8841,2,fortress,8,223.6,0:01,1,,SkyZs,VIRTUS PRO,def,Noor,Gotti5G,WEIBO,atk,Grim,1,0,COMMANDO 9,gun,1,0,0,,2,1,1v2
+8841,2,fortress,9,159.3,1:05,65,,dan-_-,VIRTUS PRO,def,Tubarão,Reeps965G,WEIBO,atk,Flores,1,0,MPX,gun,1,1,0,,5,5,5v5
+8841,2,fortress,9,169.1,0:55,55,,SpeakEasy5G,WEIBO,atk,Maverick,p4sh4,VIRTUS PRO,def,Noor,0,0,FRAG GRENADE,gadget,1,0,0,,4,5,4v5
+8841,2,fortress,9,184.1,0:40,40,,Hoven5G,WEIBO,atk,Lion,Nayqo,VIRTUS PRO,def,Wamai,1,0,417,gun,1,0,0,,4,4,4v4
+8841,2,fortress,9,214.4,0:10,10,,SkyZs,VIRTUS PRO,def,Azami,SpeakEasy5G,WEIBO,atk,Maverick,1,0,9x19VSN,gun,1,0,0,,4,3,3v4
+8841,2,fortress,9,215.5,0:09,9,,SkyZs,VIRTUS PRO,def,Azami,Gotti5G,WEIBO,atk,Ace,1,0,9x19VSN,gun,1,0,0,,3,3,3v3
+8841,2,fortress,9,217.6,0:07,7,,RORICK,VIRTUS PRO,def,Smoke,Terd5G,WEIBO,atk,Solid Snake,0,0,SMG-11,gun,1,0,0,,2,3,3v2
+8841,2,fortress,9,221.0,0:04,4,,SkyZs,VIRTUS PRO,def,Azami,Hoven5G,WEIBO,atk,Lion,0,0,9x19VSN,gun,1,0,0,,1,3,3v1
+8841,2,fortress,10,99.5,2:05,125,,Reeps965G,WEIBO,atk,Twitch,Nayqo,VIRTUS PRO,def,Goyo,0,0,417,gun,1,1,1,RORICK,5,5,5v5
+8841,2,fortress,10,100.2,2:04,124,,Reeps965G,WEIBO,atk,Twitch,p4sh4,VIRTUS PRO,def,Wamai,0,0,417,gun,1,0,1,RORICK,5,4,5v4
+8841,2,fortress,10,103.4,2:01,121,,RORICK,VIRTUS PRO,def,Smoke,Reeps965G,WEIBO,atk,Twitch,0,0,SMG-11,gun,1,0,1,Terd5G,5,3,3v5
+8841,2,fortress,10,113.0,1:51,111,,Terd5G,WEIBO,atk,Ash,RORICK,VIRTUS PRO,def,Smoke,1,0,R4-C,gun,1,0,0,,4,3,4v3
+8841,2,fortress,10,116.0,1:48,108,,Terd5G,WEIBO,atk,Ash,dan-_-,VIRTUS PRO,def,Tachanka,0,0,R4-C,gun,1,0,0,,4,2,4v2
+8841,2,fortress,10,129.9,1:35,95,,Terd5G,WEIBO,atk,Ash,SkyZs,VIRTUS PRO,def,Azami,1,0,R4-C,gun,1,0,0,,4,1,4v1
+8841,2,fortress,11,98.9,2:06,126,,SkyZs,VIRTUS PRO,def,Smoke,Terd5G,WEIBO,atk,Grim,0,0,SMG-11,gun,1,1,0,,5,5,5v5
+8841,2,fortress,11,131.9,1:33,93,,SkyZs,VIRTUS PRO,def,Smoke,SpeakEasy5G,WEIBO,atk,Blackbeard,0,0,SMG-11,gun,1,0,1,Hoven5G,4,5,5v4
+8841,2,fortress,11,134.3,1:30,90,,Nayqo,VIRTUS PRO,def,Azami,Reeps965G,WEIBO,atk,Flores,1,0,9x19VSN,gun,1,0,0,,3,5,5v3
+8841,2,fortress,11,135.8,1:29,89,,Hoven5G,WEIBO,atk,Dokkaebi,SkyZs,VIRTUS PRO,def,Smoke,0,0,FIRE,fire,1,0,0,,2,5,2v5
+8841,2,fortress,11,196.3,0:28,28,,Gotti5G,WEIBO,atk,Ace,RORICK,VIRTUS PRO,def,Warden,1,0,AK-12,gun,1,0,0,,2,4,2v4
+8841,2,fortress,11,202.9,0:22,22,,Hoven5G,WEIBO,atk,Dokkaebi,dan-_-,VIRTUS PRO,def,Castle,0,0,XK23,gun,1,0,0,,2,3,2v3
+8841,2,fortress,11,213.8,0:11,11,,Gotti5G,WEIBO,atk,Ace,Nayqo,VIRTUS PRO,def,Azami,0,0,AK-12,gun,1,0,0,,2,2,2v2
+8841,2,fortress,11,225.0,0:00,0,,Hoven5G,WEIBO,atk,Dokkaebi,p4sh4,VIRTUS PRO,def,Wamai,0,0,XK23,gun,1,0,0,,2,1,2v1
+8841,2,fortress,12,186.2,0:38,38,,Terd5G,WEIBO,atk,Ash,RORICK,VIRTUS PRO,def,Smoke,1,0,R4-C,gun,1,1,0,,5,5,5v5
+8841,2,fortress,12,195.8,0:29,29,,SpeakEasy5G,WEIBO,atk,Montagne,p4sh4,VIRTUS PRO,def,Ela,1,0,P9,gun,1,0,0,,5,4,5v4
+8841,2,fortress,12,199.6,0:25,25,,SkyZs,VIRTUS PRO,def,Thorn,Terd5G,WEIBO,atk,Ash,1,0,UZK50GI,gun,1,0,1,Hoven5G,5,3,3v5
+8841,2,fortress,12,203.7,0:21,21,,Hoven5G,WEIBO,atk,Grim,SkyZs,VIRTUS PRO,def,Thorn,0,0,552 COMMANDO,gun,1,0,0,,4,3,4v3
+8841,2,fortress,12,204.1,0:20,20,,dan-_-,VIRTUS PRO,def,Sentry,Reeps965G,WEIBO,atk,Flores,0,0,C75 Auto,gun,1,0,0,,4,2,2v4
+8841,2,fortress,12,217.8,0:07,7,,Nayqo,VIRTUS PRO,def,Goyo,Gotti5G,WEIBO,atk,Ace,0,0,TCSG12,gun,1,0,0,,3,2,2v3
+8841,2,fortress,12,219.5,0:05,5,,dan-_-,VIRTUS PRO,def,Sentry,SpeakEasy5G,WEIBO,atk,Montagne,0,0,NITRO CELL,gadget,1,0,0,,2,2,2v2
+8841,2,fortress,12,219.5,0:05,5,,dan-_-,VIRTUS PRO,def,Sentry,Hoven5G,WEIBO,atk,Grim,0,0,NITRO CELL,gadget,1,0,0,,1,2,2v1
+8841,3,bank,1,104.5,2:00,120,,RORICK,VIRTUS PRO,def,Sentry,SpeakEasy5G,WEIBO,atk,Osa,0,0,NITRO CELL,gadget,1,1,1,Hoven5G,5,5,5v5
+8841,3,bank,1,111.3,1:53,113,,Hoven5G,WEIBO,atk,Thatcher,RORICK,VIRTUS PRO,def,Sentry,1,0,PMR90A2,gun,1,0,0,,4,5,4v5
+8841,3,bank,1,132.2,1:32,92,,SkyZs,VIRTUS PRO,def,Goyo,Terd5G,WEIBO,atk,Solid Snake,0,0,TCSG12,gun,1,0,0,,4,4,4v4
+8841,3,bank,1,152.5,1:12,72,,p4sh4,VIRTUS PRO,def,Fenrir,Reeps965G,WEIBO,atk,IQ,0,0,MP7,gun,1,0,0,,3,4,4v3
+8841,3,bank,1,196.9,0:28,28,,p4sh4,VIRTUS PRO,def,Fenrir,Gotti5G,WEIBO,atk,Nomad,1,0,MP7,gun,1,0,0,,2,4,4v2
+8841,3,bank,1,199.9,0:25,25,,p4sh4,VIRTUS PRO,def,Fenrir,Hoven5G,WEIBO,atk,Thatcher,0,0,MP7,gun,1,0,0,,1,4,4v1
+8841,3,bank,2,148.7,1:16,76,,dan-_-,VIRTUS PRO,def,Sentry,Hoven5G,WEIBO,atk,Twitch,0,0,TCSG12,gun,1,1,1,Terd5G,5,5,5v5
+8841,3,bank,2,153.3,1:11,71,,Terd5G,WEIBO,atk,Glaz,dan-_-,VIRTUS PRO,def,Sentry,0,0,OTs-03,gun,1,0,0,,4,5,4v5
+8841,3,bank,2,156.3,1:08,68,,Reeps965G,WEIBO,atk,Nomad,SkyZs,VIRTUS PRO,def,Solis,0,0,AK-74M,gun,1,0,0,,4,4,4v4
+8841,3,bank,2,191.2,0:33,33,,RORICK,VIRTUS PRO,def,Thorn,Gotti5G,WEIBO,atk,Grim,1,0,UZK50GI,gun,1,0,0,,4,3,3v4
+8841,3,bank,2,196.0,0:29,29,,RORICK,VIRTUS PRO,def,Thorn,SpeakEasy5G,WEIBO,atk,Kali,1,0,UZK50GI,gun,1,0,0,,3,3,3v3
+8841,3,bank,2,202.4,0:22,22,,Nayqo,VIRTUS PRO,def,Echo,Reeps965G,WEIBO,atk,Nomad,1,0,MP5SD,gun,1,0,0,,2,3,3v2
+8841,3,bank,2,222.2,0:02,2,,Terd5G,WEIBO,atk,Glaz,Nayqo,VIRTUS PRO,def,Echo,1,0,OTs-03,gun,1,0,0,,1,3,1v3
+8841,3,bank,3,130.7,1:34,94,,dan-_-,VIRTUS PRO,def,Noor,Gotti5G,WEIBO,atk,Grim,1,0,COMMANDO 9,gun,1,1,0,,5,5,5v5
+8841,3,bank,3,136.2,1:28,88,,Hoven5G,WEIBO,atk,Ram,SkyZs,VIRTUS PRO,def,Mute,1,0,R4-C,gun,1,0,1,Nayqo,4,5,4v5
+8841,3,bank,3,143.0,1:21,81,,Nayqo,VIRTUS PRO,def,Castle,Hoven5G,WEIBO,atk,Ram,1,0,UMP45,gun,1,0,0,,4,4,4v4
+8841,3,bank,3,198.6,0:26,26,,RORICK,VIRTUS PRO,def,Thorn,SpeakEasy5G,WEIBO,atk,Capitão,0,0,UZK50GI,gun,1,0,0,,3,4,4v3
+8841,3,bank,3,203.1,0:21,21,,Nayqo,VIRTUS PRO,def,Castle,Terd5G,WEIBO,atk,Glaz,1,0,UMP45,gun,1,0,0,,2,4,4v2
+8841,3,bank,3,206.4,0:18,18,,p4sh4,VIRTUS PRO,def,Smoke,Reeps965G,WEIBO,atk,Flores,0,0,SMG-11,gun,1,0,0,,1,4,4v1
+8841,3,bank,4,101.0,2:03,123,,p4sh4,VIRTUS PRO,def,Fenrir,Terd5G,WEIBO,atk,Dokkaebi,1,0,MP7,gun,1,1,0,,5,5,5v5
+8841,3,bank,4,124.3,1:40,100,,dan-_-,VIRTUS PRO,def,Goyo,SpeakEasy5G,WEIBO,atk,Blitz,0,0,TCSG12,gun,1,0,1,Reeps965G,4,5,5v4
+8841,3,bank,4,134.2,1:30,90,,Reeps965G,WEIBO,atk,Striker,dan-_-,VIRTUS PRO,def,Goyo,1,0,M4,gun,1,0,0,,3,5,3v5
+8841,3,bank,4,142.6,1:22,82,,RORICK,VIRTUS PRO,def,Valkyrie,Gotti5G,WEIBO,atk,Ying,0,0,NITRO CELL,gadget,1,0,0,,3,4,4v3
+8841,3,bank,4,170.6,0:54,54,,Nayqo,VIRTUS PRO,def,Smoke,Hoven5G,WEIBO,atk,Deimos,0,0,M590A1,gun,1,0,0,,2,4,4v2
+8841,3,bank,4,171.5,0:53,53,,SkyZs,VIRTUS PRO,def,Vigil,Reeps965G,WEIBO,atk,Striker,1,0,SMG-12,gun,1,0,0,,1,4,4v1
+8841,3,bank,5,143.0,1:21,81,,RORICK,VIRTUS PRO,def,Thorn,Reeps965G,WEIBO,atk,IQ,0,0,UZK50GI,gun,1,1,0,,5,5,5v5
+8841,3,bank,5,143.1,1:21,81,,SkyZs,VIRTUS PRO,def,Warden,SpeakEasy5G,WEIBO,atk,Blitz,0,0,NITRO CELL,gadget,1,0,0,,4,5,5v4
+8841,3,bank,5,143.7,1:21,81,,dan-_-,VIRTUS PRO,def,Kaid,Hoven5G,WEIBO,atk,Kali,1,0,TCSG12,gun,1,0,0,,3,5,5v3
+8841,3,bank,5,149.2,1:15,75,,SkyZs,VIRTUS PRO,def,Warden,Gotti5G,WEIBO,atk,Capitão,1,0,MPX,gun,1,0,0,,2,5,5v2
+8841,3,bank,5,159.4,1:05,65,,RORICK,VIRTUS PRO,def,Thorn,Terd5G,WEIBO,atk,Flores,0,0,UZK50GI,gun,1,0,0,,1,5,5v1
+8841,3,bank,6,82.6,2:22,142,,SkyZs,VIRTUS PRO,def,Mute,Gotti5G,WEIBO,atk,Grim,1,0,SMG-11,gun,1,1,0,,5,5,5v5
+8841,3,bank,6,88.4,2:16,136,,SpeakEasy5G,WEIBO,atk,Blackbeard,RORICK,VIRTUS PRO,def,Thorn,0,0,MK17 CQB,gun,1,0,1,p4sh4,4,5,4v5
+8841,3,bank,6,90.1,2:14,134,,Hoven5G,WEIBO,atk,Sledge,dan-_-,VIRTUS PRO,def,Castle,1,0,L85A2,gun,1,0,0,,4,4,4v4
+8841,3,bank,6,94.6,2:10,130,,p4sh4,VIRTUS PRO,def,Smoke,SpeakEasy5G,WEIBO,atk,Blackbeard,0,0,SMG-11,gun,1,0,0,,4,3,3v4
+8841,3,bank,6,187.7,0:37,37,,p4sh4,VIRTUS PRO,def,Smoke,Terd5G,WEIBO,atk,Deimos,0,0,SMG-11,gun,1,0,0,,3,3,3v3
+8841,3,bank,6,191.0,0:34,34,,SkyZs,VIRTUS PRO,def,Mute,Reeps965G,WEIBO,atk,Flores,0,0,SMG-11,gun,1,0,0,,2,3,3v2
+8841,3,bank,6,192.3,0:32,32,,Nayqo,VIRTUS PRO,def,Mira,Hoven5G,WEIBO,atk,Sledge,0,0,VECTOR .45 ACP,gun,1,0,0,,1,3,3v1
+8841,3,bank,7,166.8,0:58,58,,Nayqo,VIRTUS PRO,atk,Blitz,Reeps965G,WEIBO,def,Smoke,0,0,P12,gun,1,1,0,,5,5,5v5
+8841,3,bank,7,172.6,0:52,52,,SkyZs,VIRTUS PRO,atk,Grim,Terd5G,WEIBO,def,Wamai,0,0,552 COMMANDO,gun,1,0,0,,5,4,5v4
+8841,3,bank,7,187.0,0:37,37,,p4sh4,VIRTUS PRO,atk,Twitch,Hoven5G,WEIBO,def,Noor,0,0,F2,gun,1,0,0,,5,3,5v3
+8841,3,bank,7,192.1,0:32,32,,SkyZs,VIRTUS PRO,atk,Grim,SpeakEasy5G,WEIBO,def,Tubarão,1,0,552 COMMANDO,gun,1,0,0,,5,2,5v2
+8841,3,bank,7,196.6,0:28,28,,Gotti5G,WEIBO,def,Fenrir,dan-_-,VIRTUS PRO,atk,Striker,1,0,MP7,gun,1,0,1,SkyZs,5,1,1v5
+8841,3,bank,7,196.7,0:28,28,,SkyZs,VIRTUS PRO,atk,Grim,Gotti5G,WEIBO,def,Fenrir,1,0,552 COMMANDO,gun,1,0,0,,4,1,4v1

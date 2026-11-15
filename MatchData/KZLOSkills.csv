@@ -1,0 +1,117 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+8849,1,clubhouse,1,108.3,1:56,116,,Sunset,KINGZERO,atk,Lion,Nuxxga,LOS,def,Thorn,0,0,417,gun,1,1,0,,5,5,5v5
+8849,1,clubhouse,1,113.0,1:51,111,,MomoRiNs,KINGZERO,atk,Deimos,peres,LOS,def,Mute,1,0,AK-74M,gun,1,0,0,,5,4,5v4
+8849,1,clubhouse,1,145.1,1:19,79,,Daffo,LOS,def,Goyo,KzB,KINGZERO,atk,Striker,1,0,TCSG12,gun,1,0,0,,5,3,3v5
+8849,1,clubhouse,1,155.3,1:09,69,,Dodez,LOS,def,Azami,MomoRiNs,KINGZERO,atk,Deimos,0,0,9x19VSN,gun,1,0,0,,4,3,3v4
+8849,1,clubhouse,1,157.8,1:07,67,,Daffo,LOS,def,Goyo,lian,KINGZERO,atk,Grim,0,0,TCSG12,gun,1,0,0,,3,3,3v3
+8849,1,clubhouse,1,215.4,0:09,9,,Fiber,KINGZERO,atk,Twitch,dash,LOS,def,Mozzie,1,0,417,gun,1,0,1,Daffo,2,3,2v3
+8849,1,clubhouse,1,220.1,0:04,4,,Daffo,LOS,def,Goyo,Fiber,KINGZERO,atk,Twitch,0,0,TCSG12,gun,1,0,0,,2,2,2v2
+8849,1,clubhouse,1,221.9,0:03,3,,Daffo,LOS,def,Goyo,Sunset,KINGZERO,atk,Lion,0,0,TCSG12,gun,1,0,0,,1,2,2v1
+8849,1,clubhouse,2,144.7,1:20,80,,dash,LOS,def,Smoke,KzB,KINGZERO,atk,Solid Snake,1,0,SMG-11,gun,1,1,0,,5,5,5v5
+8849,1,clubhouse,2,145.8,1:19,79,,peres,LOS,def,Goyo,Fiber,KINGZERO,atk,Striker,1,0,TCSG12,gun,1,0,0,,4,5,5v4
+8849,1,clubhouse,2,173.2,0:51,51,,lian,KINGZERO,atk,Thermite,dash,LOS,def,Smoke,0,0,556XI,gun,1,0,0,,3,5,3v5
+8849,1,clubhouse,2,177.6,0:47,47,,Daffo,LOS,def,Thorn,Sunset,KINGZERO,atk,Zofia,1,0,C75 Auto,gun,1,0,0,,3,4,4v3
+8849,1,clubhouse,2,189.0,0:36,36,,peres,LOS,def,Goyo,MomoRiNs,KINGZERO,atk,Grim,0,0,TCSG12,gun,1,0,0,,2,4,4v2
+8849,1,clubhouse,2,198.0,0:27,27,,lian,KINGZERO,atk,Thermite,Dodez,LOS,def,Azami,1,0,556XI,gun,1,0,1,Daffo,1,4,1v4
+8849,1,clubhouse,2,204.7,0:20,20,,Daffo,LOS,def,Thorn,lian,KINGZERO,atk,Thermite,0,0,UZK50GI,gun,1,0,0,,1,3,3v1
+8849,1,clubhouse,3,128.3,1:36,96,,Fiber,KINGZERO,atk,Lion,dash,LOS,def,Tubarão,0,0,417,gun,1,1,1,Daffo,5,5,5v5
+8849,1,clubhouse,3,128.9,1:36,96,,Nuxxga,LOS,def,Fenrir,MomoRiNs,KINGZERO,atk,Flores,1,0,MP7,gun,1,0,0,,5,4,4v5
+8849,1,clubhouse,3,131.8,1:33,93,,Daffo,LOS,def,Azami,Fiber,KINGZERO,atk,Lion,0,0,9x19VSN,gun,1,0,0,,4,4,4v4
+8849,1,clubhouse,3,141.1,1:23,83,,lian,KINGZERO,atk,Thermite,Dodez,LOS,def,Mira,1,0,556XI,gun,1,0,0,,3,4,3v4
+8849,1,clubhouse,3,158.7,1:06,66,,KzB,KINGZERO,atk,Zofia,Daffo,LOS,def,Azami,0,0,,unknown,0,0,0,,3,3,3v3
+8849,1,clubhouse,4,107.0,1:57,117,,Dodez,LOS,def,Wamai,MomoRiNs,KINGZERO,atk,Montagne,1,0,MP5K,gun,1,1,0,,5,5,5v5
+8849,1,clubhouse,4,108.0,1:56,116,,Dodez,LOS,def,Wamai,lian,KINGZERO,atk,Grim,1,0,MP5K,gun,1,0,0,,4,5,5v4
+8849,1,clubhouse,4,110.1,1:54,114,,Fiber,KINGZERO,atk,Sens,peres,LOS,def,Azami,1,0,417,gun,1,0,0,,3,5,3v5
+8849,1,clubhouse,4,123.8,1:41,101,,dash,LOS,def,Mute,KzB,KINGZERO,atk,Buck,0,0,SMG-11,gun,1,0,0,,3,4,4v3
+8849,1,clubhouse,4,156.4,1:08,68,,Daffo,LOS,def,Goyo,Sunset,KINGZERO,atk,Capitão,0,0,TCSG12,gun,1,0,0,,2,4,4v2
+8849,1,clubhouse,4,160.8,1:04,64,,dash,LOS,def,Mute,Fiber,KINGZERO,atk,Sens,0,0,M590A1,gun,1,0,0,,1,4,4v1
+8849,1,clubhouse,5,120.1,1:44,104,,Daffo,LOS,def,Thorn,KzB,KINGZERO,atk,Glaz,1,0,UZK50GI,gun,1,1,0,,5,5,5v5
+8849,1,clubhouse,5,126.9,1:38,98,,Nuxxga,LOS,def,Echo,MomoRiNs,KINGZERO,atk,Solid Snake,1,0,MP5SD,gun,1,0,0,,4,5,5v4
+8849,1,clubhouse,5,163.0,1:02,62,,Dodez,LOS,def,Azami,lian,KINGZERO,atk,Zofia,1,0,9x19VSN,gun,1,0,0,,3,5,5v3
+8849,1,clubhouse,5,165.6,0:59,59,,Fiber,KINGZERO,atk,Lion,Daffo,LOS,def,Thorn,1,0,417,gun,1,0,1,Dodez,2,5,2v5
+8849,1,clubhouse,5,168.4,0:56,56,,peres,LOS,def,Goyo,Sunset,KINGZERO,atk,Ying,0,0,TCSG12,gun,1,0,0,,2,4,4v2
+8849,1,clubhouse,5,169.8,0:55,55,,Dodez,LOS,def,Azami,Fiber,KINGZERO,atk,Lion,0,0,9x19VSN,gun,1,0,0,,1,4,4v1
+8849,1,clubhouse,6,169.6,0:55,55,,Fiber,KINGZERO,atk,Sens,Daffo,LOS,def,Azami,0,0,417,gun,1,1,0,,5,5,5v5
+8849,1,clubhouse,6,180.8,0:44,44,,peres,LOS,def,Wamai,MomoRiNs,KINGZERO,atk,Capitão,0,0,MP5K,gun,1,0,1,Fiber,5,4,4v5
+8849,1,clubhouse,6,181.1,0:43,43,,lian,KINGZERO,atk,Grim,Nuxxga,LOS,def,Fenrir,0,0,552 COMMANDO,gun,1,0,1,dash,4,4,4v4
+8849,1,clubhouse,6,181.4,0:43,43,,dash,LOS,def,Melusi,lian,KINGZERO,atk,Grim,1,0,MP5,gun,1,0,0,,4,3,3v4
+8849,1,clubhouse,6,181.5,0:43,43,,Fiber,KINGZERO,atk,Sens,peres,LOS,def,Wamai,0,0,417,gun,1,0,0,,3,3,3v3
+8849,1,clubhouse,6,185.0,0:40,40,,dash,LOS,def,Melusi,Sunset,KINGZERO,atk,Glaz,0,0,MP5,gun,1,0,0,,3,2,2v3
+8849,1,clubhouse,6,188.4,0:36,36,,Dodez,LOS,def,Warden,KzB,KINGZERO,atk,Zofia,1,0,MPX,gun,1,0,0,,2,2,2v2
+8849,1,clubhouse,6,193.6,0:31,31,,dash,LOS,def,Melusi,Fiber,KINGZERO,atk,Sens,0,0,MP5,gun,1,0,0,,1,2,2v1
+8849,1,clubhouse,7,92.2,2:12,132,,Sunset,KINGZERO,def,Azami,peres,LOS,atk,Solid Snake,0,0,9x19VSN,gun,1,1,0,,5,5,5v5
+8849,1,clubhouse,7,94.2,2:10,130,,Sunset,KINGZERO,def,Azami,dash,LOS,atk,Zofia,1,0,9x19VSN,gun,1,0,0,,4,5,5v4
+8849,1,clubhouse,7,114.8,1:50,110,,Daffo,LOS,atk,Nomad,Fiber,KINGZERO,def,Goyo,1,0,AK-74M,gun,1,0,1,MomoRiNs,3,5,3v5
+8849,1,clubhouse,7,118.0,1:47,107,,MomoRiNs,KINGZERO,def,Mute,Nuxxga,LOS,atk,Blackbeard,0,0,NITRO CELL,gadget,1,0,0,,3,4,4v3
+8849,1,clubhouse,7,120.9,1:44,104,,MomoRiNs,KINGZERO,def,Mute,Daffo,LOS,atk,Nomad,1,0,SMG-11,gun,1,0,0,,2,4,4v2
+8849,1,clubhouse,7,183.7,0:41,41,,Dodez,LOS,atk,Grim,MomoRiNs,KINGZERO,def,Mute,1,0,552 COMMANDO,gun,1,0,1,lian,1,4,1v4
+8849,1,clubhouse,7,185.0,0:40,40,,lian,KINGZERO,def,Wamai,Dodez,LOS,atk,Grim,0,0,MP5K,gun,1,0,0,,1,3,3v1
+8849,1,clubhouse,8,88.2,2:16,136,,MomoRiNs,KINGZERO,def,Wamai,Nuxxga,LOS,atk,Blackbeard,0,0,NITRO CELL,gadget,1,1,0,,5,5,5v5
+8849,1,clubhouse,8,144.0,1:20,80,,Dodez,LOS,atk,Sens,MomoRiNs,KINGZERO,def,Wamai,0,0,417,gun,1,0,0,,4,5,4v5
+8849,1,clubhouse,8,165.7,0:59,59,,lian,KINGZERO,def,Mira,peres,LOS,atk,Ash,1,0,VECTOR .45 ACP,gun,1,0,0,,4,4,4v4
+8849,1,clubhouse,8,174.9,0:50,50,,lian,KINGZERO,def,Mira,Daffo,LOS,atk,Hibana,1,0,VECTOR .45 ACP,gun,1,0,0,,3,4,4v3
+8849,1,clubhouse,8,176.9,0:48,48,,Sunset,KINGZERO,def,Thorn,Dodez,LOS,atk,Sens,0,0,UZK50GI,gun,1,0,0,,2,4,4v2
+8849,1,clubhouse,8,193.4,0:31,31,,Sunset,KINGZERO,def,Thorn,dash,LOS,atk,Zofia,1,0,UZK50GI,gun,1,0,0,,1,4,4v1
+8849,1,clubhouse,9,153.1,1:11,71,,lian,KINGZERO,def,Azami,Nuxxga,LOS,atk,Thermite,1,0,9x19VSN,gun,1,1,1,Daffo,5,5,5v5
+8849,1,clubhouse,9,154.8,1:10,70,,Daffo,LOS,atk,Hibana,lian,KINGZERO,def,Azami,1,0,PMR90A2,gun,1,0,0,,4,5,4v5
+8849,1,clubhouse,9,156.4,1:08,68,,MomoRiNs,KINGZERO,def,Thorn,peres,LOS,atk,Zofia,0,0,UZK50GI,gun,1,0,0,,4,4,4v4
+8849,1,clubhouse,9,167.2,0:57,57,,Dodez,LOS,atk,Solid Snake,MomoRiNs,KINGZERO,def,Thorn,1,0,F2,gun,1,0,0,,3,4,3v4
+8849,1,clubhouse,9,168.5,0:56,56,,dash,LOS,atk,Grim,Fiber,KINGZERO,def,Smoke,0,0,552 COMMANDO,gun,1,0,0,,3,3,3v3
+8849,1,clubhouse,9,169.3,0:55,55,,Daffo,LOS,atk,Hibana,KzB,KINGZERO,def,Wamai,0,0,BEARING 9,gun,1,0,0,,3,2,3v2
+8849,1,clubhouse,9,175.7,0:49,49,,Dodez,LOS,atk,Solid Snake,Sunset,KINGZERO,def,Ela,1,0,F2,gun,1,0,0,,3,1,3v1
+8849,2,border,1,119.0,1:46,106,,Nuxxga,LOS,atk,Ace,MomoRiNs,KINGZERO,def,Goyo,0,0,AK-12,gun,1,1,0,,5,5,5v5
+8849,2,border,1,147.0,1:17,77,,Sunset,KINGZERO,def,Warden,Daffo,LOS,atk,Twitch,0,0,MPX,gun,1,0,0,,5,4,4v5
+8849,2,border,1,184.8,0:40,40,,dash,LOS,atk,Striker,Sunset,KINGZERO,def,Warden,0,0,M4,gun,1,0,1,Fiber,4,4,4v4
+8849,2,border,1,190.8,0:34,34,,Fiber,KINGZERO,def,Mute,dash,LOS,atk,Striker,0,0,M590A1,gun,1,0,1,Nuxxga,4,3,3v4
+8849,2,border,1,193.1,0:31,31,,Nuxxga,LOS,atk,Ace,Fiber,KINGZERO,def,Mute,0,0,AK-12,gun,1,0,0,,3,3,3v3
+8849,2,border,1,194.3,0:30,30,,Dodez,LOS,atk,Lion,KzB,KINGZERO,def,Thorn,0,0,417,gun,1,0,0,,3,2,3v2
+8849,2,border,1,194.5,0:30,30,,Nuxxga,LOS,atk,Ace,lian,KINGZERO,def,Solis,1,0,AK-12,gun,1,0,0,,3,1,3v1
+8849,2,border,2,74.1,2:30,150,,KzB,KINGZERO,def,Valkyrie,peres,LOS,atk,IQ,1,0,MPX,gun,1,1,0,,5,5,5v5
+8849,2,border,2,126.9,1:38,98,,dash,LOS,atk,Ram,MomoRiNs,KINGZERO,def,Goyo,1,0,R4-C,gun,1,0,0,,4,5,4v5
+8849,2,border,2,134.9,1:30,90,,Daffo,LOS,atk,Thatcher,Sunset,KINGZERO,def,Warden,1,0,PMR90A2,gun,1,0,0,,4,4,4v4
+8849,2,border,2,163.3,1:01,61,,Dodez,LOS,atk,Dokkaebi,lian,KINGZERO,def,Smoke,1,0,XK23,gun,1,0,0,,4,3,4v3
+8849,2,border,2,172.2,0:52,52,,Fiber,KINGZERO,def,Kaid,Nuxxga,LOS,atk,Hibana,1,0,TCSG12,gun,1,0,0,,4,2,2v4
+8849,2,border,2,173.7,0:51,51,,Dodez,LOS,atk,Dokkaebi,KzB,KINGZERO,def,Valkyrie,1,0,XK23,gun,1,0,1,Fiber,3,2,3v2
+8849,2,border,2,175.2,0:49,49,,Fiber,KINGZERO,def,Kaid,Dodez,LOS,atk,Dokkaebi,1,0,TCSG12,gun,1,0,0,,3,1,1v3
+8849,2,border,2,177.4,0:47,47,,Fiber,KINGZERO,def,Kaid,Daffo,LOS,atk,Thatcher,1,0,TCSG12,gun,1,0,0,,2,1,1v2
+8849,2,border,2,187.3,0:37,37,,Fiber,KINGZERO,def,Kaid,dash,LOS,atk,Ram,0,0,TCSG12,gun,1,0,0,,1,1,1v1
+8849,2,border,3,104.5,2:00,120,,peres,LOS,atk,Nomad,MomoRiNs,KINGZERO,def,Fenrir,1,0,AK-74M,gun,1,1,0,,5,5,5v5
+8849,2,border,3,141.9,1:23,83,,peres,LOS,atk,Nomad,lian,KINGZERO,def,Solis,1,0,AK-74M,gun,1,0,0,,5,4,5v4
+8849,2,border,3,154.5,1:10,70,,Fiber,KINGZERO,def,Mute,dash,LOS,atk,Deimos,1,0,SMG-11,gun,1,0,0,,5,3,3v5
+8849,2,border,3,159.3,1:05,65,,peres,LOS,atk,Nomad,KzB,KINGZERO,def,Tubarão,1,0,AK-74M,gun,1,0,0,,4,3,4v3
+8849,2,border,3,207.6,0:39,39,39,Fiber,KINGZERO,def,Mute,Dodez,LOS,atk,Dokkaebi,1,1,SMG-11,gun,1,0,1,Daffo,4,2,2v4
+8849,2,border,3,209.2,0:37,37,37,peres,LOS,atk,Nomad,Sunset,KINGZERO,def,Ela,0,1,AK-74M,gun,1,0,0,,3,2,3v2
+8849,2,border,3,209.7,0:37,37,37,Daffo,LOS,atk,Twitch,Fiber,KINGZERO,def,Mute,0,1,417,gun,1,0,0,,3,1,3v1
+8849,2,border,4,105.1,1:59,119,,MomoRiNs,KINGZERO,def,Sentry,dash,LOS,atk,Blitz,0,0,NITRO CELL,gadget,1,1,1,Dodez,5,5,5v5
+8849,2,border,4,105.1,1:59,119,,Fiber,KINGZERO,def,Mute,peres,LOS,atk,Ash,0,0,NITRO CELL,gadget,1,0,0,,4,5,5v4
+8849,2,border,4,105.2,1:59,119,,Dodez,LOS,atk,Finka,MomoRiNs,KINGZERO,def,Sentry,1,0,6P41,gun,1,0,0,,3,5,3v5
+8849,2,border,4,111.9,1:53,113,,Daffo,LOS,atk,Twitch,KzB,KINGZERO,def,Ela,1,0,417,gun,1,0,0,,3,4,3v4
+8849,2,border,4,125.8,1:39,99,,Daffo,LOS,atk,Twitch,Fiber,KINGZERO,def,Mute,1,0,417,gun,1,0,0,,3,3,3v3
+8849,2,border,4,127.2,1:37,97,,Sunset,KINGZERO,def,Goyo,Dodez,LOS,atk,Finka,1,0,P229,gun,1,0,1,Daffo,3,2,2v3
+8849,2,border,4,127.2,1:37,97,,Daffo,LOS,atk,Twitch,lian,KINGZERO,def,Solis,0,0,417,gun,1,0,0,,2,2,2v2
+8849,2,border,4,134.6,1:30,90,,Daffo,LOS,atk,Twitch,Sunset,KINGZERO,def,Goyo,0,0,P9,gun,1,0,0,,2,1,2v1
+8849,2,border,5,125.3,1:39,99,,Daffo,LOS,atk,Thatcher,Sunset,KINGZERO,def,Ela,1,0,PMR90A2,gun,1,1,0,,5,5,5v5
+8849,2,border,5,126.4,1:38,98,,dash,LOS,atk,Ram,KzB,KINGZERO,def,Tubarão,0,0,R4-C,gun,1,0,0,,5,4,5v4
+8849,2,border,5,126.9,1:38,98,,dash,LOS,atk,Ram,MomoRiNs,KINGZERO,def,Jäger,0,0,R4-C,gun,1,0,0,,5,3,5v3
+8849,2,border,5,170.1,0:54,54,,Fiber,KINGZERO,def,Kaid,peres,LOS,atk,Deimos,0,0,TCSG12,gun,1,0,0,,5,2,2v5
+8849,2,border,5,182.7,0:42,42,,Dodez,LOS,atk,IQ,lian,KINGZERO,def,Smoke,0,0,552 COMMANDO,gun,1,0,0,,4,2,4v2
+8849,2,border,5,185.3,0:39,39,,Dodez,LOS,atk,IQ,Fiber,KINGZERO,def,Kaid,1,0,552 COMMANDO,gun,1,0,0,,4,1,4v1
+8849,2,border,6,72.5,2:32,152,,peres,LOS,atk,Striker,Fiber,KINGZERO,def,Ela,0,0,M4,gun,1,1,0,,5,5,5v5
+8849,2,border,6,142.2,1:22,82,,Dodez,LOS,atk,Deimos,KzB,KINGZERO,def,Tubarão,1,0,AK-74M,gun,1,0,0,,5,4,5v4
+8849,2,border,6,146.5,1:18,78,,Nuxxga,LOS,atk,Ace,MomoRiNs,KINGZERO,def,Smoke,0,0,AK-12,gun,1,0,0,,5,3,5v3
+8849,2,border,6,146.6,1:18,78,,Dodez,LOS,atk,Deimos,lian,KINGZERO,def,Solis,0,0,AK-74M,gun,1,0,0,,5,2,5v2
+8849,2,border,6,146.7,1:18,78,,Daffo,LOS,atk,Twitch,Sunset,KINGZERO,def,Warden,0,0,417,gun,1,0,0,,5,1,5v1
+8849,2,border,7,97.2,2:07,127,,Sunset,KINGZERO,atk,Kali,Dodez,LOS,def,Ela,0,0,CSRX300,gun,1,1,0,,5,5,5v5
+8849,2,border,7,115.8,1:49,109,,Daffo,LOS,def,Kaid,lian,KINGZERO,atk,Nomad,0,0,TCSG12,gun,1,0,0,,5,4,4v5
+8849,2,border,7,140.2,1:24,84,,Nuxxga,LOS,def,Mute,Fiber,KINGZERO,atk,Solid Snake,0,0,NITRO CELL,gadget,1,0,0,,4,4,4v4
+8849,2,border,7,196.6,0:28,28,,Daffo,LOS,def,Kaid,MomoRiNs,KINGZERO,atk,Grim,1,0,TCSG12,gun,1,0,0,,3,4,4v3
+8849,2,border,7,214.2,0:10,10,,Sunset,KINGZERO,atk,Kali,dash,LOS,def,Azami,1,0,CSRX300,gun,1,0,1,peres,2,4,2v4
+8849,2,border,7,219.8,0:05,5,,peres,LOS,def,Thorn,KzB,KINGZERO,atk,Deimos,1,0,UZK50GI,gun,1,0,0,,2,3,3v2
+8849,2,border,7,221.1,0:03,3,,peres,LOS,def,Thorn,Sunset,KINGZERO,atk,Kali,0,0,UZK50GI,gun,1,0,0,,1,3,3v1
+8849,2,border,8,77.7,2:27,147,,Dodez,LOS,def,Solis,MomoRiNs,KINGZERO,atk,Lion,1,0,SMG-11,gun,1,1,1,lian,5,5,5v5
+8849,2,border,8,78.4,2:26,146,,lian,KINGZERO,atk,Nomad,Dodez,LOS,def,Solis,1,0,AK-74M,gun,1,0,0,,4,5,4v5
+8849,2,border,8,119.6,1:45,105,,peres,LOS,def,Thorn,lian,KINGZERO,atk,Nomad,1,0,UZK50GI,gun,1,0,0,,4,4,4v4
+8849,2,border,8,123.9,1:41,101,,peres,LOS,def,Thorn,Fiber,KINGZERO,atk,Ace,1,0,UZK50GI,gun,1,0,0,,3,4,4v3
+8849,2,border,8,131.5,1:33,93,,Sunset,KINGZERO,atk,Kali,dash,LOS,def,Azami,0,0,CSRX300,gun,1,0,0,,2,4,2v4
+8849,2,border,8,143.7,1:21,81,,Nuxxga,LOS,def,Melusi,KzB,KINGZERO,atk,Buck,0,0,MP5,gun,1,0,0,,2,3,3v2
+8849,2,border,8,164.9,1:00,60,,Daffo,LOS,def,Warden,Sunset,KINGZERO,atk,Kali,1,0,SMG-12,gun,1,0,0,,1,3,3v1

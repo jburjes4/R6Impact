@@ -1,0 +1,87 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+8860,1,border,1,96.6,2:08,128,,Dodez,LOS,atk,Dokkaebi,Gaveni,M80,def,Ela,1,0,XK23,gun,1,1,0,,5,5,5v5
+8860,1,border,1,158.1,1:06,66,,Gunna,M80,def,Mute,Daffo,LOS,atk,Twitch,1,0,SMG-11,gun,1,0,1,peres,5,4,4v5
+8860,1,border,1,158.4,1:06,66,,peres,LOS,atk,Solid Snake,Gunna,M80,def,Mute,0,0,F2,gun,1,0,0,,4,4,4v4
+8860,1,border,1,160.1,1:04,64,,Dodez,LOS,atk,Dokkaebi,dfuzr,M80,def,Smoke,1,0,XK23,gun,1,0,0,,4,3,4v3
+8860,1,border,1,161.4,1:03,63,,Savage,M80,def,Warden,dash,LOS,atk,Striker,0,0,NITRO CELL,gadget,1,0,0,,4,2,2v4
+8860,1,border,1,209.4,0:15,15,,Nuxxga,LOS,atk,Ace,Savage,M80,def,Warden,1,0,AK-12,gun,1,0,0,,3,2,3v2
+8860,1,border,1,209.6,0:15,15,,Dodez,LOS,atk,Dokkaebi,Ashn,M80,def,Thorn,1,0,XK23,gun,1,0,0,,3,1,3v1
+8860,1,border,2,71.3,2:33,153,,peres,LOS,atk,Solid Snake,dfuzr,M80,def,Smoke,1,0,F2,gun,1,1,0,,5,5,5v5
+8860,1,border,2,85.3,2:19,139,,Gaveni,M80,def,Ela,Nuxxga,LOS,atk,Ace,1,0,SCORPION EVO 3 A1,gun,1,0,0,,5,4,4v5
+8860,1,border,2,91.2,2:13,133,,Gunna,M80,def,Pulse,peres,LOS,atk,Solid Snake,0,0,NITRO CELL,gadget,1,0,0,,4,4,4v4
+8860,1,border,2,109.4,1:55,115,,Daffo,LOS,atk,Lion,Ashn,M80,def,Thorn,0,0,417,gun,1,0,0,,3,4,3v4
+8860,1,border,2,109.6,1:55,115,,Savage,M80,def,Solis,Dodez,LOS,atk,Twitch,1,0,SMG-11,gun,1,0,0,,3,3,3v3
+8860,1,border,2,220.1,0:04,4,,Gunna,M80,def,Pulse,dash,LOS,atk,Striker,0,0,Reaper MK2,gun,1,0,0,,2,3,3v2
+8860,1,border,2,221.0,0:04,4,,Savage,M80,def,Solis,Daffo,LOS,atk,Lion,0,0,SMG-11,gun,1,0,0,,1,3,3v1
+8860,1,border,3,98.9,2:06,126,,Gunna,M80,def,Valkyrie,peres,LOS,atk,Solid Snake,0,0,NITRO CELL,gadget,1,1,0,,5,5,5v5
+8860,1,border,3,148.8,1:16,76,,Savage,M80,def,Solis,dash,LOS,atk,Striker,1,0,SMG-11,gun,1,0,1,Daffo,4,5,5v4
+8860,1,border,3,154.1,1:10,70,,Daffo,LOS,atk,Twitch,Savage,M80,def,Solis,0,0,417,gun,1,0,0,,3,5,3v5
+8860,1,border,3,200.4,0:41,41,41,Dodez,LOS,atk,IQ,Ashn,M80,def,Pulse,1,1,552 COMMANDO,gun,1,0,1,Gunna,3,4,3v4
+8860,1,border,3,201.4,0:40,40,40,Gunna,M80,def,Valkyrie,Dodez,LOS,atk,IQ,1,1,MPX,gun,1,0,0,,3,3,3v3
+8860,1,border,3,212.7,0:29,29,29,Nuxxga,LOS,atk,Ace,Gaveni,M80,def,Ela,0,1,AK-12,gun,1,0,0,,2,3,2v3
+8860,1,border,3,223.3,0:18,18,18,Nuxxga,LOS,atk,Ace,Gunna,M80,def,Valkyrie,1,1,AK-12,gun,1,0,0,,2,2,2v2
+8860,1,border,3,224.7,0:17,17,17,Nuxxga,LOS,atk,Ace,dfuzr,M80,def,Smoke,1,1,AK-12,gun,1,0,0,,2,1,2v1
+8860,1,border,4,84.2,2:20,140,,Daffo,LOS,atk,Twitch,Savage,M80,def,Mira,1,0,417,gun,1,1,0,,5,5,5v5
+8860,1,border,4,123.3,1:41,101,,peres,LOS,atk,Striker,dfuzr,M80,def,Sentry,0,0,FRAG GRENADE,gadget,1,0,0,,5,4,5v4
+8860,1,border,4,131.6,1:33,93,,Ashn,M80,def,Mute,dash,LOS,atk,Lion,1,0,SMG-11,gun,1,0,0,,5,3,3v5
+8860,1,border,4,132.8,1:32,92,,Nuxxga,LOS,atk,Ace,Gaveni,M80,def,Ela,0,0,CLAYMORE,gadget,1,0,0,,4,3,4v3
+8860,1,border,4,176.8,0:48,48,,Gunna,M80,def,Goyo,peres,LOS,atk,Striker,0,0,TCSG12,gun,1,0,0,,4,2,2v4
+8860,1,border,4,191.1,0:33,33,,Ashn,M80,def,Mute,Nuxxga,LOS,atk,Ace,1,0,SMG-11,gun,1,0,0,,3,2,2v3
+8860,1,border,4,198.0,0:27,27,,Ashn,M80,def,Mute,Daffo,LOS,atk,Twitch,1,0,SMG-11,gun,1,0,0,,2,2,2v2
+8860,1,border,4,200.5,0:24,24,,Ashn,M80,def,Mute,Dodez,LOS,atk,Dokkaebi,0,0,M590A1,gun,1,0,0,,1,2,2v1
+8860,1,border,5,99.1,2:05,125,,peres,LOS,atk,Ace,Gaveni,M80,def,Ela,0,0,AK-12,gun,1,1,0,,5,5,5v5
+8860,1,border,5,120.9,1:44,104,,peres,LOS,atk,Ace,Savage,M80,def,Solis,0,0,AK-12,gun,1,0,0,,5,4,5v4
+8860,1,border,5,127.8,1:37,97,,Dodez,LOS,atk,Gridlock,dfuzr,M80,def,Smoke,0,0,F90,gun,1,0,1,Gunna,5,3,5v3
+8860,1,border,5,129.9,1:35,95,,Dodez,LOS,atk,Gridlock,Ashn,M80,def,Melusi,1,0,F90,gun,1,0,1,Gunna,5,2,5v2
+8860,1,border,5,130.0,1:34,94,,Gunna,M80,def,Mute,Dodez,LOS,atk,Gridlock,0,0,SMG-11,gun,1,0,0,,5,1,1v5
+8860,1,border,5,136.1,1:28,88,,Gunna,M80,def,Mute,peres,LOS,atk,Ace,0,0,M590A1,gun,1,0,0,,4,1,1v4
+8860,1,border,5,153.2,1:11,71,,dash,LOS,atk,Buck,Gunna,M80,def,Mute,1,0,C8-SFW,gun,1,0,0,,3,1,3v1
+8860,1,border,6,101.0,2:04,124,,Dodez,LOS,atk,Dokkaebi,Ashn,M80,def,Kaid,0,0,FIRE,fire,1,1,0,,5,5,5v5
+8860,1,border,6,103.4,2:01,121,,Savage,M80,def,Solis,Daffo,LOS,atk,Lion,1,0,SMG-11,gun,1,0,1,Dodez,5,4,4v5
+8860,1,border,6,105.2,1:59,119,,Gunna,M80,def,Warden,dash,LOS,atk,Deimos,1,0,MPX,gun,1,0,0,,4,4,4v4
+8860,1,border,6,111.8,1:53,113,,Dodez,LOS,atk,Dokkaebi,Savage,M80,def,Solis,0,0,XK23,gun,1,0,0,,3,4,3v4
+8860,1,border,6,128.5,1:36,96,,Dodez,LOS,atk,Dokkaebi,Gaveni,M80,def,Ela,0,0,XK23,gun,1,0,0,,3,3,3v3
+8860,1,border,6,152.3,1:12,72,,dfuzr,M80,def,Smoke,Dodez,LOS,atk,Dokkaebi,1,0,SMG-11,gun,1,0,0,,3,2,2v3
+8860,1,border,6,156.8,1:08,68,,peres,LOS,atk,Ace,Gunna,M80,def,Warden,0,0,AK-12,gun,1,0,0,,2,2,2v2
+8860,1,border,6,181.8,0:43,43,,peres,LOS,atk,Ace,dfuzr,M80,def,Smoke,0,0,AK-12,gun,1,0,0,,2,1,2v1
+8860,1,border,7,104.4,2:00,120,,Daffo,LOS,def,Mira,Gaveni,M80,atk,Ying,1,0,VECTOR .45 ACP,gun,1,1,1,dfuzr,5,5,5v5
+8860,1,border,7,110.3,1:54,114,,dfuzr,M80,atk,Deimos,Daffo,LOS,def,Mira,0,0,FRAG GRENADE,gadget,1,0,0,,4,5,4v5
+8860,1,border,7,112.0,1:52,112,,Ashn,M80,atk,Twitch,Nuxxga,LOS,def,Mute,0,0,417,gun,1,0,0,,4,4,4v4
+8860,1,border,7,122.8,0:38,38,38,Ashn,M80,atk,Twitch,dash,LOS,def,Sentry,1,1,417,gun,1,0,0,,4,3,4v3
+8860,1,border,7,135.6,0:26,26,26,peres,LOS,def,Thorn,Savage,M80,atk,Montagne,0,1,UZK50GI,gun,1,0,0,,4,2,2v4
+8860,1,border,7,139.2,0:22,22,22,peres,LOS,def,Thorn,Ashn,M80,atk,Twitch,1,1,UZK50GI,gun,1,0,0,,3,2,2v3
+8860,1,border,7,152.5,0:09,9,9,Gunna,M80,atk,Thatcher,Dodez,LOS,def,Ela,1,1,L85A2,gun,1,0,0,,2,2,2v2
+8860,1,border,7,158.6,0:03,3,3,Gunna,M80,atk,Thatcher,peres,LOS,def,Thorn,1,1,L85A2,gun,1,0,0,,2,1,2v1
+8860,1,border,8,71.5,2:33,153,,Savage,M80,atk,Deimos,Dodez,LOS,def,Solis,0,0,.44 Vendetta,gun,1,1,0,,5,5,5v5
+8860,1,border,8,72.9,2:32,152,,Nuxxga,LOS,def,Melusi,dfuzr,M80,atk,Capitão,1,0,MP5,gun,1,0,1,dfuzr,5,4,4v5
+8860,1,border,8,79.4,2:25,145,,dfuzr,M80,atk,Capitão,Nuxxga,LOS,def,Melusi,0,0,CLAYMORE,gadget,1,0,0,,4,4,4v4
+8860,1,border,8,169.6,0:55,55,,Gunna,M80,atk,Ying,Daffo,LOS,def,Smoke,0,0,SIX12,gun,1,0,0,,4,3,4v3
+8860,1,border,8,190.3,0:34,34,,Savage,M80,atk,Deimos,dash,LOS,def,Sentry,1,0,AK-74M,gun,1,0,0,,4,2,4v2
+8860,1,border,8,204.7,0:20,20,,Savage,M80,atk,Deimos,peres,LOS,def,Ela,0,0,AK-74M,gun,1,0,0,,4,1,4v1
+8860,1,border,9,137.5,1:27,87,,peres,LOS,def,Thorn,Savage,M80,atk,Twitch,1,0,UZK50GI,gun,1,1,0,,5,5,5v5
+8860,1,border,9,151.3,1:13,73,,Dodez,LOS,def,Ela,Gunna,M80,atk,Solid Snake,0,0,SCORPION EVO 3 A1,gun,1,0,0,,4,5,5v4
+8860,1,border,9,152.3,1:12,72,,Gaveni,M80,atk,Nomad,Daffo,LOS,def,Goyo,1,0,ARX200,gun,1,0,1,Dodez,3,5,3v5
+8860,1,border,9,154.6,1:10,70,,dfuzr,M80,atk,Deimos,peres,LOS,def,Thorn,0,0,.44 Vendetta,gun,1,0,0,,3,4,3v4
+8860,1,border,9,160.6,1:04,64,,Dodez,LOS,def,Ela,Gaveni,M80,atk,Nomad,0,0,SCORPION EVO 3 A1,gun,1,0,1,dfuzr,3,3,3v3
+8860,1,border,9,162.2,1:02,62,,dfuzr,M80,atk,Deimos,Dodez,LOS,def,Ela,0,0,.44 Vendetta,gun,1,0,1,dash,2,3,2v3
+8860,1,border,9,167.0,0:58,58,,Nuxxga,LOS,def,Mute,Ashn,M80,atk,Lion,0,0,SMG-11,gun,1,0,0,,2,2,2v2
+8860,1,border,9,167.0,0:58,58,,dash,LOS,def,Sentry,dfuzr,M80,atk,Deimos,0,0,TCSG12,gun,1,0,0,,1,2,2v1
+8860,1,border,10,100.9,2:04,124,,Gunna,M80,atk,Kali,peres,LOS,def,Ela,0,0,CSRX300,gun,1,1,0,,5,5,5v5
+8860,1,border,10,130.4,1:34,94,,dash,LOS,def,Sentry,Savage,M80,atk,Blackbeard,1,0,TCSG12,gun,1,0,0,,5,4,4v5
+8860,1,border,10,157.8,1:07,67,,dash,LOS,def,Sentry,Gaveni,M80,atk,Nomad,0,0,NITRO CELL,gadget,1,0,1,dfuzr,4,4,4v4
+8860,1,border,10,163.1,1:01,61,,Dodez,LOS,def,Solis,Gunna,M80,atk,Kali,1,0,SMG-11,gun,1,0,1,Ashn,3,4,4v3
+8860,1,border,10,166.8,0:58,58,,dfuzr,M80,atk,Solid Snake,dash,LOS,def,Sentry,1,0,F2,gun,1,0,0,,2,4,2v4
+8860,1,border,10,171.7,0:53,53,,Ashn,M80,atk,Striker,Dodez,LOS,def,Solis,0,0,M4,gun,1,0,0,,2,3,2v3
+8860,1,border,10,172.4,0:52,52,,Ashn,M80,atk,Striker,Nuxxga,LOS,def,Melusi,0,0,M4,gun,1,0,0,,2,2,2v2
+8860,1,border,10,178.1,0:46,46,,Ashn,M80,atk,Striker,Daffo,LOS,def,Smoke,0,0,M4,gun,1,0,0,,2,1,2v1
+8860,1,border,11,137.1,1:27,87,,Savage,M80,atk,Blackbeard,dash,LOS,def,Smoke,0,0,MK17 CQB,gun,1,1,0,,5,5,5v5
+8860,1,border,11,137.8,1:27,87,,peres,LOS,def,Sentry,dfuzr,M80,atk,Solid Snake,0,0,TCSG12,gun,1,0,0,,5,4,4v5
+8860,1,border,11,190.8,0:34,34,,Ashn,M80,atk,Twitch,Nuxxga,LOS,def,Ela,0,0,417,gun,1,0,0,,4,4,4v4
+8860,1,border,11,208.7,0:16,16,,Gunna,M80,atk,Ace,Dodez,LOS,def,Fenrir,0,0,AK-12,gun,1,0,0,,4,3,4v3
+8860,1,border,11,209.7,0:15,15,,Savage,M80,atk,Blackbeard,Daffo,LOS,def,Goyo,0,0,MK17 CQB,gun,1,0,0,,4,2,4v2
+8860,1,border,11,212.8,0:12,12,,Gaveni,M80,atk,Nomad,peres,LOS,def,Sentry,1,0,AK-74M,gun,1,0,0,,4,1,4v1
+8860,1,border,12,104.5,2:00,120,,Savage,M80,atk,Blackbeard,peres,LOS,def,Ela,0,0,MK17 CQB,gun,1,1,0,,5,5,5v5
+8860,1,border,12,131.3,1:33,93,,Gunna,M80,atk,Kali,Daffo,LOS,def,Goyo,0,0,CSRX300,gun,1,0,0,,5,4,5v4
+8860,1,border,12,136.1,1:28,88,,Gaveni,M80,atk,Nomad,Dodez,LOS,def,Denari,0,0,AK-74M,gun,1,0,0,,5,3,5v3
+8860,1,border,12,145.4,1:19,79,,Ashn,M80,atk,Twitch,dash,LOS,def,Sentry,0,0,417,gun,1,0,0,,5,2,5v2
+8860,1,border,12,149.4,1:15,75,,Gaveni,M80,atk,Nomad,Nuxxga,LOS,def,Warden,1,0,AK-74M,gun,1,0,0,,5,1,5v1

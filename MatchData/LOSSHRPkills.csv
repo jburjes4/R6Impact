@@ -1,0 +1,98 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+8872,1,fortress,1,122.3,1:42,102,,Lycolis,SHARPER,atk,Blitz,Nuxxga,LOS,def,Smoke,0,0,P12,gun,1,1,0,,5,5,5v5
+8872,1,fortress,1,131.4,1:33,93,,Lycolis,SHARPER,atk,Blitz,dash,LOS,def,Denari,0,0,P12,gun,1,0,0,,5,4,5v4
+8872,1,fortress,1,139.7,1:25,85,,BGMan,SHARPER,atk,Sens,peres,LOS,def,Azami,1,0,POF9,gun,1,0,0,,5,3,5v3
+8872,1,fortress,1,146.8,1:18,78,,Peeps,SHARPER,atk,Ying,Daffo,LOS,def,Thorn,0,0,SIX12,gun,1,0,0,,5,2,5v2
+8872,1,fortress,1,148.9,1:16,76,,Daffo,LOS,def,Thorn,Lycolis,SHARPER,atk,Blitz,0,0,RAZORBLOOM SHELL,gadget,1,0,0,,5,1,1v5
+8872,1,fortress,1,151.4,0:43,43,43,Dodez,LOS,def,Sentry,BGMan,SHARPER,atk,Sens,1,1,TCSG12,gun,1,0,1,Nay..Pew,4,1,1v4
+8872,1,fortress,1,152.8,0:41,41,41,Nay..Pew,SHARPER,atk,Twitch,Dodez,LOS,def,Sentry,1,1,F2,gun,1,0,0,,3,1,3v1
+8872,1,fortress,2,174.6,0:50,50,,Dodez,LOS,def,Azami,Nay..Pew,SHARPER,atk,Capitão,1,0,9x19VSN,gun,1,1,1,Kritj,5,5,5v5
+8872,1,fortress,2,175.5,0:49,49,,Kritj,SHARPER,atk,Lion,Dodez,LOS,def,Azami,0,0,417,gun,1,0,0,,4,5,4v5
+8872,1,fortress,2,195.5,0:29,29,,peres,LOS,def,Thorn,Peeps,SHARPER,atk,Solid Snake,1,0,UZK50GI,gun,1,0,0,,4,4,4v4
+8872,1,fortress,2,201.5,0:23,23,,Kritj,SHARPER,atk,Lion,Daffo,LOS,def,Tubarão,1,0,417,gun,1,0,0,,3,4,3v4
+8872,1,fortress,2,205.9,0:19,19,,peres,LOS,def,Thorn,Lycolis,SHARPER,atk,Twitch,1,0,UZK50GI,gun,1,0,1,BGMan,3,3,3v3
+8872,1,fortress,2,213.2,0:11,11,,BGMan,SHARPER,atk,Ace,peres,LOS,def,Thorn,1,0,AK-12,gun,1,0,1,dash,2,3,2v3
+8872,1,fortress,2,220.5,0:04,4,,dash,LOS,def,Kaid,BGMan,SHARPER,atk,Ace,0,0,TCSG12,gun,1,0,0,,2,2,2v2
+8872,1,fortress,3,139.4,1:25,85,,Kritj,SHARPER,atk,Ying,dash,LOS,def,Ela,0,0,SIX12,gun,1,1,0,,5,5,5v5
+8872,1,fortress,3,140.7,1:24,84,,Lycolis,SHARPER,atk,Blitz,Nuxxga,LOS,def,Smoke,0,0,P12,gun,1,0,0,,5,4,5v4
+8872,1,fortress,3,141.3,1:23,83,,BGMan,SHARPER,atk,Ace,Daffo,LOS,def,Sentry,1,0,AK-12,gun,1,0,0,,5,3,5v3
+8872,1,fortress,3,153.1,1:11,71,,Peeps,SHARPER,atk,Blackbeard,Dodez,LOS,def,Azami,0,0,MK17 CQB,gun,1,0,1,peres,5,2,5v2
+8872,1,fortress,3,153.4,1:11,71,,peres,LOS,def,Warden,Peeps,SHARPER,atk,Blackbeard,1,0,MPX,gun,1,0,0,,5,1,1v5
+8872,1,fortress,3,181.6,0:28,28,28,BGMan,SHARPER,atk,Ace,peres,LOS,def,Warden,1,1,AK-12,gun,1,0,0,,4,1,4v1
+8872,1,fortress,4,62.4,2:42,162,,Peeps,SHARPER,atk,Solid Snake,Dodez,LOS,def,Sentry,0,0,F2,gun,1,1,0,,5,5,5v5
+8872,1,fortress,4,121.5,1:43,103,,dash,LOS,def,Warden,Lycolis,SHARPER,atk,Blackbeard,1,0,MPX,gun,1,0,1,Kritj,5,4,4v5
+8872,1,fortress,4,125.9,1:39,99,,peres,LOS,def,Ela,BGMan,SHARPER,atk,Ace,0,0,SCORPION EVO 3 A1,gun,1,0,1,Peeps,4,4,4v4
+8872,1,fortress,4,128.9,1:36,96,,Kritj,SHARPER,atk,Lion,dash,LOS,def,Warden,0,0,417,gun,1,0,1,Daffo,3,4,3v4
+8872,1,fortress,4,129.1,1:35,95,,Daffo,LOS,def,Thorn,Kritj,SHARPER,atk,Lion,1,0,UZK50GI,gun,1,0,1,Nay..Pew,3,3,3v3
+8872,1,fortress,4,131.0,1:34,94,,Peeps,SHARPER,atk,Solid Snake,peres,LOS,def,Ela,0,0,TACIT .45,gun,1,0,0,,2,3,2v3
+8872,1,fortress,4,132.4,1:32,92,,Nay..Pew,SHARPER,atk,Twitch,Daffo,LOS,def,Thorn,1,0,417,gun,1,0,0,,2,2,2v2
+8872,1,fortress,4,151.2,1:13,73,,Nuxxga,LOS,def,Smoke,Nay..Pew,SHARPER,atk,Twitch,1,0,SMG-11,gun,1,0,0,,2,1,1v2
+8872,1,fortress,4,152.8,1:12,72,,Nuxxga,LOS,def,Smoke,Peeps,SHARPER,atk,Solid Snake,1,0,SMG-11,gun,1,0,0,,1,1,1v1
+8872,1,fortress,5,201.2,0:23,23,,peres,LOS,def,Thorn,Kritj,SHARPER,atk,Lion,1,0,UZK50GI,gun,1,1,0,,5,5,5v5
+8872,1,fortress,5,213.0,0:41,41,41,Peeps,SHARPER,atk,Solid Snake,dash,LOS,def,Kaid,0,1,,unknown,0,0,0,,4,5,4v5
+8872,1,fortress,5,219.8,0:34,34,34,Lycolis,SHARPER,atk,Thatcher,Daffo,LOS,def,Tubarão,0,1,PMR90A2,gun,1,0,1,Nuxxga,4,4,4v4
+8872,1,fortress,5,220.8,0:33,33,33,BGMan,SHARPER,atk,Twitch,peres,LOS,def,Thorn,1,1,F2,gun,1,0,0,,4,3,4v3
+8872,1,fortress,5,223.2,0:30,30,30,Nuxxga,LOS,def,Fenrir,Lycolis,SHARPER,atk,Thatcher,1,1,MP7,gun,1,0,1,Nay..Pew,4,2,2v4
+8872,1,fortress,5,226.2,0:27,27,27,Dodez,LOS,def,Ela,Peeps,SHARPER,atk,Solid Snake,1,1,SCORPION EVO 3 A1,gun,1,0,0,,3,2,2v3
+8872,1,fortress,5,229.3,0:24,24,24,Nay..Pew,SHARPER,atk,Capitão,Nuxxga,LOS,def,Fenrir,0,1,PARA-308,gun,1,0,0,,2,2,2v2
+8872,1,fortress,5,243.1,0:11,11,11,Dodez,LOS,def,Ela,BGMan,SHARPER,atk,Twitch,0,1,SCORPION EVO 3 A1,gun,1,0,0,,2,1,1v2
+8872,1,fortress,5,255.0,0:00,0,0,Nay..Pew,SHARPER,atk,Capitão,Dodez,LOS,def,Ela,0,1,PARA-308,gun,1,0,0,,1,1,1v1
+8872,1,fortress,6,165.7,0:59,59,,Peeps,SHARPER,atk,Solid Snake,Daffo,LOS,def,Kaid,1,0,F2,gun,1,1,0,,5,5,5v5
+8872,1,fortress,6,173.5,0:51,51,,Kritj,SHARPER,atk,Lion,Dodez,LOS,def,Thorn,1,0,417,gun,1,0,0,,5,4,5v4
+8872,1,fortress,6,203.3,0:21,21,,BGMan,SHARPER,atk,Ace,Nuxxga,LOS,def,Smoke,1,0,AK-12,gun,1,0,0,,5,3,5v3
+8872,1,fortress,6,204.9,0:20,20,,peres,LOS,def,Noor,Lycolis,SHARPER,atk,Thatcher,1,0,COMMANDO 9,gun,1,0,0,,5,2,2v5
+8872,1,fortress,6,208.0,0:16,16,,dash,LOS,def,Ela,Kritj,SHARPER,atk,Lion,1,0,SCORPION EVO 3 A1,gun,1,0,0,,4,2,2v4
+8872,1,fortress,6,218.6,0:06,6,,dash,LOS,def,Ela,Nay..Pew,SHARPER,atk,Twitch,0,0,SCORPION EVO 3 A1,gun,1,0,1,Peeps,3,2,2v3
+8872,1,fortress,6,223.0,0:01,1,,dash,LOS,def,Ela,BGMan,SHARPER,atk,Ace,1,0,SCORPION EVO 3 A1,gun,1,0,1,Peeps,2,2,2v2
+8872,1,fortress,6,224.9,0:00,0,,Peeps,SHARPER,atk,Solid Snake,dash,LOS,def,Ela,0,0,F2,gun,1,0,0,,1,2,1v2
+8872,1,fortress,7,172.6,0:52,52,,BGMan,SHARPER,def,Denari,dash,LOS,atk,Dokkaebi,1,0,SCORPION EVO 3 A1,gun,1,1,0,,5,5,5v5
+8872,1,fortress,7,194.2,0:30,30,,Lycolis,SHARPER,def,Ela,Nuxxga,LOS,atk,Flores,0,0,SCORPION EVO 3 A1,gun,1,0,0,,4,5,5v4
+8872,1,fortress,7,209.6,0:15,15,,Dodez,LOS,atk,Twitch,Peeps,SHARPER,def,Goyo,0,0,F2,gun,1,0,0,,3,5,3v5
+8872,1,fortress,7,216.6,0:08,8,,Nay..Pew,SHARPER,def,Smoke,peres,LOS,atk,IQ,0,0,SMG-11,gun,1,0,0,,3,4,4v3
+8872,1,fortress,7,217.1,0:07,7,,Daffo,LOS,atk,Ace,Lycolis,SHARPER,def,Ela,0,0,AK-12,gun,1,0,1,BGMan,2,4,2v4
+8872,1,fortress,7,221.5,0:03,3,,BGMan,SHARPER,def,Denari,Daffo,LOS,atk,Ace,1,0,SCORPION EVO 3 A1,gun,1,0,0,,2,3,3v2
+8872,1,fortress,8,178.2,0:46,46,,peres,LOS,atk,Ace,Lycolis,SHARPER,def,Thorn,0,0,AK-12,gun,1,1,0,,5,5,5v5
+8872,1,fortress,8,182.4,0:42,42,,Kritj,SHARPER,def,Ela,dash,LOS,atk,Flores,0,0,RG15,gun,1,0,1,Dodez,5,4,4v5
+8872,1,fortress,8,183.7,0:41,41,,BGMan,SHARPER,def,Wamai,Nuxxga,LOS,atk,Montagne,0,0,NITRO CELL,gadget,1,0,0,,4,4,4v4
+8872,1,fortress,8,184.9,0:40,40,,Dodez,LOS,atk,Deimos,Kritj,SHARPER,def,Ela,1,0,AK-74M,gun,1,0,0,,3,4,3v4
+8872,1,fortress,8,209.8,0:15,15,,Dodez,LOS,atk,Deimos,BGMan,SHARPER,def,Wamai,1,0,AK-74M,gun,1,0,0,,3,3,3v3
+8872,1,fortress,8,220.5,0:04,4,,peres,LOS,atk,Ace,Nay..Pew,SHARPER,def,Fenrir,1,0,AK-12,gun,1,0,0,,3,2,3v2
+8872,1,fortress,8,224.0,0:00,0,,peres,LOS,atk,Ace,Peeps,SHARPER,def,Smoke,0,0,AK-12,gun,1,0,0,,3,1,3v1
+8872,1,fortress,9,163.8,1:01,61,,Dodez,LOS,atk,Deimos,BGMan,SHARPER,def,Goyo,1,0,AK-74M,gun,1,1,0,,5,5,5v5
+8872,1,fortress,9,191.7,0:33,33,,Nuxxga,LOS,atk,Ace,Nay..Pew,SHARPER,def,Wamai,0,0,AK-12,gun,1,0,0,,5,4,5v4
+8872,1,fortress,9,195.9,0:29,29,,dash,LOS,atk,Flores,Lycolis,SHARPER,def,Thorn,1,0,AR33,gun,1,0,0,,5,3,5v3
+8872,1,fortress,9,198.7,0:26,26,,Dodez,LOS,atk,Deimos,Peeps,SHARPER,def,Vigil,0,0,AK-74M,gun,1,0,0,,5,2,5v2
+8872,1,fortress,9,202.0,0:23,23,,Dodez,LOS,atk,Deimos,Kritj,SHARPER,def,Lesion,1,0,AK-74M,gun,1,0,0,,5,1,5v1
+8872,1,fortress,10,145.7,1:19,79,,Nuxxga,LOS,atk,Ying,Kritj,SHARPER,def,Thorn,0,0,SIX12,gun,1,1,1,BGMan,5,5,5v5
+8872,1,fortress,10,146.0,1:18,78,,BGMan,SHARPER,def,Denari,Nuxxga,LOS,atk,Ying,1,0,SCORPION EVO 3 A1,gun,1,0,0,,5,4,4v5
+8872,1,fortress,10,146.0,1:18,78,,Peeps,SHARPER,def,Mute,dash,LOS,atk,Twitch,1,0,SMG-11,gun,1,0,0,,4,4,4v4
+8872,1,fortress,10,204.2,0:20,20,,peres,LOS,atk,Sens,Peeps,SHARPER,def,Mute,1,0,417,gun,1,0,0,,3,4,3v4
+8872,1,fortress,10,205.4,0:19,19,,Daffo,LOS,atk,Grim,Nay..Pew,SHARPER,def,Smoke,1,0,552 COMMANDO,gun,1,0,0,,3,3,3v3
+8872,1,fortress,10,211.8,0:41,41,41,peres,LOS,atk,Sens,Lycolis,SHARPER,def,Ela,0,1,417,gun,1,0,0,,3,2,3v2
+8872,1,fortress,10,212.4,0:40,40,40,Dodez,LOS,atk,Deimos,BGMan,SHARPER,def,Denari,1,1,AK-74M,gun,1,0,0,,3,1,3v1
+8872,1,fortress,11,206.4,0:18,18,,BGMan,SHARPER,def,Wamai,Nuxxga,LOS,atk,Blitz,0,0,NITRO CELL,gadget,1,1,1,Dodez,5,5,5v5
+8872,1,fortress,11,206.4,0:18,18,,BGMan,SHARPER,def,Wamai,Daffo,LOS,atk,Ace,0,0,NITRO CELL,gadget,1,0,1,Dodez,4,5,5v4
+8872,1,fortress,11,207.7,0:17,17,,Dodez,LOS,atk,Deimos,BGMan,SHARPER,def,Wamai,0,0,.44 Vendetta,gun,1,0,1,Peeps,3,5,3v5
+8872,1,fortress,11,209.9,0:15,15,,peres,LOS,atk,Ash,Kritj,SHARPER,def,Thorn,0,0,R4-C,gun,1,0,1,Nay..Pew,3,4,3v4
+8872,1,fortress,11,212.6,0:12,12,,Peeps,SHARPER,def,Azami,Dodez,LOS,atk,Deimos,1,0,9x19VSN,gun,1,0,0,,3,3,3v3
+8872,1,fortress,11,217.1,0:07,7,,peres,LOS,atk,Ash,Lycolis,SHARPER,def,Maestro,1,0,R4-C,gun,1,0,1,Nay..Pew,2,3,2v3
+8872,1,fortress,11,219.1,0:05,5,,Nay..Pew,SHARPER,def,Mute,peres,LOS,atk,Ash,1,0,M590A1,gun,1,0,0,,2,2,2v2
+8872,1,fortress,11,219.9,0:05,5,,Peeps,SHARPER,def,Azami,dash,LOS,atk,Striker,1,0,9x19VSN,gun,1,0,0,,1,2,2v1
+8872,1,fortress,12,176.7,0:48,48,,Lycolis,SHARPER,def,Warden,Dodez,LOS,atk,Twitch,1,0,MPX,gun,1,1,0,,5,5,5v5
+8872,1,fortress,12,184.8,0:40,40,,Kritj,SHARPER,def,Thorn,Nuxxga,LOS,atk,Striker,0,0,M870,gun,1,0,0,,4,5,5v4
+8872,1,fortress,12,189.7,0:35,35,,Nay..Pew,SHARPER,def,Smoke,dash,LOS,atk,IQ,0,0,M590A1,gun,1,0,0,,3,5,5v3
+8872,1,fortress,12,196.1,0:28,28,,BGMan,SHARPER,def,Denari,peres,LOS,atk,Dokkaebi,1,0,SCORPION EVO 3 A1,gun,1,0,1,Daffo,2,5,5v2
+8872,1,fortress,12,197.1,0:27,27,,Daffo,LOS,atk,Ace,BGMan,SHARPER,def,Denari,1,0,AK-12,gun,1,0,0,,1,5,1v5
+8872,1,fortress,12,208.8,0:16,16,,Peeps,SHARPER,def,Mute,Daffo,LOS,atk,Ace,0,0,SMG-11,gun,1,0,0,,1,4,4v1
+8872,1,fortress,13,75.8,2:29,149,,peres,LOS,atk,Striker,Lycolis,SHARPER,def,Thorn,0,0,FRAG GRENADE,gadget,1,1,0,,5,5,5v5
+8872,1,fortress,13,115.9,1:49,109,,Peeps,SHARPER,def,Solis,dash,LOS,atk,Grim,1,0,SMG-11,gun,1,0,0,,5,4,4v5
+8872,1,fortress,13,174.0,0:51,51,,Dodez,LOS,atk,Deimos,Nay..Pew,SHARPER,def,Wamai,1,0,AK-74M,gun,1,0,0,,4,4,4v4
+8872,1,fortress,13,184.9,0:40,40,,peres,LOS,atk,Striker,Peeps,SHARPER,def,Solis,1,0,M4,gun,1,0,0,,4,3,4v3
+8872,1,fortress,13,200.7,0:24,24,,peres,LOS,atk,Striker,BGMan,SHARPER,def,Smoke,1,0,M4,gun,1,0,0,,4,2,4v2
+8872,1,fortress,13,206.0,0:18,18,,Kritj,SHARPER,def,Fenrir,Dodez,LOS,atk,Deimos,0,0,MP7,gun,1,0,1,peres,4,1,1v4
+8872,1,fortress,13,211.3,0:13,13,,peres,LOS,atk,Striker,Kritj,SHARPER,def,Fenrir,0,0,ITA12S,gun,1,0,0,,3,1,3v1
+8872,1,fortress,14,154.8,1:10,70,,dash,LOS,def,Kaid,BGMan,SHARPER,atk,Twitch,0,0,TCSG12,gun,1,1,0,,5,5,5v5
+8872,1,fortress,14,176.7,0:48,48,,dash,LOS,def,Kaid,Kritj,SHARPER,atk,Deimos,1,0,TCSG12,gun,1,0,0,,4,5,5v4
+8872,1,fortress,14,180.7,0:44,44,,dash,LOS,def,Kaid,Nay..Pew,SHARPER,atk,Capitão,0,0,NITRO CELL,gadget,1,0,0,,3,5,5v3
+8872,1,fortress,14,211.2,0:13,13,,Nuxxga,LOS,def,Warden,Peeps,SHARPER,atk,Solid Snake,0,0,NITRO CELL,gadget,1,0,0,,2,5,5v2
+8872,1,fortress,14,211.9,0:13,13,,peres,LOS,def,Thorn,Lycolis,SHARPER,atk,Thatcher,0,0,UZK50GI,gun,1,0,0,,1,5,5v1

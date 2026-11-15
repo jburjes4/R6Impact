@@ -1,0 +1,83 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+8871,1,border,1,158.3,1:06,66,,Gaveni,M80,atk,Nomad,Gotti5G,WEIBO,def,Castle,1,0,AK-74M,gun,1,1,1,Hoven5G,5,5,5v5
+8871,1,border,1,160.9,1:04,64,,Terd5G,WEIBO,def,Smoke,Ashn,M80,atk,Striker,1,0,SMG-11,gun,1,0,0,,5,4,4v5
+8871,1,border,1,161.7,1:03,63,,Reeps965G,WEIBO,def,Kaid,Gunna,M80,atk,Flores,1,0,TCSG12,gun,1,0,0,,4,4,4v4
+8871,1,border,1,162.1,1:02,62,,dfuzr,M80,atk,Zofia,SpeakEasy5G,WEIBO,def,Clash,1,0,M762,gun,1,0,1,Terd5G,3,4,3v4
+8871,1,border,1,163.9,1:01,61,,Hoven5G,WEIBO,def,Thorn,Gaveni,M80,atk,Nomad,1,0,UZK50GI,gun,1,0,0,,3,3,3v3
+8871,1,border,1,164.4,1:00,60,,Terd5G,WEIBO,def,Smoke,dfuzr,M80,atk,Zofia,0,0,SMG-11,gun,1,0,0,,2,3,3v2
+8871,1,border,1,168.9,0:56,56,,Hoven5G,WEIBO,def,Thorn,Savage,M80,atk,Twitch,1,0,UZK50GI,gun,1,0,0,,1,3,3v1
+8871,1,border,2,97.9,2:07,127,,Gaveni,M80,atk,Nomad,Hoven5G,WEIBO,def,Valkyrie,1,0,AK-74M,gun,1,1,0,,5,5,5v5
+8871,1,border,2,109.6,1:55,115,,Savage,M80,atk,Blackbeard,SpeakEasy5G,WEIBO,def,Smoke,0,0,MK17 CQB,gun,1,0,0,,5,4,5v4
+8871,1,border,2,182.9,0:42,42,,Reeps965G,WEIBO,def,Goyo,Savage,M80,atk,Blackbeard,0,0,TCSG12,gun,1,0,1,Gunna,5,3,3v5
+8871,1,border,2,192.6,0:32,32,,Gunna,M80,atk,Ace,Reeps965G,WEIBO,def,Goyo,0,0,AK-12,gun,1,0,0,,4,3,4v3
+8871,1,border,2,193.1,0:31,31,,Terd5G,WEIBO,def,Solis,Gaveni,M80,atk,Nomad,1,0,P90,gun,1,0,0,,4,2,2v4
+8871,1,border,2,193.5,0:31,31,,Gotti5G,WEIBO,def,Kaid,dfuzr,M80,atk,Deimos,0,0,LFP586,gun,1,0,0,,3,2,2v3
+8871,1,border,2,203.6,0:21,21,,Terd5G,WEIBO,def,Solis,Gunna,M80,atk,Ace,1,0,P90,gun,1,0,0,,2,2,2v2
+8871,1,border,2,209.6,0:15,15,,Gotti5G,WEIBO,def,Kaid,Ashn,M80,atk,Lion,0,0,TCSG12,gun,1,0,0,,1,2,2v1
+8871,1,border,3,126.7,1:38,98,,Reeps965G,WEIBO,def,Smoke,Ashn,M80,atk,Sens,1,0,SMG-11,gun,1,1,1,Gunna,5,5,5v5
+8871,1,border,3,130.2,1:34,94,,Reeps965G,WEIBO,def,Smoke,Gaveni,M80,atk,Nomad,1,0,M590A1,gun,1,0,1,Gunna,4,5,5v4
+8871,1,border,3,134.9,1:30,90,,Gunna,M80,atk,Twitch,Reeps965G,WEIBO,def,Smoke,0,0,F2,gun,1,0,0,,3,5,3v5
+8871,1,border,3,138.7,1:26,86,,Hoven5G,WEIBO,def,Thorn,dfuzr,M80,atk,Deimos,0,0,UZK50GI,gun,1,0,0,,3,4,4v3
+8871,1,border,3,168.1,0:56,56,,Hoven5G,WEIBO,def,Thorn,Savage,M80,atk,Lion,0,0,UZK50GI,gun,1,0,0,,2,4,4v2
+8871,1,border,3,172.6,0:52,52,,SpeakEasy5G,WEIBO,def,Sentry,Gunna,M80,atk,Twitch,0,0,TCSG12,gun,1,0,0,,1,4,4v1
+8871,1,border,4,154.7,1:10,70,,Savage,M80,atk,Blackbeard,Hoven5G,WEIBO,def,Ela,1,0,MK17 CQB,gun,1,1,0,,5,5,5v5
+8871,1,border,4,157.8,1:07,67,,dfuzr,M80,atk,Zofia,Reeps965G,WEIBO,def,Mira,0,0,M762,gun,1,0,1,SpeakEasy5G,5,4,5v4
+8871,1,border,4,161.2,1:03,63,,Terd5G,WEIBO,def,Smoke,Gaveni,M80,atk,Nomad,1,0,SMG-11,gun,1,0,1,Savage,5,3,3v5
+8871,1,border,4,164.1,1:00,60,,SpeakEasy5G,WEIBO,def,Bandit,dfuzr,M80,atk,Zofia,0,0,MP7,gun,1,0,0,,4,3,3v4
+8871,1,border,4,168.2,0:56,56,,Savage,M80,atk,Blackbeard,Terd5G,WEIBO,def,Smoke,0,0,MK17 CQB,gun,1,0,0,,3,3,3v3
+8871,1,border,4,171.5,0:53,53,,Gunna,M80,atk,Kali,Gotti5G,WEIBO,def,Warden,0,0,CSRX300,gun,1,0,0,,3,2,3v2
+8871,1,border,4,183.9,0:41,41,,Gunna,M80,atk,Kali,SpeakEasy5G,WEIBO,def,Bandit,0,0,CSRX300,gun,1,0,0,,3,1,3v1
+8871,1,border,5,110.8,1:54,114,,dfuzr,M80,atk,Zofia,Gotti5G,WEIBO,def,Melusi,0,0,,unknown,0,1,0,,5,5,5v5
+8871,1,border,5,180.9,0:44,44,,dfuzr,M80,atk,Zofia,SpeakEasy5G,WEIBO,def,Kaid,1,0,M762,gun,1,0,0,,5,4,5v4
+8871,1,border,5,181.4,0:43,43,,Ashn,M80,atk,Ash,Terd5G,WEIBO,def,Castle,0,0,R4-C,gun,1,0,0,,5,3,5v3
+8871,1,border,5,183.4,0:41,41,,Hoven5G,WEIBO,def,Azami,Savage,M80,atk,Blackbeard,0,0,9x19VSN,gun,1,0,1,Gunna,5,2,2v5
+8871,1,border,5,183.6,0:41,41,,Gunna,M80,atk,Thatcher,Hoven5G,WEIBO,def,Azami,0,0,L85A2,gun,1,0,1,Reeps965G,4,2,4v2
+8871,1,border,5,186.2,0:38,38,,Reeps965G,WEIBO,def,Denari,Gunna,M80,atk,Thatcher,1,0,SCORPION EVO 3 A1,gun,1,0,0,,4,1,1v4
+8871,1,border,5,196.7,0:28,28,,Ashn,M80,atk,Ash,Reeps965G,WEIBO,def,Denari,1,0,R4-C,gun,1,0,0,,3,1,3v1
+8871,1,border,6,160.9,1:04,64,,Ashn,M80,atk,Lion,SpeakEasy5G,WEIBO,def,Kaid,1,0,417,gun,1,1,0,,5,5,5v5
+8871,1,border,6,166.1,0:58,58,,Ashn,M80,atk,Lion,Reeps965G,WEIBO,def,Mira,0,0,417,gun,1,0,0,,5,4,5v4
+8871,1,border,6,185.0,0:40,40,,Gaveni,M80,atk,Grim,Hoven5G,WEIBO,def,Jäger,1,0,552 COMMANDO,gun,1,0,0,,5,3,5v3
+8871,1,border,6,187.6,0:37,37,,Gunna,M80,atk,Kali,Gotti5G,WEIBO,def,Tachanka,0,0,CSRX300,gun,1,0,0,,5,2,5v2
+8871,1,border,6,196.7,0:28,28,,Ashn,M80,atk,Lion,Terd5G,WEIBO,def,Smoke,0,0,417,gun,1,0,0,,5,1,5v1
+8871,1,border,7,116.3,0:42,42,42,Reeps965G,WEIBO,atk,Ace,dfuzr,M80,def,Smoke,0,1,AK-12,gun,1,1,1,Gaveni,5,5,5v5
+8871,1,border,7,121.6,0:37,37,37,Gaveni,M80,def,Ela,Reeps965G,WEIBO,atk,Ace,0,1,SCORPION EVO 3 A1,gun,1,0,0,,5,4,4v5
+8871,1,border,7,134.3,0:24,24,24,SpeakEasy5G,WEIBO,atk,Montagne,Savage,M80,def,Warden,0,1,P9,gun,1,0,0,,4,4,4v4
+8871,1,border,7,144.8,0:14,14,14,Gaveni,M80,def,Ela,Hoven5G,WEIBO,atk,Zofia,1,1,SCORPION EVO 3 A1,gun,1,0,1,Gotti5G,4,3,3v4
+8871,1,border,7,148.3,0:10,10,10,Ashn,M80,def,Thorn,SpeakEasy5G,WEIBO,atk,Montagne,0,1,UZK50GI,gun,1,0,0,,3,3,3v3
+8871,1,border,7,151.9,0:07,7,7,Gotti5G,WEIBO,atk,Thatcher,Gaveni,M80,def,Ela,0,1,PMR90A2,gun,1,0,0,,2,3,2v3
+8871,1,border,7,156.2,0:02,2,2,Gunna,M80,def,Mira,Terd5G,WEIBO,atk,Lion,1,1,VECTOR .45 ACP,gun,1,0,0,,2,2,2v2
+8871,1,border,8,111.1,0:28,28,28,Hoven5G,WEIBO,atk,Nomad,dfuzr,M80,def,Smoke,0,1,AK-74M,gun,1,1,0,,5,5,5v5
+8871,1,border,8,124.8,0:14,14,14,Terd5G,WEIBO,atk,Ying,Gaveni,M80,def,Ela,0,1,SIX12,gun,1,0,0,,5,4,5v4
+8871,1,border,8,127.5,0:12,12,12,Hoven5G,WEIBO,atk,Nomad,SpeakEasy5G,WEIBO,atk,Montagne,0,1,AK-74M,gun,1,0,0,,5,3,
+8871,1,border,8,129.5,0:10,10,10,Ashn,M80,def,Thorn,Hoven5G,WEIBO,atk,Nomad,1,1,UZK50GI,gun,1,0,0,,4,3,3v4
+8871,1,border,8,129.6,0:09,9,9,Savage,M80,def,Solis,Gotti5G,WEIBO,atk,Thatcher,0,1,ITA12L,gun,1,0,0,,3,3,3v3
+8871,1,border,9,123.2,1:41,101,,Terd5G,WEIBO,atk,Dokkaebi,Gaveni,M80,def,Ela,0,0,SMG-12,gun,1,1,1,Ashn,5,5,5v5
+8871,1,border,9,123.9,1:41,101,,Ashn,M80,def,Thorn,SpeakEasy5G,WEIBO,atk,Twitch,0,0,RAZORBLOOM SHELL,gadget,1,0,0,,5,4,4v5
+8871,1,border,9,130.9,1:34,94,,Ashn,M80,def,Thorn,Terd5G,WEIBO,atk,Dokkaebi,0,0,UZK50GI,gun,1,0,1,Gotti5G,4,4,4v4
+8871,1,border,9,134.4,1:30,90,,Reeps965G,WEIBO,atk,Flores,dfuzr,M80,def,Smoke,0,0,AR33,gun,1,0,0,,3,4,3v4
+8871,1,border,9,136.4,1:28,88,,Gotti5G,WEIBO,atk,Ying,Ashn,M80,def,Thorn,0,0,SIX12,gun,1,0,0,,3,3,3v3
+8871,1,border,9,178.4,0:46,46,,Reeps965G,WEIBO,atk,Flores,Savage,M80,def,Solis,0,0,AR33,gun,1,0,0,,3,2,3v2
+8871,1,border,9,179.8,0:45,45,,Reeps965G,WEIBO,atk,Flores,Gunna,M80,def,Warden,1,0,AR33,gun,1,0,0,,3,1,3v1
+8871,1,border,10,93.6,2:11,131,,Ashn,M80,def,Smoke,Terd5G,WEIBO,atk,Glaz,1,0,M590A1,gun,1,1,0,,5,5,5v5
+8871,1,border,10,102.9,2:02,122,,SpeakEasy5G,WEIBO,atk,Zofia,Savage,M80,def,Tubarão,0,0,M762,gun,1,0,1,Gunna,4,5,4v5
+8871,1,border,10,106.1,1:58,118,,Gunna,M80,def,Thorn,SpeakEasy5G,WEIBO,atk,Zofia,0,0,C75 Auto,gun,1,0,0,,4,4,4v4
+8871,1,border,10,106.8,1:58,118,,Gunna,M80,def,Thorn,Hoven5G,WEIBO,atk,Blitz,0,0,C75 Auto,gun,1,0,0,,3,4,4v3
+8871,1,border,10,121.9,1:43,103,,Reeps965G,WEIBO,atk,Buck,dfuzr,M80,def,Sentry,0,0,C8-SFW,gun,1,0,0,,2,4,2v4
+8871,1,border,10,147.5,1:17,77,,Gotti5G,WEIBO,atk,Lion,Gaveni,M80,def,Ela,1,0,417,gun,1,0,0,,2,3,2v3
+8871,1,border,10,147.8,1:17,77,,Gotti5G,WEIBO,atk,Lion,Gunna,M80,def,Thorn,0,0,417,gun,1,0,0,,2,2,2v2
+8871,1,border,10,170.0,0:54,54,,Reeps965G,WEIBO,atk,Buck,Ashn,M80,def,Smoke,0,0,C8-SFW,gun,1,0,0,,2,1,2v1
+8871,1,border,11,123.2,1:41,101,,dfuzr,M80,def,Smoke,Reeps965G,WEIBO,atk,Flores,1,0,M590A1,gun,1,1,0,,5,5,5v5
+8871,1,border,11,150.2,1:14,74,,Gotti5G,WEIBO,atk,Lion,Ashn,M80,def,Thorn,0,0,417,gun,1,0,1,Savage,4,5,4v5
+8871,1,border,11,151.0,1:13,73,,Savage,M80,def,Solis,Gotti5G,WEIBO,atk,Lion,0,0,ITA12L,gun,1,0,0,,4,4,4v4
+8871,1,border,11,218.7,0:06,6,,Gaveni,M80,def,Ela,SpeakEasy5G,WEIBO,atk,Twitch,1,0,SCORPION EVO 3 A1,gun,1,0,0,,3,4,4v3
+8871,1,border,11,223.0,0:01,1,,Hoven5G,WEIBO,atk,Ace,Gunna,M80,def,Goyo,1,0,P9,gun,1,0,0,,2,4,2v4
+8871,1,border,11,223.1,0:01,1,,Savage,M80,def,Solis,Terd5G,WEIBO,atk,Dokkaebi,0,0,ITA12L,gun,1,0,0,,2,3,3v2
+8871,1,border,12,88.7,2:16,136,,Gunna,M80,def,Goyo,Hoven5G,WEIBO,atk,Nomad,1,0,TCSG12,gun,1,1,0,,5,5,5v5
+8871,1,border,12,100.5,2:04,124,,Savage,M80,def,Tubarão,Terd5G,WEIBO,atk,Dokkaebi,1,0,MPX,gun,1,0,0,,4,5,5v4
+8871,1,border,12,118.0,1:46,106,,Gotti5G,WEIBO,atk,Lion,Savage,M80,def,Tubarão,0,0,417,gun,1,0,1,Ashn,3,5,3v5
+8871,1,border,12,119.7,1:45,105,,Ashn,M80,def,Mute,Gotti5G,WEIBO,atk,Lion,0,0,M590A1,gun,1,0,0,,3,4,4v3
+8871,1,border,12,121.3,1:43,103,,SpeakEasy5G,WEIBO,atk,Blackbeard,Gunna,M80,def,Goyo,0,0,MK17 CQB,gun,1,0,1,dfuzr,2,4,2v4
+8871,1,border,12,123.0,1:42,102,,dfuzr,M80,def,Sentry,SpeakEasy5G,WEIBO,atk,Blackbeard,1,0,TCSG12,gun,1,0,1,Reeps965G,2,3,3v2
+8871,1,border,12,130.7,1:34,94,,Reeps965G,WEIBO,atk,Flores,dfuzr,M80,def,Sentry,0,0,AR33,gun,1,0,0,,1,3,1v3
+8871,1,border,12,167.5,0:57,57,,Gotti5G,WEIBO,atk,Lion,Ashn,M80,def,Mute,0,0,VOLCAN CANISTER,gadget,1,0,0,,1,2,1v2
+8871,1,border,12,191.8,0:33,33,,Gaveni,M80,def,Ela,Reeps965G,WEIBO,atk,Flores,0,0,SCORPION EVO 3 A1,gun,1,0,0,,1,1,1v1

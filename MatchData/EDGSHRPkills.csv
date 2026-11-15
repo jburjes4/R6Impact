@@ -1,0 +1,84 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+8853,1,lair,1,139.8,1:25,85,,BGMan,SHARPER,atk,Ace,Lycolis,SHARPER,atk,Blackbeard,1,0,AK-12,gun,1,0,0,,5,5,
+8853,1,lair,1,180.7,0:44,44,,BGMan,SHARPER,atk,Ace,Direction,EDG,def,Tachanka,1,0,AK-12,gun,1,1,1,BAPN,4,5,4v5
+8853,1,lair,1,181.5,0:43,43,,Kritj,SHARPER,atk,Nomad,Carpe,EDG,def,Thorn,0,0,AK-74M,gun,1,0,1,OnJuly,4,4,4v4
+8853,1,lair,1,181.9,0:43,43,,BAPN,EDG,def,Mira,BGMan,SHARPER,atk,Ace,0,0,NITRO CELL,gadget,1,0,0,,4,3,3v4
+8853,1,lair,1,184.0,0:40,40,,Peeps,SHARPER,atk,Flores,Reif,EDG,def,Wamai,1,0,AR33,gun,1,0,0,,3,3,3v3
+8853,1,lair,1,187.3,0:37,37,,OnJuly,EDG,def,Mute,Kritj,SHARPER,atk,Nomad,1,0,SMG-11,gun,1,0,1,Nay..Pew,3,2,2v3
+8853,1,lair,1,190.6,0:34,34,,Nay..Pew,SHARPER,atk,Capitão,OnJuly,EDG,def,Mute,0,0,PARA-308,gun,1,0,0,,2,2,2v2
+8853,1,lair,1,236.4,0:08,8,8,Nay..Pew,SHARPER,atk,Capitão,BAPN,EDG,def,Mira,0,1,PARA-308,gun,1,0,0,,2,1,2v1
+8853,1,lair,2,175.8,0:49,49,,Peeps,SHARPER,atk,Twitch,Direction,EDG,def,Ela,1,0,417,gun,1,1,1,Reif,5,5,5v5
+8853,1,lair,2,177.3,0:47,47,,Reif,EDG,def,Goyo,Peeps,SHARPER,atk,Twitch,1,0,TCSG12,gun,1,0,1,Lycolis,5,4,4v5
+8853,1,lair,2,181.3,0:43,43,,OnJuly,EDG,def,Melusi,Kritj,SHARPER,atk,Ram,0,0,MP5,gun,1,0,0,,4,4,4v4
+8853,1,lair,2,185.9,0:39,39,,Lycolis,SHARPER,atk,Blackbeard,Reif,EDG,def,Goyo,1,0,MK17 CQB,gun,1,0,0,,3,4,3v4
+8853,1,lair,2,197.8,0:27,27,,OnJuly,EDG,def,Melusi,Nay..Pew,SHARPER,atk,Sledge,0,0,MP5,gun,1,0,0,,3,3,3v3
+8853,1,lair,2,202.2,0:22,22,,Carpe,EDG,def,Jäger,Lycolis,SHARPER,atk,Blackbeard,1,0,416-C CARBINE,gun,1,0,0,,2,3,3v2
+8853,1,lair,2,212.2,0:12,12,,Carpe,EDG,def,Jäger,BGMan,SHARPER,atk,Ace,0,0,P-10C,gun,1,0,0,,1,3,3v1
+8853,1,lair,3,113.7,1:51,111,,BAPN,EDG,def,Azami,Nay..Pew,SHARPER,atk,Solid Snake,1,0,9x19VSN,gun,1,1,0,,5,5,5v5
+8853,1,lair,3,118.6,1:46,106,,BAPN,EDG,def,Azami,Lycolis,SHARPER,atk,Blackbeard,1,0,9x19VSN,gun,1,0,0,,4,5,5v4
+8853,1,lair,3,129.6,1:35,95,,Kritj,SHARPER,atk,Ying,Reif,EDG,def,Smoke,0,0,SIX12,gun,1,0,1,Carpe,3,5,3v5
+8853,1,lair,3,133.3,1:31,91,,Carpe,EDG,def,Wamai,Kritj,SHARPER,atk,Ying,0,0,NITRO CELL,gadget,1,0,0,,3,4,4v3
+8853,1,lair,3,154.3,1:10,70,,OnJuly,EDG,def,Mira,BGMan,SHARPER,atk,Ace,0,0,NITRO CELL,gadget,1,0,0,,2,4,4v2
+8853,1,lair,3,157.7,1:07,67,,BAPN,EDG,def,Azami,Peeps,SHARPER,atk,Dokkaebi,1,0,9x19VSN,gun,1,0,0,,1,4,4v1
+8853,1,lair,4,142.8,1:22,82,,Peeps,SHARPER,atk,Flores,BAPN,EDG,def,Goyo,1,0,AR33,gun,1,1,0,,5,5,5v5
+8853,1,lair,4,165.2,0:59,59,,Peeps,SHARPER,atk,Flores,Direction,EDG,def,Tachanka,1,0,AR33,gun,1,0,0,,5,4,5v4
+8853,1,lair,4,183.8,0:41,41,,OnJuly,EDG,def,Smoke,Peeps,SHARPER,atk,Flores,0,0,SMG-11,gun,1,0,1,Lycolis,5,3,3v5
+8853,1,lair,4,186.1,0:38,38,,Carpe,EDG,def,Mute,Nay..Pew,SHARPER,atk,Capitão,0,0,SMG-11,gun,1,0,0,,4,3,3v4
+8853,1,lair,4,188.3,0:36,36,,Lycolis,SHARPER,atk,Blackbeard,OnJuly,EDG,def,Smoke,0,0,MK17 CQB,gun,1,0,1,Reif,3,3,3v3
+8853,1,lair,4,188.3,0:36,36,,Reif,EDG,def,Wamai,Lycolis,SHARPER,atk,Blackbeard,1,0,MP5K,gun,1,0,1,Kritj,3,2,2v3
+8853,1,lair,4,189.8,0:35,35,,Kritj,SHARPER,atk,Striker,Reif,EDG,def,Wamai,1,0,M4,gun,1,0,0,,2,2,2v2
+8853,1,lair,4,193.9,0:31,31,,Carpe,EDG,def,Mute,BGMan,SHARPER,atk,Hibana,1,0,SMG-11,gun,1,0,0,,2,1,1v2
+8853,1,lair,4,251.0,0:15,15,15,Kritj,SHARPER,atk,Striker,Carpe,EDG,def,Mute,0,1,ITA12S,gun,1,0,0,,1,1,1v1
+8853,1,lair,5,119.4,1:45,105,,BGMan,SHARPER,atk,Zofia,BAPN,EDG,def,Solis,0,0,M762,gun,1,1,0,,5,5,5v5
+8853,1,lair,5,143.8,1:21,81,,Carpe,EDG,def,Wamai,Kritj,SHARPER,atk,Ram,1,0,MP5K,gun,1,0,0,,5,4,4v5
+8853,1,lair,5,162.6,1:02,62,,Reif,EDG,def,Goyo,Lycolis,SHARPER,atk,Blackbeard,0,0,IMPACT GRENADE,gadget,1,0,0,,4,4,4v4
+8853,1,lair,5,175.9,0:49,49,,BGMan,SHARPER,atk,Zofia,Reif,EDG,def,Goyo,0,0,M762,gun,1,0,1,Carpe,3,4,3v4
+8853,1,lair,5,178.9,0:46,46,,Carpe,EDG,def,Wamai,BGMan,SHARPER,atk,Zofia,0,0,MP5K,gun,1,0,0,,3,3,3v3
+8853,1,lair,5,197.9,0:27,27,,OnJuly,EDG,def,Melusi,Peeps,SHARPER,atk,Twitch,1,0,ITA12S,gun,1,0,1,Nay..Pew,2,3,3v2
+8853,1,lair,5,199.4,0:25,25,,Nay..Pew,SHARPER,atk,Solid Snake,OnJuly,EDG,def,Melusi,0,0,TACIT .45,gun,1,0,0,,1,3,1v3
+8853,1,lair,5,216.6,0:08,8,,Carpe,EDG,def,Wamai,Nay..Pew,SHARPER,atk,Solid Snake,0,0,SUPER SHORTY,gun,1,0,0,,1,2,2v1
+8853,1,lair,6,149.4,1:15,75,,OnJuly,EDG,def,Mira,Lycolis,SHARPER,atk,Blackbeard,1,0,VECTOR .45 ACP,gun,1,1,0,,5,5,5v5
+8853,1,lair,6,159.9,1:05,65,,Kritj,SHARPER,atk,Kali,Reif,EDG,def,Smoke,0,0,CSRX300,gun,1,0,0,,4,5,4v5
+8853,1,lair,6,224.8,0:00,0,,Peeps,SHARPER,atk,Dokkaebi,OnJuly,EDG,def,Mira,0,0,XK23,gun,1,0,0,,4,4,4v4
+8853,1,lair,6,224.9,0:00,0,,Direction,EDG,def,Solis,BGMan,SHARPER,atk,Thermite,1,0,ITA12L,gun,1,0,0,,4,3,3v4
+8853,1,lair,7,85.6,2:19,139,,Peeps,SHARPER,def,Azami,Direction,EDG,atk,Zofia,1,0,9x19VSN,gun,1,1,0,,5,5,5v5
+8853,1,lair,7,101.7,2:03,123,,BGMan,SHARPER,def,Wamai,Carpe,EDG,atk,Deimos,0,0,MP5K,gun,1,0,0,,4,5,5v4
+8853,1,lair,7,180.7,0:44,44,,BAPN,EDG,atk,Hibana,Peeps,SHARPER,def,Azami,1,0,PMR90A2,gun,1,0,0,,3,5,3v5
+8853,1,lair,7,193.6,0:31,31,,BAPN,EDG,atk,Hibana,BGMan,SHARPER,def,Wamai,1,0,BEARING 9,gun,1,0,0,,3,4,3v4
+8853,1,lair,7,194.7,0:30,30,,Nay..Pew,SHARPER,def,Smoke,Reif,EDG,atk,Grim,1,0,M590A1,gun,1,0,1,BAPN,3,3,3v3
+8853,1,lair,7,196.9,0:28,28,,BAPN,EDG,atk,Hibana,Nay..Pew,SHARPER,def,Smoke,0,0,BEARING 9,gun,1,0,0,,2,3,2v3
+8853,1,lair,7,223.8,0:40,40,40,Lycolis,SHARPER,def,Noor,BAPN,EDG,atk,Hibana,0,1,ALDA 556,gun,1,0,0,,2,2,2v2
+8853,1,lair,7,228.7,0:35,35,35,Lycolis,SHARPER,def,Noor,OnJuly,EDG,atk,Flores,1,1,ALDA 556,gun,1,0,0,,1,2,2v1
+8853,1,lair,8,145.4,1:19,79,,Carpe,EDG,atk,Gridlock,Lycolis,SHARPER,def,Thorn,0,0,F90,gun,1,1,0,,5,5,5v5
+8853,1,lair,8,148.6,1:16,76,,Kritj,SHARPER,def,Fenrir,Direction,EDG,atk,Blitz,0,0,MP7,gun,1,0,1,OnJuly,5,4,4v5
+8853,1,lair,8,150.1,1:14,74,,OnJuly,EDG,atk,Hibana,Kritj,SHARPER,def,Fenrir,0,0,PMR90A2,gun,1,0,1,Nay..Pew,4,4,4v4
+8853,1,lair,8,150.5,1:14,74,,Nay..Pew,SHARPER,def,Ela,OnJuly,EDG,atk,Hibana,0,0,SCORPION EVO 3 A1,gun,1,0,0,,4,3,3v4
+8853,1,lair,8,180.8,0:44,44,,Carpe,EDG,atk,Gridlock,BGMan,SHARPER,def,Goyo,1,0,F90,gun,1,0,0,,3,3,3v3
+8853,1,lair,8,194.2,0:30,30,,Peeps,SHARPER,def,Mute,Carpe,EDG,atk,Gridlock,0,0,M590A1,gun,1,0,0,,3,2,2v3
+8853,1,lair,8,214.1,0:10,10,,Nay..Pew,SHARPER,def,Ela,Reif,EDG,atk,Thatcher,0,0,VOLCAN CANISTER,gadget,1,0,0,,2,2,2v2
+8853,1,lair,8,225.0,0:00,0,,Peeps,SHARPER,def,Mute,BAPN,EDG,atk,Ram,0,0,SMG-11,gun,1,0,0,,1,2,2v1
+8853,1,lair,9,115.8,1:49,109,,Reif,EDG,atk,Blitz,Kritj,SHARPER,def,Ela,1,0,P12,gun,1,1,0,,5,5,5v5
+8853,1,lair,9,122.5,1:42,102,,Direction,EDG,atk,Blackbeard,Peeps,SHARPER,def,Solis,1,0,MK17 CQB,gun,1,0,0,,5,4,5v4
+8853,1,lair,9,127.7,1:37,97,,Nay..Pew,SHARPER,def,Wamai,Reif,EDG,atk,Blitz,0,0,MP5K,gun,1,0,0,,5,3,3v5
+8853,1,lair,9,134.6,1:30,90,,BGMan,SHARPER,def,Mute,Carpe,EDG,atk,Solid Snake,0,0,NITRO CELL,gadget,1,0,0,,4,3,3v4
+8853,1,lair,9,213.7,0:11,11,,Nay..Pew,SHARPER,def,Wamai,Direction,EDG,atk,Blackbeard,0,0,NITRO CELL,gadget,1,0,0,,3,3,3v3
+8853,1,lair,9,218.1,0:06,6,,Lycolis,SHARPER,def,Thorn,OnJuly,EDG,atk,Finka,0,0,M870,gun,1,0,0,,2,3,3v2
+8853,1,lair,9,219.8,0:05,5,,Nay..Pew,SHARPER,def,Wamai,BAPN,EDG,atk,Thatcher,0,0,MP5K,gun,1,0,0,,1,3,3v1
+8853,1,lair,10,134.9,1:30,90,,OnJuly,EDG,atk,Thermite,Lycolis,SHARPER,def,Mira,1,0,556XI,gun,1,1,0,,5,5,5v5
+8853,1,lair,10,166.8,0:58,58,,BGMan,SHARPER,def,Bandit,BAPN,EDG,atk,Deimos,0,0,MP7,gun,1,0,0,,5,4,4v5
+8853,1,lair,10,208.1,0:25,25,25,Direction,EDG,atk,Grim,Nay..Pew,SHARPER,def,Smoke,1,1,552 COMMANDO,gun,1,0,0,,4,4,4v4
+8853,1,lair,10,211.8,0:22,22,22,Direction,EDG,atk,Grim,BGMan,SHARPER,def,Bandit,0,1,552 COMMANDO,gun,1,0,0,,4,3,4v3
+8853,1,lair,10,213.3,0:20,20,20,OnJuly,EDG,atk,Thermite,Peeps,SHARPER,def,Azami,0,1,556XI,gun,1,0,0,,4,2,4v2
+8853,1,lair,10,219.0,0:15,15,15,Direction,EDG,atk,Grim,Kritj,SHARPER,def,Thorn,0,1,552 COMMANDO,gun,1,0,0,,4,1,4v1
+8853,1,lair,11,123.4,1:41,101,,Nay..Pew,SHARPER,def,Thorn,Carpe,EDG,atk,Solid Snake,0,0,UZK50GI,gun,1,1,1,OnJuly,5,5,5v5
+8853,1,lair,11,125.0,1:39,99,,OnJuly,EDG,atk,Hibana,Nay..Pew,SHARPER,def,Thorn,0,0,PMR90A2,gun,1,0,0,,4,5,4v5
+8853,1,lair,11,209.5,0:15,15,,Lycolis,SHARPER,def,Warden,Direction,EDG,atk,Blitz,0,0,NITRO CELL,gadget,1,0,1,Reif,4,4,4v4
+8853,1,lair,11,215.0,0:10,10,,Reif,EDG,atk,Thatcher,Lycolis,SHARPER,def,Warden,1,0,PMR90A2,gun,1,0,1,Peeps,3,4,3v4
+8853,1,lair,11,223.4,0:01,1,,Peeps,SHARPER,def,Mute,Reif,EDG,atk,Thatcher,0,0,NITRO CELL,gadget,1,0,0,,3,3,3v3
+8853,1,lair,11,223.4,0:01,1,,Peeps,SHARPER,def,Mute,BAPN,EDG,atk,Ram,0,0,NITRO CELL,gadget,1,0,0,,2,3,3v2
+8853,1,lair,12,209.0,0:15,15,,Nay..Pew,SHARPER,def,Smoke,OnJuly,EDG,atk,Flores,1,0,M590A1,gun,1,1,0,,5,5,5v5
+8853,1,lair,12,210.9,0:14,14,,Direction,EDG,atk,Blackbeard,Lycolis,SHARPER,def,Warden,0,0,MK17 CQB,gun,1,0,0,,4,5,4v5
+8853,1,lair,12,213.6,0:11,11,,Carpe,EDG,atk,Thermite,Peeps,SHARPER,def,Azami,1,0,556XI,gun,1,0,1,Nay..Pew,4,4,4v4
+8853,1,lair,12,219.6,0:05,5,,Nay..Pew,SHARPER,def,Smoke,Reif,EDG,atk,Grim,0,0,SMG-11,gun,1,0,1,Direction,4,3,3v4
+8853,1,lair,12,222.9,0:02,2,,Nay..Pew,SHARPER,def,Smoke,Carpe,EDG,atk,Thermite,0,0,M590A1,gun,1,0,1,Direction,3,3,3v3
+8853,1,lair,12,225.0,0:00,0,,Direction,EDG,atk,Blackbeard,Nay..Pew,SHARPER,def,Smoke,0,0,MK17 CQB,gun,1,0,0,,2,3,2v3

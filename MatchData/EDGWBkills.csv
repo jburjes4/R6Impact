@@ -1,0 +1,61 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+8867,1,border,1,120.9,1:44,104,,SpeakEasy5G,WEIBO,atk,Montagne,BAPN,EDG,def,Azami,1,0,P9,gun,1,1,0,,5,5,5v5
+8867,1,border,1,169.4,0:55,55,,Hoven5G,WEIBO,atk,Ace,Reif,EDG,def,Fenrir,1,0,AK-12,gun,1,0,0,,5,4,5v4
+8867,1,border,1,172.7,0:52,52,,Hoven5G,WEIBO,atk,Ace,Carpe,EDG,def,Ela,0,0,AK-12,gun,1,0,0,,5,3,5v3
+8867,1,border,1,178.1,0:46,46,,Reeps965G,WEIBO,atk,Twitch,OnJuly,EDG,def,Mute,0,0,417,gun,1,0,0,,5,2,5v2
+8867,1,border,1,184.0,0:41,41,,Hoven5G,WEIBO,atk,Ace,Direction,EDG,def,Goyo,0,0,AK-12,gun,1,0,0,,5,1,5v1
+8867,1,border,2,68.5,2:36,156,,BAPN,EDG,def,Ela,Reeps965G,WEIBO,atk,Twitch,1,0,SCORPION EVO 3 A1,gun,1,1,0,,5,5,5v5
+8867,1,border,2,135.5,1:29,89,,Hoven5G,WEIBO,atk,Ace,Direction,EDG,def,Pulse,1,0,AK-12,gun,1,0,0,,4,5,4v5
+8867,1,border,2,149.7,1:15,75,,Reif,EDG,def,Kaid,Hoven5G,WEIBO,atk,Ace,1,0,TCSG12,gun,1,0,0,,4,4,4v4
+8867,1,border,2,151.0,1:14,74,,SpeakEasy5G,WEIBO,atk,Montagne,OnJuly,EDG,def,Wamai,1,0,P9,gun,1,0,0,,3,4,3v4
+8867,1,border,2,204.0,0:20,20,,Reif,EDG,def,Kaid,SpeakEasy5G,WEIBO,atk,Montagne,0,0,TCSG12,gun,1,0,0,,3,3,3v3
+8867,1,border,2,220.5,0:04,4,,Reif,EDG,def,Kaid,Terd5G,WEIBO,atk,Solid Snake,0,0,TCSG12,gun,1,0,0,,2,3,3v2
+8867,1,border,2,222.2,0:02,2,,Gotti5G,WEIBO,atk,Ram,BAPN,EDG,def,Ela,0,0,R4-C,gun,1,0,0,,1,3,1v3
+8867,1,border,3,141.0,1:23,83,,Reif,EDG,def,Pulse,Reeps965G,WEIBO,atk,Twitch,1,0,Reaper MK2,gun,1,1,0,,5,5,5v5
+8867,1,border,3,162.1,1:02,62,,Carpe,EDG,def,Noor,Hoven5G,WEIBO,atk,Ace,1,0,COMMANDO 9,gun,1,0,0,,4,5,5v4
+8867,1,border,3,168.4,0:56,56,,Carpe,EDG,def,Noor,Terd5G,WEIBO,atk,Solid Snake,1,0,COMMANDO 9,gun,1,0,0,,3,5,5v3
+8867,1,border,3,168.7,0:56,56,,Gotti5G,WEIBO,atk,Dokkaebi,Direction,EDG,def,Solis,0,0,XK23,gun,1,0,0,,2,5,2v5
+8867,1,border,3,171.9,0:53,53,,Gotti5G,WEIBO,atk,Dokkaebi,OnJuly,EDG,def,Sentry,1,0,SMG-12,gun,1,0,0,,2,4,2v4
+8867,1,border,3,172.3,0:52,52,,SpeakEasy5G,WEIBO,atk,Capitão,Reif,EDG,def,Pulse,1,0,PARA-308,gun,1,0,1,BAPN,2,3,2v3
+8867,1,border,3,182.0,0:43,43,,BAPN,EDG,def,Ela,SpeakEasy5G,WEIBO,atk,Capitão,1,0,SCORPION EVO 3 A1,gun,1,0,0,,2,2,2v2
+8867,1,border,3,215.6,0:09,9,,Carpe,EDG,def,Noor,Gotti5G,WEIBO,atk,Dokkaebi,0,0,COMMANDO 9,gun,1,0,0,,1,2,2v1
+8867,1,border,4,106.7,1:58,118,,Direction,EDG,def,Noor,SpeakEasy5G,WEIBO,atk,Blackbeard,1,0,COMMANDO 9,gun,1,1,1,Reeps965G,5,5,5v5
+8867,1,border,4,111.9,1:53,113,,OnJuly,EDG,def,Mute,Terd5G,WEIBO,atk,Glaz,0,0,NITRO CELL,gadget,1,0,0,,4,5,5v4
+8867,1,border,4,112.8,1:52,112,,Reeps965G,WEIBO,atk,Twitch,Direction,EDG,def,Noor,0,0,417,gun,1,0,0,,3,5,3v5
+8867,1,border,4,114.5,1:50,110,,Gotti5G,WEIBO,atk,Lion,Reif,EDG,def,Fenrir,0,0,417,gun,1,0,0,,3,4,3v4
+8867,1,border,4,160.6,0:44,44,44,BAPN,EDG,def,Denari,Gotti5G,WEIBO,atk,Lion,1,1,SCORPION EVO 3 A1,gun,1,0,1,Reeps965G,3,3,3v3
+8867,1,border,4,161.3,0:44,44,44,Reeps965G,WEIBO,atk,Twitch,BAPN,EDG,def,Denari,0,1,417,gun,1,0,0,,2,3,2v3
+8867,1,border,4,166.0,0:39,39,39,Hoven5G,WEIBO,atk,Ram,Carpe,EDG,def,Wamai,1,1,R4-C,gun,1,0,0,,2,2,2v2
+8867,1,border,4,197.1,0:08,8,8,OnJuly,EDG,def,Mute,Reeps965G,WEIBO,atk,Twitch,0,1,M590A1,gun,1,0,1,Hoven5G,2,1,1v2
+8867,1,border,4,204.5,0:01,1,1,Hoven5G,WEIBO,atk,Ram,OnJuly,EDG,def,Mute,0,1,R4-C,gun,1,0,0,,1,1,1v1
+8867,1,border,5,128.6,1:36,96,,Hoven5G,WEIBO,atk,Ace,Reif,EDG,def,Goyo,0,0,AK-12,gun,1,1,1,Direction,5,5,5v5
+8867,1,border,5,129.6,1:35,95,,Direction,EDG,def,Mute,Hoven5G,WEIBO,atk,Ace,1,0,SMG-11,gun,1,0,1,Terd5G,5,4,4v5
+8867,1,border,5,133.3,1:31,91,,Terd5G,WEIBO,atk,Solid Snake,Direction,EDG,def,Mute,0,0,F2,gun,1,0,0,,4,4,4v4
+8867,1,border,5,141.1,1:23,83,,Reeps965G,WEIBO,atk,Twitch,BAPN,EDG,def,Noor,0,0,417,gun,1,0,0,,4,3,4v3
+8867,1,border,5,168.5,0:56,56,,Carpe,EDG,def,Solis,Reeps965G,WEIBO,atk,Twitch,1,0,SMG-11,gun,1,0,0,,4,2,2v4
+8867,1,border,5,175.2,0:49,49,,SpeakEasy5G,WEIBO,atk,Lion,OnJuly,EDG,def,Sentry,0,0,417,gun,1,0,0,,3,2,3v2
+8867,1,border,5,198.0,0:32,32,32,SpeakEasy5G,WEIBO,atk,Lion,Carpe,EDG,def,Solis,0,1,417,gun,1,0,0,,3,1,3v1
+8867,1,border,6,55.2,2:49,169,,BAPN,EDG,def,Azami,Gotti5G,WEIBO,atk,Grim,0,0,9x19VSN,gun,1,1,1,SpeakEasy5G,5,5,5v5
+8867,1,border,6,56.1,2:48,168,,SpeakEasy5G,WEIBO,atk,Blackbeard,BAPN,EDG,def,Azami,1,0,MK17 CQB,gun,1,0,0,,4,5,4v5
+8867,1,border,6,117.0,1:47,107,,Reeps965G,WEIBO,atk,Twitch,Direction,EDG,def,Smoke,0,0,417,gun,1,0,0,,4,4,4v4
+8867,1,border,6,196.7,0:28,28,,SpeakEasy5G,WEIBO,atk,Blackbeard,Reif,EDG,def,Fenrir,0,0,FRAG GRENADE,gadget,1,0,0,,4,3,4v3
+8867,1,border,6,198.0,0:26,26,,Carpe,EDG,def,Solis,Terd5G,WEIBO,atk,Solid Snake,1,0,P90,gun,1,0,1,Hoven5G,4,2,2v4
+8867,1,border,6,198.7,0:26,26,,Hoven5G,WEIBO,atk,Ace,Carpe,EDG,def,Solis,0,0,AK-12,gun,1,0,0,,3,2,3v2
+8867,1,border,6,208.1,0:16,16,,Hoven5G,WEIBO,atk,Ace,OnJuly,EDG,def,Mute,0,0,AK-12,gun,1,0,0,,3,1,3v1
+8867,1,border,7,100.5,2:04,124,,Gotti5G,WEIBO,def,Jäger,Direction,EDG,atk,Blackbeard,0,0,416-C CARBINE,gun,1,1,1,Reif,5,5,5v5
+8867,1,border,7,103.6,2:01,121,,SpeakEasy5G,WEIBO,def,Tachanka,BAPN,EDG,atk,Capitão,1,0,DP28,gun,1,0,0,,4,5,5v4
+8867,1,border,7,106.2,1:58,118,,Reif,EDG,atk,Sledge,Gotti5G,WEIBO,def,Jäger,0,0,M590A1,gun,1,0,1,Terd5G,3,5,3v5
+8867,1,border,7,107.4,1:57,117,,Terd5G,WEIBO,def,Fenrir,Reif,EDG,atk,Sledge,0,0,MP7,gun,1,0,0,,3,4,4v3
+8867,1,border,7,107.9,1:57,117,,Terd5G,WEIBO,def,Fenrir,OnJuly,EDG,atk,Ying,1,0,MP7,gun,1,0,0,,2,4,4v2
+8867,1,border,7,110.9,1:54,114,,Hoven5G,WEIBO,def,Ela,Carpe,EDG,atk,Nomad,0,0,SCORPION EVO 3 A1,gun,1,0,0,,1,4,4v1
+8867,1,border,8,174.3,0:50,50,,SpeakEasy5G,WEIBO,def,Mozzie,Direction,EDG,atk,Montagne,0,0,NITRO CELL,gadget,1,1,0,,5,5,5v5
+8867,1,border,8,176.3,0:48,48,,Hoven5G,WEIBO,def,Mute,Carpe,EDG,atk,Nomad,1,0,SMG-11,gun,1,0,0,,4,5,5v4
+8867,1,border,8,178.4,0:46,46,,Terd5G,WEIBO,def,Thorn,BAPN,EDG,atk,Ash,1,0,UZK50GI,gun,1,0,0,,3,5,5v3
+8867,1,border,8,181.6,0:43,43,,SpeakEasy5G,WEIBO,def,Mozzie,OnJuly,EDG,atk,Lion,1,0,COMMANDO 9,gun,1,0,0,,2,5,5v2
+8867,1,border,8,188.7,0:36,36,,SpeakEasy5G,WEIBO,def,Mozzie,Reif,EDG,atk,Capitão,0,0,COMMANDO 9,gun,1,0,0,,1,5,5v1
+8867,1,border,9,185.3,0:39,39,,Reif,EDG,atk,Twitch,Hoven5G,WEIBO,def,Kaid,0,0,417,gun,1,1,1,SpeakEasy5G,5,5,5v5
+8867,1,border,9,187.6,0:37,37,,SpeakEasy5G,WEIBO,def,Warden,Reif,EDG,atk,Twitch,0,0,M590A1,gun,1,0,0,,5,4,4v5
+8867,1,border,9,189.2,0:35,35,,Direction,EDG,atk,Blackbeard,Terd5G,WEIBO,def,Thorn,0,0,MK17 CQB,gun,1,0,1,SpeakEasy5G,4,4,4v4
+8867,1,border,9,191.7,0:33,33,,SpeakEasy5G,WEIBO,def,Warden,Direction,EDG,atk,Blackbeard,1,0,SMG-12,gun,1,0,0,,4,3,3v4
+8867,1,border,9,202.3,0:22,22,,Reeps965G,WEIBO,def,Mute,OnJuly,EDG,atk,Dokkaebi,1,0,SMG-11,gun,1,0,0,,3,3,3v3
+8867,1,border,9,215.3,0:09,9,,SpeakEasy5G,WEIBO,def,Warden,Carpe,EDG,atk,Ace,1,0,SMG-12,gun,1,0,0,,2,3,3v2

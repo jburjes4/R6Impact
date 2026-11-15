@@ -1,0 +1,99 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+8864,1,clubhouse,1,129.6,1:35,95,,Nayqo,VIRTUS PRO,def,Mute,kheyzeSAKAGUTI,TL ALIENWARE,atk,Capitão,0,0,SMG-11,gun,1,1,0,,5,5,5v5
+8864,1,clubhouse,1,132.7,1:32,92,,Nayqo,VIRTUS PRO,def,Mute,Maia,TL ALIENWARE,atk,Solid Snake,0,0,M590A1,gun,1,0,0,,4,5,5v4
+8864,1,clubhouse,1,138.0,1:26,86,,Jv92,TL ALIENWARE,atk,Hibana,p4sh4,VIRTUS PRO,def,Skopós,0,0,BEARING 9,gun,1,0,0,,3,5,3v5
+8864,1,clubhouse,1,140.9,1:24,84,,Nade,TL ALIENWARE,atk,Sens,RORICK,VIRTUS PRO,def,Azami,1,0,417,gun,1,0,0,,3,4,3v4
+8864,1,clubhouse,1,171.8,0:53,53,,dan-_-,VIRTUS PRO,def,Valkyrie,Nade,TL ALIENWARE,atk,Sens,0,0,MPX,gun,1,0,1,Jv92,3,3,3v3
+8864,1,clubhouse,1,172.3,0:52,52,,Jv92,TL ALIENWARE,atk,Hibana,dan-_-,VIRTUS PRO,def,Valkyrie,1,0,PMR90A2,gun,1,0,0,,2,3,2v3
+8864,1,clubhouse,1,176.5,0:48,48,,Jv92,TL ALIENWARE,atk,Hibana,Nayqo,VIRTUS PRO,def,Mute,0,0,PMR90A2,gun,1,0,0,,2,2,2v2
+8864,1,clubhouse,1,208.2,0:16,16,,SkyZs,VIRTUS PRO,def,Goyo,FelipoX,TL ALIENWARE,atk,Ying,0,0,TCSG12,gun,1,0,1,Jv92,2,1,1v2
+8864,1,clubhouse,1,217.3,0:07,7,,Jv92,TL ALIENWARE,atk,Hibana,SkyZs,VIRTUS PRO,def,Goyo,0,0,BEARING 9,gun,1,0,0,,1,1,1v1
+8864,1,clubhouse,2,172.0,0:52,52,,Maia,TL ALIENWARE,atk,Capitão,p4sh4,VIRTUS PRO,def,Wamai,0,0,PMR90A2,gun,1,1,1,SkyZs,5,5,5v5
+8864,1,clubhouse,2,173.3,0:51,51,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Hibana,RORICK,VIRTUS PRO,def,Mira,1,0,PMR90A2,gun,1,0,0,,5,4,5v4
+8864,1,clubhouse,2,173.6,0:51,51,,SkyZs,VIRTUS PRO,def,Noor,Maia,TL ALIENWARE,atk,Capitão,1,0,COMMANDO 9,gun,1,0,1,kheyzeSAKAGUTI,5,3,3v5
+8864,1,clubhouse,2,176.3,0:48,48,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Hibana,Nayqo,VIRTUS PRO,def,Azami,0,0,PMR90A2,gun,1,0,0,,4,3,4v3
+8864,1,clubhouse,2,178.0,0:47,47,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Hibana,SkyZs,VIRTUS PRO,def,Noor,1,0,PMR90A2,gun,1,0,0,,4,2,4v2
+8864,1,clubhouse,2,183.0,0:42,42,,Jv92,TL ALIENWARE,atk,Striker,dan-_-,VIRTUS PRO,def,Goyo,1,0,M4,gun,1,0,0,,4,1,4v1
+8864,1,clubhouse,3,126.2,1:38,98,,RORICK,VIRTUS PRO,def,Valkyrie,FelipoX,TL ALIENWARE,atk,Glaz,0,0,NITRO CELL,gadget,1,1,0,,5,5,5v5
+8864,1,clubhouse,3,127.0,1:37,97,,Maia,TL ALIENWARE,atk,Capitão,SkyZs,VIRTUS PRO,def,Azami,0,0,TACTICAL CROSSBOW,gadget,1,0,0,,4,5,4v5
+8864,1,clubhouse,3,137.7,1:27,87,,RORICK,VIRTUS PRO,def,Valkyrie,Nade,TL ALIENWARE,atk,Deimos,1,0,MPX,gun,1,0,0,,4,4,4v4
+8864,1,clubhouse,3,144.3,1:20,80,,dan-_-,VIRTUS PRO,def,Mira,kheyzeSAKAGUTI,TL ALIENWARE,atk,Zofia,0,0,VECTOR .45 ACP,gun,1,0,0,,3,4,4v3
+8864,1,clubhouse,3,176.7,0:48,48,,dan-_-,VIRTUS PRO,def,Mira,Jv92,TL ALIENWARE,atk,Hibana,0,0,VECTOR .45 ACP,gun,1,0,0,,2,4,4v2
+8864,1,clubhouse,3,201.4,0:23,23,,p4sh4,VIRTUS PRO,def,Wamai,Maia,TL ALIENWARE,atk,Capitão,1,0,MP5K,gun,1,0,0,,1,4,4v1
+8864,1,clubhouse,4,177.6,0:47,47,,RORICK,VIRTUS PRO,def,Fenrir,kheyzeSAKAGUTI,TL ALIENWARE,atk,Capitão,1,0,MP7,gun,1,1,0,,5,5,5v5
+8864,1,clubhouse,4,190.1,0:34,34,,Maia,TL ALIENWARE,atk,Striker,dan-_-,VIRTUS PRO,def,Azami,0,0,FRAG GRENADE,gadget,1,0,0,,4,5,4v5
+8864,1,clubhouse,4,194.6,0:30,30,,Maia,TL ALIENWARE,atk,Striker,Nayqo,VIRTUS PRO,def,Mute,1,0,M4,gun,1,0,0,,4,4,4v4
+8864,1,clubhouse,4,196.4,0:28,28,,p4sh4,VIRTUS PRO,def,Clash,Jv92,TL ALIENWARE,atk,Hibana,1,0,SPSMG9,gun,1,0,0,,4,3,3v4
+8864,1,clubhouse,4,206.9,0:18,18,,Maia,TL ALIENWARE,atk,Striker,p4sh4,VIRTUS PRO,def,Clash,1,0,M4,gun,1,0,0,,3,3,3v3
+8864,1,clubhouse,4,223.3,0:32,32,32,Maia,TL ALIENWARE,atk,Striker,RORICK,VIRTUS PRO,def,Fenrir,1,1,M4,gun,1,0,0,,3,2,3v2
+8864,1,clubhouse,4,225.1,0:30,30,30,Maia,TL ALIENWARE,atk,Striker,SkyZs,VIRTUS PRO,def,Goyo,1,1,M4,gun,1,0,0,,3,1,3v1
+8864,1,clubhouse,5,86.0,2:18,138,,Nayqo,VIRTUS PRO,def,Azami,Jv92,TL ALIENWARE,atk,Zofia,1,0,9x19VSN,gun,1,1,0,,5,5,5v5
+8864,1,clubhouse,5,99.3,2:05,125,,RORICK,VIRTUS PRO,def,Thorn,Maia,TL ALIENWARE,atk,Solid Snake,1,0,UZK50GI,gun,1,0,0,,4,5,5v4
+8864,1,clubhouse,5,104.4,2:00,120,,SkyZs,VIRTUS PRO,def,Noor,FelipoX,TL ALIENWARE,atk,Blackbeard,0,0,COMMANDO 9,gun,1,0,0,,3,5,5v3
+8864,1,clubhouse,5,106.2,1:58,118,,RORICK,VIRTUS PRO,def,Thorn,kheyzeSAKAGUTI,TL ALIENWARE,atk,Thermite,0,0,C75 Auto,gun,1,0,0,,2,5,5v2
+8864,1,clubhouse,5,116.4,1:48,108,,dan-_-,VIRTUS PRO,def,Mute,Nade,TL ALIENWARE,atk,Rauora,0,0,SMG-11,gun,1,0,0,,1,5,5v1
+8864,1,clubhouse,6,124.2,1:40,100,,Nayqo,VIRTUS PRO,def,Mute,kheyzeSAKAGUTI,TL ALIENWARE,atk,Thermite,1,0,M590A1,gun,1,1,0,,5,5,5v5
+8864,1,clubhouse,6,142.1,1:22,82,,Nayqo,VIRTUS PRO,def,Mute,Jv92,TL ALIENWARE,atk,Hibana,1,0,SMG-11,gun,1,0,0,,4,5,5v4
+8864,1,clubhouse,6,142.2,1:22,82,,RORICK,VIRTUS PRO,def,Azami,Nayqo,VIRTUS PRO,def,Mute,1,0,9x19VSN,gun,1,0,0,,3,5,
+8864,1,clubhouse,6,189.0,0:36,36,,Maia,TL ALIENWARE,atk,Striker,p4sh4,VIRTUS PRO,def,Skopós,0,0,M4,gun,1,0,1,SkyZs,3,4,3v4
+8864,1,clubhouse,6,192.0,0:33,33,,SkyZs,VIRTUS PRO,def,Goyo,Maia,TL ALIENWARE,atk,Striker,0,0,VOLCAN CANISTER,gadget,1,0,0,,3,3,3v3
+8864,1,clubhouse,6,193.9,0:31,31,,dan-_-,VIRTUS PRO,def,Valkyrie,Nade,TL ALIENWARE,atk,Blackbeard,1,0,MPX,gun,1,0,0,,2,3,3v2
+8864,1,clubhouse,6,200.1,0:24,24,,RORICK,VIRTUS PRO,def,Azami,FelipoX,TL ALIENWARE,atk,Montagne,1,0,9x19VSN,gun,1,0,0,,1,3,3v1
+8864,1,clubhouse,7,202.9,0:22,22,,kheyzeSAKAGUTI,TL ALIENWARE,def,Wamai,RORICK,VIRTUS PRO,atk,Grim,0,0,MP5K,gun,1,1,0,,5,5,5v5
+8864,1,clubhouse,7,205.8,0:19,19,,kheyzeSAKAGUTI,TL ALIENWARE,def,Wamai,dan-_-,VIRTUS PRO,atk,Twitch,0,0,NITRO CELL,gadget,1,0,1,SkyZs,4,5,5v4
+8864,1,clubhouse,7,206.2,0:18,18,,Maia,TL ALIENWARE,def,Azami,p4sh4,VIRTUS PRO,atk,Ying,1,0,9x19VSN,gun,1,0,0,,3,5,5v3
+8864,1,clubhouse,7,214.8,0:10,10,,SkyZs,VIRTUS PRO,atk,Ace,kheyzeSAKAGUTI,TL ALIENWARE,def,Wamai,0,0,AK-12,gun,1,0,1,Jv92,2,5,2v5
+8864,1,clubhouse,7,215.1,0:09,9,,SkyZs,VIRTUS PRO,atk,Ace,FelipoX,TL ALIENWARE,def,Tubarão,0,0,AK-12,gun,1,0,1,Jv92,2,4,2v4
+8864,1,clubhouse,7,220.6,0:04,4,,Nayqo,VIRTUS PRO,atk,Blitz,Maia,TL ALIENWARE,def,Azami,0,0,P12,gun,1,0,0,,2,3,2v3
+8864,1,clubhouse,7,221.5,0:03,3,,Jv92,TL ALIENWARE,def,Goyo,SkyZs,VIRTUS PRO,atk,Ace,1,0,TCSG12,gun,1,0,0,,2,2,2v2
+8864,1,clubhouse,8,112.9,1:52,112,,SkyZs,VIRTUS PRO,atk,Capitão,Jv92,TL ALIENWARE,def,Azami,0,0,TACTICAL CROSSBOW,gadget,1,1,0,,5,5,5v5
+8864,1,clubhouse,8,187.3,0:37,37,,Nade,TL ALIENWARE,def,Tachanka,SkyZs,VIRTUS PRO,atk,Capitão,0,0,,unknown,0,0,1,p4sh4,5,4,4v5
+8864,1,clubhouse,8,191.6,0:33,33,,p4sh4,VIRTUS PRO,atk,Zofia,Nade,TL ALIENWARE,def,Tachanka,1,0,M762,gun,1,0,0,,4,4,4v4
+8864,1,clubhouse,8,192.7,0:32,32,,p4sh4,VIRTUS PRO,atk,Zofia,FelipoX,TL ALIENWARE,def,Warden,1,0,M762,gun,1,0,0,,4,3,4v3
+8864,1,clubhouse,8,193.0,0:31,31,,dan-_-,VIRTUS PRO,atk,Ace,Maia,TL ALIENWARE,def,Goyo,0,0,AK-12,gun,1,0,0,,4,2,4v2
+8864,1,clubhouse,8,194.9,0:30,30,,dan-_-,VIRTUS PRO,atk,Ace,kheyzeSAKAGUTI,TL ALIENWARE,def,Melusi,0,0,AK-12,gun,1,0,0,,4,1,4v1
+8864,1,clubhouse,9,179.3,0:45,45,,Maia,TL ALIENWARE,def,Mira,p4sh4,VIRTUS PRO,atk,Grim,1,0,VECTOR .45 ACP,gun,1,1,0,,5,5,5v5
+8864,1,clubhouse,9,196.4,0:28,28,,FelipoX,TL ALIENWARE,def,Noor,RORICK,VIRTUS PRO,atk,Deimos,1,0,COMMANDO 9,gun,1,0,0,,4,5,5v4
+8864,1,clubhouse,9,197.7,0:27,27,,kheyzeSAKAGUTI,TL ALIENWARE,def,Azami,SkyZs,VIRTUS PRO,atk,Lion,0,0,9x19VSN,gun,1,0,0,,3,5,5v3
+8864,1,clubhouse,9,203.4,0:21,21,,Nade,TL ALIENWARE,def,Wamai,Nayqo,VIRTUS PRO,atk,Blackbeard,1,0,MP5K,gun,1,0,1,dan-_-,2,5,5v2
+8864,1,clubhouse,9,204.4,0:20,20,,dan-_-,VIRTUS PRO,atk,Kali,Jv92,TL ALIENWARE,def,Tubarão,0,0,CSRX300,gun,1,0,0,,1,5,1v5
+8864,1,clubhouse,9,206.1,0:18,18,,dan-_-,VIRTUS PRO,atk,Kali,Nade,TL ALIENWARE,def,Wamai,0,0,CSRX300,gun,1,0,0,,1,4,1v4
+8864,1,clubhouse,9,210.0,0:15,15,,dan-_-,VIRTUS PRO,atk,Kali,kheyzeSAKAGUTI,TL ALIENWARE,def,Azami,0,0,CSRX300,gun,1,0,0,,1,3,1v3
+8864,1,clubhouse,9,216.1,0:08,8,,dan-_-,VIRTUS PRO,atk,Kali,FelipoX,TL ALIENWARE,def,Noor,0,0,SPSMG9,gun,1,0,1,Maia,1,2,1v2
+8864,1,clubhouse,9,225.0,0:00,0,,Maia,TL ALIENWARE,def,Mira,dan-_-,VIRTUS PRO,atk,Kali,0,0,VECTOR .45 ACP,gun,1,0,0,,1,1,1v1
+8864,1,clubhouse,10,178.6,0:46,46,,SkyZs,VIRTUS PRO,atk,Sledge,FelipoX,TL ALIENWARE,def,Warden,1,0,L85A2,gun,1,1,0,,5,5,5v5
+8864,1,clubhouse,10,200.8,0:24,24,,Nayqo,VIRTUS PRO,atk,Blitz,kheyzeSAKAGUTI,TL ALIENWARE,def,Smoke,0,0,P12,gun,1,0,0,,5,4,5v4
+8864,1,clubhouse,10,202.9,0:22,22,,Jv92,TL ALIENWARE,def,Thorn,SkyZs,VIRTUS PRO,atk,Sledge,1,0,UZK50GI,gun,1,0,1,p4sh4,5,3,3v5
+8864,1,clubhouse,10,203.4,0:21,21,,dan-_-,VIRTUS PRO,atk,Kali,Nade,TL ALIENWARE,def,Mira,1,0,CSRX300,gun,1,0,0,,4,3,4v3
+8864,1,clubhouse,10,211.6,0:13,13,,dan-_-,VIRTUS PRO,atk,Kali,Maia,TL ALIENWARE,def,Denari,0,0,CSRX300,gun,1,0,0,,4,2,4v2
+8864,1,clubhouse,10,211.6,0:13,13,,p4sh4,VIRTUS PRO,atk,Grim,Jv92,TL ALIENWARE,def,Thorn,0,0,552 COMMANDO,gun,1,0,0,,4,1,4v1
+8864,1,clubhouse,11,117.9,1:47,107,,Jv92,TL ALIENWARE,def,Azami,Nayqo,VIRTUS PRO,atk,Montagne,0,0,9x19VSN,gun,1,1,0,,5,5,5v5
+8864,1,clubhouse,11,135.0,1:29,89,,Jv92,TL ALIENWARE,def,Azami,SkyZs,VIRTUS PRO,atk,Capitão,1,0,9x19VSN,gun,1,0,1,RORICK,4,5,5v4
+8864,1,clubhouse,11,136.8,1:28,88,,RORICK,VIRTUS PRO,atk,Deimos,Jv92,TL ALIENWARE,def,Azami,0,0,.44 Vendetta,gun,1,0,0,,3,5,3v5
+8864,1,clubhouse,11,207.9,0:17,17,,RORICK,VIRTUS PRO,atk,Deimos,kheyzeSAKAGUTI,TL ALIENWARE,def,Jäger,1,0,AK-74M,gun,1,0,0,,3,4,3v4
+8864,1,clubhouse,11,210.3,0:14,14,,FelipoX,TL ALIENWARE,def,Warden,dan-_-,VIRTUS PRO,atk,Striker,1,0,MPX,gun,1,0,0,,3,3,3v3
+8864,1,clubhouse,11,217.3,0:07,7,,Nade,TL ALIENWARE,def,Tachanka,p4sh4,VIRTUS PRO,atk,Zofia,1,0,BEARING 9,gun,1,0,0,,2,3,3v2
+8864,1,clubhouse,11,219.1,0:05,5,,Nade,TL ALIENWARE,def,Tachanka,RORICK,VIRTUS PRO,atk,Deimos,0,0,BEARING 9,gun,1,0,0,,1,3,3v1
+8864,1,clubhouse,12,175.2,0:49,49,,Nayqo,VIRTUS PRO,atk,Blitz,kheyzeSAKAGUTI,TL ALIENWARE,def,Ela,0,0,P12,gun,1,1,0,,5,5,5v5
+8864,1,clubhouse,12,195.6,0:29,29,,Maia,TL ALIENWARE,def,Skopós,p4sh4,VIRTUS PRO,atk,Striker,0,0,PCX-33,gun,1,0,1,RORICK,5,4,4v5
+8864,1,clubhouse,12,200.0,0:25,25,,RORICK,VIRTUS PRO,atk,Solid Snake,Maia,TL ALIENWARE,def,Skopós,0,0,F2,gun,1,0,0,,4,4,4v4
+8864,1,clubhouse,12,210.9,0:14,14,,dan-_-,VIRTUS PRO,atk,Grim,Jv92,TL ALIENWARE,def,Castle,0,0,552 COMMANDO,gun,1,0,1,FelipoX,4,3,4v3
+8864,1,clubhouse,12,213.1,0:11,11,,FelipoX,TL ALIENWARE,def,Goyo,dan-_-,VIRTUS PRO,atk,Grim,1,0,TCSG12,gun,1,0,1,RORICK,4,2,2v4
+8864,1,clubhouse,12,217.2,0:07,7,,RORICK,VIRTUS PRO,atk,Solid Snake,FelipoX,TL ALIENWARE,def,Goyo,0,0,F2,gun,1,0,0,,3,2,3v2
+8864,1,clubhouse,12,218.7,0:06,6,,SkyZs,VIRTUS PRO,atk,Deimos,Nade,TL ALIENWARE,def,Denari,1,0,AK-74M,gun,1,0,0,,3,1,3v1
+8864,1,clubhouse,13,191.3,0:33,33,,Jv92,TL ALIENWARE,def,Ela,SkyZs,VIRTUS PRO,atk,Ram,1,0,SCORPION EVO 3 A1,gun,1,1,1,Nayqo,5,5,5v5
+8864,1,clubhouse,13,194.2,0:30,30,,Nayqo,VIRTUS PRO,atk,Blitz,Jv92,TL ALIENWARE,def,Ela,1,0,P12,gun,1,0,0,,4,5,4v5
+8864,1,clubhouse,13,196.7,0:28,28,,kheyzeSAKAGUTI,TL ALIENWARE,def,Goyo,dan-_-,VIRTUS PRO,atk,Twitch,1,0,TCSG12,gun,1,0,0,,4,4,4v4
+8864,1,clubhouse,13,197.5,0:27,27,,p4sh4,VIRTUS PRO,atk,Grim,FelipoX,TL ALIENWARE,def,Clash,1,0,552 COMMANDO,gun,1,0,1,kheyzeSAKAGUTI,3,4,3v4
+8864,1,clubhouse,13,199.6,0:25,25,,kheyzeSAKAGUTI,TL ALIENWARE,def,Goyo,p4sh4,VIRTUS PRO,atk,Grim,0,0,TCSG12,gun,1,0,0,,3,3,3v3
+8864,1,clubhouse,13,211.8,0:13,13,,Nayqo,VIRTUS PRO,atk,Blitz,kheyzeSAKAGUTI,TL ALIENWARE,def,Goyo,1,0,P12,gun,1,0,0,,2,3,2v3
+8864,1,clubhouse,13,222.7,0:02,2,,RORICK,VIRTUS PRO,atk,Striker,Maia,TL ALIENWARE,def,Denari,1,0,M4,gun,1,0,1,Nade,2,2,2v2
+8864,1,clubhouse,13,224.2,0:00,0,,Nade,TL ALIENWARE,def,Mira,RORICK,VIRTUS PRO,atk,Striker,1,0,VECTOR .45 ACP,gun,1,0,0,,2,1,1v2
+8864,1,clubhouse,13,244.4,0:25,25,25,Nade,TL ALIENWARE,def,Mira,Nayqo,VIRTUS PRO,atk,Blitz,1,1,VECTOR .45 ACP,gun,1,0,0,,1,1,1v1
+8864,1,clubhouse,14,163.8,1:01,61,,FelipoX,TL ALIENWARE,atk,Sens,dan-_-,VIRTUS PRO,def,Mute,0,0,417,gun,1,1,0,,5,5,5v5
+8864,1,clubhouse,14,168.4,0:56,56,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Thermite,Nayqo,VIRTUS PRO,def,Azami,1,0,556XI,gun,1,0,0,,5,4,5v4
+8864,1,clubhouse,14,177.3,0:47,47,,Maia,TL ALIENWARE,atk,Zofia,RORICK,VIRTUS PRO,def,Thorn,1,0,M762,gun,1,0,0,,5,3,5v3
+8864,1,clubhouse,14,183.5,0:41,41,,p4sh4,VIRTUS PRO,def,Wamai,FelipoX,TL ALIENWARE,atk,Sens,0,0,MP5K,gun,1,0,1,kheyzeSAKAGUTI,5,2,2v5
+8864,1,clubhouse,14,190.3,0:34,34,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Thermite,p4sh4,VIRTUS PRO,def,Wamai,1,0,556XI,gun,1,0,1,SkyZs,4,2,4v2
+8864,1,clubhouse,14,195.2,0:29,29,,SkyZs,VIRTUS PRO,def,Noor,kheyzeSAKAGUTI,TL ALIENWARE,atk,Thermite,0,0,COMMANDO 9,gun,1,0,0,,4,1,1v4
+8864,1,clubhouse,14,211.0,0:14,14,,Maia,TL ALIENWARE,atk,Zofia,SkyZs,VIRTUS PRO,def,Noor,1,0,M762,gun,1,0,0,,3,1,3v1

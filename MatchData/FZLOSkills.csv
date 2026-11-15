@@ -1,0 +1,129 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+8877,1,clubhouse,1,136.9,1:28,88,,Vitaking,FAZE,def,Mute,dash,LOS,atk,Zofia,0,0,SMG-11,gun,1,1,0,,5,5,5v5
+8877,1,clubhouse,1,152.8,1:12,72,,Dodez,LOS,atk,Grim,handyy,FAZE,def,Azami,0,0,552 COMMANDO,gun,1,0,0,,4,5,4v5
+8877,1,clubhouse,1,192.0,0:33,33,,Dodez,LOS,atk,Grim,Kds,FAZE,def,Skopós,0,0,552 COMMANDO,gun,1,0,1,Cyber,4,4,4v4
+8877,1,clubhouse,1,194.6,0:30,30,,peres,LOS,atk,Solid Snake,Soulz1,FAZE,def,Goyo,0,0,F2,gun,1,0,1,Vitaking,4,3,4v3
+8877,1,clubhouse,1,197.8,0:27,27,,Cyber,FAZE,def,Valkyrie,Dodez,LOS,atk,Grim,0,0,MPX,gun,1,0,1,Daffo,4,2,2v4
+8877,1,clubhouse,1,203.2,0:21,21,,Daffo,LOS,atk,Twitch,Cyber,FAZE,def,Valkyrie,1,0,F2,gun,1,0,0,,3,2,3v2
+8877,1,clubhouse,1,204.2,0:20,20,,Vitaking,FAZE,def,Mute,peres,LOS,atk,Solid Snake,0,0,SMG-11,gun,1,0,1,Daffo,3,1,1v3
+8877,1,clubhouse,1,207.8,0:17,17,,Daffo,LOS,atk,Twitch,Vitaking,FAZE,def,Mute,0,0,F2,gun,1,0,0,,2,1,2v1
+8877,1,clubhouse,2,93.3,2:11,131,,Cyber,FAZE,def,Wamai,dash,LOS,atk,Finka,1,0,MP5K,gun,1,1,0,,5,5,5v5
+8877,1,clubhouse,2,98.7,2:06,126,,Nuxxga,LOS,atk,Blitz,Kds,FAZE,def,Noor,0,0,P12,gun,1,0,0,,4,5,4v5
+8877,1,clubhouse,2,99.6,2:05,125,,handyy,FAZE,def,Thorn,peres,LOS,atk,Glaz,0,0,C75 Auto,gun,1,0,0,,4,4,4v4
+8877,1,clubhouse,2,181.7,0:43,43,,Cyber,FAZE,def,Wamai,Daffo,LOS,atk,Ying,1,0,MP5K,gun,1,0,0,,3,4,4v3
+8877,1,clubhouse,2,182.9,0:42,42,,Cyber,FAZE,def,Wamai,Nuxxga,LOS,atk,Blitz,0,0,MP5K,gun,1,0,0,,2,4,4v2
+8877,1,clubhouse,2,185.0,0:40,40,,Cyber,FAZE,def,Wamai,Dodez,LOS,atk,Thermite,0,0,MP5K,gun,1,0,0,,1,4,4v1
+8877,1,clubhouse,3,126.6,1:38,98,,Dodez,LOS,atk,Solid Snake,Vitaking,FAZE,def,Mute,1,0,F2,gun,1,1,0,,5,5,5v5
+8877,1,clubhouse,3,129.0,1:35,95,,peres,LOS,atk,Zofia,handyy,FAZE,def,Sentry,1,0,M762,gun,1,0,0,,5,4,5v4
+8877,1,clubhouse,3,180.4,0:44,44,,Cyber,FAZE,def,Thorn,dash,LOS,atk,Ying,0,0,UZK50GI,gun,1,0,0,,5,3,3v5
+8877,1,clubhouse,3,180.9,0:44,44,,Daffo,LOS,atk,Ace,Kds,FAZE,def,Wamai,1,0,AK-12,gun,1,0,0,,4,3,4v3
+8877,1,clubhouse,3,181.4,0:43,43,,Soulz1,FAZE,def,Azami,Dodez,LOS,atk,Solid Snake,0,0,9x19VSN,gun,1,0,0,,4,2,2v4
+8877,1,clubhouse,3,213.6,0:11,11,,Cyber,FAZE,def,Thorn,Nuxxga,LOS,atk,Thermite,1,0,UZK50GI,gun,1,0,0,,3,2,2v3
+8877,1,clubhouse,3,218.2,0:06,6,,Cyber,FAZE,def,Thorn,peres,LOS,atk,Zofia,0,0,,unknown,0,0,0,,2,2,2v2
+8877,1,clubhouse,3,218.3,0:06,6,,Soulz1,FAZE,def,Azami,Daffo,LOS,atk,Ace,0,0,9x19VSN,gun,1,0,0,,1,2,2v1
+8877,1,clubhouse,4,73.2,2:31,151,,Cyber,FAZE,def,Solis,peres,LOS,atk,Deimos,0,0,P90,gun,1,1,0,,5,5,5v5
+8877,1,clubhouse,4,182.2,0:42,42,,Soulz1,FAZE,def,Melusi,dash,LOS,atk,Hibana,1,0,MP5,gun,1,0,1,Daffo,4,5,5v4
+8877,1,clubhouse,4,184.3,0:40,40,,Cyber,FAZE,def,Solis,Dodez,LOS,atk,Buck,1,0,P90,gun,1,0,0,,3,5,5v3
+8877,1,clubhouse,4,186.6,0:38,38,,handyy,FAZE,def,Smoke,Nuxxga,LOS,atk,Ying,0,0,M590A1,gun,1,0,0,,2,5,5v2
+8877,1,clubhouse,4,188.9,0:36,36,,Daffo,LOS,atk,Grim,Soulz1,FAZE,def,Melusi,0,0,552 COMMANDO,gun,1,0,1,Cyber,1,5,1v5
+8877,1,clubhouse,4,189.3,0:35,35,,Cyber,FAZE,def,Solis,Daffo,LOS,atk,Grim,0,0,SMG-11,gun,1,0,0,,1,4,4v1
+8877,1,clubhouse,5,131.1,1:33,93,,peres,LOS,atk,Zofia,handyy,FAZE,def,Smoke,1,0,M762,gun,1,1,0,,5,5,5v5
+8877,1,clubhouse,5,160.1,1:04,64,,Dodez,LOS,atk,Solid Snake,Soulz1,FAZE,def,Sentry,1,0,F2,gun,1,0,0,,5,4,5v4
+8877,1,clubhouse,5,170.0,0:54,54,,Cyber,FAZE,def,Jäger,Daffo,LOS,atk,Ace,1,0,416-C CARBINE,gun,1,0,0,,5,3,3v5
+8877,1,clubhouse,5,199.8,0:25,25,,peres,LOS,atk,Zofia,Kds,FAZE,def,Azami,1,0,M762,gun,1,0,1,Cyber,4,3,4v3
+8877,1,clubhouse,5,200.1,0:24,24,,Cyber,FAZE,def,Jäger,Dodez,LOS,atk,Solid Snake,0,0,416-C CARBINE,gun,1,0,0,,4,2,2v4
+8877,1,clubhouse,5,201.8,0:23,23,,Cyber,FAZE,def,Jäger,peres,LOS,atk,Zofia,1,0,416-C CARBINE,gun,1,0,0,,3,2,2v3
+8877,1,clubhouse,5,214.6,0:10,10,,dash,LOS,atk,Grim,Vitaking,FAZE,def,Clash,0,0,552 COMMANDO,gun,1,0,0,,2,2,2v2
+8877,1,clubhouse,5,215.5,0:09,9,,Nuxxga,LOS,atk,Striker,Cyber,FAZE,def,Jäger,0,0,M4,gun,1,0,0,,2,1,2v1
+8877,1,clubhouse,6,89.3,2:15,135,,Cyber,FAZE,def,Thorn,peres,LOS,atk,Zofia,1,0,UZK50GI,gun,1,1,0,,5,5,5v5
+8877,1,clubhouse,6,185.8,0:39,39,,Dodez,LOS,atk,Solid Snake,handyy,FAZE,def,Sentry,1,0,F2,gun,1,0,0,,4,5,4v5
+8877,1,clubhouse,6,195.5,0:29,29,,Soulz1,FAZE,def,Azami,Nuxxga,LOS,atk,Striker,0,0,9x19VSN,gun,1,0,1,Daffo,4,4,4v4
+8877,1,clubhouse,6,198.6,0:26,26,,Dodez,LOS,atk,Solid Snake,Cyber,FAZE,def,Thorn,1,0,F2,gun,1,0,0,,3,4,3v4
+8877,1,clubhouse,6,202.3,0:22,22,,Dodez,LOS,atk,Solid Snake,Kds,FAZE,def,Smoke,0,0,F2,gun,1,0,1,Vitaking,3,3,3v3
+8877,1,clubhouse,6,204.2,0:20,20,,Daffo,LOS,atk,Ace,Soulz1,FAZE,def,Azami,1,0,AK-12,gun,1,0,1,Vitaking,3,2,3v2
+8877,1,clubhouse,6,206.0,0:19,19,,Vitaking,FAZE,def,Mute,Daffo,LOS,atk,Ace,0,0,SMG-11,gun,1,0,0,,3,1,1v3
+8877,1,clubhouse,6,210.4,0:14,14,,Vitaking,FAZE,def,Mute,Dodez,LOS,atk,Solid Snake,1,0,M590A1,gun,1,0,0,,2,1,1v2
+8877,1,clubhouse,6,214.7,0:10,10,,Vitaking,FAZE,def,Mute,dash,LOS,atk,Grim,0,0,M590A1,gun,1,0,0,,1,1,1v1
+8877,1,clubhouse,7,122.0,1:43,103,,handyy,FAZE,atk,Striker,Dodez,LOS,def,Skopós,0,0,M4,gun,1,1,0,,5,5,5v5
+8877,1,clubhouse,7,133.3,1:31,91,,Vitaking,FAZE,atk,Thatcher,peres,LOS,def,Denari,1,0,PMR90A2,gun,1,0,0,,5,4,5v4
+8877,1,clubhouse,7,144.9,1:20,80,,Soulz1,FAZE,atk,Hibana,Daffo,LOS,def,Goyo,1,0,PMR90A2,gun,1,0,1,Nuxxga,5,3,5v3
+8877,1,clubhouse,7,147.0,1:17,77,,Nuxxga,LOS,def,Castle,Soulz1,FAZE,atk,Hibana,1,0,UMP45,gun,1,0,1,Kds,5,2,2v5
+8877,1,clubhouse,7,152.8,1:12,72,,Kds,FAZE,atk,Grim,Nuxxga,LOS,def,Castle,1,0,552 COMMANDO,gun,1,0,0,,4,2,4v2
+8877,1,clubhouse,7,166.1,0:58,58,,dash,LOS,def,Mute,handyy,FAZE,atk,Striker,0,0,SMG-11,gun,1,0,1,Cyber,4,1,1v4
+8877,1,clubhouse,7,167.8,0:57,57,,Cyber,FAZE,atk,Blitz,dash,LOS,def,Mute,0,0,P12,gun,1,0,0,,3,1,3v1
+8877,1,clubhouse,8,148.1,1:16,76,,Dodez,LOS,def,Warden,Soulz1,FAZE,atk,Blackbeard,1,0,MPX,gun,1,1,1,Kds,5,5,5v5
+8877,1,clubhouse,8,154.7,1:10,70,,Kds,FAZE,atk,Capitão,Dodez,LOS,def,Warden,1,0,PMR90A2,gun,1,0,0,,4,5,4v5
+8877,1,clubhouse,8,195.7,0:29,29,,Kds,FAZE,atk,Capitão,Nuxxga,LOS,def,Jäger,0,0,PMR90A2,gun,1,0,0,,4,4,4v4
+8877,1,clubhouse,8,199.3,0:25,25,,handyy,FAZE,atk,Ying,dash,LOS,def,Smoke,0,0,Reaper MK2,gun,1,0,0,,4,3,4v3
+8877,1,clubhouse,8,204.8,0:20,20,,handyy,FAZE,atk,Ying,Daffo,LOS,def,Thorn,1,0,Reaper MK2,gun,1,0,0,,4,2,4v2
+8877,1,clubhouse,8,218.2,0:33,33,33,Kds,FAZE,atk,Capitão,peres,LOS,def,Goyo,0,1,PMR90A2,gun,1,0,0,,4,1,4v1
+8877,1,clubhouse,9,134.5,1:30,90,,Dodez,LOS,def,Mira,Vitaking,FAZE,atk,Grim,1,0,VECTOR .45 ACP,gun,1,1,0,,5,5,5v5
+8877,1,clubhouse,9,152.3,1:12,72,,Kds,FAZE,atk,Striker,Dodez,LOS,def,Mira,1,0,M4,gun,1,0,0,,4,5,4v5
+8877,1,clubhouse,9,166.7,0:58,58,,dash,LOS,def,Melusi,handyy,FAZE,atk,Thatcher,1,0,MP5,gun,1,0,0,,4,4,4v4
+8877,1,clubhouse,9,175.2,0:49,49,,Daffo,LOS,def,Sentry,Kds,FAZE,atk,Striker,0,0,TCSG12,gun,1,0,0,,3,4,4v3
+8877,1,clubhouse,9,191.2,0:33,33,,dash,LOS,def,Melusi,Cyber,FAZE,atk,Thermite,1,0,MP5,gun,1,0,0,,2,4,4v2
+8877,1,clubhouse,9,198.7,0:26,26,,Nuxxga,LOS,def,Bandit,Soulz1,FAZE,atk,Sledge,0,0,MP7,gun,1,0,0,,1,4,4v1
+8877,1,clubhouse,10,115.6,1:49,109,,Kds,FAZE,atk,Sledge,Nuxxga,LOS,def,Bandit,0,0,FRAG GRENADE,gadget,1,1,0,,5,5,5v5
+8877,1,clubhouse,10,155.0,1:09,69,,Kds,FAZE,atk,Sledge,dash,LOS,def,Melusi,0,0,L85A2,gun,1,0,0,,5,4,5v4
+8877,1,clubhouse,10,155.9,1:09,69,,Cyber,FAZE,atk,Solid Snake,Daffo,LOS,def,Castle,1,0,F2,gun,1,0,0,,5,3,5v3
+8877,1,clubhouse,10,160.2,1:04,64,,handyy,FAZE,atk,Hibana,Dodez,LOS,def,Warden,1,0,PMR90A2,gun,1,0,0,,5,2,5v2
+8877,1,clubhouse,10,167.6,0:57,57,,Vitaking,FAZE,atk,Flores,peres,LOS,def,Sentry,0,0,AR33,gun,1,0,0,,5,1,5v1
+8877,2,chalet,1,111.5,1:53,113,,handyy,FAZE,atk,Nomad,Daffo,LOS,def,Thorn,0,0,AK-74M,gun,1,1,0,,5,5,5v5
+8877,2,chalet,1,120.6,1:44,104,,Nuxxga,LOS,def,Smoke,Kds,FAZE,atk,Flores,0,0,SMG-11,gun,1,0,0,,5,4,4v5
+8877,2,chalet,1,125.1,1:39,99,,Soulz1,FAZE,atk,Sens,Dodez,LOS,def,Azami,0,0,417,gun,1,0,0,,4,4,4v4
+8877,2,chalet,1,137.7,1:27,87,,Daffo,LOS,def,Thorn,Cyber,FAZE,atk,Blitz,0,0,RAZORBLOOM SHELL,gadget,1,0,0,,4,3,3v4
+8877,2,chalet,1,145.1,1:19,79,,peres,LOS,def,Solis,Vitaking,FAZE,atk,Dokkaebi,1,0,SMG-11,gun,1,0,0,,3,3,3v3
+8877,2,chalet,1,147.8,1:17,77,,Nuxxga,LOS,def,Smoke,Soulz1,FAZE,atk,Sens,0,0,M590A1,gun,1,0,0,,2,3,3v2
+8877,2,chalet,1,148.6,1:16,76,,handyy,FAZE,atk,Nomad,dash,LOS,def,Sentry,1,0,AK-74M,gun,1,0,0,,1,3,1v3
+8877,2,chalet,1,175.2,0:49,49,,handyy,FAZE,atk,Nomad,peres,LOS,def,Solis,0,0,AK-74M,gun,1,0,0,,1,2,1v2
+8877,2,chalet,1,180.5,0:44,44,,handyy,FAZE,atk,Nomad,Nuxxga,LOS,def,Smoke,0,0,AK-74M,gun,1,0,0,,1,1,1v1
+8877,2,chalet,2,139.5,1:25,85,,dash,LOS,def,Solis,Soulz1,FAZE,atk,Nomad,0,0,ITA12L,gun,1,1,0,,5,5,5v5
+8877,2,chalet,2,195.9,0:29,29,,Cyber,FAZE,atk,Blitz,Daffo,LOS,def,Castle,0,0,P12,gun,1,0,1,Nuxxga,4,5,4v5
+8877,2,chalet,2,196.8,0:28,28,,Nuxxga,LOS,def,Smoke,Cyber,FAZE,atk,Blitz,1,0,SMG-11,gun,1,0,1,Kds,4,4,4v4
+8877,2,chalet,2,200.4,0:24,24,,Kds,FAZE,atk,Solid Snake,Nuxxga,LOS,def,Smoke,1,0,F2,gun,1,0,0,,3,4,3v4
+8877,2,chalet,2,202.4,0:22,22,,Vitaking,FAZE,atk,Hibana,dash,LOS,def,Solis,1,0,PMR90A2,gun,1,0,0,,3,3,3v3
+8877,2,chalet,2,212.9,0:12,12,,handyy,FAZE,atk,Striker,peres,LOS,def,Ela,1,0,M4,gun,1,0,0,,3,2,3v2
+8877,2,chalet,2,213.0,0:11,11,,Dodez,LOS,def,Denari,Vitaking,FAZE,atk,Hibana,1,0,SCORPION EVO 3 A1,gun,1,0,1,handyy,3,1,1v3
+8877,2,chalet,2,217.9,0:07,7,,handyy,FAZE,atk,Striker,Dodez,LOS,def,Denari,0,0,M4,gun,1,0,0,,2,1,2v1
+8877,2,chalet,3,144.7,1:20,80,,Cyber,FAZE,atk,Blitz,Nuxxga,LOS,def,Smoke,0,0,P12,gun,1,1,0,,5,5,5v5
+8877,2,chalet,3,146.9,0:42,42,42,Daffo,LOS,def,Thorn,Soulz1,FAZE,atk,Capitão,1,1,UZK50GI,gun,1,0,0,,5,4,4v5
+8877,2,chalet,3,158.8,0:30,30,30,peres,LOS,def,Ela,Cyber,FAZE,atk,Blitz,0,1,SCORPION EVO 3 A1,gun,1,0,1,handyy,4,4,4v4
+8877,2,chalet,3,165.0,0:24,24,24,handyy,FAZE,atk,Thatcher,peres,LOS,def,Ela,0,1,CLAYMORE,gadget,1,0,0,,3,4,3v4
+8877,2,chalet,3,169.5,0:20,20,20,handyy,FAZE,atk,Thatcher,dash,LOS,def,Goyo,0,1,PMR90A2,gun,1,0,0,,3,3,3v3
+8877,2,chalet,3,169.6,0:19,19,19,Kds,FAZE,atk,Nomad,Dodez,LOS,def,Denari,0,1,AK-74M,gun,1,0,0,,3,2,3v2
+8877,2,chalet,3,171.0,0:18,18,18,handyy,FAZE,atk,Thatcher,Daffo,LOS,def,Thorn,0,1,PMR90A2,gun,1,0,0,,3,1,3v1
+8877,2,chalet,4,97.3,2:07,127,,handyy,FAZE,atk,Buck,peres,LOS,def,Ela,0,0,C8-SFW,gun,1,1,0,,5,5,5v5
+8877,2,chalet,4,124.4,1:40,100,,handyy,FAZE,atk,Buck,Dodez,LOS,def,Thorn,1,0,C8-SFW,gun,1,0,0,,5,4,5v4
+8877,2,chalet,4,148.2,1:16,76,,Nuxxga,LOS,def,Noor,Vitaking,FAZE,atk,Twitch,1,0,COMMANDO 9,gun,1,0,0,,5,3,3v5
+8877,2,chalet,4,185.8,0:39,39,,Daffo,LOS,def,Smoke,handyy,FAZE,atk,Buck,0,0,SMG-11,gun,1,0,1,Cyber,4,3,3v4
+8877,2,chalet,4,195.2,0:29,29,,Cyber,FAZE,atk,Solid Snake,Daffo,LOS,def,Smoke,1,0,F2,gun,1,0,0,,3,3,3v3
+8877,2,chalet,4,196.1,0:28,28,,Kds,FAZE,atk,Striker,Nuxxga,LOS,def,Noor,0,0,M4,gun,1,0,0,,3,2,3v2
+8877,2,chalet,4,199.8,0:25,25,,Kds,FAZE,atk,Striker,dash,LOS,def,Warden,1,0,M4,gun,1,0,0,,3,1,3v1
+8877,2,chalet,5,72.0,2:32,152,,Cyber,FAZE,atk,Blitz,peres,LOS,def,Thorn,1,0,P12,gun,1,1,0,,5,5,5v5
+8877,2,chalet,5,90.5,2:14,134,,Cyber,FAZE,atk,Blitz,Dodez,LOS,def,Tubarão,1,0,P12,gun,1,0,1,dash,5,4,5v4
+8877,2,chalet,5,99.2,2:05,125,,dash,LOS,def,Smoke,Cyber,FAZE,atk,Blitz,1,0,SMG-11,gun,1,0,0,,5,3,3v5
+8877,2,chalet,5,121.6,1:43,103,,Kds,FAZE,atk,Flores,dash,LOS,def,Smoke,1,0,AR33,gun,1,0,0,,4,3,4v3
+8877,2,chalet,5,132.2,1:32,92,,Soulz1,FAZE,atk,Glaz,Nuxxga,LOS,def,Kaid,0,0,OTs-03,gun,1,0,0,,4,2,4v2
+8877,2,chalet,5,144.0,1:21,81,,Vitaking,FAZE,atk,Zofia,Daffo,LOS,def,Warden,1,0,M762,gun,1,0,0,,4,1,4v1
+8877,2,chalet,6,122.1,1:42,102,,Cyber,FAZE,atk,Twitch,dash,LOS,def,Goyo,1,0,F2,gun,1,1,0,,5,5,5v5
+8877,2,chalet,6,131.0,1:34,94,,Kds,FAZE,atk,Solid Snake,peres,LOS,def,Ela,1,0,F2,gun,1,0,1,Daffo,5,4,5v4
+8877,2,chalet,6,131.7,1:33,93,,Daffo,LOS,def,Thorn,Kds,FAZE,atk,Solid Snake,1,0,UZK50GI,gun,1,0,1,handyy,5,3,3v5
+8877,2,chalet,6,136.2,1:28,88,,handyy,FAZE,atk,Ace,Daffo,LOS,def,Thorn,1,0,AK-12,gun,1,0,1,Nuxxga,4,3,4v3
+8877,2,chalet,6,137.4,1:27,87,,Dodez,LOS,def,Denari,Cyber,FAZE,atk,Twitch,1,0,SCORPION EVO 3 A1,gun,1,0,0,,4,2,2v4
+8877,2,chalet,6,140.5,1:24,84,,Nuxxga,LOS,def,Tachanka,handyy,FAZE,atk,Ace,0,0,DP28,gun,1,0,0,,3,2,2v3
+8877,2,chalet,6,156.2,1:08,68,,Soulz1,FAZE,atk,Finka,Dodez,LOS,def,Denari,0,0,6P41,gun,1,0,0,,2,2,2v2
+8877,2,chalet,6,158.3,1:06,66,,Nuxxga,LOS,def,Tachanka,Vitaking,FAZE,atk,Grim,0,0,DP28,gun,1,0,1,Soulz1,2,1,1v2
+8877,2,chalet,6,162.7,1:02,62,,Soulz1,FAZE,atk,Finka,Nuxxga,LOS,def,Tachanka,1,0,6P41,gun,1,0,0,,1,1,1v1
+8877,2,chalet,7,52.8,2:52,172,,peres,LOS,atk,Solid Snake,Cyber,FAZE,def,Ela,1,0,F2,gun,1,1,0,,5,5,5v5
+8877,2,chalet,7,143.4,1:21,81,,dash,LOS,atk,Twitch,Kds,FAZE,def,Sentry,1,0,F2,gun,1,0,0,,5,4,5v4
+8877,2,chalet,7,157.5,1:07,67,,Dodez,LOS,atk,Brava,handyy,FAZE,def,Thorn,0,0,CAMRS,gun,1,0,0,,5,3,5v3
+8877,2,chalet,7,163.0,1:02,62,,Soulz1,FAZE,def,Solis,dash,LOS,atk,Twitch,1,0,SMG-11,gun,1,0,1,Dodez,5,2,2v5
+8877,2,chalet,7,165.3,0:59,59,,Dodez,LOS,atk,Brava,Soulz1,FAZE,def,Solis,1,0,CAMRS,gun,1,0,1,Vitaking,4,2,4v2
+8877,2,chalet,7,168.9,0:56,56,,Vitaking,FAZE,def,Smoke,Dodez,LOS,atk,Brava,0,0,SMG-11,gun,1,0,0,,4,1,1v4
+8877,2,chalet,7,171.2,0:53,53,,Vitaking,FAZE,def,Smoke,peres,LOS,atk,Solid Snake,1,0,SMG-11,gun,1,0,1,Nuxxga,3,1,1v3
+8877,2,chalet,7,179.6,0:45,45,,Nuxxga,LOS,atk,Grim,Vitaking,FAZE,def,Smoke,0,0,552 COMMANDO,gun,1,0,0,,2,1,2v1
+8877,2,chalet,8,131.6,1:33,93,,Cyber,FAZE,def,Thorn,peres,LOS,atk,Solid Snake,1,0,UZK50GI,gun,1,1,0,,5,5,5v5
+8877,2,chalet,8,137.6,1:27,87,,Kds,FAZE,def,Mira,dash,LOS,atk,Twitch,0,0,ITA12S,gun,1,0,0,,4,5,5v4
+8877,2,chalet,8,153.3,1:11,71,,Cyber,FAZE,def,Thorn,Nuxxga,LOS,atk,Grim,0,0,UZK50GI,gun,1,0,0,,3,5,5v3
+8877,2,chalet,8,155.1,1:09,69,,handyy,FAZE,def,Mozzie,Daffo,LOS,atk,Striker,1,0,COMMANDO 9,gun,1,0,0,,2,5,5v2
+8877,2,chalet,8,160.7,1:04,64,,Soulz1,FAZE,def,Solis,Dodez,LOS,atk,Ash,0,0,P90,gun,1,0,0,,1,5,5v1

@@ -1,0 +1,102 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+8855,1,lair,1,107.5,1:57,117,,JumeDOOM,FALCONS,def,Azami,Fntzy,FLUXO W7M,atk,Ace,0,0,9x19VSN,gun,1,1,0,,5,5,5v5
+8855,1,lair,1,141.1,1:23,83,,JumeDOOM,FALCONS,def,Azami,Dotz,FLUXO W7M,atk,Grim,0,0,9x19VSN,gun,1,0,0,,4,5,5v4
+8855,1,lair,1,165.6,0:59,59,,Solotov,FALCONS,def,Thorn,Lobin,FLUXO W7M,atk,Ying,0,0,RAZORBLOOM SHELL,gadget,1,0,0,,3,5,5v3
+8855,1,lair,1,166.8,0:58,58,,Paluh,FLUXO W7M,atk,Striker,JumeDOOM,FALCONS,def,Azami,1,0,M4,gun,1,0,1,Solotov,2,5,2v5
+8855,1,lair,1,176.3,0:48,48,,Solotov,FALCONS,def,Thorn,Paluh,FLUXO W7M,atk,Striker,0,0,UZK50GI,gun,1,0,0,,2,4,4v2
+8855,1,lair,1,179.7,0:45,45,,Hatez,FLUXO W7M,atk,Deimos,LikEfac,FALCONS,def,Solis,1,0,AK-74M,gun,1,0,0,,1,4,1v4
+8855,1,lair,1,195.2,0:29,29,,Solotov,FALCONS,def,Thorn,Hatez,FLUXO W7M,atk,Deimos,0,0,UZK50GI,gun,1,0,0,,1,3,3v1
+8855,1,lair,2,192.9,0:32,32,,Lobin,FLUXO W7M,atk,Thatcher,JumeDOOM,FALCONS,def,Thorn,0,0,PMR90A2,gun,1,1,1,Solotov,5,5,5v5
+8855,1,lair,2,196.9,0:28,28,,Solotov,FALCONS,def,Goyo,Lobin,FLUXO W7M,atk,Thatcher,1,0,TCSG12,gun,1,0,1,Fntzy,5,4,4v5
+8855,1,lair,2,197.0,0:27,27,,Fntzy,FLUXO W7M,atk,Jackal,Solotov,FALCONS,def,Goyo,1,0,C7E,gun,1,0,1,BriD,4,4,4v4
+8855,1,lair,2,198.3,0:26,26,,BriD,FALCONS,def,Echo,Fntzy,FLUXO W7M,atk,Jackal,0,0,BEARING 9,gun,1,0,1,Hatez,4,3,3v4
+8855,1,lair,2,199.7,0:25,25,,LikEfac,FALCONS,def,Mute,Paluh,FLUXO W7M,atk,Hibana,0,0,M590A1,gun,1,0,0,,3,3,3v3
+8855,1,lair,2,206.7,0:18,18,,Hatez,FLUXO W7M,atk,Ram,BriD,FALCONS,def,Echo,1,0,R4-C,gun,1,0,0,,2,3,2v3
+8855,1,lair,2,223.8,0:01,1,,Hatez,FLUXO W7M,atk,Ram,Yuzus,FALCONS,def,Azami,1,0,R4-C,gun,1,0,0,,2,2,2v2
+8855,1,lair,2,253.5,0:22,22,22,Dotz,FLUXO W7M,atk,Deimos,LikEfac,FALCONS,def,Mute,1,1,AK-74M,gun,1,0,0,,2,1,2v1
+8855,1,lair,2,254.2,0:22,22,22,LikEfac,FALCONS,def,Mute,Hatez,FLUXO W7M,atk,Ram,1,1,SMG-11,gun,1,0,0,,2,0,0v2
+8855,1,lair,3,144.4,1:20,80,,Solotov,FALCONS,def,Valkyrie,Fntzy,FLUXO W7M,atk,Kali,0,0,NITRO CELL,gadget,1,1,1,Hatez,5,5,5v5
+8855,1,lair,3,153.0,1:12,72,,Hatez,FLUXO W7M,atk,Dokkaebi,Solotov,FALCONS,def,Valkyrie,1,0,SMG-12,gun,1,0,0,,4,5,4v5
+8855,1,lair,3,171.2,0:53,53,,Yuzus,FALCONS,def,Mute,Dotz,FLUXO W7M,atk,Ace,0,0,M590A1,gun,1,0,0,,4,4,4v4
+8855,1,lair,3,185.7,0:39,39,,Lobin,FLUXO W7M,atk,Ying,Yuzus,FALCONS,def,Mute,0,0,SIX12,gun,1,0,1,BriD,3,4,3v4
+8855,1,lair,3,188.1,0:36,36,,BriD,FALCONS,def,Smoke,Lobin,FLUXO W7M,atk,Ying,1,0,SMG-11,gun,1,0,0,,3,3,3v3
+8855,1,lair,3,193.1,0:31,31,,LikEfac,FALCONS,def,Solis,Hatez,FLUXO W7M,atk,Dokkaebi,1,0,SMG-11,gun,1,0,0,,2,3,3v2
+8855,1,lair,3,197.7,0:27,27,,BriD,FALCONS,def,Smoke,Paluh,FLUXO W7M,atk,Nomad,0,0,SMG-11,gun,1,0,0,,1,3,3v1
+8855,1,lair,4,179.2,0:45,45,,LikEfac,FALCONS,def,Kaid,Fntzy,FLUXO W7M,atk,Ace,1,0,TCSG12,gun,1,1,0,,5,5,5v5
+8855,1,lair,4,183.9,0:41,41,,Lobin,FLUXO W7M,atk,Nomad,Solotov,FALCONS,def,Wamai,1,0,AK-74M,gun,1,0,0,,4,5,4v5
+8855,1,lair,4,186.0,0:38,38,,LikEfac,FALCONS,def,Kaid,Dotz,FLUXO W7M,atk,Thatcher,0,0,NITRO CELL,gadget,1,0,0,,4,4,4v4
+8855,1,lair,4,202.4,0:22,22,,LikEfac,FALCONS,def,Kaid,Lobin,FLUXO W7M,atk,Nomad,1,0,TCSG12,gun,1,0,0,,3,4,4v3
+8855,1,lair,4,207.2,0:17,17,,LikEfac,FALCONS,def,Kaid,Hatez,FLUXO W7M,atk,Deimos,0,0,TCSG12,gun,1,0,0,,2,4,4v2
+8855,1,lair,4,208.0,0:17,17,,Yuzus,FALCONS,def,Smoke,Paluh,FLUXO W7M,atk,Striker,0,0,M590A1,gun,1,0,0,,1,4,4v1
+8855,1,lair,5,101.1,2:03,123,,Solotov,FALCONS,def,Goyo,Dotz,FLUXO W7M,atk,Thermite,1,0,VECTOR .45 ACP,gun,1,1,0,,5,5,5v5
+8855,1,lair,5,112.5,1:52,112,,Yuzus,FALCONS,def,Thorn,Lobin,FLUXO W7M,atk,Ying,0,0,UZK50GI,gun,1,0,0,,4,5,5v4
+8855,1,lair,5,115.0,1:50,110,,JumeDOOM,FALCONS,def,Valkyrie,Paluh,FLUXO W7M,atk,Twitch,1,0,MPX,gun,1,0,0,,3,5,5v3
+8855,1,lair,5,126.1,1:38,98,,JumeDOOM,FALCONS,def,Valkyrie,Fntzy,FLUXO W7M,atk,Deimos,1,0,MPX,gun,1,0,0,,2,5,5v2
+8855,1,lair,5,159.3,1:05,65,,JumeDOOM,FALCONS,def,Valkyrie,Hatez,FLUXO W7M,atk,Flores,0,0,D-50,gun,1,0,0,,1,5,5v1
+8855,1,lair,6,87.0,2:18,138,,Fntzy,FLUXO W7M,atk,Ace,JumeDOOM,FALCONS,def,Warden,1,0,AK-12,gun,1,1,0,,5,5,5v5
+8855,1,lair,6,126.4,1:38,98,,Yuzus,FALCONS,def,Solis,Paluh,FLUXO W7M,atk,Striker,0,0,ITA12L,gun,1,0,1,Fntzy,5,4,4v5
+8855,1,lair,6,130.1,1:34,94,,Solotov,FALCONS,def,Thorn,Dotz,FLUXO W7M,atk,Blackbeard,1,0,UZK50GI,gun,1,0,0,,4,4,4v4
+8855,1,lair,6,131.9,1:33,93,,Fntzy,FLUXO W7M,atk,Ace,Yuzus,FALCONS,def,Solis,1,0,AK-12,gun,1,0,0,,3,4,3v4
+8855,1,lair,6,148.6,1:16,76,,Lobin,FLUXO W7M,atk,Grim,Solotov,FALCONS,def,Thorn,0,0,552 COMMANDO,gun,1,0,0,,3,3,3v3
+8855,1,lair,6,164.3,1:00,60,,LikEfac,FALCONS,def,Wamai,Lobin,FLUXO W7M,atk,Grim,0,0,MP5K,gun,1,0,0,,3,2,2v3
+8855,1,lair,6,205.7,0:19,19,,Hatez,FLUXO W7M,atk,Thermite,LikEfac,FALCONS,def,Wamai,0,0,ITA12S,gun,1,0,0,,2,2,2v2
+8855,1,lair,6,217.8,0:07,7,,Hatez,FLUXO W7M,atk,Thermite,BriD,FALCONS,def,Smoke,0,0,556XI,gun,1,0,0,,2,1,2v1
+8855,1,lair,7,155.2,1:09,69,,LikEfac,FALCONS,atk,Capitão,Lobin,FLUXO W7M,def,Azami,0,0,PMR90A2,gun,1,1,0,,5,5,5v5
+8855,1,lair,7,202.5,0:22,22,,Hatez,FLUXO W7M,def,Goyo,JumeDOOM,FALCONS,atk,Zofia,0,0,TCSG12,gun,1,0,1,LikEfac,5,4,4v5
+8855,1,lair,7,205.9,0:19,19,,LikEfac,FALCONS,atk,Capitão,Hatez,FLUXO W7M,def,Goyo,0,0,PMR90A2,gun,1,0,0,,4,4,4v4
+8855,1,lair,7,208.8,0:16,16,,Solotov,FALCONS,atk,Kali,Fntzy,FLUXO W7M,def,Tubarão,0,0,CSRX300,gun,1,0,0,,4,3,4v3
+8855,1,lair,7,212.5,0:12,12,,BriD,FALCONS,atk,Montagne,Paluh,FLUXO W7M,def,Smoke,0,0,P9,gun,1,0,0,,4,2,4v2
+8855,1,lair,7,217.2,0:07,7,,Yuzus,FALCONS,atk,Flores,Dotz,FLUXO W7M,def,Bandit,0,0,AR33,gun,1,0,0,,4,1,4v1
+8855,1,lair,8,76.9,2:28,148,,LikEfac,FALCONS,atk,Sledge,Fntzy,FLUXO W7M,def,Thorn,1,0,L85A2,gun,1,1,1,Lobin,5,5,5v5
+8855,1,lair,8,79.6,2:25,145,,Lobin,FLUXO W7M,def,Azami,LikEfac,FALCONS,atk,Sledge,1,0,9x19VSN,gun,1,0,0,,5,4,4v5
+8855,1,lair,8,151.2,1:13,73,,Hatez,FLUXO W7M,def,Ela,Solotov,FALCONS,atk,Solid Snake,1,0,SCORPION EVO 3 A1,gun,1,0,0,,4,4,4v4
+8855,1,lair,8,192.5,0:32,32,,Paluh,FLUXO W7M,def,Clash,JumeDOOM,FALCONS,atk,Hibana,1,0,SPSMG9,gun,1,0,0,,3,4,4v3
+8855,1,lair,8,193.2,0:31,31,,Dotz,FLUXO W7M,def,Mira,Yuzus,FALCONS,atk,Ram,1,0,VECTOR .45 ACP,gun,1,0,0,,2,4,4v2
+8855,1,lair,8,200.6,0:24,24,,BriD,FALCONS,atk,Montagne,Hatez,FLUXO W7M,def,Ela,1,0,P9,gun,1,0,0,,1,4,1v4
+8855,1,lair,8,203.4,0:21,21,,BriD,FALCONS,atk,Montagne,Dotz,FLUXO W7M,def,Mira,1,0,P9,gun,1,0,1,Lobin,1,3,1v3
+8855,1,lair,8,212.9,0:12,12,,Lobin,FLUXO W7M,def,Azami,BriD,FALCONS,atk,Montagne,1,0,9x19VSN,gun,1,0,0,,1,2,2v1
+8855,1,lair,9,115.4,1:49,109,,Hatez,FLUXO W7M,def,Goyo,JumeDOOM,FALCONS,atk,Zofia,1,0,VECTOR .45 ACP,gun,1,1,0,,5,5,5v5
+8855,1,lair,9,117.2,1:47,107,,Fntzy,FLUXO W7M,def,Azami,Solotov,FALCONS,atk,Kali,1,0,9x19VSN,gun,1,0,0,,4,5,5v4
+8855,1,lair,9,161.4,1:03,63,,LikEfac,FALCONS,atk,Grim,Hatez,FLUXO W7M,def,Goyo,0,0,552 COMMANDO,gun,1,0,0,,3,5,3v5
+8855,1,lair,9,193.2,0:31,31,,Lobin,FLUXO W7M,def,Noor,LikEfac,FALCONS,atk,Grim,0,0,COMMANDO 9,gun,1,0,0,,3,4,4v3
+8855,1,lair,9,198.7,0:26,26,,Dotz,FLUXO W7M,def,Tachanka,Yuzus,FALCONS,atk,Flores,1,0,DP28,gun,1,0,0,,2,4,4v2
+8855,1,lair,9,200.6,0:24,24,,Lobin,FLUXO W7M,def,Noor,BriD,FALCONS,atk,Sens,1,0,COMMANDO 9,gun,1,0,0,,1,4,4v1
+8855,1,lair,10,104.6,2:00,120,,Yuzus,FALCONS,atk,Thatcher,Dotz,FLUXO W7M,def,Noor,0,0,L85A2,gun,1,1,0,,5,5,5v5
+8855,1,lair,10,170.2,0:54,54,,BriD,FALCONS,atk,Blitz,Fntzy,FLUXO W7M,def,Thorn,1,0,P12,gun,1,0,0,,5,4,5v4
+8855,1,lair,10,170.8,0:54,54,,Lobin,FLUXO W7M,def,Ela,Yuzus,FALCONS,atk,Thatcher,1,0,SCORPION EVO 3 A1,gun,1,0,1,JumeDOOM,5,3,3v5
+8855,1,lair,10,175.3,0:49,49,,JumeDOOM,FALCONS,atk,Solid Snake,Lobin,FLUXO W7M,def,Ela,1,0,F2,gun,1,0,0,,4,3,4v3
+8855,1,lair,10,194.3,0:30,30,,JumeDOOM,FALCONS,atk,Solid Snake,Paluh,FLUXO W7M,def,Solis,0,0,F2,gun,1,0,0,,4,2,4v2
+8855,1,lair,10,197.7,0:27,27,,Solotov,FALCONS,atk,Nomad,Hatez,FLUXO W7M,def,Smoke,0,0,ARX200,gun,1,0,0,,4,1,4v1
+8855,1,lair,11,148.7,1:16,76,,Solotov,FALCONS,atk,Twitch,Fntzy,FLUXO W7M,def,Valkyrie,0,0,F2,gun,1,1,0,,5,5,5v5
+8855,1,lair,11,204.2,0:20,20,,Dotz,FLUXO W7M,def,Denari,Yuzus,FALCONS,atk,Dokkaebi,1,0,SCORPION EVO 3 A1,gun,1,0,1,BriD,5,4,4v5
+8855,1,lair,11,207.6,0:17,17,,BriD,FALCONS,atk,Capitão,Dotz,FLUXO W7M,def,Denari,0,0,PMR90A2,gun,1,0,1,Lobin,4,4,4v4
+8855,1,lair,11,207.8,0:17,17,,Hatez,FLUXO W7M,def,Thorn,JumeDOOM,FALCONS,atk,IQ,0,0,UZK50GI,gun,1,0,0,,4,3,3v4
+8855,1,lair,11,208.7,0:16,16,,Lobin,FLUXO W7M,def,Noor,LikEfac,FALCONS,atk,Solid Snake,1,0,COMMANDO 9,gun,1,0,0,,3,3,3v3
+8855,1,lair,11,217.4,0:07,7,,Lobin,FLUXO W7M,def,Noor,BriD,FALCONS,atk,Capitão,0,0,COMMANDO 9,gun,1,0,0,,2,3,3v2
+8855,1,lair,12,146.7,1:18,78,,LikEfac,FALCONS,atk,Solid Snake,Hatez,FLUXO W7M,def,Goyo,0,0,F2,gun,1,1,0,,5,5,5v5
+8855,1,lair,12,203.1,0:21,21,,Lobin,FLUXO W7M,def,Noor,JumeDOOM,FALCONS,atk,Zofia,1,0,COMMANDO 9,gun,1,0,0,,5,4,4v5
+8855,1,lair,12,206.0,0:19,19,,Fntzy,FLUXO W7M,def,Bandit,Solotov,FALCONS,atk,Hibana,1,0,MP7,gun,1,0,0,,4,4,4v4
+8855,1,lair,12,208.6,0:16,16,,Paluh,FLUXO W7M,def,Mute,BriD,FALCONS,atk,Blackbeard,1,0,SMG-11,gun,1,0,0,,3,4,4v3
+8855,1,lair,12,209.1,0:15,15,,Lobin,FLUXO W7M,def,Noor,LikEfac,FALCONS,atk,Solid Snake,0,0,COMMANDO 9,gun,1,0,0,,2,4,4v2
+8855,1,lair,12,212.2,0:12,12,,Lobin,FLUXO W7M,def,Noor,Yuzus,FALCONS,atk,Nomad,0,0,COMMANDO 9,gun,1,0,0,,1,4,4v1
+8855,1,lair,13,107.9,1:57,117,,LikEfac,FALCONS,atk,Solid Snake,Hatez,FLUXO W7M,def,Goyo,1,0,F2,gun,1,1,0,,5,5,5v5
+8855,1,lair,13,130.7,1:34,94,,BriD,FALCONS,atk,Blitz,Fntzy,FLUXO W7M,def,Mira,1,0,P12,gun,1,0,0,,5,4,5v4
+8855,1,lair,13,136.0,1:28,88,,LikEfac,FALCONS,atk,Solid Snake,Dotz,FLUXO W7M,def,Tachanka,0,0,F2,gun,1,0,0,,5,3,5v3
+8855,1,lair,13,136.8,1:28,88,,Solotov,FALCONS,atk,Kali,Paluh,FLUXO W7M,def,Mute,0,0,CSRX300,gun,1,0,0,,5,2,5v2
+8855,1,lair,13,137.4,1:27,87,,BriD,FALCONS,atk,Blitz,Lobin,FLUXO W7M,def,Noor,0,0,P12,gun,1,0,0,,5,1,5v1
+8855,1,lair,14,85.5,2:19,139,,Hatez,FLUXO W7M,atk,Deimos,JumeDOOM,FALCONS,def,Goyo,1,0,AK-74M,gun,1,1,0,,5,5,5v5
+8855,1,lair,14,165.6,0:59,59,,Solotov,FALCONS,def,Thorn,Fntzy,FLUXO W7M,atk,Thermite,1,0,UZK50GI,gun,1,0,1,Hatez,5,4,4v5
+8855,1,lair,14,166.8,0:58,58,,LikEfac,FALCONS,def,Wamai,Dotz,FLUXO W7M,atk,Ying,0,0,MP5K,gun,1,0,0,,4,4,4v4
+8855,1,lair,14,167.9,0:57,57,,Hatez,FLUXO W7M,atk,Deimos,Solotov,FALCONS,def,Thorn,0,0,AK-74M,gun,1,0,0,,3,4,3v4
+8855,1,lair,14,171.7,0:53,53,,Yuzus,FALCONS,def,Smoke,Paluh,FLUXO W7M,atk,Striker,0,0,SMG-11,gun,1,0,1,Hatez,3,3,3v3
+8855,1,lair,14,176.6,0:48,48,,Lobin,FLUXO W7M,atk,Grim,BriD,FALCONS,def,Tachanka,0,0,552 COMMANDO,gun,1,0,0,,2,3,2v3
+8855,1,lair,14,178.6,0:46,46,,Hatez,FLUXO W7M,atk,Deimos,Yuzus,FALCONS,def,Smoke,0,0,AK-74M,gun,1,0,0,,2,2,2v2
+8855,1,lair,14,198.1,0:37,37,37,Hatez,FLUXO W7M,atk,Deimos,LikEfac,FALCONS,def,Wamai,0,1,AK-74M,gun,1,0,0,,2,1,2v1
+8855,1,lair,15,126.4,1:38,98,,Lobin,FLUXO W7M,def,Mira,Solotov,FALCONS,atk,Flores,1,0,VECTOR .45 ACP,gun,1,1,0,,5,5,5v5
+8855,1,lair,15,148.8,1:16,76,,Dotz,FLUXO W7M,def,Goyo,LikEfac,FALCONS,atk,Solid Snake,0,0,TCSG12,gun,1,0,1,BriD,4,5,5v4
+8855,1,lair,15,149.0,1:15,75,,JumeDOOM,FALCONS,atk,Sledge,Lobin,FLUXO W7M,def,Mira,0,0,L85A2,gun,1,0,0,,3,5,3v5
+8855,1,lair,15,155.1,1:09,69,,BriD,FALCONS,atk,Blackbeard,Dotz,FLUXO W7M,def,Goyo,1,0,MK17 CQB,gun,1,0,0,,3,4,3v4
+8855,1,lair,15,190.5,0:34,34,,BriD,FALCONS,atk,Blackbeard,Fntzy,FLUXO W7M,def,Thorn,1,0,MK17 CQB,gun,1,0,0,,3,3,3v3
+8855,1,lair,15,196.2,0:28,28,,Yuzus,FALCONS,atk,Striker,Hatez,FLUXO W7M,def,Ela,0,0,M4,gun,1,0,1,Paluh,3,2,3v2
+8855,1,lair,15,198.1,0:26,26,,Paluh,FLUXO W7M,def,Clash,Yuzus,FALCONS,atk,Striker,1,0,SPSMG9,gun,1,0,1,BriD,3,1,1v3
+8855,1,lair,15,207.0,0:18,18,,BriD,FALCONS,atk,Blackbeard,Paluh,FLUXO W7M,def,Clash,0,0,MK17 CQB,gun,1,0,0,,2,1,2v1

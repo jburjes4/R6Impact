@@ -1,0 +1,77 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+8842,1,bank,1,92.7,2:12,132,,Reeps965G,WEIBO,def,Ela,Levy,DPLUS KIA,atk,Ying,1,0,SCORPION EVO 3 A1,gun,1,1,0,,5,5,5v5
+8842,1,bank,1,94.9,2:10,130,,Hoven5G,WEIBO,def,Fenrir,yurivst,DPLUS KIA,atk,Hibana,0,0,MP7,gun,1,0,0,,4,5,5v4
+8842,1,bank,1,101.4,2:03,123,,Reeps965G,WEIBO,def,Ela,ion,DPLUS KIA,atk,Deimos,1,0,SCORPION EVO 3 A1,gun,1,0,1,Faallz,3,5,5v3
+8842,1,bank,1,107.0,1:57,117,,Faallz,DPLUS KIA,atk,Blitz,Reeps965G,WEIBO,def,Ela,0,0,P12,gun,1,0,0,,2,5,2v5
+8842,1,bank,1,133.7,1:31,91,,Faallz,DPLUS KIA,atk,Blitz,SpeakEasy5G,WEIBO,def,Valkyrie,0,0,P12,gun,1,0,0,,2,4,2v4
+8842,1,bank,1,134.3,1:30,90,,Gotti5G,WEIBO,def,Tachanka,mity,DPLUS KIA,atk,Capitão,0,0,DP28,gun,1,0,0,,2,3,3v2
+8842,1,bank,1,153.0,1:12,72,,Faallz,DPLUS KIA,atk,Blitz,Terd5G,WEIBO,def,Goyo,0,0,P12,gun,1,0,0,,1,3,1v3
+8842,1,bank,1,176.3,0:48,48,,Hoven5G,WEIBO,def,Fenrir,Faallz,DPLUS KIA,atk,Blitz,0,0,MP7,gun,1,0,0,,1,2,2v1
+8842,1,bank,2,65.4,2:39,159,,Hoven5G,WEIBO,def,Tubarão,yurivst,DPLUS KIA,atk,Lion,1,0,MPX,gun,1,1,0,,5,5,5v5
+8842,1,bank,2,159.3,1:05,65,,mity,DPLUS KIA,atk,Twitch,Terd5G,WEIBO,def,Noor,0,0,417,gun,1,0,1,Gotti5G,4,5,4v5
+8842,1,bank,2,160.7,1:04,64,,mity,DPLUS KIA,atk,Twitch,Reeps965G,WEIBO,def,Wamai,0,0,417,gun,1,0,1,Gotti5G,4,4,4v4
+8842,1,bank,2,161.4,1:03,63,,SpeakEasy5G,WEIBO,def,Clash,Faallz,DPLUS KIA,atk,Ace,1,0,SPSMG9,gun,1,0,1,Levy,4,3,3v4
+8842,1,bank,2,165.6,0:59,59,,Levy,DPLUS KIA,atk,Flores,SpeakEasy5G,WEIBO,def,Clash,1,0,AR33,gun,1,0,0,,3,3,3v3
+8842,1,bank,2,166.2,0:58,58,,Hoven5G,WEIBO,def,Tubarão,ion,DPLUS KIA,atk,Grim,0,0,NITRO CELL,gadget,1,0,1,Levy,3,2,2v3
+8842,1,bank,2,166.9,0:58,58,,Gotti5G,WEIBO,def,Smoke,mity,DPLUS KIA,atk,Twitch,1,0,SMG-11,gun,1,0,0,,2,2,2v2
+8842,1,bank,2,170.8,0:54,54,,Levy,DPLUS KIA,atk,Flores,Hoven5G,WEIBO,def,Tubarão,0,0,AR33,gun,1,0,0,,1,2,1v2
+8842,1,bank,2,186.4,0:38,38,,Levy,DPLUS KIA,atk,Flores,Gotti5G,WEIBO,def,Smoke,0,0,AR33,gun,1,0,0,,1,1,1v1
+8842,1,bank,3,95.2,2:09,129,,Faallz,DPLUS KIA,atk,Thermite,SpeakEasy5G,WEIBO,def,Smoke,1,0,556XI,gun,1,1,0,,5,5,5v5
+8842,1,bank,3,97.4,2:07,127,,ion,DPLUS KIA,atk,Amaru,Gotti5G,WEIBO,def,Thorn,1,0,G8A1,gun,1,0,0,,5,4,5v4
+8842,1,bank,3,97.7,2:07,127,,Reeps965G,WEIBO,def,Tubarão,Levy,DPLUS KIA,atk,Zofia,0,0,MPX,gun,1,0,0,,5,3,3v5
+8842,1,bank,3,110.0,0:42,42,42,Terd5G,WEIBO,def,Goyo,Faallz,DPLUS KIA,atk,Thermite,1,1,TCSG12,gun,1,0,0,,4,3,3v4
+8842,1,bank,3,115.8,0:36,36,36,Reeps965G,WEIBO,def,Tubarão,yurivst,DPLUS KIA,atk,Dokkaebi,0,1,MPX,gun,1,0,0,,3,3,3v3
+8842,1,bank,3,125.2,0:27,27,27,Hoven5G,WEIBO,def,Aruni,ion,DPLUS KIA,atk,Amaru,1,1,P10 RONI,gun,1,0,0,,2,3,3v2
+8842,1,bank,3,129.4,0:22,22,22,Reeps965G,WEIBO,def,Tubarão,mity,DPLUS KIA,atk,Lion,0,1,P226 MK 25,gun,1,0,0,,1,3,3v1
+8842,1,bank,4,184.3,0:40,40,,ion,DPLUS KIA,atk,Zofia,Hoven5G,WEIBO,def,Warden,0,0,M762,gun,1,1,1,SpeakEasy5G,5,5,5v5
+8842,1,bank,4,185.9,0:39,39,,Gotti5G,WEIBO,def,Fenrir,Faallz,DPLUS KIA,atk,Blitz,0,0,MP7,gun,1,0,0,,5,4,4v5
+8842,1,bank,4,186.3,0:38,38,,SpeakEasy5G,WEIBO,def,Tubarão,ion,DPLUS KIA,atk,Zofia,0,0,MPX,gun,1,0,0,,4,4,4v4
+8842,1,bank,4,187.7,0:37,37,,Reeps965G,WEIBO,def,Smoke,mity,DPLUS KIA,atk,Capitão,0,0,SMG-11,gun,1,0,1,Levy,3,4,4v3
+8842,1,bank,4,189.6,0:35,35,,Levy,DPLUS KIA,atk,Grim,Reeps965G,WEIBO,def,Smoke,0,0,552 COMMANDO,gun,1,0,1,Terd5G,2,4,2v4
+8842,1,bank,4,190.4,0:34,34,,Terd5G,WEIBO,def,Azami,Levy,DPLUS KIA,atk,Grim,1,0,9x19VSN,gun,1,0,0,,2,3,3v2
+8842,1,bank,4,190.8,0:34,34,,SpeakEasy5G,WEIBO,def,Tubarão,yurivst,DPLUS KIA,atk,Hibana,1,0,MPX,gun,1,0,0,,1,3,3v1
+8842,1,bank,5,178.3,0:46,46,,Terd5G,WEIBO,def,Thorn,Levy,DPLUS KIA,atk,Kali,0,0,RAZORBLOOM SHELL,gadget,1,1,0,,5,5,5v5
+8842,1,bank,5,183.1,0:41,41,,mity,DPLUS KIA,atk,IQ,SpeakEasy5G,WEIBO,def,Maestro,0,0,552 COMMANDO,gun,1,0,0,,4,5,4v5
+8842,1,bank,5,186.5,0:38,38,,Hoven5G,WEIBO,def,Tubarão,yurivst,DPLUS KIA,atk,Capitão,1,0,MPX,gun,1,0,1,mity,4,4,4v4
+8842,1,bank,5,187.5,0:37,37,,mity,DPLUS KIA,atk,IQ,Hoven5G,WEIBO,def,Tubarão,0,0,552 COMMANDO,gun,1,0,0,,3,4,3v4
+8842,1,bank,5,200.3,0:24,24,,ion,DPLUS KIA,atk,Sens,Reeps965G,WEIBO,def,Wamai,0,0,417,gun,1,0,0,,3,3,3v3
+8842,1,bank,5,213.2,0:11,11,,Faallz,DPLUS KIA,atk,Ace,Terd5G,WEIBO,def,Thorn,0,0,AK-12,gun,1,0,0,,3,2,3v2
+8842,1,bank,5,218.4,0:06,6,,Gotti5G,WEIBO,def,Smoke,mity,DPLUS KIA,atk,IQ,0,0,SMG-11,gun,1,0,1,ion,3,1,1v3
+8842,1,bank,5,225.0,0:00,0,,ion,DPLUS KIA,atk,Sens,Gotti5G,WEIBO,def,Smoke,0,0,417,gun,1,0,0,,2,1,2v1
+8842,1,bank,6,108.2,1:56,116,,mity,DPLUS KIA,atk,Twitch,Gotti5G,WEIBO,def,Wamai,0,0,F2,gun,1,1,0,,5,5,5v5
+8842,1,bank,6,137.2,1:27,87,,SpeakEasy5G,WEIBO,def,Smoke,mity,DPLUS KIA,atk,Twitch,1,0,SMG-11,gun,1,0,0,,5,4,4v5
+8842,1,bank,6,144.8,1:20,80,,Faallz,DPLUS KIA,atk,Blackbeard,Terd5G,WEIBO,def,Thorn,0,0,MK17 CQB,gun,1,0,0,,4,4,4v4
+8842,1,bank,6,210.2,0:14,14,,Reeps965G,WEIBO,def,Tubarão,ion,DPLUS KIA,atk,Ram,0,0,NITRO CELL,gadget,1,0,1,yurivst,4,3,3v4
+8842,1,bank,6,216.0,0:08,8,,Levy,DPLUS KIA,atk,Lion,SpeakEasy5G,WEIBO,def,Smoke,0,0,417,gun,1,0,0,,3,3,3v3
+8842,1,bank,6,217.8,0:07,7,,Levy,DPLUS KIA,atk,Lion,Hoven5G,WEIBO,def,Aruni,0,0,417,gun,1,0,0,,3,2,3v2
+8842,1,bank,6,219.4,0:05,5,,yurivst,DPLUS KIA,atk,Ace,Reeps965G,WEIBO,def,Tubarão,0,0,P9,gun,1,0,0,,3,1,3v1
+8842,1,bank,7,86.5,2:18,138,,Terd5G,WEIBO,atk,Kali,yurivst,DPLUS KIA,def,Goyo,0,0,CSRX300,gun,1,1,0,,5,5,5v5
+8842,1,bank,7,182.3,0:42,42,,Reeps965G,WEIBO,atk,Striker,mity,DPLUS KIA,def,Warden,0,0,FRAG GRENADE,gadget,1,0,0,,5,4,5v4
+8842,1,bank,7,199.8,0:25,25,,Faallz,DPLUS KIA,def,Tachanka,SpeakEasy5G,WEIBO,atk,Capitão,0,0,,unknown,0,0,0,,5,3,3v5
+8842,1,bank,7,200.1,0:24,24,,Hoven5G,WEIBO,atk,Grim,Levy,DPLUS KIA,def,Kaid,1,0,552 COMMANDO,gun,1,0,1,ion,4,3,4v3
+8842,1,bank,7,200.4,0:24,24,,ion,DPLUS KIA,def,Thorn,Hoven5G,WEIBO,atk,Grim,0,0,RAZORBLOOM SHELL,gadget,1,0,0,,4,2,2v4
+8842,1,bank,7,227.1,0:23,23,23,Gotti5G,WEIBO,atk,Maverick,ion,DPLUS KIA,def,Thorn,0,1,M4,gun,1,0,0,,3,2,3v2
+8842,1,bank,7,227.3,0:23,23,23,Reeps965G,WEIBO,atk,Striker,Faallz,DPLUS KIA,def,Tachanka,1,1,M4,gun,1,0,0,,3,1,3v1
+8842,1,bank,8,132.4,1:32,92,,Levy,DPLUS KIA,def,Mira,SpeakEasy5G,WEIBO,atk,Kali,1,0,VECTOR .45 ACP,gun,1,1,0,,5,5,5v5
+8842,1,bank,8,177.2,0:47,47,,ion,DPLUS KIA,def,Goyo,Terd5G,WEIBO,atk,Flores,1,0,TCSG12,gun,1,0,1,Gotti5G,4,5,5v4
+8842,1,bank,8,178.8,0:46,46,,Reeps965G,WEIBO,atk,Nomad,mity,DPLUS KIA,def,Azami,0,0,AK-74M,gun,1,0,0,,3,5,3v5
+8842,1,bank,8,183.3,0:41,41,,ion,DPLUS KIA,def,Goyo,Hoven5G,WEIBO,atk,Twitch,1,0,TCSG12,gun,1,0,1,Gotti5G,3,4,4v3
+8842,1,bank,8,186.8,0:38,38,,Gotti5G,WEIBO,atk,Grim,ion,DPLUS KIA,def,Goyo,1,0,552 COMMANDO,gun,1,0,1,Faallz,2,4,2v4
+8842,1,bank,8,188.1,0:36,36,,Gotti5G,WEIBO,atk,Grim,yurivst,DPLUS KIA,def,Wamai,0,0,552 COMMANDO,gun,1,0,1,Faallz,2,3,2v3
+8842,1,bank,8,190.4,0:34,34,,Gotti5G,WEIBO,atk,Grim,Levy,DPLUS KIA,def,Mira,0,0,552 COMMANDO,gun,1,0,1,Faallz,2,2,2v2
+8842,1,bank,8,194.4,0:30,30,,Faallz,DPLUS KIA,def,Bandit,Gotti5G,WEIBO,atk,Grim,1,0,MP7,gun,1,0,0,,2,1,1v2
+8842,1,bank,8,204.9,0:20,20,,Reeps965G,WEIBO,atk,Nomad,Faallz,DPLUS KIA,def,Bandit,1,0,AK-74M,gun,1,0,0,,1,1,1v1
+8842,1,bank,9,139.2,1:25,85,,Faallz,DPLUS KIA,def,Azami,Gotti5G,WEIBO,atk,Ace,1,0,9x19VSN,gun,1,1,1,Hoven5G,5,5,5v5
+8842,1,bank,9,147.6,1:17,77,,Hoven5G,WEIBO,atk,Ram,Faallz,DPLUS KIA,def,Azami,1,0,R4-C,gun,1,0,0,,4,5,4v5
+8842,1,bank,9,149.4,1:15,75,,SpeakEasy5G,WEIBO,atk,Montagne,mity,DPLUS KIA,def,Mute,1,0,P9,gun,1,0,0,,4,4,4v4
+8842,1,bank,9,170.8,0:54,54,,Hoven5G,WEIBO,atk,Ram,yurivst,DPLUS KIA,def,Mozzie,0,0,R4-C,gun,1,0,0,,4,3,4v3
+8842,1,bank,9,205.1,0:19,19,,Reeps965G,WEIBO,atk,Flores,Levy,DPLUS KIA,def,Smoke,0,0,AR33,gun,1,0,0,,4,2,4v2
+8842,1,bank,9,207.9,0:17,17,,Reeps965G,WEIBO,atk,Flores,ion,DPLUS KIA,def,Goyo,0,0,AR33,gun,1,0,0,,4,1,4v1
+8842,1,bank,10,68.8,2:36,156,,Reeps965G,WEIBO,atk,Striker,ion,DPLUS KIA,def,Thorn,1,0,M4,gun,1,1,0,,5,5,5v5
+8842,1,bank,10,174.8,0:50,50,,Reeps965G,WEIBO,atk,Striker,mity,DPLUS KIA,def,Warden,1,0,M4,gun,1,0,0,,5,4,5v4
+8842,1,bank,10,196.9,0:28,28,,ion,DPLUS KIA,def,Thorn,Gotti5G,WEIBO,atk,Hibana,0,0,RAZORBLOOM SHELL,gadget,1,0,0,,5,3,3v5
+8842,1,bank,10,203.8,0:21,21,,yurivst,DPLUS KIA,def,Goyo,Hoven5G,WEIBO,atk,Grim,0,0,TCSG12,gun,1,0,0,,4,3,3v4
+8842,1,bank,10,229.0,0:19,19,19,Faallz,DPLUS KIA,def,Tachanka,SpeakEasy5G,WEIBO,atk,Thatcher,0,1,BEARING 9,gun,1,0,1,Reeps965G,3,3,3v3
+8842,1,bank,10,230.0,0:18,18,18,Terd5G,WEIBO,atk,Fuze,yurivst,DPLUS KIA,def,Goyo,1,1,AK-12,gun,1,0,0,,2,3,2v3
+8842,1,bank,10,231.0,0:17,17,17,SpeakEasy5G,WEIBO,atk,Thatcher,Levy,DPLUS KIA,def,Kaid,0,1,CLAYMORE,gadget,1,0,0,,2,2,2v2
+8842,1,bank,10,235.0,0:13,13,13,Reeps965G,WEIBO,atk,Striker,Faallz,DPLUS KIA,def,Tachanka,0,1,M4,gun,1,0,0,,2,1,2v1

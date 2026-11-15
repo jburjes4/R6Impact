@@ -1,0 +1,212 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+8870,1,kafe-dostoyevsky,1,143.8,1:21,81,,Jv92,TL ALIENWARE,atk,Twitch,Yoggah,GEEKAY,def,Tubarão,0,0,F2,gun,1,1,0,,5,5,5v5
+8870,1,kafe-dostoyevsky,1,147.3,1:17,77,,FelipoX,TL ALIENWARE,atk,Striker,Gruby,GEEKAY,def,Thorn,0,0,M4,gun,1,0,0,,5,4,5v4
+8870,1,kafe-dostoyevsky,1,155.6,1:09,69,,AsK,GEEKAY,def,Kaid,Maia,TL ALIENWARE,atk,Flores,0,0,TCSG12,gun,1,0,1,Nade,5,3,3v5
+8870,1,kafe-dostoyevsky,1,156.8,1:08,68,,Nade,TL ALIENWARE,atk,Ying,AsK,GEEKAY,def,Kaid,0,0,T-95 LSW,gun,1,0,0,,4,3,4v3
+8870,1,kafe-dostoyevsky,1,158.0,1:07,67,,Jv92,TL ALIENWARE,atk,Twitch,Sarks,GEEKAY,def,Sentry,1,0,F2,gun,1,0,0,,4,2,4v2
+8870,1,kafe-dostoyevsky,1,174.0,0:51,51,,FelipoX,TL ALIENWARE,atk,Striker,Eupor,GEEKAY,def,Azami,0,0,M4,gun,1,0,0,,4,1,4v1
+8870,1,kafe-dostoyevsky,2,133.4,1:31,91,,Maia,TL ALIENWARE,atk,Gridlock,Sarks,GEEKAY,def,Mira,1,0,F90,gun,1,1,1,Gruby,5,5,5v5
+8870,1,kafe-dostoyevsky,2,135.7,1:29,89,,Maia,TL ALIENWARE,atk,Gridlock,Yoggah,GEEKAY,def,Azami,1,0,F90,gun,1,0,1,Gruby,5,4,5v4
+8870,1,kafe-dostoyevsky,2,136.7,1:28,88,,Gruby,GEEKAY,def,Jäger,Maia,TL ALIENWARE,atk,Gridlock,1,0,416-C CARBINE,gun,1,0,0,,5,3,3v5
+8870,1,kafe-dostoyevsky,2,138.4,1:26,86,,Jv92,TL ALIENWARE,atk,Twitch,Eupor,GEEKAY,def,Thorn,1,0,417,gun,1,0,1,Gruby,4,3,4v3
+8870,1,kafe-dostoyevsky,2,143.6,1:21,81,,Gruby,GEEKAY,def,Jäger,Jv92,TL ALIENWARE,atk,Twitch,1,0,416-C CARBINE,gun,1,0,0,,4,2,2v4
+8870,1,kafe-dostoyevsky,2,174.1,0:50,50,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Solid Snake,Gruby,GEEKAY,def,Jäger,1,0,F2,gun,1,0,0,,3,2,3v2
+8870,1,kafe-dostoyevsky,2,216.4,0:16,16,16,AsK,GEEKAY,def,Sentry,FelipoX,TL ALIENWARE,atk,Sledge,1,1,TCSG12,gun,1,0,1,Nade,3,1,1v3
+8870,1,kafe-dostoyevsky,2,223.6,0:09,9,9,Nade,TL ALIENWARE,atk,Striker,AsK,GEEKAY,def,Sentry,0,1,M4,gun,1,0,0,,2,1,2v1
+8870,1,kafe-dostoyevsky,3,88.2,2:16,136,,Gruby,GEEKAY,def,Smoke,kheyzeSAKAGUTI,TL ALIENWARE,atk,Solid Snake,0,0,SMG-11,gun,1,1,0,,5,5,5v5
+8870,1,kafe-dostoyevsky,3,115.0,1:50,110,,Jv92,TL ALIENWARE,atk,Ram,AsK,GEEKAY,def,Azami,1,0,R4-C,gun,1,0,0,,4,5,4v5
+8870,1,kafe-dostoyevsky,3,200.6,0:24,24,,Yoggah,GEEKAY,def,Tubarão,Maia,TL ALIENWARE,atk,Gridlock,1,0,MPX,gun,1,0,0,,4,4,4v4
+8870,1,kafe-dostoyevsky,3,200.8,0:24,24,,FelipoX,TL ALIENWARE,atk,Hibana,Gruby,GEEKAY,def,Smoke,0,0,BEARING 9,gun,1,0,0,,3,4,3v4
+8870,1,kafe-dostoyevsky,3,207.3,0:17,17,,Yoggah,GEEKAY,def,Tubarão,Nade,TL ALIENWARE,atk,Buck,1,0,MPX,gun,1,0,0,,3,3,3v3
+8870,1,kafe-dostoyevsky,3,208.6,0:16,16,,Sarks,GEEKAY,def,Valkyrie,Jv92,TL ALIENWARE,atk,Ram,1,0,GLAIVE-12,gun,1,0,1,FelipoX,2,3,3v2
+8870,1,kafe-dostoyevsky,3,210.4,0:14,14,,FelipoX,TL ALIENWARE,atk,Hibana,Sarks,GEEKAY,def,Valkyrie,1,0,BEARING 9,gun,1,0,0,,1,3,1v3
+8870,1,kafe-dostoyevsky,3,225.0,0:00,0,,Yoggah,GEEKAY,def,Tubarão,FelipoX,TL ALIENWARE,atk,Hibana,1,0,P226 MK 25,gun,1,0,0,,1,2,2v1
+8870,1,kafe-dostoyevsky,4,114.2,1:50,110,,Sarks,GEEKAY,def,Mozzie,Nade,TL ALIENWARE,atk,Ram,1,0,P10 RONI,gun,1,1,0,,5,5,5v5
+8870,1,kafe-dostoyevsky,4,123.8,1:41,101,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Ying,Eupor,GEEKAY,def,Mira,0,0,SIX12,gun,1,0,0,,4,5,4v5
+8870,1,kafe-dostoyevsky,4,125.9,1:39,99,,Sarks,GEEKAY,def,Mozzie,FelipoX,TL ALIENWARE,atk,Blitz,0,0,NITRO CELL,gadget,1,0,0,,4,4,4v4
+8870,1,kafe-dostoyevsky,4,134.7,1:30,90,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Ying,AsK,GEEKAY,def,Castle,0,0,SIX12,gun,1,0,0,,3,4,3v4
+8870,1,kafe-dostoyevsky,4,137.2,1:27,87,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Ying,Yoggah,GEEKAY,def,Sentry,0,0,SIX12,gun,1,0,0,,3,3,3v3
+8870,1,kafe-dostoyevsky,4,170.7,0:54,54,,Jv92,TL ALIENWARE,atk,Zofia,Gruby,GEEKAY,def,Jäger,1,0,M762,gun,1,0,0,,3,2,3v2
+8870,1,kafe-dostoyevsky,4,184.5,0:40,40,,Maia,TL ALIENWARE,atk,Glaz,Sarks,GEEKAY,def,Mozzie,0,0,OTs-03,gun,1,0,0,,3,1,3v1
+8870,1,kafe-dostoyevsky,5,157.6,1:07,67,,Maia,TL ALIENWARE,atk,Deimos,AsK,GEEKAY,def,Goyo,0,0,FRAG GRENADE,gadget,1,1,0,,5,5,5v5
+8870,1,kafe-dostoyevsky,5,159.7,1:05,65,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Dokkaebi,Yoggah,GEEKAY,def,Sentry,0,0,XK23,gun,1,0,0,,5,4,5v4
+8870,1,kafe-dostoyevsky,5,176.9,0:48,48,,Gruby,GEEKAY,def,Castle,FelipoX,TL ALIENWARE,atk,Ace,0,0,UMP45,gun,1,0,0,,5,3,3v5
+8870,1,kafe-dostoyevsky,5,182.8,0:42,42,,Jv92,TL ALIENWARE,atk,Sledge,Sarks,GEEKAY,def,Mozzie,1,0,L85A2,gun,1,0,0,,4,3,4v3
+8870,1,kafe-dostoyevsky,5,185.0,0:40,40,,Gruby,GEEKAY,def,Castle,Maia,TL ALIENWARE,atk,Deimos,0,0,UMP45,gun,1,0,0,,4,2,2v4
+8870,1,kafe-dostoyevsky,5,195.7,0:29,29,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Dokkaebi,Gruby,GEEKAY,def,Castle,0,0,XK23,gun,1,0,0,,3,2,3v2
+8870,1,kafe-dostoyevsky,5,224.1,0:35,35,35,kheyzeSAKAGUTI,TL ALIENWARE,atk,Dokkaebi,Eupor,GEEKAY,def,Mira,0,1,SMG-12,gun,1,0,0,,3,1,3v1
+8870,1,kafe-dostoyevsky,6,166.8,0:58,58,,Eupor,GEEKAY,def,Jäger,Maia,TL ALIENWARE,atk,Flores,0,0,416-C CARBINE,gun,1,1,1,Nade,5,5,5v5
+8870,1,kafe-dostoyevsky,6,167.2,0:57,57,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Dokkaebi,AsK,GEEKAY,def,Clash,0,0,FIRE,fire,1,0,1,Sarks,4,5,4v5
+8870,1,kafe-dostoyevsky,6,168.4,0:56,56,,Eupor,GEEKAY,def,Jäger,FelipoX,TL ALIENWARE,atk,Striker,0,0,416-C CARBINE,gun,1,0,1,Nade,4,4,4v4
+8870,1,kafe-dostoyevsky,6,168.7,0:56,56,,Sarks,GEEKAY,def,Goyo,kheyzeSAKAGUTI,TL ALIENWARE,atk,Dokkaebi,0,0,TCSG12,gun,1,0,0,,3,4,4v3
+8870,1,kafe-dostoyevsky,6,169.0,0:55,55,,Nade,TL ALIENWARE,atk,Ace,Eupor,GEEKAY,def,Jäger,1,0,AK-12,gun,1,0,0,,2,4,2v4
+8870,1,kafe-dostoyevsky,6,187.6,0:37,37,,Jv92,TL ALIENWARE,atk,Twitch,Gruby,GEEKAY,def,Smoke,1,0,F2,gun,1,0,1,Sarks,2,3,2v3
+8870,1,kafe-dostoyevsky,6,189.9,0:35,35,,Sarks,GEEKAY,def,Goyo,Jv92,TL ALIENWARE,atk,Twitch,0,0,TCSG12,gun,1,0,0,,2,2,2v2
+8870,1,kafe-dostoyevsky,6,219.1,0:33,33,33,Nade,TL ALIENWARE,atk,Ace,Yoggah,GEEKAY,def,Thorn,1,1,AK-12,gun,1,0,0,,1,2,1v2
+8870,1,kafe-dostoyevsky,6,226.2,0:26,26,26,Nade,TL ALIENWARE,atk,Ace,Sarks,GEEKAY,def,Goyo,0,1,AK-12,gun,1,0,0,,1,1,1v1
+8870,1,kafe-dostoyevsky,7,88.9,2:16,136,,Maia,TL ALIENWARE,def,Tubarão,Eupor,GEEKAY,atk,Rauora,1,0,MPX,gun,1,1,0,,5,5,5v5
+8870,1,kafe-dostoyevsky,7,155.5,1:09,69,,FelipoX,TL ALIENWARE,def,Kaid,Sarks,GEEKAY,atk,Twitch,0,0,TCSG12,gun,1,0,1,Yoggah,4,5,5v4
+8870,1,kafe-dostoyevsky,7,156.5,1:08,68,,Yoggah,GEEKAY,atk,Glaz,FelipoX,TL ALIENWARE,def,Kaid,0,0,OTs-03,gun,1,0,0,,3,5,3v5
+8870,1,kafe-dostoyevsky,7,169.2,0:55,55,,Maia,TL ALIENWARE,def,Tubarão,Yoggah,GEEKAY,atk,Glaz,0,0,NITRO CELL,gadget,1,0,1,AsK,3,4,4v3
+8870,1,kafe-dostoyevsky,7,171.1,0:53,53,,AsK,GEEKAY,atk,Dokkaebi,Maia,TL ALIENWARE,def,Tubarão,1,0,SMG-12,gun,1,0,0,,2,4,2v4
+8870,1,kafe-dostoyevsky,7,174.9,0:50,50,,Gruby,GEEKAY,atk,Ace,Nade,TL ALIENWARE,def,Denari,1,0,AK-12,gun,1,0,0,,2,3,2v3
+8870,1,kafe-dostoyevsky,7,183.2,0:41,41,,AsK,GEEKAY,atk,Dokkaebi,kheyzeSAKAGUTI,TL ALIENWARE,def,Smoke,1,0,XK23,gun,1,0,0,,2,2,2v2
+8870,1,kafe-dostoyevsky,7,193.3,0:31,31,,AsK,GEEKAY,atk,Dokkaebi,Jv92,TL ALIENWARE,def,Ela,1,0,SMG-12,gun,1,0,0,,2,1,2v1
+8870,1,kafe-dostoyevsky,8,117.2,1:47,107,,Sarks,GEEKAY,atk,Dokkaebi,Maia,TL ALIENWARE,def,Pulse,1,0,XK23,gun,1,1,1,kheyzeSAKAGUTI,5,5,5v5
+8870,1,kafe-dostoyevsky,8,120.6,1:44,104,,kheyzeSAKAGUTI,TL ALIENWARE,def,Mozzie,Sarks,GEEKAY,atk,Dokkaebi,1,0,P10 RONI,gun,1,0,0,,5,4,4v5
+8870,1,kafe-dostoyevsky,8,121.5,1:43,103,,Jv92,TL ALIENWARE,def,Thorn,Yoggah,GEEKAY,atk,Blackbeard,1,0,C75 Auto,gun,1,0,0,,4,4,4v4
+8870,1,kafe-dostoyevsky,8,129.1,1:35,95,,kheyzeSAKAGUTI,TL ALIENWARE,def,Mozzie,AsK,GEEKAY,atk,Lion,0,0,NITRO CELL,gadget,1,0,0,,3,4,4v3
+8870,1,kafe-dostoyevsky,8,155.6,1:09,69,,Nade,TL ALIENWARE,def,Goyo,Eupor,GEEKAY,atk,Striker,0,0,TCSG12,gun,1,0,0,,2,4,4v2
+8870,1,kafe-dostoyevsky,8,166.9,0:58,58,,Nade,TL ALIENWARE,def,Goyo,Gruby,GEEKAY,atk,Gridlock,0,0,TCSG12,gun,1,0,0,,1,4,4v1
+8870,1,kafe-dostoyevsky,9,59.7,2:45,165,,Yoggah,GEEKAY,atk,Gridlock,Maia,TL ALIENWARE,def,Solis,1,0,F90,gun,1,1,0,,5,5,5v5
+8870,1,kafe-dostoyevsky,9,108.7,1:56,116,,Nade,TL ALIENWARE,def,Warden,Eupor,GEEKAY,atk,Striker,0,0,NITRO CELL,gadget,1,0,0,,5,4,4v5
+8870,1,kafe-dostoyevsky,9,126.6,1:38,98,,Jv92,TL ALIENWARE,def,Kaid,Sarks,GEEKAY,atk,Sledge,0,0,TCSG12,gun,1,0,0,,4,4,4v4
+8870,1,kafe-dostoyevsky,9,143.4,1:21,81,,Jv92,TL ALIENWARE,def,Kaid,Gruby,GEEKAY,atk,Deimos,0,0,TCSG12,gun,1,0,1,Yoggah,3,4,4v3
+8870,1,kafe-dostoyevsky,9,144.0,1:20,80,,Yoggah,GEEKAY,atk,Gridlock,Jv92,TL ALIENWARE,def,Kaid,1,0,F90,gun,1,0,0,,2,4,2v4
+8870,1,kafe-dostoyevsky,9,181.6,0:43,43,,AsK,GEEKAY,atk,Lion,FelipoX,TL ALIENWARE,def,Melusi,1,0,417,gun,1,0,0,,2,3,2v3
+8870,1,kafe-dostoyevsky,9,182.6,0:42,42,,kheyzeSAKAGUTI,TL ALIENWARE,def,Mozzie,Yoggah,GEEKAY,atk,Gridlock,1,0,P10 RONI,gun,1,0,0,,2,2,2v2
+8870,1,kafe-dostoyevsky,9,194.5,0:30,30,,Nade,TL ALIENWARE,def,Warden,AsK,GEEKAY,atk,Lion,0,0,MPX,gun,1,0,0,,1,2,2v1
+8870,2,border,1,89.1,2:15,135,,AsK,GEEKAY,atk,Capitão,FelipoX,TL ALIENWARE,def,Smoke,1,0,PMR90A2,gun,1,1,0,,5,5,5v5
+8870,2,border,1,99.4,2:05,125,,Gruby,GEEKAY,atk,Solid Snake,Nade,TL ALIENWARE,def,Ela,1,0,F2,gun,1,0,0,,5,4,5v4
+8870,2,border,1,153.7,1:11,71,,Yoggah,GEEKAY,atk,Lion,Jv92,TL ALIENWARE,def,Goyo,1,0,417,gun,1,0,1,kheyzeSAKAGUTI,5,3,5v3
+8870,2,border,1,159.8,1:05,65,,kheyzeSAKAGUTI,TL ALIENWARE,def,Alibi,Yoggah,GEEKAY,atk,Lion,1,0,Mx4 Storm,gun,1,0,0,,5,2,2v5
+8870,2,border,1,164.4,1:00,60,,kheyzeSAKAGUTI,TL ALIENWARE,def,Alibi,Gruby,GEEKAY,atk,Solid Snake,1,0,Mx4 Storm,gun,1,0,0,,4,2,2v4
+8870,2,border,1,169.6,0:55,55,,Eupor,GEEKAY,atk,Grim,Maia,TL ALIENWARE,def,Thorn,1,0,552 COMMANDO,gun,1,0,0,,3,2,3v2
+8870,2,border,1,175.6,0:49,49,,AsK,GEEKAY,atk,Capitão,kheyzeSAKAGUTI,TL ALIENWARE,def,Alibi,0,0,PMR90A2,gun,1,0,0,,3,1,3v1
+8870,2,border,2,104.1,2:00,120,,AsK,GEEKAY,atk,Ace,kheyzeSAKAGUTI,TL ALIENWARE,def,Thorn,1,0,AK-12,gun,1,1,0,,5,5,5v5
+8870,2,border,2,107.3,1:57,117,,Jv92,TL ALIENWARE,def,Goyo,Eupor,GEEKAY,atk,Grim,0,0,TCSG12,gun,1,0,1,AsK,5,4,4v5
+8870,2,border,2,111.2,1:53,113,,AsK,GEEKAY,atk,Ace,Jv92,TL ALIENWARE,def,Goyo,0,0,AK-12,gun,1,0,0,,4,4,4v4
+8870,2,border,2,113.9,1:51,111,,AsK,GEEKAY,atk,Ace,Maia,TL ALIENWARE,def,Smoke,0,0,AK-12,gun,1,0,0,,4,3,4v3
+8870,2,border,2,149.3,1:15,75,,Gruby,GEEKAY,atk,Dokkaebi,FelipoX,TL ALIENWARE,def,Denari,0,0,XK23,gun,1,0,1,Nade,4,2,4v2
+8870,2,border,2,155.7,1:09,69,,Nade,TL ALIENWARE,def,Sentry,Gruby,GEEKAY,atk,Dokkaebi,0,0,TCSG12,gun,1,0,0,,4,1,1v4
+8870,2,border,2,176.8,0:34,34,34,Sarks,GEEKAY,atk,Deimos,Nade,TL ALIENWARE,def,Sentry,0,1,.44 Vendetta,gun,1,0,0,,3,1,3v1
+8870,2,border,3,84.2,2:20,140,,Jv92,TL ALIENWARE,def,Goyo,Yoggah,GEEKAY,atk,Rauora,0,0,TCSG12,gun,1,1,1,Gruby,5,5,5v5
+8870,2,border,3,84.5,2:20,140,,Gruby,GEEKAY,atk,Amaru,Jv92,TL ALIENWARE,def,Goyo,1,0,SMG-11,gun,1,0,0,,4,5,4v5
+8870,2,border,3,86.8,2:18,138,,kheyzeSAKAGUTI,TL ALIENWARE,def,Mute,AsK,GEEKAY,atk,Blackbeard,0,0,NITRO CELL,gadget,1,0,0,,4,4,4v4
+8870,2,border,3,113.8,1:51,111,,FelipoX,TL ALIENWARE,def,Smoke,Gruby,GEEKAY,atk,Amaru,0,0,SMG-11,gun,1,0,0,,3,4,4v3
+8870,2,border,3,114.5,1:50,110,,Maia,TL ALIENWARE,def,Thorn,Eupor,GEEKAY,atk,Grim,1,0,UZK50GI,gun,1,0,0,,2,4,4v2
+8870,2,border,3,118.7,1:46,106,,FelipoX,TL ALIENWARE,def,Smoke,Sarks,GEEKAY,atk,Deimos,0,0,SMG-11,gun,1,0,0,,1,4,4v1
+8870,2,border,4,105.8,1:59,119,,kheyzeSAKAGUTI,TL ALIENWARE,def,Kaid,AsK,GEEKAY,atk,Ace,0,0,NITRO CELL,gadget,1,1,0,,5,5,5v5
+8870,2,border,4,109.6,1:55,115,,Sarks,GEEKAY,atk,Solid Snake,Nade,TL ALIENWARE,def,Ela,1,0,F2,gun,1,0,0,,4,5,4v5
+8870,2,border,4,111.7,1:53,113,,Sarks,GEEKAY,atk,Solid Snake,Maia,TL ALIENWARE,def,Goyo,1,0,F2,gun,1,0,0,,4,4,4v4
+8870,2,border,4,114.8,1:50,110,,FelipoX,TL ALIENWARE,def,Smoke,Eupor,GEEKAY,atk,Twitch,1,0,SMG-11,gun,1,0,0,,4,3,3v4
+8870,2,border,4,119.7,1:45,105,,Gruby,GEEKAY,atk,Dokkaebi,kheyzeSAKAGUTI,TL ALIENWARE,def,Kaid,1,0,XK23,gun,1,0,0,,3,3,3v3
+8870,2,border,4,120.6,1:44,104,,Yoggah,GEEKAY,atk,Ash,Jv92,TL ALIENWARE,def,Mira,0,0,R4-C,gun,1,0,0,,3,2,3v2
+8870,2,border,4,125.4,1:39,99,,Gruby,GEEKAY,atk,Dokkaebi,FelipoX,TL ALIENWARE,def,Smoke,0,0,XK23,gun,1,0,0,,3,1,3v1
+8870,2,border,5,127.2,1:37,97,,AsK,GEEKAY,atk,Ace,Maia,TL ALIENWARE,def,Ela,1,0,AK-12,gun,1,1,0,,5,5,5v5
+8870,2,border,5,135.2,1:29,89,,kheyzeSAKAGUTI,TL ALIENWARE,def,Mute,Sarks,GEEKAY,atk,Solid Snake,1,0,SMG-11,gun,1,0,0,,5,4,4v5
+8870,2,border,5,140.2,1:24,84,,kheyzeSAKAGUTI,TL ALIENWARE,def,Mute,Eupor,GEEKAY,atk,Grim,1,0,SMG-11,gun,1,0,0,,4,4,4v4
+8870,2,border,5,168.0,0:56,56,,FelipoX,TL ALIENWARE,def,Smoke,Gruby,GEEKAY,atk,Dokkaebi,0,0,SMG-11,gun,1,0,1,Yoggah,3,4,4v3
+8870,2,border,5,169.6,0:55,55,,Nade,TL ALIENWARE,def,Sentry,AsK,GEEKAY,atk,Ace,0,0,NITRO CELL,gadget,1,0,0,,2,4,4v2
+8870,2,border,5,175.6,0:49,49,,Yoggah,GEEKAY,atk,Lion,FelipoX,TL ALIENWARE,def,Smoke,0,0,417,gun,1,0,1,Nade,1,4,1v4
+8870,2,border,5,177.0,0:48,48,,Nade,TL ALIENWARE,def,Sentry,Yoggah,GEEKAY,atk,Lion,0,0,TCSG12,gun,1,0,0,,1,3,3v1
+8870,2,border,6,75.5,2:29,149,,Nade,TL ALIENWARE,def,Sentry,Yoggah,GEEKAY,atk,Lion,1,0,TCSG12,gun,1,1,0,,5,5,5v5
+8870,2,border,6,89.0,2:15,135,,Eupor,GEEKAY,atk,Grim,kheyzeSAKAGUTI,TL ALIENWARE,def,Mute,1,0,552 COMMANDO,gun,1,0,0,,4,5,4v5
+8870,2,border,6,93.2,2:11,131,,Sarks,GEEKAY,atk,Solid Snake,FelipoX,TL ALIENWARE,def,Smoke,0,0,F2,gun,1,0,1,Maia,4,4,4v4
+8870,2,border,6,98.6,2:06,126,,Maia,TL ALIENWARE,def,Ela,Sarks,GEEKAY,atk,Solid Snake,1,0,SCORPION EVO 3 A1,gun,1,0,0,,4,3,3v4
+8870,2,border,6,99.9,2:05,125,,Nade,TL ALIENWARE,def,Sentry,AsK,GEEKAY,atk,Ace,0,0,TCSG12,gun,1,0,0,,3,3,3v3
+8870,2,border,6,159.9,1:05,65,,Gruby,GEEKAY,atk,Striker,Nade,TL ALIENWARE,def,Sentry,0,0,M4,gun,1,0,1,Maia,2,3,2v3
+8870,2,border,6,163.3,1:01,61,,Maia,TL ALIENWARE,def,Ela,Gruby,GEEKAY,atk,Striker,1,0,SCORPION EVO 3 A1,gun,1,0,0,,2,2,2v2
+8870,2,border,6,163.6,1:01,61,,Jv92,TL ALIENWARE,def,Goyo,Eupor,GEEKAY,atk,Grim,1,0,TCSG12,gun,1,0,0,,1,2,2v1
+8870,2,border,7,103.3,2:01,121,,Gruby,GEEKAY,def,Sentry,Jv92,TL ALIENWARE,atk,Grim,0,0,NITRO CELL,gadget,1,1,0,,5,5,5v5
+8870,2,border,7,124.0,1:41,101,,Gruby,GEEKAY,def,Sentry,Maia,TL ALIENWARE,atk,Ace,0,0,TCSG12,gun,1,0,1,FelipoX,4,5,5v4
+8870,2,border,7,125.2,1:39,99,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Lion,AsK,GEEKAY,def,Thorn,0,0,417,gun,1,0,0,,3,5,3v5
+8870,2,border,7,130.5,1:34,94,,FelipoX,TL ALIENWARE,atk,Striker,Gruby,GEEKAY,def,Sentry,0,0,M4,gun,1,0,0,,3,4,3v4
+8870,2,border,7,131.5,1:33,93,,FelipoX,TL ALIENWARE,atk,Striker,Sarks,GEEKAY,def,Mute,1,0,M4,gun,1,0,0,,3,3,3v3
+8870,2,border,7,162.8,1:02,62,,Nade,TL ALIENWARE,atk,Capitão,Eupor,GEEKAY,def,Tubarão,1,0,PMR90A2,gun,1,0,1,Yoggah,3,2,3v2
+8870,2,border,7,169.9,0:55,55,,Yoggah,GEEKAY,def,Goyo,Nade,TL ALIENWARE,atk,Capitão,1,0,TCSG12,gun,1,0,0,,3,1,1v3
+8870,2,border,7,197.1,0:27,27,,FelipoX,TL ALIENWARE,atk,Striker,Yoggah,GEEKAY,def,Goyo,0,0,M4,gun,1,0,0,,2,1,2v1
+8870,2,border,8,95.5,2:09,129,,AsK,GEEKAY,def,Smoke,Nade,TL ALIENWARE,atk,Capitão,1,0,SMG-11,gun,1,1,0,,5,5,5v5
+8870,2,border,8,126.2,1:38,98,,Jv92,TL ALIENWARE,atk,Grim,Gruby,GEEKAY,def,Sentry,1,0,552 COMMANDO,gun,1,0,0,,4,5,4v5
+8870,2,border,8,131.9,1:33,93,,Eupor,GEEKAY,def,Tubarão,kheyzeSAKAGUTI,TL ALIENWARE,atk,Blackbeard,1,0,MPX,gun,1,0,0,,4,4,4v4
+8870,2,border,8,150.7,1:14,74,,Jv92,TL ALIENWARE,atk,Grim,Eupor,GEEKAY,def,Tubarão,0,0,552 COMMANDO,gun,1,0,1,Sarks,3,4,3v4
+8870,2,border,8,151.3,1:13,73,,Sarks,GEEKAY,def,Mute,Jv92,TL ALIENWARE,atk,Grim,1,0,SMG-11,gun,1,0,0,,3,3,3v3
+8870,2,border,8,155.5,1:09,69,,AsK,GEEKAY,def,Smoke,Maia,TL ALIENWARE,atk,Nomad,1,0,SMG-11,gun,1,0,0,,2,3,3v2
+8870,2,border,8,207.8,0:17,17,,Yoggah,GEEKAY,def,Goyo,FelipoX,TL ALIENWARE,atk,Striker,1,0,TCSG12,gun,1,0,0,,1,3,3v1
+8870,2,border,9,141.8,1:23,83,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Lion,Gruby,GEEKAY,def,Sentry,0,0,417,gun,1,1,1,Yoggah,5,5,5v5
+8870,2,border,9,144.0,1:21,81,,Yoggah,GEEKAY,def,Tubarão,kheyzeSAKAGUTI,TL ALIENWARE,atk,Lion,0,0,MPX,gun,1,0,0,,5,4,4v5
+8870,2,border,9,155.1,1:09,69,,Maia,TL ALIENWARE,atk,Buck,Yoggah,GEEKAY,def,Tubarão,1,0,C8-SFW,gun,1,0,0,,4,4,4v4
+8870,2,border,9,159.4,1:05,65,,Jv92,TL ALIENWARE,atk,Ace,Sarks,GEEKAY,def,Valkyrie,0,0,AK-12,gun,1,0,1,AsK,4,3,4v3
+8870,2,border,9,164.6,1:00,60,,AsK,GEEKAY,def,Mira,Jv92,TL ALIENWARE,atk,Ace,1,0,VECTOR .45 ACP,gun,1,0,0,,4,2,2v4
+8870,2,border,9,166.4,0:58,58,,Eupor,GEEKAY,def,Kaid,FelipoX,TL ALIENWARE,atk,Twitch,0,0,TCSG12,gun,1,0,0,,3,2,2v3
+8870,2,border,9,175.2,0:49,49,,Eupor,GEEKAY,def,Kaid,Nade,TL ALIENWARE,atk,Montagne,0,0,TCSG12,gun,1,0,0,,2,2,2v2
+8870,2,border,9,193.7,0:31,31,,Maia,TL ALIENWARE,atk,Buck,Eupor,GEEKAY,def,Kaid,0,0,C8-SFW,gun,1,0,0,,1,2,1v2
+8870,2,border,9,215.4,0:31,31,31,AsK,GEEKAY,def,Mira,Maia,TL ALIENWARE,atk,Buck,0,1,VECTOR .45 ACP,gun,1,0,0,,1,1,1v1
+8870,2,border,10,92.5,2:12,132,,Jv92,TL ALIENWARE,atk,Deimos,Gruby,GEEKAY,def,Ela,1,0,AK-74M,gun,1,1,0,,5,5,5v5
+8870,2,border,10,102.0,2:02,122,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Ash,AsK,GEEKAY,def,Solis,0,0,R4-C,gun,1,0,0,,5,4,5v4
+8870,2,border,10,104.8,2:00,120,,Jv92,TL ALIENWARE,atk,Deimos,Eupor,GEEKAY,def,Thorn,1,0,AK-74M,gun,1,0,0,,5,3,5v3
+8870,2,border,10,117.2,1:47,107,,Sarks,GEEKAY,def,Sentry,kheyzeSAKAGUTI,TL ALIENWARE,atk,Ash,0,0,NITRO CELL,gadget,1,0,0,,5,2,2v5
+8870,2,border,10,132.2,1:32,92,,Jv92,TL ALIENWARE,atk,Deimos,Sarks,GEEKAY,def,Sentry,1,0,AK-74M,gun,1,0,0,,4,2,4v2
+8870,2,border,10,150.0,1:15,75,,Nade,TL ALIENWARE,atk,Capitão,Yoggah,GEEKAY,def,Warden,0,0,PMR90A2,gun,1,0,0,,4,1,4v1
+8870,2,border,11,175.8,0:49,49,,Jv92,TL ALIENWARE,atk,Grim,Eupor,GEEKAY,def,Tubarão,1,0,552 COMMANDO,gun,1,1,1,Gruby,5,5,5v5
+8870,2,border,11,178.9,0:46,46,,Gruby,GEEKAY,def,Sentry,Jv92,TL ALIENWARE,atk,Grim,0,0,TCSG12,gun,1,0,0,,5,4,4v5
+8870,2,border,11,185.0,0:40,40,,AsK,GEEKAY,def,Mute,Maia,TL ALIENWARE,atk,Deimos,1,0,SMG-11,gun,1,0,1,kheyzeSAKAGUTI,4,4,4v4
+8870,2,border,11,187.5,0:37,37,,Gruby,GEEKAY,def,Sentry,Nade,TL ALIENWARE,atk,Capitão,0,0,TCSG12,gun,1,0,1,FelipoX,3,4,4v3
+8870,2,border,11,190.7,0:34,34,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Zofia,AsK,GEEKAY,def,Mute,0,0,M762,gun,1,0,0,,2,4,2v4
+8870,2,border,11,191.8,0:33,33,,FelipoX,TL ALIENWARE,atk,Flores,Gruby,GEEKAY,def,Sentry,0,0,AR33,gun,1,0,0,,2,3,2v3
+8870,2,border,11,216.9,0:08,8,,Yoggah,GEEKAY,def,Thorn,kheyzeSAKAGUTI,TL ALIENWARE,atk,Zofia,1,0,UZK50GI,gun,1,0,0,,2,2,2v2
+8870,2,border,11,216.9,0:08,8,,Sarks,GEEKAY,def,Mira,FelipoX,TL ALIENWARE,atk,Flores,1,0,VECTOR .45 ACP,gun,1,0,0,,1,2,2v1
+8870,2,border,12,102.1,2:02,122,,AsK,GEEKAY,def,Mira,kheyzeSAKAGUTI,TL ALIENWARE,atk,Ash,0,0,NITRO CELL,gadget,1,1,0,,5,5,5v5
+8870,2,border,12,161.2,1:03,63,,Maia,TL ALIENWARE,atk,Lion,Eupor,GEEKAY,def,Kaid,0,0,417,gun,1,0,0,,4,5,4v5
+8870,2,border,12,195.1,0:29,29,,AsK,GEEKAY,def,Mira,FelipoX,TL ALIENWARE,atk,Twitch,0,0,VECTOR .45 ACP,gun,1,0,0,,4,4,4v4
+8870,2,border,12,201.3,0:23,23,,AsK,GEEKAY,def,Mira,Maia,TL ALIENWARE,atk,Lion,1,0,VECTOR .45 ACP,gun,1,0,0,,3,4,4v3
+8870,2,border,12,207.4,0:17,17,,Gruby,GEEKAY,def,Sentry,Jv92,TL ALIENWARE,atk,Grim,0,0,TCSG12,gun,1,0,0,,2,4,4v2
+8870,2,border,12,210.2,0:14,14,,Yoggah,GEEKAY,def,Tubarão,Nade,TL ALIENWARE,atk,Montagne,1,0,MPX,gun,1,0,0,,1,4,4v1
+8870,3,lair,1,184.5,0:40,40,,Gruby,GEEKAY,atk,Zofia,kheyzeSAKAGUTI,TL ALIENWARE,def,Bandit,1,0,M762,gun,1,1,1,Maia,5,5,5v5
+8870,3,lair,1,184.5,0:40,40,,kheyzeSAKAGUTI,TL ALIENWARE,def,Bandit,Sarks,GEEKAY,atk,Nomad,1,0,MP7,gun,1,0,1,Gruby,5,4,4v5
+8870,3,lair,1,186.6,0:38,38,,Nade,TL ALIENWARE,def,Tachanka,AsK,GEEKAY,atk,Blackbeard,0,0,,unknown,0,0,0,,4,4,4v4
+8870,3,lair,1,189.0,0:36,36,,Maia,TL ALIENWARE,def,Ela,Gruby,GEEKAY,atk,Zofia,1,0,SCORPION EVO 3 A1,gun,1,0,0,,3,4,4v3
+8870,3,lair,1,192.0,0:33,33,,FelipoX,TL ALIENWARE,def,Mira,Yoggah,GEEKAY,atk,Sens,0,0,VECTOR .45 ACP,gun,1,0,0,,2,4,4v2
+8870,3,lair,1,195.7,0:29,29,,Jv92,TL ALIENWARE,def,Goyo,Eupor,GEEKAY,atk,Ace,0,0,P229,gun,1,0,0,,1,4,4v1
+8870,3,lair,2,121.6,1:43,103,,Maia,TL ALIENWARE,def,Denari,Eupor,GEEKAY,atk,Ace,1,0,SCORPION EVO 3 A1,gun,1,1,0,,5,5,5v5
+8870,3,lair,2,135.0,1:30,90,,AsK,GEEKAY,atk,Striker,Maia,TL ALIENWARE,def,Denari,1,0,M4,gun,1,0,0,,4,5,4v5
+8870,3,lair,2,154.7,1:10,70,,AsK,GEEKAY,atk,Striker,kheyzeSAKAGUTI,TL ALIENWARE,def,Goyo,0,0,M4,gun,1,0,0,,4,4,4v4
+8870,3,lair,2,155.0,1:09,69,,Nade,TL ALIENWARE,def,Smoke,Sarks,GEEKAY,atk,Solid Snake,1,0,M590A1,gun,1,0,0,,4,3,3v4
+8870,3,lair,2,156.4,1:08,68,,FelipoX,TL ALIENWARE,def,Skopós,Yoggah,GEEKAY,atk,Deimos,1,0,PCX-33,gun,1,0,0,,3,3,3v3
+8870,3,lair,2,163.8,1:01,61,,Jv92,TL ALIENWARE,def,Thorn,Gruby,GEEKAY,atk,Twitch,1,0,UZK50GI,gun,1,0,0,,2,3,3v2
+8870,3,lair,2,169.9,0:55,55,,Jv92,TL ALIENWARE,def,Thorn,AsK,GEEKAY,atk,Striker,0,0,C75 Auto,gun,1,0,0,,1,3,3v1
+8870,3,lair,3,107.6,1:57,117,,kheyzeSAKAGUTI,TL ALIENWARE,def,Tubarão,AsK,GEEKAY,atk,Sens,1,0,MPX,gun,1,1,0,,5,5,5v5
+8870,3,lair,3,158.6,1:06,66,,Yoggah,GEEKAY,atk,Deimos,kheyzeSAKAGUTI,TL ALIENWARE,def,Tubarão,0,0,.44 Vendetta,gun,1,0,1,Jv92,4,5,4v5
+8870,3,lair,3,166.0,0:59,59,,Jv92,TL ALIENWARE,def,Ela,Yoggah,GEEKAY,atk,Deimos,0,0,SCORPION EVO 3 A1,gun,1,0,0,,4,4,4v4
+8870,3,lair,3,184.7,0:40,40,,Jv92,TL ALIENWARE,def,Ela,Sarks,GEEKAY,atk,Thermite,0,0,SCORPION EVO 3 A1,gun,1,0,0,,3,4,4v3
+8870,3,lair,3,198.2,0:26,26,,Gruby,GEEKAY,atk,Thatcher,Jv92,TL ALIENWARE,def,Ela,0,0,PMR90A2,gun,1,0,0,,2,4,2v4
+8870,3,lair,3,211.9,0:13,13,,Nade,TL ALIENWARE,def,Kaid,Eupor,GEEKAY,atk,Solid Snake,0,0,LFP586,gun,1,0,0,,2,3,3v2
+8870,3,lair,3,220.5,0:04,4,,Maia,TL ALIENWARE,def,Solis,Gruby,GEEKAY,atk,Thatcher,0,0,SMG-11,gun,1,0,0,,1,3,3v1
+8870,3,lair,4,119.7,1:45,105,,FelipoX,TL ALIENWARE,def,Mute,AsK,GEEKAY,atk,Striker,0,0,SMG-11,gun,1,1,0,,5,5,5v5
+8870,3,lair,4,122.9,1:42,102,,Maia,TL ALIENWARE,def,Ela,Sarks,GEEKAY,atk,Lion,0,0,SCORPION EVO 3 A1,gun,1,0,0,,4,5,5v4
+8870,3,lair,4,131.3,1:33,93,,FelipoX,TL ALIENWARE,def,Mute,Gruby,GEEKAY,atk,Deimos,0,0,M590A1,gun,1,0,0,,3,5,5v3
+8870,3,lair,4,137.5,1:27,87,,Jv92,TL ALIENWARE,def,Goyo,Eupor,GEEKAY,atk,Thermite,0,0,TCSG12,gun,1,0,0,,2,5,5v2
+8870,3,lair,4,141.3,1:23,83,,Jv92,TL ALIENWARE,def,Goyo,Yoggah,GEEKAY,atk,Blackbeard,0,0,TCSG12,gun,1,0,0,,1,5,5v1
+8870,3,lair,5,186.3,0:38,38,,Sarks,GEEKAY,atk,Hibana,kheyzeSAKAGUTI,TL ALIENWARE,def,Sentry,0,0,PMR90A2,gun,1,1,0,,5,5,5v5
+8870,3,lair,5,198.0,0:26,26,,Jv92,TL ALIENWARE,def,Goyo,Sarks,GEEKAY,atk,Hibana,0,0,TCSG12,gun,1,0,1,AsK,5,4,4v5
+8870,3,lair,5,199.3,0:25,25,,AsK,GEEKAY,atk,Ram,Jv92,TL ALIENWARE,def,Goyo,1,0,R4-C,gun,1,0,0,,4,4,4v4
+8870,3,lair,5,202.8,0:22,22,,Eupor,GEEKAY,atk,Twitch,Maia,TL ALIENWARE,def,Thorn,1,0,F2,gun,1,0,1,Nade,4,3,4v3
+8870,3,lair,5,204.2,0:20,20,,Nade,TL ALIENWARE,def,Tachanka,Yoggah,GEEKAY,atk,Deimos,1,0,BEARING 9,gun,1,0,0,,4,2,2v4
+8870,3,lair,5,207.9,0:17,17,,Nade,TL ALIENWARE,def,Tachanka,Eupor,GEEKAY,atk,Twitch,0,0,BEARING 9,gun,1,0,0,,3,2,2v3
+8870,3,lair,5,215.4,0:09,9,,Gruby,GEEKAY,atk,Solid Snake,FelipoX,TL ALIENWARE,def,Smoke,0,0,TACIT .45,gun,1,0,1,Nade,2,2,2v2
+8870,3,lair,5,225.0,0:00,0,,Nade,TL ALIENWARE,def,Tachanka,Gruby,GEEKAY,atk,Solid Snake,0,0,BEARING 9,gun,1,0,0,,2,1,1v2
+8870,3,lair,5,225.0,0:00,0,,FelipoX,TL ALIENWARE,def,Smoke,AsK,GEEKAY,atk,Ram,0,0,SMG-11,gun,1,0,0,,1,1,1v1
+8870,3,lair,6,151.9,1:13,73,,Jv92,TL ALIENWARE,def,Ela,Gruby,GEEKAY,atk,Sens,1,0,SCORPION EVO 3 A1,gun,1,1,0,,5,5,5v5
+8870,3,lair,6,177.0,0:47,47,,FelipoX,TL ALIENWARE,def,Smoke,AsK,GEEKAY,atk,Blackbeard,1,0,SMG-11,gun,1,0,1,Eupor,4,5,5v4
+8870,3,lair,6,181.1,0:43,43,,Eupor,GEEKAY,atk,Nomad,FelipoX,TL ALIENWARE,def,Smoke,1,0,AK-74M,gun,1,0,1,Jv92,3,5,3v5
+8870,3,lair,6,182.1,0:42,42,,Jv92,TL ALIENWARE,def,Ela,Eupor,GEEKAY,atk,Nomad,0,0,SCORPION EVO 3 A1,gun,1,0,1,Sarks,3,4,4v3
+8870,3,lair,6,187.2,0:37,37,,Sarks,GEEKAY,atk,Thermite,Jv92,TL ALIENWARE,def,Ela,0,0,556XI,gun,1,0,1,Nade,2,4,2v4
+8870,3,lair,6,189.0,0:36,36,,Sarks,GEEKAY,atk,Thermite,Maia,TL ALIENWARE,def,Solis,1,0,556XI,gun,1,0,1,Nade,2,3,2v3
+8870,3,lair,6,193.3,0:31,31,,Nade,TL ALIENWARE,def,Kaid,Sarks,GEEKAY,atk,Thermite,0,0,TCSG12,gun,1,0,0,,2,2,2v2
+8870,3,lair,6,195.5,0:29,29,,Nade,TL ALIENWARE,def,Kaid,Yoggah,GEEKAY,atk,Thatcher,0,0,TCSG12,gun,1,0,0,,1,2,2v1
+8870,3,lair,7,91.0,2:13,133,,Yoggah,GEEKAY,def,Tachanka,Nade,TL ALIENWARE,atk,Capitão,1,0,DP28,gun,1,1,0,,5,5,5v5
+8870,3,lair,7,109.3,1:55,115,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Nomad,Gruby,GEEKAY,def,Azami,0,0,,unknown,0,0,1,Eupor,4,5,4v5
+8870,3,lair,7,111.8,1:53,113,,Eupor,GEEKAY,def,Fenrir,FelipoX,TL ALIENWARE,atk,Blitz,0,0,MP7,gun,1,0,0,,4,4,4v4
+8870,3,lair,7,115.5,1:49,109,,Eupor,GEEKAY,def,Fenrir,kheyzeSAKAGUTI,TL ALIENWARE,atk,Nomad,1,0,MP7,gun,1,0,0,,3,4,4v3
+8870,3,lair,7,126.9,1:38,98,,Jv92,TL ALIENWARE,atk,Sens,Eupor,GEEKAY,def,Fenrir,1,0,417,gun,1,0,0,,2,4,2v4
+8870,3,lair,7,190.9,0:34,34,,Yoggah,GEEKAY,def,Tachanka,Jv92,TL ALIENWARE,atk,Sens,0,0,DP28,gun,1,0,1,Maia,2,3,3v2
+8870,3,lair,7,192.5,0:32,32,,Maia,TL ALIENWARE,atk,Ying,AsK,GEEKAY,def,Smoke,0,0,SIX12,gun,1,0,1,Sarks,1,3,1v3
+8870,3,lair,7,197.5,0:27,27,,Maia,TL ALIENWARE,atk,Ying,Yoggah,GEEKAY,def,Tachanka,1,0,Reaper MK2,gun,1,0,1,Sarks,1,2,1v2
+8870,3,lair,7,202.0,0:23,23,,Sarks,GEEKAY,def,Wamai,Maia,TL ALIENWARE,atk,Ying,0,0,AUG A2,gun,1,0,0,,1,1,1v1
+8870,3,lair,8,131.0,1:34,94,,Jv92,TL ALIENWARE,atk,Gridlock,Yoggah,GEEKAY,def,Smoke,1,0,F90,gun,1,1,0,,5,5,5v5
+8870,3,lair,8,151.0,1:14,74,,Maia,TL ALIENWARE,atk,Zofia,Gruby,GEEKAY,def,Wamai,0,0,,unknown,0,0,0,,5,4,5v4
+8870,3,lair,8,161.0,1:04,64,,kheyzeSAKAGUTI,TL ALIENWARE,atk,Sens,AsK,GEEKAY,def,Solis,0,0,417,gun,1,0,0,,5,3,5v3
+8870,3,lair,8,171.0,0:54,54,,Eupor,GEEKAY,def,Warden,Jv92,TL ALIENWARE,atk,Gridlock,1,0,MPX,gun,1,0,0,,5,2,2v5
+8870,3,lair,8,172.0,0:53,53,,FelipoX,TL ALIENWARE,atk,Blitz,Sarks,GEEKAY,def,Azami,1,0,P12,gun,1,0,0,,4,2,4v2
+8870,3,lair,8,186.0,0:39,39,,Eupor,GEEKAY,def,Warden,kheyzeSAKAGUTI,TL ALIENWARE,atk,Sens,1,0,MPX,gun,1,0,0,,4,1,1v4
+8870,3,lair,8,203.0,0:32,32,32,Maia,TL ALIENWARE,atk,Zofia,Eupor,GEEKAY,def,Warden,0,1,M762,gun,1,0,0,,3,1,3v1

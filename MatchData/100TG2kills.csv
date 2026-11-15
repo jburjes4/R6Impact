@@ -1,0 +1,58 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+8865,1,kafe-dostoyevsky,1,122.2,1:42,102,,Shaiiko,G2,atk,Gridlock,Atom,100 THIEVES,def,Kaid,0,0,F90,gun,1,1,0,,5,5,5v5
+8865,1,kafe-dostoyevsky,1,197.6,0:27,27,,Kason,100 THIEVES,def,Tubarão,Shaiiko,G2,atk,Gridlock,0,0,MPX,gun,1,0,0,,5,4,4v5
+8865,1,kafe-dostoyevsky,1,204.4,0:20,20,,DOKIsan,G2,atk,Deimos,SpiriTz,100 THIEVES,def,Smoke,0,0,.44 Vendetta,gun,1,0,1,GMZ,4,4,4v4
+8865,1,kafe-dostoyevsky,1,210.4,0:14,14,,GMZ,100 THIEVES,def,Thorn,DOKIsan,G2,atk,Deimos,0,0,UZK50GI,gun,1,0,1,Stompn,4,3,3v4
+8865,1,kafe-dostoyevsky,1,219.8,0:05,5,,Kason,100 THIEVES,def,Tubarão,Benjamaster,G2,atk,Ram,0,0,P226 MK 25,gun,1,0,1,Stompn,3,3,3v3
+8865,1,kafe-dostoyevsky,1,220.0,0:04,4,,Stompn,G2,atk,Ace,GMZ,100 THIEVES,def,Thorn,0,0,AK-12,gun,1,0,0,,2,3,2v3
+8865,1,kafe-dostoyevsky,1,220.2,0:04,4,,Alem4o,G2,atk,Montagne,Hotancold,100 THIEVES,def,Mozzie,0,0,P9,gun,1,0,0,,2,2,2v2
+8865,1,kafe-dostoyevsky,1,224.0,0:00,0,,Stompn,G2,atk,Ace,Kason,100 THIEVES,def,Tubarão,0,0,AK-12,gun,1,0,0,,2,1,2v1
+8865,1,kafe-dostoyevsky,2,108.4,1:56,116,,Stompn,G2,atk,Sledge,Atom,100 THIEVES,def,Mute,0,0,L85A2,gun,1,1,1,Kason,5,5,5v5
+8865,1,kafe-dostoyevsky,2,109.6,1:55,115,,Kason,100 THIEVES,def,Tubarão,Stompn,G2,atk,Sledge,0,0,MPX,gun,1,0,1,Benjamaster,5,4,4v5
+8865,1,kafe-dostoyevsky,2,110.9,1:54,114,,Kason,100 THIEVES,def,Tubarão,Alem4o,G2,atk,Striker,0,0,MPX,gun,1,0,1,Benjamaster,4,4,4v4
+8865,1,kafe-dostoyevsky,2,111.4,1:53,113,,Benjamaster,G2,atk,Twitch,Kason,100 THIEVES,def,Tubarão,1,0,F2,gun,1,0,0,,3,4,3v4
+8865,1,kafe-dostoyevsky,2,197.0,0:27,27,,Benjamaster,G2,atk,Twitch,Hotancold,100 THIEVES,def,Mozzie,0,0,F2,gun,1,0,0,,3,3,3v3
+8865,1,kafe-dostoyevsky,2,201.1,0:23,23,,SpiriTz,100 THIEVES,def,Castle,Shaiiko,G2,atk,Gridlock,0,0,UMP45,gun,1,0,1,Benjamaster,3,2,2v3
+8865,1,kafe-dostoyevsky,2,210.4,0:14,14,,Benjamaster,G2,atk,Twitch,SpiriTz,100 THIEVES,def,Castle,0,0,P9,gun,1,0,0,,2,2,2v2
+8865,1,kafe-dostoyevsky,2,215.2,0:09,9,,DOKIsan,G2,atk,Deimos,GMZ,100 THIEVES,def,Sentry,1,0,AK-74M,gun,1,0,0,,2,1,2v1
+8865,1,kafe-dostoyevsky,3,180.7,0:44,44,,Atom,100 THIEVES,def,Tubarão,Alem4o,G2,atk,Fuze,0,0,NITRO CELL,gadget,1,1,0,,5,5,5v5
+8865,1,kafe-dostoyevsky,3,185.8,0:39,39,,Shaiiko,G2,atk,Nomad,Hotancold,100 THIEVES,def,Clash,0,0,AK-74M,gun,1,0,0,,4,5,4v5
+8865,1,kafe-dostoyevsky,3,199.6,0:25,25,,Benjamaster,G2,atk,Buck,SpiriTz,100 THIEVES,def,Smoke,0,0,C8-SFW,gun,1,0,0,,4,4,4v4
+8865,1,kafe-dostoyevsky,3,209.2,0:15,15,,GMZ,100 THIEVES,def,Kaid,Shaiiko,G2,atk,Nomad,0,0,NITRO CELL,gadget,1,0,0,,4,3,3v4
+8865,1,kafe-dostoyevsky,3,211.8,0:13,13,,Atom,100 THIEVES,def,Tubarão,DOKIsan,G2,atk,Deimos,1,0,MPX,gun,1,0,0,,3,3,3v3
+8865,1,kafe-dostoyevsky,3,216.5,0:08,8,,GMZ,100 THIEVES,def,Kaid,Stompn,G2,atk,Striker,1,0,TCSG12,gun,1,0,0,,2,3,3v2
+8865,1,kafe-dostoyevsky,3,222.0,0:03,3,,Kason,100 THIEVES,def,Sentry,Benjamaster,G2,atk,Buck,1,0,TCSG12,gun,1,0,0,,1,3,3v1
+8865,1,kafe-dostoyevsky,4,191.6,0:33,33,,DOKIsan,G2,atk,Deimos,SpiriTz,100 THIEVES,def,Smoke,1,0,.44 Vendetta,gun,1,1,0,,5,5,5v5
+8865,1,kafe-dostoyevsky,4,196.4,0:28,28,,Stompn,G2,atk,Ace,Atom,100 THIEVES,def,Tubarão,1,0,AK-12,gun,1,0,0,,5,4,5v4
+8865,1,kafe-dostoyevsky,4,198.4,0:26,26,,Stompn,G2,atk,Ace,Kason,100 THIEVES,def,Warden,0,0,AK-12,gun,1,0,0,,5,3,5v3
+8865,1,kafe-dostoyevsky,4,201.6,0:23,23,,Shaiiko,G2,atk,Gridlock,GMZ,100 THIEVES,def,Goyo,1,0,F90,gun,1,0,1,Hotancold,5,2,5v2
+8865,1,kafe-dostoyevsky,4,206.2,0:18,18,,Hotancold,100 THIEVES,def,Mozzie,Shaiiko,G2,atk,Gridlock,0,0,P10 RONI,gun,1,0,1,DOKIsan,5,1,1v5
+8865,1,kafe-dostoyevsky,4,210.3,0:14,14,,DOKIsan,G2,atk,Deimos,Hotancold,100 THIEVES,def,Mozzie,0,0,.44 Vendetta,gun,1,0,0,,4,1,4v1
+8865,1,kafe-dostoyevsky,5,107.0,1:57,117,,Alem4o,G2,atk,Striker,GMZ,100 THIEVES,def,Sentry,0,0,M4,gun,1,1,0,,5,5,5v5
+8865,1,kafe-dostoyevsky,5,115.1,1:49,109,,Atom,100 THIEVES,def,Mute,DOKIsan,G2,atk,Deimos,0,0,NITRO CELL,gadget,1,0,0,,5,4,4v5
+8865,1,kafe-dostoyevsky,5,123.1,1:41,101,,Kason,100 THIEVES,def,Tubarão,Benjamaster,G2,atk,Twitch,1,0,MPX,gun,1,0,0,,4,4,4v4
+8865,1,kafe-dostoyevsky,5,152.1,1:12,72,,SpiriTz,100 THIEVES,def,Castle,Shaiiko,G2,atk,Lion,0,0,SUPER SHORTY,gun,1,0,0,,3,4,4v3
+8865,1,kafe-dostoyevsky,5,163.7,1:01,61,,Stompn,G2,atk,Jackal,Kason,100 THIEVES,def,Tubarão,1,0,C7E,gun,1,0,0,,2,4,2v4
+8865,1,kafe-dostoyevsky,5,182.9,0:42,42,,Alem4o,G2,atk,Striker,SpiriTz,100 THIEVES,def,Castle,0,0,M4,gun,1,0,1,Hotancold,2,3,2v3
+8865,1,kafe-dostoyevsky,5,185.7,0:39,39,,Hotancold,100 THIEVES,def,Pulse,Alem4o,G2,atk,Striker,0,0,Reaper MK2,gun,1,0,1,Stompn,2,2,2v2
+8865,1,kafe-dostoyevsky,5,187.0,0:38,38,,Stompn,G2,atk,Jackal,Hotancold,100 THIEVES,def,Pulse,0,0,C7E,gun,1,0,0,,1,2,1v2
+8865,1,kafe-dostoyevsky,5,199.0,0:26,26,,Stompn,G2,atk,Jackal,Atom,100 THIEVES,def,Mute,0,0,C7E,gun,1,0,0,,1,1,1v1
+8865,1,kafe-dostoyevsky,6,91.8,2:13,133,,Stompn,G2,atk,Glaz,GMZ,100 THIEVES,def,Thorn,0,0,OTs-03,gun,1,1,0,,5,5,5v5
+8865,1,kafe-dostoyevsky,6,92.9,2:12,132,,Hotancold,100 THIEVES,def,Solis,Alem4o,G2,atk,Montagne,0,0,SMG-11,gun,1,0,0,,5,4,4v5
+8865,1,kafe-dostoyevsky,6,111.5,1:53,113,,Benjamaster,G2,atk,Thatcher,Atom,100 THIEVES,def,Sentry,0,0,L85A2,gun,1,0,0,,4,4,4v4
+8865,1,kafe-dostoyevsky,6,133.1,1:31,91,,Shaiiko,G2,atk,Flores,SpiriTz,100 THIEVES,def,Tubarão,1,0,AR33,gun,1,0,0,,4,3,4v3
+8865,1,kafe-dostoyevsky,6,137.6,0:42,42,42,Stompn,G2,atk,Glaz,Hotancold,100 THIEVES,def,Solis,0,1,BEARING 9,gun,1,0,0,,4,2,4v2
+8865,1,kafe-dostoyevsky,6,137.9,0:41,41,41,DOKIsan,G2,atk,Ace,Kason,100 THIEVES,def,Mira,1,1,AK-12,gun,1,0,0,,4,1,4v1
+8865,1,kafe-dostoyevsky,7,110.8,1:54,114,,Alem4o,G2,def,Valkyrie,Atom,100 THIEVES,atk,Ace,0,0,NITRO CELL,gadget,1,1,0,,5,5,5v5
+8865,1,kafe-dostoyevsky,7,136.5,1:28,88,,DOKIsan,G2,def,Azami,GMZ,100 THIEVES,atk,Rauora,1,0,9x19VSN,gun,1,0,0,,4,5,5v4
+8865,1,kafe-dostoyevsky,7,156.1,1:08,68,,Stompn,G2,def,Goyo,Kason,100 THIEVES,atk,Striker,0,0,TCSG12,gun,1,0,0,,3,5,5v3
+8865,1,kafe-dostoyevsky,7,158.6,1:06,66,,SpiriTz,100 THIEVES,atk,Ying,DOKIsan,G2,def,Azami,1,0,SIX12,gun,1,0,0,,2,5,2v5
+8865,1,kafe-dostoyevsky,7,161.5,1:03,63,,SpiriTz,100 THIEVES,atk,Ying,Benjamaster,G2,def,Bandit,0,0,SIX12,gun,1,0,1,Stompn,2,4,2v4
+8865,1,kafe-dostoyevsky,7,167.7,0:57,57,,Shaiiko,G2,def,Fenrir,Hotancold,100 THIEVES,atk,Capitão,1,0,MP7,gun,1,0,0,,2,3,3v2
+8865,1,kafe-dostoyevsky,7,168.9,0:56,56,,Stompn,G2,def,Goyo,SpiriTz,100 THIEVES,atk,Ying,0,0,TCSG12,gun,1,0,0,,1,3,3v1
+8865,1,kafe-dostoyevsky,8,109.6,1:55,115,,Hotancold,100 THIEVES,atk,Striker,DOKIsan,G2,def,Thorn,0,0,M4,gun,1,1,0,,5,5,5v5
+8865,1,kafe-dostoyevsky,8,146.6,1:18,78,,Alem4o,G2,def,Castle,SpiriTz,100 THIEVES,atk,Ying,0,0,UMP45,gun,1,0,0,,5,4,4v5
+8865,1,kafe-dostoyevsky,8,149.4,1:15,75,,Shaiiko,G2,def,Azami,GMZ,100 THIEVES,atk,Gridlock,1,0,9x19VSN,gun,1,0,0,,4,4,4v4
+8865,1,kafe-dostoyevsky,8,177.9,0:47,47,,Benjamaster,G2,def,Kaid,Kason,100 THIEVES,atk,Nomad,1,0,TCSG12,gun,1,0,0,,3,4,4v3
+8865,1,kafe-dostoyevsky,8,180.8,0:44,44,,Stompn,G2,def,Mira,Atom,100 THIEVES,atk,Ace,1,0,VECTOR .45 ACP,gun,1,0,0,,2,4,4v2
+8865,1,kafe-dostoyevsky,8,183.4,0:41,41,,Shaiiko,G2,def,Azami,Hotancold,100 THIEVES,atk,Striker,0,0,9x19VSN,gun,1,0,0,,1,4,4v1

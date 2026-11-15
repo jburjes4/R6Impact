@@ -1,0 +1,166 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+8876,1,chalet,1,84.0,2:20,140,,JIGSAW,ENTERPRISE,def,Warden,SpiriTz,100T,atk,Striker,0,0,NITRO CELL,gadget,1,1,0,,5,5,5v5
+8876,1,chalet,1,125.8,1:39,99,,TUHAN,ENTERPRISE,def,Mute,Kason,100T,atk,Twitch,1,0,SMG-11,gun,1,0,0,,4,5,5v4
+8876,1,chalet,1,126.0,1:38,98,,Hotancold,100T,atk,Grim,JIGSAW,ENTERPRISE,def,Warden,1,0,552 COMMANDO,gun,1,0,0,,3,5,3v5
+8876,1,chalet,1,128.3,1:36,96,,Atom,100T,atk,Sens,BRENDO,ENTERPRISE,def,Goyo,0,0,417,gun,1,0,1,PLAYXR,3,4,3v4
+8876,1,chalet,1,131.9,1:33,93,,KYRO,ENTERPRISE,def,Noor,GMZ,100T,atk,Nomad,1,0,COMMANDO 9,gun,1,0,0,,3,3,3v3
+8876,1,chalet,1,134.3,1:30,90,,PLAYXR,ENTERPRISE,def,Kaid,Atom,100T,atk,Sens,1,0,TCSG12,gun,1,0,0,,2,3,3v2
+8876,1,chalet,1,144.0,1:21,81,,PLAYXR,ENTERPRISE,def,Kaid,Hotancold,100T,atk,Grim,0,0,TCSG12,gun,1,0,0,,1,3,3v1
+8876,1,chalet,2,129.9,1:35,95,,TUHAN,ENTERPRISE,def,Ela,SpiriTz,100T,atk,Striker,1,0,SCORPION EVO 3 A1,gun,1,1,1,Atom,5,5,5v5
+8876,1,chalet,2,135.2,1:29,89,,Atom,100T,atk,Lion,TUHAN,ENTERPRISE,def,Ela,0,0,417,gun,1,0,0,,4,5,4v5
+8876,1,chalet,2,135.6,1:29,89,,JIGSAW,ENTERPRISE,def,Noor,Kason,100T,atk,Ace,1,0,COMMANDO 9,gun,1,0,1,Atom,4,4,4v4
+8876,1,chalet,2,136.8,1:28,88,,Atom,100T,atk,Lion,JIGSAW,ENTERPRISE,def,Noor,0,0,417,gun,1,0,0,,3,4,3v4
+8876,1,chalet,2,158.4,1:06,66,,Hotancold,100T,atk,Twitch,PLAYXR,ENTERPRISE,def,Thorn,1,0,F2,gun,1,0,0,,3,3,3v3
+8876,1,chalet,2,191.9,0:33,33,,KYRO,ENTERPRISE,def,Solis,Atom,100T,atk,Lion,0,0,SMG-11,gun,1,0,0,,3,2,2v3
+8876,1,chalet,2,218.6,0:37,37,37,Hotancold,100T,atk,Twitch,BRENDO,ENTERPRISE,def,Castle,0,1,F2,gun,1,0,0,,2,2,2v2
+8876,1,chalet,2,230.8,0:25,25,25,GMZ,100T,atk,Nomad,KYRO,ENTERPRISE,def,Solis,0,1,AK-74M,gun,1,0,0,,2,1,2v1
+8876,1,chalet,3,87.7,2:17,137,,KYRO,ENTERPRISE,def,Tubarão,GMZ,100T,atk,Striker,1,0,MPX,gun,1,1,0,,5,5,5v5
+8876,1,chalet,3,165.2,0:59,59,,BRENDO,ENTERPRISE,def,Mira,Atom,100T,atk,Sens,1,0,VECTOR .45 ACP,gun,1,0,0,,4,5,5v4
+8876,1,chalet,3,192.9,0:32,32,,Hotancold,100T,atk,Nomad,TUHAN,ENTERPRISE,def,Tachanka,1,0,ARX200,gun,1,0,0,,3,5,3v5
+8876,1,chalet,3,196.3,0:28,28,,Kason,100T,atk,Twitch,JIGSAW,ENTERPRISE,def,Thorn,1,0,F2,gun,1,0,1,BRENDO,3,4,3v4
+8876,1,chalet,3,197.9,0:27,27,,BRENDO,ENTERPRISE,def,Mira,Kason,100T,atk,Twitch,1,0,VECTOR .45 ACP,gun,1,0,0,,3,3,3v3
+8876,1,chalet,3,200.8,0:24,24,,BRENDO,ENTERPRISE,def,Mira,SpiriTz,100T,atk,Montagne,0,0,VECTOR .45 ACP,gun,1,0,0,,2,3,3v2
+8876,1,chalet,3,209.7,0:15,15,,BRENDO,ENTERPRISE,def,Mira,Hotancold,100T,atk,Nomad,1,0,VECTOR .45 ACP,gun,1,0,0,,1,3,3v1
+8876,1,chalet,4,93.3,2:11,131,,TUHAN,ENTERPRISE,def,Solis,Hotancold,100T,atk,Blackbeard,0,0,,unknown,0,1,0,,5,5,5v5
+8876,1,chalet,4,111.6,1:53,113,,Kason,100T,atk,Amaru,BRENDO,ENTERPRISE,def,Sentry,0,0,SUPERNOVA,gun,1,0,0,,4,5,4v5
+8876,1,chalet,4,128.1,1:36,96,,GMZ,100T,atk,Sens,TUHAN,ENTERPRISE,def,Solis,1,0,417,gun,1,0,0,,4,4,4v4
+8876,1,chalet,4,131.3,1:33,93,,SpiriTz,100T,atk,Blitz,JIGSAW,ENTERPRISE,def,Denari,0,0,P12,gun,1,0,0,,4,3,4v3
+8876,1,chalet,4,137.9,1:27,87,,GMZ,100T,atk,Sens,KYRO,ENTERPRISE,def,Noor,0,0,417,gun,1,0,0,,4,2,4v2
+8876,1,chalet,4,140.8,0:42,42,42,Atom,100T,atk,Twitch,PLAYXR,ENTERPRISE,def,Goyo,1,1,F2,gun,1,0,0,,4,1,4v1
+8876,1,chalet,5,80.4,2:24,144,,TUHAN,ENTERPRISE,def,Jäger,Kason,100T,atk,Twitch,0,0,416-C CARBINE,gun,1,1,0,,5,5,5v5
+8876,1,chalet,5,115.3,1:49,109,,GMZ,100T,atk,Thatcher,TUHAN,ENTERPRISE,def,Jäger,1,0,L85A2,gun,1,0,0,,4,5,4v5
+8876,1,chalet,5,208.5,0:16,16,,Atom,100T,atk,Ram,PLAYXR,ENTERPRISE,def,Bandit,1,0,R4-C,gun,1,0,0,,4,4,4v4
+8876,1,chalet,5,214.0,0:10,10,,SpiriTz,100T,atk,Thermite,JIGSAW,ENTERPRISE,def,Tubarão,0,0,556XI,gun,1,0,0,,4,3,4v3
+8876,1,chalet,5,218.7,0:06,6,,SpiriTz,100T,atk,Thermite,KYRO,ENTERPRISE,def,Clash,0,0,556XI,gun,1,0,0,,4,2,4v2
+8876,1,chalet,5,221.0,0:04,4,,Atom,100T,atk,Ram,BRENDO,ENTERPRISE,def,Smoke,0,0,R4-C,gun,1,0,0,,4,1,4v1
+8876,1,chalet,6,165.4,0:59,59,,KYRO,ENTERPRISE,def,Noor,SpiriTz,100T,atk,Blackbeard,1,0,COMMANDO 9,gun,1,1,1,Hotancold,5,5,5v5
+8876,1,chalet,6,166.5,0:58,58,,Hotancold,100T,atk,Deimos,KYRO,ENTERPRISE,def,Noor,0,0,.44 Vendetta,gun,1,0,1,BRENDO,4,5,4v5
+8876,1,chalet,6,170.8,0:54,54,,BRENDO,ENTERPRISE,def,Goyo,Hotancold,100T,atk,Deimos,1,0,TCSG12,gun,1,0,0,,4,4,4v4
+8876,1,chalet,6,181.6,0:43,43,,GMZ,100T,atk,Ace,BRENDO,ENTERPRISE,def,Goyo,0,0,AK-12,gun,1,0,0,,3,4,3v4
+8876,1,chalet,6,212.1,0:12,12,,TUHAN,ENTERPRISE,def,Mute,Atom,100T,atk,Sens,1,0,SMG-11,gun,1,0,0,,3,3,3v3
+8876,1,chalet,6,213.2,0:11,11,,GMZ,100T,atk,Ace,PLAYXR,ENTERPRISE,def,Sentry,0,0,AK-12,gun,1,0,0,,2,3,2v3
+8876,1,chalet,6,229.0,0:41,41,41,Kason,100T,atk,Twitch,JIGSAW,ENTERPRISE,def,Denari,0,1,F2,gun,1,0,0,,2,2,2v2
+8876,1,chalet,6,229.0,0:41,41,41,GMZ,100T,atk,Ace,TUHAN,ENTERPRISE,def,Mute,0,1,AK-12,gun,1,0,0,,2,1,2v1
+8876,1,chalet,7,110.3,1:54,114,,Atom,100T,def,Smoke,BRENDO,ENTERPRISE,atk,Sens,0,0,SMG-11,gun,1,1,0,,5,5,5v5
+8876,1,chalet,7,130.2,1:34,94,,Hotancold,100T,def,Thorn,KYRO,ENTERPRISE,atk,Montagne,0,0,RAZORBLOOM SHELL,gadget,1,0,0,,4,5,5v4
+8876,1,chalet,7,134.0,1:30,90,,GMZ,100T,def,Noor,PLAYXR,ENTERPRISE,atk,Nomad,0,0,ALDA 556,gun,1,0,1,JIGSAW,3,5,5v3
+8876,1,chalet,7,135.6,1:29,89,,JIGSAW,ENTERPRISE,atk,Zofia,GMZ,100T,def,Noor,1,0,M762,gun,1,0,1,Hotancold,2,5,2v5
+8876,1,chalet,7,137.3,1:27,87,,Hotancold,100T,def,Thorn,JIGSAW,ENTERPRISE,atk,Zofia,1,0,UZK50GI,gun,1,0,0,,2,4,4v2
+8876,1,chalet,7,139.1,1:25,85,,Hotancold,100T,def,Thorn,TUHAN,ENTERPRISE,atk,Lion,1,0,UZK50GI,gun,1,0,0,,1,4,4v1
+8876,1,chalet,8,120.7,1:44,104,,TUHAN,ENTERPRISE,atk,Deimos,GMZ,100T,def,Mira,1,0,AK-74M,gun,1,1,0,,5,5,5v5
+8876,1,chalet,8,147.3,1:17,77,,KYRO,ENTERPRISE,atk,Blackbeard,Hotancold,100T,def,Thorn,1,0,MK17 CQB,gun,1,0,0,,5,4,5v4
+8876,1,chalet,8,149.1,1:15,75,,Kason,100T,def,Mute,TUHAN,ENTERPRISE,atk,Deimos,1,0,SMG-11,gun,1,0,1,KYRO,5,3,3v5
+8876,1,chalet,8,151.9,1:13,73,,KYRO,ENTERPRISE,atk,Blackbeard,Atom,100T,def,Fenrir,1,0,MK17 CQB,gun,1,0,0,,4,3,4v3
+8876,1,chalet,8,154.1,1:10,70,,KYRO,ENTERPRISE,atk,Blackbeard,Kason,100T,def,Mute,0,0,MK17 CQB,gun,1,0,1,SpiriTz,4,2,4v2
+8876,1,chalet,8,161.2,0:41,41,41,SpiriTz,100T,def,Jäger,PLAYXR,ENTERPRISE,atk,Capitão,1,1,416-C CARBINE,gun,1,0,0,,4,1,1v4
+8876,1,chalet,8,163.3,0:39,39,39,SpiriTz,100T,def,Jäger,KYRO,ENTERPRISE,atk,Blackbeard,1,1,416-C CARBINE,gun,1,0,0,,3,1,1v3
+8876,1,chalet,8,166.4,0:36,36,36,SpiriTz,100T,def,Jäger,BRENDO,ENTERPRISE,atk,Ace,1,1,416-C CARBINE,gun,1,0,0,,2,1,1v2
+8876,1,chalet,8,194.7,0:08,8,8,JIGSAW,ENTERPRISE,atk,Gridlock,SpiriTz,100T,def,Jäger,0,1,F90,gun,1,0,0,,1,1,1v1
+8876,1,chalet,9,97.5,2:07,127,,SpiriTz,100T,def,Denari,PLAYXR,ENTERPRISE,atk,Glaz,1,0,SCORPION EVO 3 A1,gun,1,1,0,,5,5,5v5
+8876,1,chalet,9,102.4,2:02,122,,TUHAN,ENTERPRISE,atk,Ram,Hotancold,100T,def,Mozzie,1,0,R4-C,gun,1,0,1,Atom,4,5,4v5
+8876,1,chalet,9,106.8,1:58,118,,Kason,100T,def,Kaid,KYRO,ENTERPRISE,atk,Blitz,0,0,TCSG12,gun,1,0,0,,4,4,4v4
+8876,1,chalet,9,108.0,1:57,117,,Atom,100T,def,Smoke,TUHAN,ENTERPRISE,atk,Ram,0,0,SMG-11,gun,1,0,0,,3,4,4v3
+8876,1,chalet,9,131.2,1:33,93,,Atom,100T,def,Smoke,JIGSAW,ENTERPRISE,atk,Ace,1,0,SMG-11,gun,1,0,0,,2,4,4v2
+8876,1,chalet,10,109.8,1:55,115,,KYRO,ENTERPRISE,atk,Glaz,Hotancold,100T,def,Lesion,0,0,OTs-03,gun,1,1,0,,5,5,5v5
+8876,1,chalet,10,128.1,1:36,96,,TUHAN,ENTERPRISE,atk,Lion,SpiriTz,100T,def,Goyo,0,0,417,gun,1,0,0,,5,4,5v4
+8876,1,chalet,10,139.3,1:25,85,,Kason,100T,def,Kaid,JIGSAW,ENTERPRISE,atk,Striker,0,0,LFP586,gun,1,0,1,KYRO,5,3,3v5
+8876,1,chalet,10,141.4,1:23,83,,KYRO,ENTERPRISE,atk,Glaz,Kason,100T,def,Kaid,1,0,OTs-03,gun,1,0,0,,4,3,4v3
+8876,1,chalet,10,161.8,1:03,63,,PLAYXR,ENTERPRISE,atk,Blackbeard,Atom,100T,def,Smoke,0,0,MK17 CQB,gun,1,0,0,,4,2,4v2
+8876,1,chalet,10,164.3,1:00,60,,PLAYXR,ENTERPRISE,atk,Blackbeard,GMZ,100T,def,Ela,1,0,MK17 CQB,gun,1,0,0,,4,1,4v1
+8876,1,chalet,11,132.5,1:32,92,,TUHAN,ENTERPRISE,atk,Deimos,SpiriTz,100T,def,Goyo,1,0,AK-74M,gun,1,1,0,,5,5,5v5
+8876,1,chalet,11,184.8,0:40,40,,BRENDO,ENTERPRISE,atk,Nomad,Kason,100T,def,Kaid,1,0,AK-74M,gun,1,0,0,,5,4,5v4
+8876,1,chalet,11,190.9,0:34,34,,TUHAN,ENTERPRISE,atk,Deimos,Hotancold,100T,def,Tubarão,0,0,FRAG GRENADE,gadget,1,0,0,,5,3,5v3
+8876,1,chalet,11,197.1,0:27,27,,KYRO,ENTERPRISE,atk,Glaz,Atom,100T,def,Smoke,0,0,OTs-03,gun,1,0,0,,5,2,5v2
+8876,1,chalet,11,204.4,0:20,20,,KYRO,ENTERPRISE,atk,Glaz,GMZ,100T,def,Valkyrie,0,0,OTs-03,gun,1,0,0,,5,1,5v1
+8876,1,chalet,12,112.7,1:52,112,,BRENDO,ENTERPRISE,atk,Ying,Hotancold,100T,def,Tachanka,0,0,SIX12,gun,1,1,1,SpiriTz,5,5,5v5
+8876,1,chalet,12,113.2,1:51,111,,SpiriTz,100T,def,Warden,BRENDO,ENTERPRISE,atk,Ying,1,0,MPX,gun,1,0,0,,5,4,4v5
+8876,1,chalet,12,128.4,1:36,96,,Kason,100T,def,Mute,JIGSAW,ENTERPRISE,atk,Capitão,1,0,SMG-11,gun,1,0,0,,4,4,4v4
+8876,1,chalet,12,171.6,0:53,53,,SpiriTz,100T,def,Warden,TUHAN,ENTERPRISE,atk,Nomad,1,0,MPX,gun,1,0,0,,3,4,4v3
+8876,1,chalet,12,175.2,0:49,49,,SpiriTz,100T,def,Warden,PLAYXR,ENTERPRISE,atk,Lion,0,0,MPX,gun,1,0,0,,2,4,4v2
+8876,1,chalet,12,176.8,0:48,48,,Kason,100T,def,Mute,KYRO,ENTERPRISE,atk,Blackbeard,0,0,SMG-11,gun,1,0,0,,1,4,4v1
+8876,2,kafe-dostoyevsky,1,125.2,1:39,99,,Atom,100T,def,Warden,TUHAN,ENTERPRISE,atk,Sledge,1,0,MPX,gun,1,1,0,,5,5,5v5
+8876,2,kafe-dostoyevsky,1,128.3,1:36,96,,SpiriTz,100T,def,Tubarão,KYRO,ENTERPRISE,atk,Blackbeard,1,0,MPX,gun,1,0,1,BRENDO,4,5,5v4
+8876,2,kafe-dostoyevsky,1,129.1,1:35,95,,Atom,100T,def,Warden,JIGSAW,ENTERPRISE,atk,Gridlock,1,0,SMG-12,gun,1,0,0,,3,5,5v3
+8876,2,kafe-dostoyevsky,1,129.4,1:35,95,,BRENDO,ENTERPRISE,atk,Kali,SpiriTz,100T,def,Tubarão,0,0,SPSMG9,gun,1,0,0,,2,5,2v5
+8876,2,kafe-dostoyevsky,1,202.2,0:22,22,,PLAYXR,ENTERPRISE,atk,Nomad,Atom,100T,def,Warden,0,0,AK-74M,gun,1,0,1,Kason,2,4,2v4
+8876,2,kafe-dostoyevsky,1,203.7,0:21,21,,Kason,100T,def,Mira,PLAYXR,ENTERPRISE,atk,Nomad,0,0,VECTOR .45 ACP,gun,1,0,1,BRENDO,2,3,3v2
+8876,2,kafe-dostoyevsky,1,208.9,0:16,16,,BRENDO,ENTERPRISE,atk,Kali,Kason,100T,def,Mira,1,0,SPSMG9,gun,1,0,1,GMZ,1,3,1v3
+8876,2,kafe-dostoyevsky,1,212.5,0:12,12,,GMZ,100T,def,Thorn,BRENDO,ENTERPRISE,atk,Kali,1,0,UZK50GI,gun,1,0,0,,1,2,2v1
+8876,2,kafe-dostoyevsky,2,132.0,1:33,93,,PLAYXR,ENTERPRISE,atk,Striker,SpiriTz,100T,def,Tubarão,0,0,M4,gun,1,1,0,,5,5,5v5
+8876,2,kafe-dostoyevsky,2,170.1,0:54,54,,Kason,100T,def,Mira,JIGSAW,ENTERPRISE,atk,Gridlock,0,0,NITRO CELL,gadget,1,0,0,,5,4,4v5
+8876,2,kafe-dostoyevsky,2,201.4,0:23,23,,PLAYXR,ENTERPRISE,atk,Striker,GMZ,100T,def,Thorn,1,0,M4,gun,1,0,0,,4,4,4v4
+8876,2,kafe-dostoyevsky,2,203.1,0:21,21,,PLAYXR,ENTERPRISE,atk,Striker,Hotancold,100T,def,Valkyrie,1,0,M4,gun,1,0,0,,4,3,4v3
+8876,2,kafe-dostoyevsky,2,204.3,0:20,20,,BRENDO,ENTERPRISE,atk,Ash,Atom,100T,def,Warden,1,0,R4-C,gun,1,0,0,,4,2,4v2
+8876,2,kafe-dostoyevsky,2,204.7,0:20,20,,Kason,100T,def,Mira,KYRO,ENTERPRISE,atk,Montagne,1,0,VECTOR .45 ACP,gun,1,0,1,TUHAN,4,1,1v4
+8876,2,kafe-dostoyevsky,2,208.2,0:16,16,,TUHAN,ENTERPRISE,atk,Sledge,Kason,100T,def,Mira,0,0,L85A2,gun,1,0,0,,3,1,3v1
+8876,2,kafe-dostoyevsky,3,164.5,1:00,60,,Atom,100T,def,Warden,KYRO,ENTERPRISE,atk,Ying,1,0,MPX,gun,1,1,0,,5,5,5v5
+8876,2,kafe-dostoyevsky,3,173.6,0:51,51,,JIGSAW,ENTERPRISE,atk,Gridlock,Hotancold,100T,def,Kaid,1,0,F90,gun,1,0,1,Kason,4,5,4v5
+8876,2,kafe-dostoyevsky,3,175.1,0:49,49,,Kason,100T,def,Sentry,JIGSAW,ENTERPRISE,atk,Gridlock,0,0,TCSG12,gun,1,0,0,,4,4,4v4
+8876,2,kafe-dostoyevsky,3,176.8,0:48,48,,GMZ,100T,def,Tubarão,PLAYXR,ENTERPRISE,atk,Blackbeard,0,0,MPX,gun,1,0,1,TUHAN,3,4,4v3
+8876,2,kafe-dostoyevsky,3,178.1,0:46,46,,TUHAN,ENTERPRISE,atk,Sens,Atom,100T,def,Warden,0,0,417,gun,1,0,1,SpiriTz,2,4,2v4
+8876,2,kafe-dostoyevsky,3,183.4,0:41,41,,TUHAN,ENTERPRISE,atk,Sens,GMZ,100T,def,Tubarão,0,0,417,gun,1,0,1,SpiriTz,2,3,2v3
+8876,2,kafe-dostoyevsky,3,185.7,0:39,39,,SpiriTz,100T,def,Smoke,TUHAN,ENTERPRISE,atk,Sens,0,0,SMG-11,gun,1,0,0,,2,2,2v2
+8876,2,kafe-dostoyevsky,3,212.9,0:12,12,,Kason,100T,def,Sentry,BRENDO,ENTERPRISE,atk,Sledge,0,0,TCSG12,gun,1,0,0,,1,2,2v1
+8876,2,kafe-dostoyevsky,4,129.9,1:35,95,,Atom,100T,def,Jäger,KYRO,ENTERPRISE,atk,Blackbeard,1,0,416-C CARBINE,gun,1,1,0,,5,5,5v5
+8876,2,kafe-dostoyevsky,4,131.0,1:33,93,,JIGSAW,ENTERPRISE,atk,Gridlock,SpiriTz,100T,def,Castle,0,0,F90,gun,1,0,1,Atom,4,5,4v5
+8876,2,kafe-dostoyevsky,4,132.9,1:32,92,,JIGSAW,ENTERPRISE,atk,Gridlock,Hotancold,100T,def,Pulse,0,0,F90,gun,1,0,1,Atom,4,4,4v4
+8876,2,kafe-dostoyevsky,4,134.5,1:30,90,,Atom,100T,def,Jäger,JIGSAW,ENTERPRISE,atk,Gridlock,1,0,416-C CARBINE,gun,1,0,0,,4,3,3v4
+8876,2,kafe-dostoyevsky,4,184.2,0:40,40,,Kason,100T,def,Tubarão,TUHAN,ENTERPRISE,atk,Ram,1,0,MPX,gun,1,0,0,,3,3,3v3
+8876,2,kafe-dostoyevsky,4,184.3,0:40,40,,PLAYXR,ENTERPRISE,atk,Striker,GMZ,100T,def,Sentry,1,0,M4,gun,1,0,1,Kason,2,3,2v3
+8876,2,kafe-dostoyevsky,4,190.1,0:34,34,,Kason,100T,def,Tubarão,PLAYXR,ENTERPRISE,atk,Striker,0,0,MPX,gun,1,0,0,,2,2,2v2
+8876,2,kafe-dostoyevsky,4,195.2,0:29,29,,BRENDO,ENTERPRISE,atk,Sledge,Atom,100T,def,Jäger,0,0,L85A2,gun,1,0,0,,1,2,1v2
+8876,2,kafe-dostoyevsky,4,230.3,0:28,28,28,BRENDO,ENTERPRISE,atk,Sledge,Kason,100T,def,Tubarão,1,1,Reaper MK2,gun,1,0,0,,1,1,1v1
+8876,2,kafe-dostoyevsky,5,117.6,1:47,107,,GMZ,100T,def,Sentry,KYRO,ENTERPRISE,atk,Sledge,0,0,NITRO CELL,gadget,1,1,0,,5,5,5v5
+8876,2,kafe-dostoyevsky,5,134.4,1:30,90,,SpiriTz,100T,def,Warden,TUHAN,ENTERPRISE,atk,Sens,1,0,MPX,gun,1,0,1,JIGSAW,4,5,5v4
+8876,2,kafe-dostoyevsky,5,137.5,1:27,87,,JIGSAW,ENTERPRISE,atk,Gridlock,SpiriTz,100T,def,Warden,0,0,F90,gun,1,0,0,,3,5,3v5
+8876,2,kafe-dostoyevsky,5,198.8,0:26,26,,BRENDO,ENTERPRISE,atk,Ash,Hotancold,100T,def,Solis,1,0,R4-C,gun,1,0,0,,3,4,3v4
+8876,2,kafe-dostoyevsky,5,216.3,0:08,8,,Kason,100T,def,Jäger,BRENDO,ENTERPRISE,atk,Ash,1,0,416-C CARBINE,gun,1,0,0,,3,3,3v3
+8876,2,kafe-dostoyevsky,5,216.4,0:08,8,,GMZ,100T,def,Sentry,PLAYXR,ENTERPRISE,atk,Striker,0,0,C75 Auto,gun,1,0,0,,2,3,3v2
+8876,2,kafe-dostoyevsky,5,220.3,0:04,4,,Atom,100T,def,Ela,JIGSAW,ENTERPRISE,atk,Gridlock,1,0,SCORPION EVO 3 A1,gun,1,0,0,,1,3,3v1
+8876,2,kafe-dostoyevsky,6,135.1,1:29,89,,SpiriTz,100T,def,Smoke,BRENDO,ENTERPRISE,atk,Buck,0,0,SMG-11,gun,1,1,0,,5,5,5v5
+8876,2,kafe-dostoyevsky,6,140.8,1:24,84,,TUHAN,ENTERPRISE,atk,Sledge,GMZ,100T,def,Sentry,1,0,L85A2,gun,1,0,0,,4,5,4v5
+8876,2,kafe-dostoyevsky,6,150.0,1:14,74,,JIGSAW,ENTERPRISE,atk,Gridlock,Atom,100T,def,Ela,1,0,F90,gun,1,0,0,,4,4,4v4
+8876,2,kafe-dostoyevsky,6,160.9,1:04,64,,SpiriTz,100T,def,Smoke,TUHAN,ENTERPRISE,atk,Sledge,0,0,M590A1,gun,1,0,0,,4,3,3v4
+8876,2,kafe-dostoyevsky,6,206.1,0:18,18,,SpiriTz,100T,def,Smoke,JIGSAW,ENTERPRISE,atk,Gridlock,1,0,SMG-11,gun,1,0,0,,3,3,3v3
+8876,2,kafe-dostoyevsky,6,209.4,0:15,15,,KYRO,ENTERPRISE,atk,IQ,Kason,100T,def,Jäger,1,0,552 COMMANDO,gun,1,0,1,SpiriTz,2,3,2v3
+8876,2,kafe-dostoyevsky,6,211.6,0:13,13,,SpiriTz,100T,def,Smoke,KYRO,ENTERPRISE,atk,IQ,1,0,M590A1,gun,1,0,0,,2,2,2v2
+8876,2,kafe-dostoyevsky,7,92.5,2:12,132,,BRENDO,ENTERPRISE,def,Thorn,SpiriTz,100T,atk,Sledge,0,0,UZK50GI,gun,1,1,1,Kason,5,5,5v5
+8876,2,kafe-dostoyevsky,7,93.2,2:11,131,,Atom,100T,atk,Twitch,JIGSAW,ENTERPRISE,def,Jäger,0,0,417,gun,1,0,0,,4,5,4v5
+8876,2,kafe-dostoyevsky,7,94.5,2:10,130,,GMZ,100T,atk,Ram,TUHAN,ENTERPRISE,def,Azami,0,0,R4-C,gun,1,0,0,,4,4,4v4
+8876,2,kafe-dostoyevsky,7,95.3,2:09,129,,Kason,100T,atk,Buck,BRENDO,ENTERPRISE,def,Thorn,0,0,C8-SFW,gun,1,0,1,PLAYXR,4,3,4v3
+8876,2,kafe-dostoyevsky,7,96.1,2:08,128,,PLAYXR,ENTERPRISE,def,Mira,Kason,100T,atk,Buck,0,0,NITRO CELL,gadget,1,0,0,,4,2,2v4
+8876,2,kafe-dostoyevsky,7,160.2,0:44,44,44,GMZ,100T,atk,Ram,KYRO,ENTERPRISE,def,Mute,0,1,R4-C,gun,1,0,1,PLAYXR,3,2,3v2
+8876,2,kafe-dostoyevsky,7,163.5,0:41,41,41,PLAYXR,ENTERPRISE,def,Mira,GMZ,100T,atk,Ram,0,1,VECTOR .45 ACP,gun,1,0,0,,3,1,1v3
+8876,2,kafe-dostoyevsky,7,187.4,0:17,17,17,Hotancold,100T,atk,Blackbeard,PLAYXR,ENTERPRISE,def,Mira,1,1,MK17 CQB,gun,1,0,0,,2,1,2v1
+8876,2,kafe-dostoyevsky,8,120.3,1:44,104,,PLAYXR,ENTERPRISE,def,Mira,SpiriTz,100T,atk,Grim,0,0,NITRO CELL,gadget,1,1,0,,5,5,5v5
+8876,2,kafe-dostoyevsky,8,125.2,1:39,99,,Atom,100T,atk,Ash,TUHAN,ENTERPRISE,def,Azami,1,0,R4-C,gun,1,0,0,,4,5,4v5
+8876,2,kafe-dostoyevsky,8,125.5,1:39,99,,Atom,100T,atk,Ash,KYRO,ENTERPRISE,def,Mute,0,0,CLAYMORE,gadget,1,0,0,,4,4,4v4
+8876,2,kafe-dostoyevsky,8,148.7,1:16,76,,PLAYXR,ENTERPRISE,def,Mira,GMZ,100T,atk,Ram,1,0,VECTOR .45 ACP,gun,1,0,0,,4,3,3v4
+8876,2,kafe-dostoyevsky,8,149.6,1:15,75,,PLAYXR,ENTERPRISE,def,Mira,Hotancold,100T,atk,Blackbeard,1,0,VECTOR .45 ACP,gun,1,0,0,,3,3,3v3
+8876,2,kafe-dostoyevsky,8,161.5,1:03,63,,Atom,100T,atk,Ash,PLAYXR,ENTERPRISE,def,Mira,1,0,R4-C,gun,1,0,0,,2,3,2v3
+8876,2,kafe-dostoyevsky,8,184.9,0:40,40,,BRENDO,ENTERPRISE,def,Thorn,Atom,100T,atk,Ash,0,0,UZK50GI,gun,1,0,0,,2,2,2v2
+8876,2,kafe-dostoyevsky,8,221.4,0:03,3,,JIGSAW,ENTERPRISE,def,Jäger,Kason,100T,atk,Solid Snake,0,0,416-C CARBINE,gun,1,0,0,,1,2,2v1
+8876,2,kafe-dostoyevsky,9,151.6,1:13,73,,SpiriTz,100T,atk,Blackbeard,PLAYXR,ENTERPRISE,def,Fenrir,0,0,MK17 CQB,gun,1,1,0,,5,5,5v5
+8876,2,kafe-dostoyevsky,9,177.7,0:47,47,,KYRO,ENTERPRISE,def,Thorn,Hotancold,100T,atk,Sens,1,0,UZK50GI,gun,1,0,0,,5,4,4v5
+8876,2,kafe-dostoyevsky,9,184.1,0:40,40,,JIGSAW,ENTERPRISE,def,Valkyrie,GMZ,100T,atk,Twitch,1,0,MPX,gun,1,0,0,,4,4,4v4
+8876,2,kafe-dostoyevsky,9,184.2,0:40,40,,TUHAN,ENTERPRISE,def,Clash,Atom,100T,atk,Ace,1,0,SPSMG9,gun,1,0,0,,3,4,4v3
+8876,2,kafe-dostoyevsky,9,189.7,0:35,35,,JIGSAW,ENTERPRISE,def,Valkyrie,SpiriTz,100T,atk,Blackbeard,0,0,MPX,gun,1,0,0,,2,4,4v2
+8876,2,kafe-dostoyevsky,9,195.0,0:30,30,,BRENDO,ENTERPRISE,def,Smoke,Kason,100T,atk,Glaz,0,0,M590A1,gun,1,0,1,Kason,1,4,4v1
+8876,2,kafe-dostoyevsky,9,195.0,0:30,30,,Kason,100T,atk,Glaz,BRENDO,ENTERPRISE,def,Smoke,1,0,BEARING 9,gun,1,0,1,BRENDO,0,4,0v4
+8876,2,kafe-dostoyevsky,10,85.2,2:19,139,,GMZ,100T,atk,Ram,JIGSAW,ENTERPRISE,def,Jäger,1,0,R4-C,gun,1,1,1,BRENDO,5,5,5v5
+8876,2,kafe-dostoyevsky,10,86.3,2:18,138,,PLAYXR,ENTERPRISE,def,Mira,Atom,100T,atk,Deimos,1,0,VECTOR .45 ACP,gun,1,0,0,,5,4,4v5
+8876,2,kafe-dostoyevsky,10,87.8,2:17,137,,BRENDO,ENTERPRISE,def,Thorn,GMZ,100T,atk,Ram,0,0,UZK50GI,gun,1,0,0,,4,4,4v4
+8876,2,kafe-dostoyevsky,10,100.3,2:04,124,,SpiriTz,100T,atk,Blitz,PLAYXR,ENTERPRISE,def,Mira,0,0,P12,gun,1,0,0,,3,4,3v4
+8876,2,kafe-dostoyevsky,10,126.0,0:41,41,41,Kason,100T,atk,Finka,KYRO,ENTERPRISE,def,Solis,0,1,6P41,gun,1,0,0,,3,3,3v3
+8876,2,kafe-dostoyevsky,10,144.4,0:22,22,22,Kason,100T,atk,Finka,BRENDO,ENTERPRISE,def,Thorn,0,1,6P41,gun,1,0,1,TUHAN,3,2,3v2
+8876,2,kafe-dostoyevsky,10,145.0,0:22,22,22,TUHAN,ENTERPRISE,def,Sentry,Kason,100T,atk,Finka,1,1,TCSG12,gun,1,0,1,SpiriTz,3,1,1v3
+8876,2,kafe-dostoyevsky,10,149.6,0:17,17,17,SpiriTz,100T,atk,Blitz,TUHAN,ENTERPRISE,def,Sentry,1,1,P12,gun,1,0,0,,2,1,2v1
+8876,2,kafe-dostoyevsky,11,101.8,2:03,123,,KYRO,ENTERPRISE,def,Smoke,Hotancold,100T,atk,Sledge,0,0,M590A1,gun,1,1,0,,5,5,5v5
+8876,2,kafe-dostoyevsky,11,102.0,2:02,122,,PLAYXR,ENTERPRISE,def,Mira,Atom,100T,atk,Deimos,1,0,VECTOR .45 ACP,gun,1,0,0,,4,5,5v4
+8876,2,kafe-dostoyevsky,11,103.3,2:01,121,,Kason,100T,atk,Solid Snake,JIGSAW,ENTERPRISE,def,Jäger,1,0,F2,gun,1,0,1,BRENDO,3,5,3v5
+8876,2,kafe-dostoyevsky,11,107.5,1:57,117,,BRENDO,ENTERPRISE,def,Thorn,Kason,100T,atk,Solid Snake,0,0,UZK50GI,gun,1,0,0,,3,4,4v3
+8876,2,kafe-dostoyevsky,11,126.1,0:37,37,37,SpiriTz,100T,atk,Hibana,KYRO,ENTERPRISE,def,Smoke,1,1,BEARING 9,gun,1,0,0,,2,4,2v4
+8876,2,kafe-dostoyevsky,11,144.3,0:19,19,19,PLAYXR,ENTERPRISE,def,Mira,GMZ,100T,atk,Gridlock,0,1,NITRO CELL,gadget,1,0,0,,2,3,3v2
+8876,2,kafe-dostoyevsky,11,153.1,0:10,10,10,SpiriTz,100T,atk,Hibana,TUHAN,ENTERPRISE,def,Ela,0,1,PMR90A2,gun,1,0,0,,1,3,1v3
+8876,2,kafe-dostoyevsky,11,159.9,0:03,3,3,SpiriTz,100T,atk,Hibana,BRENDO,ENTERPRISE,def,Thorn,0,1,BEARING 9,gun,1,0,0,,1,2,1v2
+8876,2,kafe-dostoyevsky,11,159.9,0:03,3,3,SpiriTz,100T,atk,Hibana,PLAYXR,ENTERPRISE,def,Mira,0,1,PMR90A2,gun,1,0,0,,1,1,1v1

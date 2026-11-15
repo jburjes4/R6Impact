@@ -1,0 +1,213 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+8883,1,clubhouse,1,80.5,2:24,144,,SpiriTz,100 THIEVES,def,Solis,Savage,M80,atk,Ying,1,0,P90,gun,1,1,0,,5,5,5v5
+8883,1,clubhouse,1,100.6,2:04,124,,Gunna,M80,atk,Thatcher,SpiriTz,100 THIEVES,def,Solis,1,0,L85A2,gun,1,0,0,,4,5,4v5
+8883,1,clubhouse,1,116.9,1:48,108,,Gunna,M80,atk,Thatcher,Atom,100 THIEVES,def,Mute,0,0,L85A2,gun,1,0,0,,4,4,4v4
+8883,1,clubhouse,1,163.9,1:01,61,,Hotancold,100 THIEVES,def,Warden,Gunna,M80,atk,Thatcher,0,0,NITRO CELL,gadget,1,0,0,,4,3,3v4
+8883,1,clubhouse,1,192.4,0:32,32,,GMZ,100 THIEVES,def,Goyo,Ashn,M80,atk,Grim,0,0,TCSG12,gun,1,0,0,,3,3,3v3
+8883,1,clubhouse,1,205.6,0:19,19,,Hotancold,100 THIEVES,def,Warden,dfuzr,M80,atk,Sledge,1,0,MPX,gun,1,0,0,,2,3,3v2
+8883,1,clubhouse,1,207.1,0:17,17,,Hotancold,100 THIEVES,def,Warden,Gaveni,M80,atk,Hibana,1,0,MPX,gun,1,0,0,,1,3,3v1
+8883,1,clubhouse,2,142.1,1:22,82,,dfuzr,M80,atk,Zofia,Hotancold,100 THIEVES,def,Fenrir,1,0,M762,gun,1,1,0,,5,5,5v5
+8883,1,clubhouse,2,145.3,1:19,79,,dfuzr,M80,atk,Zofia,Kason,100 THIEVES,def,Azami,0,0,,unknown,0,0,0,,5,4,5v4
+8883,1,clubhouse,2,177.8,0:47,47,,GMZ,100 THIEVES,def,Smoke,Gaveni,M80,atk,Striker,0,0,M590A1,gun,1,0,1,dfuzr,5,3,3v5
+8883,1,clubhouse,2,178.1,0:46,46,,dfuzr,M80,atk,Zofia,GMZ,100 THIEVES,def,Smoke,1,0,M762,gun,1,0,0,,4,3,4v3
+8883,1,clubhouse,2,193.9,0:31,31,,SpiriTz,100 THIEVES,def,Wamai,Ashn,M80,atk,Grim,0,0,MP5K,gun,1,0,1,Savage,4,2,2v4
+8883,1,clubhouse,2,195.0,0:30,30,,Savage,M80,atk,Blackbeard,SpiriTz,100 THIEVES,def,Wamai,0,0,MK17 CQB,gun,1,0,0,,3,2,3v2
+8883,1,clubhouse,2,217.0,0:08,8,,Gunna,M80,atk,Twitch,Atom,100 THIEVES,def,Mute,0,0,F2,gun,1,0,0,,3,1,3v1
+8883,1,clubhouse,3,161.2,1:03,63,,SpiriTz,100 THIEVES,def,Azami,Savage,M80,atk,Blackbeard,1,0,9x19VSN,gun,1,1,1,Gaveni,5,5,5v5
+8883,1,clubhouse,3,163.6,1:01,61,,Gaveni,M80,atk,Deimos,SpiriTz,100 THIEVES,def,Azami,1,0,.44 Vendetta,gun,1,0,0,,4,5,4v5
+8883,1,clubhouse,3,216.2,0:08,8,,dfuzr,M80,atk,Solid Snake,Kason,100 THIEVES,def,Jäger,1,0,F2,gun,1,0,0,,4,4,4v4
+8883,1,clubhouse,3,217.8,0:07,7,,Ashn,M80,atk,Hibana,GMZ,100 THIEVES,def,Wamai,1,0,PMR90A2,gun,1,0,0,,4,3,4v3
+8883,1,clubhouse,3,218.6,0:06,6,,Ashn,M80,atk,Hibana,Atom,100 THIEVES,def,Tubarão,0,0,PMR90A2,gun,1,0,0,,4,2,4v2
+8883,1,clubhouse,3,220.0,0:05,5,,Hotancold,100 THIEVES,def,Clash,Gaveni,M80,atk,Deimos,1,0,SPSMG9,gun,1,0,1,Ashn,4,1,1v4
+8883,1,clubhouse,3,225.0,0:00,0,,Ashn,M80,atk,Hibana,Hotancold,100 THIEVES,def,Clash,1,0,PMR90A2,gun,1,0,0,,3,1,3v1
+8883,1,clubhouse,4,109.7,1:55,115,,Gunna,M80,atk,Twitch,SpiriTz,100 THIEVES,def,Mute,1,0,F2,gun,1,1,0,,5,5,5v5
+8883,1,clubhouse,4,208.4,0:16,16,,Savage,M80,atk,Blackbeard,GMZ,100 THIEVES,def,Goyo,0,0,MK17 CQB,gun,1,0,0,,5,4,5v4
+8883,1,clubhouse,4,208.9,0:16,16,,Hotancold,100 THIEVES,def,Mira,Gaveni,M80,atk,Zofia,1,0,VECTOR .45 ACP,gun,1,0,0,,5,3,3v5
+8883,1,clubhouse,4,211.0,0:13,13,,Atom,100 THIEVES,def,Warden,Ashn,M80,atk,Ying,1,0,MPX,gun,1,0,1,Gunna,4,3,3v4
+8883,1,clubhouse,4,211.5,0:13,13,,dfuzr,M80,atk,Ash,Kason,100 THIEVES,def,Wamai,0,0,R4-C,gun,1,0,0,,3,3,3v3
+8883,1,clubhouse,4,217.8,0:07,7,,Gunna,M80,atk,Twitch,Atom,100 THIEVES,def,Warden,0,0,P9,gun,1,0,0,,3,2,3v2
+8883,1,clubhouse,4,224.0,0:01,1,,Gunna,M80,atk,Twitch,Hotancold,100 THIEVES,def,Mira,1,0,P9,gun,1,0,0,,3,1,3v1
+8883,1,clubhouse,5,97.3,2:07,127,,Savage,M80,atk,Blackbeard,SpiriTz,100 THIEVES,def,Clash,0,0,MK17 CQB,gun,1,1,0,,5,5,5v5
+8883,1,clubhouse,5,139.2,1:25,85,,Gunna,M80,atk,Zofia,Hotancold,100 THIEVES,def,Mute,0,0,M762,gun,1,0,0,,5,4,5v4
+8883,1,clubhouse,5,162.4,1:02,62,,dfuzr,M80,atk,Hibana,Atom,100 THIEVES,def,Warden,1,0,TYPE-89,gun,1,0,0,,5,3,5v3
+8883,1,clubhouse,5,178.8,0:46,46,,Kason,100 THIEVES,def,Wamai,Savage,M80,atk,Blackbeard,0,0,AUG A2,gun,1,0,1,dfuzr,5,2,2v5
+8883,1,clubhouse,5,179.9,0:45,45,,Ashn,M80,atk,Nomad,GMZ,100 THIEVES,def,Mira,0,0,AK-74M,gun,1,0,0,,4,2,4v2
+8883,1,clubhouse,5,182.0,0:43,43,,dfuzr,M80,atk,Hibana,Kason,100 THIEVES,def,Wamai,1,0,BEARING 9,gun,1,0,0,,4,1,4v1
+8883,1,clubhouse,6,200.4,0:24,24,,Gunna,M80,atk,Solid Snake,Hotancold,100 THIEVES,def,Goyo,1,0,F2,gun,1,1,1,Atom,5,5,5v5
+8883,1,clubhouse,6,207.0,0:17,17,,Atom,100 THIEVES,def,Mute,Gunna,M80,atk,Solid Snake,0,0,NITRO CELL,gadget,1,0,0,,5,4,4v5
+8883,1,clubhouse,6,215.6,0:09,9,,SpiriTz,100 THIEVES,def,Warden,dfuzr,M80,atk,Sledge,1,0,MPX,gun,1,0,0,,4,4,4v4
+8883,1,clubhouse,6,217.8,0:07,7,,SpiriTz,100 THIEVES,def,Warden,Savage,M80,atk,Blitz,1,0,MPX,gun,1,0,0,,3,4,4v3
+8883,1,clubhouse,6,218.1,0:06,6,,Kason,100 THIEVES,def,Wamai,Ashn,M80,atk,Deimos,0,0,AUG A2,gun,1,0,0,,2,4,4v2
+8883,1,clubhouse,6,219.4,0:05,5,,Kason,100 THIEVES,def,Wamai,Gaveni,M80,atk,Zofia,1,0,AUG A2,gun,1,0,0,,1,4,4v1
+8883,1,clubhouse,7,72.3,2:32,152,,Kason,100 THIEVES,atk,Solid Snake,Gunna,M80,def,Azami,1,0,F2,gun,1,1,0,,5,5,5v5
+8883,1,clubhouse,7,96.8,2:08,128,,Ashn,M80,def,Goyo,SpiriTz,100 THIEVES,atk,Ying,0,0,TCSG12,gun,1,0,0,,5,4,4v5
+8883,1,clubhouse,7,195.7,0:29,29,,Hotancold,100 THIEVES,atk,Hibana,Savage,M80,def,Ela,1,0,BEARING 9,gun,1,0,0,,4,4,4v4
+8883,1,clubhouse,7,196.6,0:28,28,,GMZ,100 THIEVES,atk,Zofia,dfuzr,M80,def,Mute,0,0,M762,gun,1,0,0,,4,3,4v3
+8883,1,clubhouse,7,200.5,0:24,24,,GMZ,100 THIEVES,atk,Zofia,Gaveni,M80,def,Warden,1,0,M762,gun,1,0,0,,4,2,4v2
+8883,1,clubhouse,7,202.3,0:22,22,,Atom,100 THIEVES,atk,Striker,Ashn,M80,def,Goyo,0,0,M4,gun,1,0,0,,4,1,4v1
+8883,1,clubhouse,8,124.8,1:40,100,,Ashn,M80,def,Goyo,GMZ,100 THIEVES,atk,Zofia,0,0,TCSG12,gun,1,1,0,,5,5,5v5
+8883,1,clubhouse,8,126.2,1:38,98,,Savage,M80,def,Smoke,SpiriTz,100 THIEVES,atk,Ying,0,0,M590A1,gun,1,0,0,,4,5,5v4
+8883,1,clubhouse,8,128.0,1:36,96,,Gunna,M80,def,Thorn,Kason,100 THIEVES,atk,Solid Snake,0,0,RAZORBLOOM SHELL,gadget,1,0,0,,3,5,5v3
+8883,1,clubhouse,8,130.7,1:34,94,,Gunna,M80,def,Thorn,Hotancold,100 THIEVES,atk,Ace,0,0,UZK50GI,gun,1,0,0,,2,5,5v2
+8883,1,clubhouse,8,136.0,1:29,89,,Ashn,M80,def,Goyo,Atom,100 THIEVES,atk,Sens,0,0,TCSG12,gun,1,0,0,,1,5,5v1
+8883,1,clubhouse,9,132.4,1:32,92,,Savage,M80,def,Valkyrie,Ashn,M80,def,Azami,0,0,NITRO CELL,gadget,1,0,0,,5,5,
+8883,1,clubhouse,9,135.4,1:29,89,,dfuzr,M80,def,Wamai,Hotancold,100 THIEVES,atk,Nomad,1,0,MP5K,gun,1,1,0,,5,4,4v5
+8883,1,clubhouse,9,142.1,1:22,82,,Savage,M80,def,Valkyrie,GMZ,100 THIEVES,atk,Lion,1,0,MPX,gun,1,0,0,,4,4,4v4
+8883,1,clubhouse,9,144.0,1:21,81,,GMZ,100 THIEVES,atk,Lion,Gunna,M80,def,Thorn,0,0,FRAG GRENADE,gadget,1,0,0,,3,4,3v4
+8883,1,clubhouse,9,155.9,1:09,69,,dfuzr,M80,def,Wamai,SpiriTz,100 THIEVES,atk,Twitch,0,0,MP5K,gun,1,0,0,,3,3,3v3
+8883,1,clubhouse,9,158.7,1:06,66,,Savage,M80,def,Valkyrie,Atom,100 THIEVES,atk,Zofia,1,0,MPX,gun,1,0,0,,2,3,3v2
+8883,1,clubhouse,9,188.3,0:36,36,,Savage,M80,def,Valkyrie,Kason,100 THIEVES,atk,Sens,1,0,MPX,gun,1,0,0,,1,3,3v1
+8883,1,clubhouse,10,163.6,1:01,61,,SpiriTz,100 THIEVES,atk,Hibana,Ashn,M80,def,Solis,0,0,BEARING 9,gun,1,1,1,dfuzr,5,5,5v5
+8883,1,clubhouse,10,165.1,0:59,59,,dfuzr,M80,def,Smoke,SpiriTz,100 THIEVES,atk,Hibana,1,0,SMG-11,gun,1,0,1,Kason,5,4,4v5
+8883,1,clubhouse,10,166.0,0:58,58,,dfuzr,M80,def,Smoke,Hotancold,100 THIEVES,atk,Montagne,1,0,SMG-11,gun,1,0,1,Kason,4,4,4v4
+8883,1,clubhouse,10,166.9,0:58,58,,Kason,100 THIEVES,atk,Finka,dfuzr,M80,def,Smoke,1,0,SPEAR .308,gun,1,0,1,Gaveni,3,4,3v4
+8883,1,clubhouse,10,167.1,0:57,57,,Gaveni,M80,def,Wamai,Kason,100 THIEVES,atk,Finka,0,0,NITRO CELL,gadget,1,0,1,Atom,3,3,3v3
+8883,1,clubhouse,10,170.6,0:54,54,,Gunna,M80,def,Mute,GMZ,100 THIEVES,atk,Nomad,0,0,M590A1,gun,1,0,0,,2,3,3v2
+8883,1,clubhouse,10,172.7,0:52,52,,Atom,100 THIEVES,atk,Striker,Gaveni,M80,def,Wamai,0,0,M4,gun,1,0,0,,1,3,1v3
+8883,1,clubhouse,10,206.2,0:18,18,,Atom,100 THIEVES,atk,Striker,Savage,M80,def,Goyo,0,0,M4,gun,1,0,1,Gunna,1,2,1v2
+8883,1,clubhouse,10,209.6,0:15,15,,Gunna,M80,def,Mute,Atom,100 THIEVES,atk,Striker,0,0,SMG-11,gun,1,0,0,,1,1,1v1
+8883,2,border,1,141.5,1:23,83,,GMZ,100 THIEVES,atk,Thatcher,Savage,M80,def,Mira,1,0,L85A2,gun,1,1,0,,5,5,5v5
+8883,2,border,1,145.2,1:19,79,,Atom,100 THIEVES,atk,Twitch,dfuzr,M80,def,Smoke,1,0,F2,gun,1,0,0,,5,4,5v4
+8883,2,border,1,145.5,1:19,79,,Hotancold,100 THIEVES,atk,Capitão,Ashn,M80,def,Warden,0,0,PARA-308,gun,1,0,1,Gunna,5,3,5v3
+8883,2,border,1,147.9,1:17,77,,Gunna,M80,def,Mute,Hotancold,100 THIEVES,atk,Capitão,0,0,SMG-11,gun,1,0,1,Atom,5,2,2v5
+8883,2,border,1,149.1,1:15,75,,GMZ,100 THIEVES,atk,Thatcher,Gaveni,M80,def,Ela,0,0,L85A2,gun,1,0,0,,4,2,4v2
+8883,2,border,1,149.3,1:15,75,,Gunna,M80,def,Mute,SpiriTz,100 THIEVES,atk,Striker,0,0,SMG-11,gun,1,0,1,Atom,4,1,1v4
+8883,2,border,1,152.9,1:12,72,,Atom,100 THIEVES,atk,Twitch,Gunna,M80,def,Mute,1,0,F2,gun,1,0,0,,3,1,3v1
+8883,2,border,2,136.4,1:28,88,,SpiriTz,100 THIEVES,atk,Kali,Gaveni,M80,def,Tubarão,0,0,CSRX300,gun,1,1,0,,5,5,5v5
+8883,2,border,2,175.9,0:49,49,,Gunna,M80,def,Mute,Hotancold,100 THIEVES,atk,Zofia,1,0,SMG-11,gun,1,0,0,,5,4,4v5
+8883,2,border,2,178.4,0:46,46,,Ashn,M80,def,Thorn,Atom,100 THIEVES,atk,Twitch,0,0,UZK50GI,gun,1,0,0,,4,4,4v4
+8883,2,border,2,185.2,0:39,39,,Kason,100 THIEVES,atk,Solid Snake,Savage,M80,def,Solis,0,0,FRAG GRENADE,gadget,1,0,0,,3,4,3v4
+8883,2,border,2,186.0,0:39,39,,Ashn,M80,def,Thorn,SpiriTz,100 THIEVES,atk,Kali,1,0,UZK50GI,gun,1,0,0,,3,3,3v3
+8883,2,border,2,212.4,0:12,12,,dfuzr,M80,def,Sentry,Kason,100 THIEVES,atk,Solid Snake,0,0,TCSG12,gun,1,0,0,,2,3,3v2
+8883,2,border,2,213.2,0:11,11,,dfuzr,M80,def,Sentry,GMZ,100 THIEVES,atk,Nomad,0,0,TCSG12,gun,1,0,0,,1,3,3v1
+8883,2,border,3,107.8,1:57,117,,Ashn,M80,def,Thorn,SpiriTz,100 THIEVES,atk,Blackbeard,0,0,UZK50GI,gun,1,1,0,,5,5,5v5
+8883,2,border,3,136.5,1:28,88,,Gaveni,M80,def,Tubarão,Kason,100 THIEVES,atk,Solid Snake,0,0,NITRO CELL,gadget,1,0,0,,4,5,5v4
+8883,2,border,3,136.6,1:28,88,,dfuzr,M80,def,Sentry,GMZ,100 THIEVES,atk,Nomad,0,0,TCSG12,gun,1,0,0,,3,5,5v3
+8883,2,border,3,138.7,1:26,86,,Ashn,M80,def,Thorn,Atom,100 THIEVES,atk,Striker,1,0,UZK50GI,gun,1,0,0,,2,5,5v2
+8883,2,border,3,141.5,1:23,83,,Gunna,M80,def,Mute,Hotancold,100 THIEVES,atk,Zofia,0,0,SMG-11,gun,1,0,0,,1,5,5v1
+8883,2,border,4,109.0,1:56,116,,Ashn,M80,def,Pulse,Atom,100 THIEVES,atk,Ram,0,0,NITRO CELL,gadget,1,1,0,,5,5,5v5
+8883,2,border,4,114.8,1:50,110,,Savage,M80,def,Solis,SpiriTz,100 THIEVES,atk,Deimos,1,0,SMG-11,gun,1,0,0,,4,5,5v4
+8883,2,border,4,119.5,1:45,105,,Gaveni,M80,def,Ela,Kason,100 THIEVES,atk,Nomad,1,0,SCORPION EVO 3 A1,gun,1,0,0,,3,5,5v3
+8883,2,border,4,120.6,1:44,104,,Savage,M80,def,Solis,GMZ,100 THIEVES,atk,Dokkaebi,1,0,SMG-11,gun,1,0,0,,2,5,5v2
+8883,2,border,4,133.3,1:31,91,,Savage,M80,def,Solis,Hotancold,100 THIEVES,atk,Zofia,1,0,SMG-11,gun,1,0,0,,1,5,5v1
+8883,2,border,5,102.1,2:02,122,,Kason,100 THIEVES,atk,Thatcher,Gaveni,M80,def,Tubarão,0,0,L85A2,gun,1,1,0,,5,5,5v5
+8883,2,border,5,129.9,1:35,95,,Atom,100 THIEVES,atk,Finka,Savage,M80,def,Warden,0,0,6P41,gun,1,0,0,,5,4,5v4
+8883,2,border,5,131.8,1:33,93,,SpiriTz,100 THIEVES,atk,Blitz,Ashn,M80,def,Thorn,1,0,P12,gun,1,0,0,,5,3,5v3
+8883,2,border,5,134.6,1:30,90,,Hotancold,100 THIEVES,atk,Montagne,dfuzr,M80,def,Sentry,0,0,P9,gun,1,0,0,,5,2,5v2
+8883,2,border,5,149.0,1:16,76,,GMZ,100 THIEVES,atk,Nomad,Gunna,M80,def,Mira,0,0,AK-74M,gun,1,0,0,,5,1,5v1
+8883,2,border,6,113.9,1:51,111,,Ashn,M80,def,Warden,Hotancold,100 THIEVES,atk,Glaz,0,0,NITRO CELL,gadget,1,1,0,,5,5,5v5
+8883,2,border,6,131.8,1:33,93,,Gaveni,M80,def,Ela,SpiriTz,100 THIEVES,atk,Blitz,1,0,SCORPION EVO 3 A1,gun,1,0,0,,4,5,5v4
+8883,2,border,6,132.1,1:32,92,,Atom,100 THIEVES,atk,Twitch,Ashn,M80,def,Warden,1,0,F2,gun,1,0,0,,3,5,3v5
+8883,2,border,6,143.1,1:21,81,,GMZ,100 THIEVES,atk,Deimos,Gunna,M80,def,Goyo,1,0,AK-74M,gun,1,0,0,,3,4,3v4
+8883,2,border,6,213.9,0:11,11,,Atom,100 THIEVES,atk,Twitch,dfuzr,M80,def,Smoke,0,0,F2,gun,1,0,0,,3,3,3v3
+8883,2,border,6,216.6,0:08,8,,Atom,100 THIEVES,atk,Twitch,Savage,M80,def,Mira,1,0,F2,gun,1,0,0,,3,2,3v2
+8883,2,border,6,221.6,0:03,3,,Gaveni,M80,def,Ela,Kason,100 THIEVES,atk,Nomad,1,0,SCORPION EVO 3 A1,gun,1,0,1,Atom,3,1,1v3
+8883,2,border,6,224.0,0:01,1,,Atom,100 THIEVES,atk,Twitch,Gaveni,M80,def,Ela,0,0,F2,gun,1,0,0,,2,1,2v1
+8883,2,border,7,104.2,2:00,120,,Savage,M80,atk,Blitz,SpiriTz,100 THIEVES,def,Smoke,0,0,P12,gun,1,1,0,,5,5,5v5
+8883,2,border,7,106.6,1:58,118,,Hotancold,100 THIEVES,def,Mira,Ashn,M80,atk,Glaz,0,0,NITRO CELL,gadget,1,0,0,,5,4,4v5
+8883,2,border,7,115.2,1:49,109,,Gaveni,M80,atk,Nomad,GMZ,100 THIEVES,def,Warden,0,0,PRB92,gun,1,0,0,,4,4,4v4
+8883,2,border,7,171.6,0:53,53,,Gunna,M80,atk,Thatcher,Hotancold,100 THIEVES,def,Mira,1,0,L85A2,gun,1,0,1,Kason,4,3,4v3
+8883,2,border,7,172.5,0:52,52,,Kason,100 THIEVES,def,Mute,Gunna,M80,atk,Thatcher,1,0,SMG-11,gun,1,0,1,dfuzr,4,2,2v4
+8883,2,border,7,173.3,0:51,51,,dfuzr,M80,atk,Rauora,Kason,100 THIEVES,def,Mute,0,0,417,gun,1,0,0,,3,2,3v2
+8883,2,border,7,189.8,0:35,35,,Atom,100 THIEVES,def,Ela,Gaveni,M80,atk,Nomad,0,0,SCORPION EVO 3 A1,gun,1,0,1,Savage,3,1,1v3
+8883,2,border,7,199.7,0:36,36,36,Savage,M80,atk,Blitz,Atom,100 THIEVES,def,Ela,0,1,P12,gun,1,0,0,,2,1,2v1
+8883,2,border,8,132.4,1:32,92,,Gaveni,M80,atk,Nomad,Atom,100 THIEVES,def,Ela,1,0,AK-74M,gun,1,1,1,SpiriTz,5,5,5v5
+8883,2,border,8,133.2,1:31,91,,SpiriTz,100 THIEVES,def,Sentry,Gaveni,M80,atk,Nomad,0,0,TCSG12,gun,1,0,1,dfuzr,5,4,4v5
+8883,2,border,8,135.2,1:29,89,,SpiriTz,100 THIEVES,def,Sentry,Ashn,M80,atk,Brava,0,0,C75 Auto,gun,1,0,1,dfuzr,4,4,4v4
+8883,2,border,8,137.8,1:27,87,,dfuzr,M80,atk,Finka,SpiriTz,100 THIEVES,def,Sentry,0,0,SPEAR .308,gun,1,0,0,,3,4,3v4
+8883,2,border,8,214.1,0:10,10,,Hotancold,100 THIEVES,def,Mute,dfuzr,M80,atk,Finka,1,0,SMG-11,gun,1,0,0,,3,3,3v3
+8883,2,border,8,216.4,0:08,8,,GMZ,100 THIEVES,def,Smoke,Savage,M80,atk,Deimos,0,0,SMG-11,gun,1,0,0,,2,3,3v2
+8883,2,border,8,220.4,0:04,4,,Hotancold,100 THIEVES,def,Mute,Gunna,M80,atk,Lion,0,0,SMG-11,gun,1,0,0,,1,3,3v1
+8883,2,border,9,110.8,1:54,114,,GMZ,100 THIEVES,def,Sentry,dfuzr,M80,atk,Solid Snake,0,0,TCSG12,gun,1,1,0,,5,5,5v5
+8883,2,border,9,111.5,1:53,113,,Gunna,M80,atk,Lion,Atom,100 THIEVES,def,Thorn,1,0,417,gun,1,0,0,,4,5,4v5
+8883,2,border,9,136.3,1:28,88,,Kason,100 THIEVES,def,Melusi,Savage,M80,atk,Deimos,1,0,MP5,gun,1,0,1,Ashn,4,4,4v4
+8883,2,border,9,137.7,1:27,87,,Ashn,M80,atk,Brava,Kason,100 THIEVES,def,Melusi,0,0,CAMRS,gun,1,0,0,,3,4,3v4
+8883,2,border,9,188.0,0:36,36,,Gaveni,M80,atk,Nomad,SpiriTz,100 THIEVES,def,Kaid,1,0,ARX200,gun,1,0,0,,3,3,3v3
+8883,2,border,9,204.7,0:28,28,28,Gaveni,M80,atk,Nomad,Hotancold,100 THIEVES,def,Solis,0,1,ARX200,gun,1,0,0,,3,2,3v2
+8883,2,border,9,205.6,0:28,28,28,Gaveni,M80,atk,Nomad,GMZ,100 THIEVES,def,Sentry,0,1,ARX200,gun,1,0,0,,3,1,3v1
+8883,2,border,10,125.0,0:36,36,36,GMZ,100 THIEVES,def,Thorn,dfuzr,M80,atk,Deimos,1,1,UZK50GI,gun,1,1,0,,5,5,5v5
+8883,2,border,10,125.3,0:36,36,36,Gaveni,M80,atk,Nomad,Atom,100 THIEVES,def,Ela,1,1,ARX200,gun,1,0,0,,4,5,4v5
+8883,2,border,10,128.2,0:33,33,33,Kason,100 THIEVES,def,Mute,Gunna,M80,atk,Amaru,0,1,SMG-11,gun,1,0,0,,4,4,4v4
+8883,2,border,10,134.1,0:27,27,27,GMZ,100 THIEVES,def,Thorn,Savage,M80,atk,Blackbeard,1,1,UZK50GI,gun,1,0,0,,3,4,4v3
+8883,2,border,10,135.7,0:25,25,25,Gaveni,M80,atk,Nomad,Hotancold,100 THIEVES,def,Tachanka,1,1,ARX200,gun,1,0,1,Kason,2,4,2v4
+8883,2,border,10,136.5,0:24,24,24,Kason,100 THIEVES,def,Mute,Gaveni,M80,atk,Nomad,1,1,SMG-11,gun,1,0,0,,2,3,3v2
+8883,2,border,10,145.1,0:16,16,16,SpiriTz,100 THIEVES,def,Smoke,Ashn,M80,atk,Ash,1,1,SMG-11,gun,1,0,0,,1,3,3v1
+8883,2,border,11,85.6,2:19,139,,Gaveni,M80,atk,Nomad,Atom,100 THIEVES,def,Ela,1,0,ARX200,gun,1,1,0,,5,5,5v5
+8883,2,border,11,90.2,2:14,134,,Hotancold,100 THIEVES,def,Mute,Savage,M80,atk,Blitz,0,0,NITRO CELL,gadget,1,0,0,,5,4,4v5
+8883,2,border,11,90.4,2:14,134,,GMZ,100 THIEVES,def,Solis,Ashn,M80,atk,Deimos,0,0,SMG-11,gun,1,0,0,,4,4,4v4
+8883,2,border,11,95.5,2:09,129,,Kason,100 THIEVES,def,Kaid,dfuzr,M80,atk,Lion,1,0,TCSG12,gun,1,0,0,,3,4,4v3
+8883,2,border,11,98.0,2:06,126,,SpiriTz,100 THIEVES,def,Smoke,Gaveni,M80,atk,Nomad,0,0,M590A1,gun,1,0,0,,2,4,4v2
+8883,2,border,11,102.8,2:02,122,,SpiriTz,100 THIEVES,def,Smoke,Gunna,M80,atk,Striker,0,0,M590A1,gun,1,0,0,,1,4,4v1
+8883,2,border,12,88.7,2:16,136,,Savage,M80,atk,Blitz,Kason,100 THIEVES,def,Mozzie,1,0,P12,gun,1,1,1,GMZ,5,5,5v5
+8883,2,border,12,94.9,2:10,130,,SpiriTz,100 THIEVES,def,Kaid,Gunna,M80,atk,Buck,1,0,TCSG12,gun,1,0,0,,5,4,4v5
+8883,2,border,12,98.1,2:06,126,,GMZ,100 THIEVES,def,Mira,Savage,M80,atk,Blitz,1,0,VECTOR .45 ACP,gun,1,0,1,Gaveni,4,4,4v4
+8883,2,border,12,99.6,2:05,125,,Gaveni,M80,atk,Ace,GMZ,100 THIEVES,def,Mira,1,0,AK-12,gun,1,0,0,,3,4,3v4
+8883,2,border,12,101.4,2:03,123,,Gaveni,M80,atk,Ace,Hotancold,100 THIEVES,def,Tubarão,0,0,AK-12,gun,1,0,0,,3,3,3v3
+8883,2,border,12,129.2,1:35,95,,SpiriTz,100 THIEVES,def,Kaid,Ashn,M80,atk,Lion,0,0,NITRO CELL,gadget,1,0,0,,3,2,2v3
+8883,2,border,12,183.8,0:41,41,,SpiriTz,100 THIEVES,def,Kaid,Gaveni,M80,atk,Ace,0,0,TCSG12,gun,1,0,0,,2,2,2v2
+8883,2,border,12,193.6,0:31,31,,SpiriTz,100 THIEVES,def,Kaid,dfuzr,M80,atk,Ash,0,0,TCSG12,gun,1,0,0,,1,2,2v1
+8883,3,kafe-dostoyevsky,1,129.9,1:35,95,,Kason,100 THIEVES,atk,Nomad,Gunna,M80,def,Mute,1,0,AK-74M,gun,1,1,0,,5,5,5v5
+8883,3,kafe-dostoyevsky,1,164.5,1:00,60,,SpiriTz,100 THIEVES,atk,Blitz,Ashn,M80,def,Warden,1,0,P12,gun,1,0,0,,5,4,5v4
+8883,3,kafe-dostoyevsky,1,168.5,0:56,56,,Gaveni,M80,def,Azami,GMZ,100 THIEVES,atk,Gridlock,1,0,9x19VSN,gun,1,0,1,Hotancold,5,3,3v5
+8883,3,kafe-dostoyevsky,1,168.8,0:56,56,,Hotancold,100 THIEVES,atk,Thatcher,Gaveni,M80,def,Azami,0,0,PMR90A2,gun,1,0,0,,4,3,4v3
+8883,3,kafe-dostoyevsky,1,169.8,0:55,55,,Kason,100 THIEVES,atk,Nomad,Savage,M80,def,Melusi,1,0,AK-74M,gun,1,0,0,,4,2,4v2
+8883,3,kafe-dostoyevsky,1,175.8,0:49,49,,dfuzr,M80,def,Kaid,Atom,100 THIEVES,atk,Striker,0,0,TCSG12,gun,1,0,0,,4,1,1v4
+8883,3,kafe-dostoyevsky,1,186.4,0:38,38,,dfuzr,M80,def,Kaid,SpiriTz,100 THIEVES,atk,Blitz,0,0,TCSG12,gun,1,0,0,,3,1,1v3
+8883,3,kafe-dostoyevsky,1,200.1,0:24,24,,Kason,100 THIEVES,atk,Nomad,dfuzr,M80,def,Kaid,0,0,AK-74M,gun,1,0,0,,2,1,2v1
+8883,3,kafe-dostoyevsky,2,180.7,0:44,44,,Hotancold,100 THIEVES,atk,Striker,Savage,M80,def,Kaid,1,0,M4,gun,1,1,0,,5,5,5v5
+8883,3,kafe-dostoyevsky,2,181.8,0:43,43,,Gunna,M80,def,Fenrir,Kason,100 THIEVES,atk,Gridlock,0,0,MP7,gun,1,0,0,,5,4,4v5
+8883,3,kafe-dostoyevsky,2,187.8,0:37,37,,GMZ,100 THIEVES,atk,Nomad,Gaveni,M80,def,Ela,1,0,AK-74M,gun,1,0,0,,4,4,4v4
+8883,3,kafe-dostoyevsky,2,195.4,0:29,29,,Gunna,M80,def,Fenrir,SpiriTz,100 THIEVES,atk,Blackbeard,1,0,MP7,gun,1,0,0,,4,3,3v4
+8883,3,kafe-dostoyevsky,2,211.0,0:14,14,,Gunna,M80,def,Fenrir,Atom,100 THIEVES,atk,Twitch,0,0,MP7,gun,1,0,0,,3,3,3v3
+8883,3,kafe-dostoyevsky,2,216.3,0:08,8,,dfuzr,M80,def,Warden,Hotancold,100 THIEVES,atk,Striker,1,0,MPX,gun,1,0,0,,2,3,3v2
+8883,3,kafe-dostoyevsky,2,218.0,0:07,7,,Ashn,M80,def,Azami,GMZ,100 THIEVES,atk,Nomad,1,0,9x19VSN,gun,1,0,0,,1,3,3v1
+8883,3,kafe-dostoyevsky,3,151.0,1:13,73,,Atom,100 THIEVES,atk,Striker,Gunna,M80,def,Thorn,0,0,M4,gun,1,1,0,,5,5,5v5
+8883,3,kafe-dostoyevsky,3,153.1,1:11,71,,Gaveni,M80,def,Azami,GMZ,100 THIEVES,atk,Gridlock,1,0,9x19VSN,gun,1,0,0,,5,4,4v5
+8883,3,kafe-dostoyevsky,3,156.2,1:08,68,,Hotancold,100 THIEVES,atk,Grim,Ashn,M80,def,Warden,0,0,552 COMMANDO,gun,1,0,0,,4,4,4v4
+8883,3,kafe-dostoyevsky,3,164.6,1:00,60,,Atom,100 THIEVES,atk,Striker,Gaveni,M80,def,Azami,0,0,M4,gun,1,0,0,,4,3,4v3
+8883,3,kafe-dostoyevsky,3,203.4,0:21,21,,Savage,M80,def,Solis,Kason,100 THIEVES,atk,Nomad,1,0,P90,gun,1,0,0,,4,2,2v4
+8883,3,kafe-dostoyevsky,3,209.1,0:15,15,,Savage,M80,def,Solis,Hotancold,100 THIEVES,atk,Grim,1,0,P90,gun,1,0,0,,3,2,2v3
+8883,3,kafe-dostoyevsky,3,211.2,0:13,13,,dfuzr,M80,def,Sentry,SpiriTz,100 THIEVES,atk,Blitz,0,0,TCSG12,gun,1,0,0,,2,2,2v2
+8883,3,kafe-dostoyevsky,3,214.8,0:10,10,,dfuzr,M80,def,Sentry,Atom,100 THIEVES,atk,Striker,0,0,TCSG12,gun,1,0,0,,1,2,2v1
+8883,3,kafe-dostoyevsky,4,117.6,1:47,107,,Gunna,M80,def,Tubarão,GMZ,100 THIEVES,atk,Gridlock,0,0,MPX,gun,1,1,0,,5,5,5v5
+8883,3,kafe-dostoyevsky,4,126.0,1:38,98,,Gunna,M80,def,Tubarão,Hotancold,100 THIEVES,atk,Zofia,1,0,MPX,gun,1,0,0,,4,5,5v4
+8883,3,kafe-dostoyevsky,4,138.1,1:26,86,,Kason,100 THIEVES,atk,Nomad,Gunna,M80,def,Tubarão,1,0,AK-74M,gun,1,0,0,,3,5,3v5
+8883,3,kafe-dostoyevsky,4,161.6,1:03,63,,Kason,100 THIEVES,atk,Nomad,Gaveni,M80,def,Thorn,1,0,AK-74M,gun,1,0,0,,3,4,3v4
+8883,3,kafe-dostoyevsky,4,208.6,0:16,16,,dfuzr,M80,def,Sentry,Atom,100 THIEVES,atk,Striker,1,0,TCSG12,gun,1,0,1,SpiriTz,3,3,3v3
+8883,3,kafe-dostoyevsky,4,209.2,0:15,15,,SpiriTz,100 THIEVES,atk,Blackbeard,Savage,M80,def,Solis,1,0,MK17 CQB,gun,1,0,0,,2,3,2v3
+8883,3,kafe-dostoyevsky,4,213.7,0:11,11,,SpiriTz,100 THIEVES,atk,Blackbeard,dfuzr,M80,def,Sentry,0,0,MK17 CQB,gun,1,0,0,,2,2,2v2
+8883,3,kafe-dostoyevsky,4,215.8,0:09,9,,Ashn,M80,def,Warden,Kason,100 THIEVES,atk,Nomad,1,0,MPX,gun,1,0,0,,2,1,1v2
+8883,3,kafe-dostoyevsky,4,243.8,0:24,24,24,Ashn,M80,def,Warden,SpiriTz,100 THIEVES,atk,Blackbeard,0,1,SMG-12,gun,1,0,0,,1,1,1v1
+8883,3,kafe-dostoyevsky,5,126.8,1:38,98,,GMZ,100 THIEVES,atk,Ram,Gunna,M80,def,Fenrir,0,0,R4-C,gun,1,1,0,,5,5,5v5
+8883,3,kafe-dostoyevsky,5,165.7,0:59,59,,dfuzr,M80,def,Warden,GMZ,100 THIEVES,atk,Ram,0,0,NITRO CELL,gadget,1,0,0,,5,4,4v5
+8883,3,kafe-dostoyevsky,5,183.0,0:41,41,,Kason,100 THIEVES,atk,Nomad,Ashn,M80,def,Goyo,0,0,AK-74M,gun,1,0,0,,4,4,4v4
+8883,3,kafe-dostoyevsky,5,183.1,0:41,41,,Savage,M80,def,Valkyrie,SpiriTz,100 THIEVES,atk,Ying,1,0,MPX,gun,1,0,0,,4,3,3v4
+8883,3,kafe-dostoyevsky,5,203.1,0:21,21,,Gaveni,M80,def,Ela,Hotancold,100 THIEVES,atk,Grim,1,0,SCORPION EVO 3 A1,gun,1,0,0,,3,3,3v3
+8883,3,kafe-dostoyevsky,5,204.2,0:20,20,,Gaveni,M80,def,Ela,Atom,100 THIEVES,atk,Twitch,1,0,SCORPION EVO 3 A1,gun,1,0,0,,2,3,3v2
+8883,3,kafe-dostoyevsky,5,209.0,0:15,15,,Kason,100 THIEVES,atk,Nomad,dfuzr,M80,def,Warden,1,0,AK-74M,gun,1,0,0,,1,3,1v3
+8883,3,kafe-dostoyevsky,6,144.7,1:20,80,,GMZ,100 THIEVES,atk,Sledge,Savage,M80,def,Solis,1,0,L85A2,gun,1,1,0,,5,5,5v5
+8883,3,kafe-dostoyevsky,6,149.0,1:16,76,,Kason,100 THIEVES,atk,Nomad,Gunna,M80,def,Mozzie,0,0,AK-74M,gun,1,0,0,,5,4,5v4
+8883,3,kafe-dostoyevsky,6,151.6,1:13,73,,Gaveni,M80,def,Thorn,SpiriTz,100 THIEVES,atk,Blackbeard,1,0,UZK50GI,gun,1,0,1,Atom,5,3,3v5
+8883,3,kafe-dostoyevsky,6,152.1,1:12,72,,Atom,100 THIEVES,atk,Striker,Ashn,M80,def,Sentry,0,0,M4,gun,1,0,0,,4,3,4v3
+8883,3,kafe-dostoyevsky,6,153.1,1:11,71,,Atom,100 THIEVES,atk,Striker,Gaveni,M80,def,Thorn,1,0,M4,gun,1,0,0,,4,2,4v2
+8883,3,kafe-dostoyevsky,6,198.0,0:27,27,,GMZ,100 THIEVES,atk,Sledge,dfuzr,M80,def,Mute,1,0,L85A2,gun,1,0,0,,4,1,4v1
+8883,3,kafe-dostoyevsky,7,129.4,1:35,95,,Gaveni,M80,atk,Twitch,SpiriTz,100 THIEVES,def,Azami,1,0,F2,gun,1,1,0,,5,5,5v5
+8883,3,kafe-dostoyevsky,7,143.8,1:21,81,,Ashn,M80,atk,Nomad,Kason,100 THIEVES,def,Mira,1,0,ARX200,gun,1,0,0,,5,4,5v4
+8883,3,kafe-dostoyevsky,7,145.3,1:19,79,,dfuzr,M80,atk,Gridlock,Atom,100 THIEVES,def,Warden,1,0,F90,gun,1,0,0,,5,3,5v3
+8883,3,kafe-dostoyevsky,7,165.5,0:59,59,,GMZ,100 THIEVES,def,Sentry,Gunna,M80,atk,Ram,0,0,NITRO CELL,gadget,1,0,0,,5,2,2v5
+8883,3,kafe-dostoyevsky,7,198.8,0:26,26,,Hotancold,100 THIEVES,def,Pulse,dfuzr,M80,atk,Gridlock,1,0,Reaper MK2,gun,1,0,1,Gaveni,4,2,2v4
+8883,3,kafe-dostoyevsky,7,203.6,0:21,21,,GMZ,100 THIEVES,def,Sentry,Savage,M80,atk,Montagne,0,0,C75 Auto,gun,1,0,1,Gaveni,3,2,2v3
+8883,3,kafe-dostoyevsky,7,204.1,0:20,20,,Gaveni,M80,atk,Twitch,Hotancold,100 THIEVES,def,Pulse,0,0,F2,gun,1,0,0,,2,2,2v2
+8883,3,kafe-dostoyevsky,7,209.9,0:15,15,,GMZ,100 THIEVES,def,Sentry,Ashn,M80,atk,Nomad,0,0,TCSG12,gun,1,0,1,Gaveni,2,1,1v2
+8883,3,kafe-dostoyevsky,7,210.7,0:14,14,,Gaveni,M80,atk,Twitch,GMZ,100 THIEVES,def,Sentry,0,0,F2,gun,1,0,0,,1,1,1v1
+8883,3,kafe-dostoyevsky,8,104.0,2:00,120,,Gaveni,M80,atk,Ace,SpiriTz,100 THIEVES,def,Azami,0,0,AK-12,gun,1,1,0,,5,5,5v5
+8883,3,kafe-dostoyevsky,8,137.9,1:27,87,,Gaveni,M80,atk,Ace,Atom,100 THIEVES,def,Warden,1,0,AK-12,gun,1,0,0,,5,4,5v4
+8883,3,kafe-dostoyevsky,8,144.2,1:20,80,,Savage,M80,atk,Montagne,Kason,100 THIEVES,def,Noor,0,0,P9,gun,1,0,0,,5,3,5v3
+8883,3,kafe-dostoyevsky,8,145.1,1:19,79,,Ashn,M80,atk,Nomad,GMZ,100 THIEVES,def,Sentry,0,0,AK-74M,gun,1,0,0,,5,2,5v2
+8883,3,kafe-dostoyevsky,8,153.5,1:11,71,,Ashn,M80,atk,Nomad,Hotancold,100 THIEVES,def,Solis,1,0,AK-74M,gun,1,0,0,,5,1,5v1
+8883,3,kafe-dostoyevsky,9,140.1,1:24,84,,dfuzr,M80,atk,Gridlock,Kason,100 THIEVES,def,Sentry,0,0,F90,gun,1,1,0,,5,5,5v5
+8883,3,kafe-dostoyevsky,9,160.8,1:04,64,,Atom,100 THIEVES,def,Warden,Ashn,M80,atk,Ying,0,0,MPX,gun,1,0,1,Gunna,5,4,4v5
+8883,3,kafe-dostoyevsky,9,161.0,1:03,63,,Gaveni,M80,atk,Buck,SpiriTz,100 THIEVES,def,Smoke,1,0,C8-SFW,gun,1,0,0,,4,4,4v4
+8883,3,kafe-dostoyevsky,9,161.3,1:03,63,,Gunna,M80,atk,Capitão,Atom,100 THIEVES,def,Warden,0,0,PARA-308,gun,1,0,0,,4,3,4v3
+8883,3,kafe-dostoyevsky,9,204.9,0:20,20,,dfuzr,M80,atk,Gridlock,GMZ,100 THIEVES,def,Tubarão,1,0,F90,gun,1,0,0,,4,2,4v2
+8883,3,kafe-dostoyevsky,9,218.0,0:07,7,,Gunna,M80,atk,Capitão,Hotancold,100 THIEVES,def,Azami,0,0,PARA-308,gun,1,0,0,,4,1,4v1

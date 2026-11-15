@@ -1,0 +1,152 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+8852,1,lair,1,155.7,1:09,69,,Songla,TYLOO,atk,Ram,SoloMiD,ALL GAMERS,def,Ela,0,0,R4-C,gun,1,1,0,,5,5,5v5
+8852,1,lair,1,181.9,0:43,43,,MoonL1ght,ALL GAMERS,def,Mute,Songla,TYLOO,atk,Ram,1,0,SMG-11,gun,1,0,0,,5,4,4v5
+8852,1,lair,1,191.6,0:33,33,,Austin,TYLOO,atk,Ace,YaZ,ALL GAMERS,def,Denari,0,0,AK-12,gun,1,0,0,,4,4,4v4
+8852,1,lair,1,194.2,0:30,30,,Ra3LGuN,ALL GAMERS,def,Melusi,Jackywu,TYLOO,atk,Nomad,1,0,MP5,gun,1,0,1,ABEI,4,3,3v4
+8852,1,lair,1,197.9,0:27,27,,ABEI,TYLOO,atk,Sledge,Mcie,ALL GAMERS,def,Thorn,1,0,L85A2,gun,1,0,0,,3,3,3v3
+8852,1,lair,1,202.2,0:22,22,,ABEI,TYLOO,atk,Sledge,AurK11,TYLOO,atk,Blackbeard,0,0,L85A2,gun,1,0,0,,3,2,
+8852,1,lair,1,202.3,0:22,22,,ABEI,TYLOO,atk,Sledge,Ra3LGuN,ALL GAMERS,def,Melusi,0,0,L85A2,gun,1,0,0,,2,2,2v2
+8852,1,lair,1,212.5,0:12,12,,Austin,TYLOO,atk,Ace,MoonL1ght,ALL GAMERS,def,Mute,0,0,AK-12,gun,1,0,0,,2,1,2v1
+8852,1,lair,2,179.8,0:45,45,,Songla,TYLOO,atk,Nomad,Ra3LGuN,ALL GAMERS,def,Azami,0,0,AK-74M,gun,1,1,0,,5,5,5v5
+8852,1,lair,2,208.2,0:16,16,,MoonL1ght,ALL GAMERS,def,Solis,ABEI,TYLOO,atk,Sens,0,0,SMG-11,gun,1,0,0,,5,4,4v5
+8852,1,lair,2,220.0,0:04,4,,Songla,TYLOO,atk,Nomad,SoloMiD,ALL GAMERS,def,Smoke,0,0,AK-74M,gun,1,0,0,,4,4,4v4
+8852,1,lair,2,223.8,0:43,43,43,Songla,TYLOO,atk,Nomad,Austin,TYLOO,atk,Thatcher,1,1,AK-74M,gun,1,0,0,,4,3,
+8852,1,lair,2,241.6,0:26,26,26,Jackywu,TYLOO,atk,Gridlock,MoonL1ght,ALL GAMERS,def,Solis,0,1,F90,gun,1,0,0,,3,3,3v3
+8852,1,lair,2,243.1,0:24,24,24,Songla,TYLOO,atk,Nomad,Mcie,ALL GAMERS,def,Mira,0,1,AK-74M,gun,1,0,0,,3,2,3v2
+8852,1,lair,2,259.0,0:08,8,8,YaZ,ALL GAMERS,def,Goyo,Jackywu,TYLOO,atk,Gridlock,0,1,TCSG12,gun,1,0,0,,3,1,1v3
+8852,1,lair,3,95.3,2:09,129,,Jackywu,TYLOO,atk,Solid Snake,YaZ,ALL GAMERS,def,Azami,0,0,F2,gun,1,1,1,Ra3LGuN,5,5,5v5
+8852,1,lair,3,96.6,2:08,128,,Ra3LGuN,ALL GAMERS,def,Mira,Jackywu,TYLOO,atk,Solid Snake,1,0,VECTOR .45 ACP,gun,1,0,0,,5,4,4v5
+8852,1,lair,3,106.3,1:58,118,,Mcie,ALL GAMERS,def,Wamai,Austin,TYLOO,atk,Blitz,0,0,NITRO CELL,gadget,1,0,0,,4,4,4v4
+8852,1,lair,3,126.4,1:38,98,,MoonL1ght,ALL GAMERS,def,Ela,ABEI,TYLOO,atk,Finka,1,0,SCORPION EVO 3 A1,gun,1,0,0,,3,4,4v3
+8852,1,lair,3,158.6,1:06,66,,Songla,TYLOO,atk,Sens,Mcie,ALL GAMERS,def,Wamai,0,0,417,gun,1,0,0,,2,4,2v4
+8852,1,lair,3,159.6,1:05,65,,Songla,TYLOO,atk,Sens,Ra3LGuN,ALL GAMERS,def,Mira,0,0,417,gun,1,0,0,,2,3,2v3
+8852,1,lair,3,161.1,1:03,63,,SoloMiD,ALL GAMERS,def,Smoke,AurK11,TYLOO,atk,Ying,0,0,M590A1,gun,1,0,0,,2,2,2v2
+8852,1,lair,3,221.3,0:03,3,,MoonL1ght,ALL GAMERS,def,Ela,Songla,TYLOO,atk,Sens,0,0,SCORPION EVO 3 A1,gun,1,0,0,,1,2,2v1
+8852,1,lair,4,180.8,0:44,44,,MoonL1ght,ALL GAMERS,def,Ela,Songla,TYLOO,atk,Dokkaebi,1,0,SCORPION EVO 3 A1,gun,1,1,0,,5,5,5v5
+8852,1,lair,4,198.2,0:26,26,,MoonL1ght,ALL GAMERS,def,Ela,AurK11,TYLOO,atk,Blackbeard,0,0,SCORPION EVO 3 A1,gun,1,0,1,ABEI,4,5,5v4
+8852,1,lair,4,203.4,0:21,21,,ABEI,TYLOO,atk,Flores,MoonL1ght,ALL GAMERS,def,Ela,0,0,AR33,gun,1,0,0,,3,5,3v5
+8852,1,lair,4,209.6,0:15,15,,Austin,TYLOO,atk,Ace,YaZ,ALL GAMERS,def,Thorn,1,0,AK-12,gun,1,0,0,,3,4,3v4
+8852,1,lair,5,91.7,2:13,133,,MoonL1ght,ALL GAMERS,def,Jäger,Austin,TYLOO,atk,Blitz,0,0,416-C CARBINE,gun,1,1,0,,5,5,5v5
+8852,1,lair,5,97.9,2:07,127,,Mcie,ALL GAMERS,def,Azami,ABEI,TYLOO,atk,Dokkaebi,0,0,9x19VSN,gun,1,0,0,,4,5,5v4
+8852,1,lair,5,98.3,2:06,126,,MoonL1ght,ALL GAMERS,def,Jäger,Jackywu,TYLOO,atk,Striker,1,0,416-C CARBINE,gun,1,0,0,,3,5,5v3
+8852,1,lair,5,123.6,1:41,101,,MoonL1ght,ALL GAMERS,def,Jäger,Songla,TYLOO,atk,Nomad,1,0,416-C CARBINE,gun,1,0,0,,2,5,5v2
+8852,1,lair,5,140.8,1:24,84,,AurK11,TYLOO,atk,Thermite,MoonL1ght,ALL GAMERS,def,Jäger,1,0,556XI,gun,1,0,0,,1,5,1v5
+8852,1,lair,5,166.8,0:58,58,,Ra3LGuN,ALL GAMERS,def,Mira,AurK11,TYLOO,atk,Thermite,1,0,VECTOR .45 ACP,gun,1,0,0,,1,4,4v1
+8852,1,lair,6,161.8,1:03,63,,MoonL1ght,ALL GAMERS,def,Valkyrie,Austin,TYLOO,atk,Ace,0,0,NITRO CELL,gadget,1,1,0,,5,5,5v5
+8852,1,lair,6,166.4,0:58,58,,MoonL1ght,ALL GAMERS,def,Valkyrie,Jackywu,TYLOO,atk,Sens,0,0,MPX,gun,1,0,0,,4,5,5v4
+8852,1,lair,6,168.6,0:56,56,,AurK11,TYLOO,atk,Blackbeard,Ra3LGuN,ALL GAMERS,def,Tachanka,1,0,MK17 CQB,gun,1,0,1,SoloMiD,3,5,3v5
+8852,1,lair,6,170.4,0:54,54,,SoloMiD,ALL GAMERS,def,Ela,AurK11,TYLOO,atk,Blackbeard,1,0,SCORPION EVO 3 A1,gun,1,0,0,,3,4,4v3
+8852,1,lair,6,182.4,0:42,42,,ABEI,TYLOO,atk,Twitch,SoloMiD,ALL GAMERS,def,Ela,1,0,F2,gun,1,0,0,,2,4,2v4
+8852,1,lair,6,184.3,0:40,40,,Songla,TYLOO,atk,Zofia,YaZ,ALL GAMERS,def,Azami,0,0,M762,gun,1,0,0,,2,3,2v3
+8852,1,lair,6,186.0,0:39,39,,Songla,TYLOO,atk,Zofia,MoonL1ght,ALL GAMERS,def,Valkyrie,0,0,M762,gun,1,0,0,,2,2,2v2
+8852,1,lair,6,208.7,0:16,16,,Songla,TYLOO,atk,Zofia,Mcie,ALL GAMERS,def,Goyo,1,0,M762,gun,1,0,0,,2,1,2v1
+8852,1,lair,7,137.5,1:27,87,,MoonL1ght,ALL GAMERS,atk,Capitão,AurK11,TYLOO,def,Thorn,1,0,PARA-308,gun,1,1,0,,5,5,5v5
+8852,1,lair,7,145.2,1:19,79,,Austin,TYLOO,def,Azami,Mcie,ALL GAMERS,atk,Nomad,0,0,9x19VSN,gun,1,0,0,,5,4,4v5
+8852,1,lair,7,145.3,1:19,79,,SoloMiD,ALL GAMERS,atk,Flores,Songla,TYLOO,def,Tachanka,1,0,AR33,gun,1,0,0,,4,4,4v4
+8852,1,lair,7,152.3,1:12,72,,ABEI,TYLOO,def,Mira,MoonL1ght,ALL GAMERS,atk,Capitão,1,0,VECTOR .45 ACP,gun,1,0,0,,4,3,3v4
+8852,1,lair,7,162.9,1:02,62,,SoloMiD,ALL GAMERS,atk,Flores,Austin,TYLOO,def,Azami,1,0,AR33,gun,1,0,0,,3,3,3v3
+8852,1,lair,7,166.8,0:58,58,,Jackywu,TYLOO,def,Ela,YaZ,ALL GAMERS,atk,Twitch,0,0,SCORPION EVO 3 A1,gun,1,0,0,,3,2,2v3
+8852,1,lair,7,173.0,0:51,51,,SoloMiD,ALL GAMERS,atk,Flores,ABEI,TYLOO,def,Mira,0,0,AR33,gun,1,0,0,,2,2,2v2
+8852,1,lair,7,194.2,0:30,30,,Jackywu,TYLOO,def,Ela,Ra3LGuN,ALL GAMERS,atk,Blitz,1,0,SCORPION EVO 3 A1,gun,1,0,1,SoloMiD,2,1,1v2
+8852,1,lair,7,195.1,0:29,29,,SoloMiD,ALL GAMERS,atk,Flores,Jackywu,TYLOO,def,Ela,0,0,GSH-18,gun,1,0,0,,1,1,1v1
+8852,1,lair,8,80.2,2:24,144,,Ra3LGuN,ALL GAMERS,atk,Twitch,Songla,TYLOO,def,Azami,1,0,417,gun,1,1,0,,5,5,5v5
+8852,1,lair,8,90.2,2:14,134,,Ra3LGuN,ALL GAMERS,atk,Twitch,Jackywu,TYLOO,def,Ela,0,0,417,gun,1,0,0,,5,4,5v4
+8852,1,lair,8,96.8,2:08,128,,SoloMiD,ALL GAMERS,atk,Ace,ABEI,TYLOO,def,Fenrir,1,0,AK-12,gun,1,0,0,,5,3,5v3
+8852,1,lair,8,102.2,2:02,122,,Austin,TYLOO,def,Goyo,MoonL1ght,ALL GAMERS,atk,Sledge,0,0,TCSG12,gun,1,0,0,,5,2,2v5
+8852,1,lair,8,144.3,1:20,80,,Austin,TYLOO,def,Goyo,YaZ,ALL GAMERS,atk,Gridlock,0,0,TCSG12,gun,1,0,0,,4,2,2v4
+8852,1,lair,8,148.4,1:16,76,,SoloMiD,ALL GAMERS,atk,Ace,AurK11,TYLOO,def,Tachanka,1,0,AK-12,gun,1,0,0,,3,2,3v2
+8852,1,lair,8,174.0,0:29,29,29,SoloMiD,ALL GAMERS,atk,Ace,Austin,TYLOO,def,Goyo,0,1,AK-12,gun,1,0,0,,3,1,3v1
+8852,1,lair,9,106.3,1:58,118,,AurK11,TYLOO,def,Thorn,Ra3LGuN,ALL GAMERS,atk,Blitz,0,0,RAZORBLOOM SHELL,gadget,1,1,0,,5,5,5v5
+8852,1,lair,9,107.5,1:57,117,,Songla,TYLOO,def,Tachanka,MoonL1ght,ALL GAMERS,atk,Striker,0,0,,unknown,0,0,0,,4,5,5v4
+8852,1,lair,9,111.9,1:53,113,,Songla,TYLOO,def,Tachanka,Mcie,ALL GAMERS,atk,Ying,1,0,DP28,gun,1,0,0,,3,5,5v3
+8852,1,lair,9,171.8,0:53,53,,Songla,TYLOO,def,Tachanka,YaZ,ALL GAMERS,atk,Sens,0,0,,unknown,0,0,0,,2,5,5v2
+8852,1,lair,9,179.0,0:46,46,,Austin,TYLOO,def,Smoke,SoloMiD,ALL GAMERS,atk,Capitão,0,0,M590A1,gun,1,0,0,,1,5,5v1
+8852,1,lair,10,147.6,1:17,77,,Austin,TYLOO,def,Goyo,MoonL1ght,ALL GAMERS,atk,Nomad,0,0,TCSG12,gun,1,1,0,,5,5,5v5
+8852,1,lair,10,148.3,1:16,76,,Austin,TYLOO,def,Goyo,Ra3LGuN,ALL GAMERS,atk,Grim,0,0,TCSG12,gun,1,0,0,,4,5,5v4
+8852,1,lair,10,150.4,1:14,74,,Mcie,ALL GAMERS,atk,Sledge,Jackywu,TYLOO,def,Thorn,0,0,L85A2,gun,1,0,0,,3,5,3v5
+8852,1,lair,10,187.1,0:37,37,,Mcie,ALL GAMERS,atk,Sledge,Austin,TYLOO,def,Goyo,0,0,L85A2,gun,1,0,0,,3,4,3v4
+8852,1,lair,10,197.7,0:27,27,,ABEI,TYLOO,def,Fenrir,Mcie,ALL GAMERS,atk,Sledge,0,0,MP7,gun,1,0,0,,3,3,3v3
+8852,1,lair,10,209.0,0:16,16,,Jackywu,TYLOO,def,Thorn,SoloMiD,ALL GAMERS,atk,Rauora,0,0,RAZORBLOOM SHELL,gadget,1,0,0,,2,3,3v2
+8852,1,lair,10,213.3,0:11,11,,AurK11,TYLOO,def,Noor,YaZ,ALL GAMERS,atk,Buck,1,0,COMMANDO 9,gun,1,0,0,,1,3,3v1
+8852,1,lair,11,109.2,1:55,115,,Mcie,ALL GAMERS,atk,Sens,Songla,TYLOO,def,Azami,0,0,417,gun,1,1,0,,5,5,5v5
+8852,1,lair,11,148.5,1:16,76,,MoonL1ght,ALL GAMERS,atk,Gridlock,Jackywu,TYLOO,def,Ela,0,0,F90,gun,1,0,1,AurK11,5,4,5v4
+8852,1,lair,11,149.2,1:15,75,,MoonL1ght,ALL GAMERS,atk,Gridlock,Austin,TYLOO,def,Tachanka,0,0,F90,gun,1,0,1,AurK11,5,3,5v3
+8852,1,lair,11,149.6,1:15,75,,ABEI,TYLOO,def,Castle,Ra3LGuN,ALL GAMERS,atk,Blitz,0,0,UMP45,gun,1,0,0,,5,2,2v5
+8852,1,lair,11,151.0,1:13,73,,AurK11,TYLOO,def,Solis,MoonL1ght,ALL GAMERS,atk,Gridlock,1,0,SMG-11,gun,1,0,0,,4,2,2v4
+8852,1,lair,11,154.9,1:10,70,,AurK11,TYLOO,def,Solis,Mcie,ALL GAMERS,atk,Sens,1,0,SMG-11,gun,1,0,1,SoloMiD,3,2,2v3
+8852,1,lair,11,164.3,1:00,60,,SoloMiD,ALL GAMERS,atk,Thatcher,AurK11,TYLOO,def,Solis,0,0,PMR90A2,gun,1,0,0,,2,2,2v2
+8852,1,lair,11,197.2,0:40,40,40,SoloMiD,ALL GAMERS,atk,Thatcher,ABEI,TYLOO,def,Castle,0,1,PMR90A2,gun,1,0,0,,2,1,2v1
+8852,1,lair,12,160.8,1:04,64,,MoonL1ght,ALL GAMERS,atk,Ace,ABEI,TYLOO,def,Azami,1,0,AK-12,gun,1,1,0,,5,5,5v5
+8852,1,lair,12,162.8,1:02,62,,Songla,TYLOO,def,Tachanka,YaZ,ALL GAMERS,atk,Zofia,0,0,DP28,gun,1,0,0,,5,4,4v5
+8852,1,lair,12,165.8,0:59,59,,SoloMiD,ALL GAMERS,atk,Sens,AurK11,TYLOO,def,Thorn,1,0,XK23,gun,1,0,0,,4,4,4v4
+8852,1,lair,12,174.0,0:51,51,,SoloMiD,ALL GAMERS,atk,Sens,Songla,TYLOO,def,Tachanka,0,0,XK23,gun,1,0,1,Austin,4,3,4v3
+8852,1,lair,12,174.6,0:50,50,,Jackywu,TYLOO,def,Mute,MoonL1ght,ALL GAMERS,atk,Ace,0,0,SMG-11,gun,1,0,1,SoloMiD,4,2,2v4
+8852,1,lair,12,178.6,0:46,46,,SoloMiD,ALL GAMERS,atk,Sens,Jackywu,TYLOO,def,Mute,1,0,XK23,gun,1,0,1,Austin,3,2,3v2
+8852,1,lair,12,179.0,0:45,45,,Austin,TYLOO,def,Smoke,SoloMiD,ALL GAMERS,atk,Sens,1,0,SMG-11,gun,1,0,1,Ra3LGuN,3,1,1v3
+8852,1,lair,12,181.8,0:43,43,,Ra3LGuN,ALL GAMERS,atk,Capitão,Austin,TYLOO,def,Smoke,0,0,PMR90A2,gun,1,0,0,,2,1,2v1
+8852,2,bank,1,136.6,1:28,88,,SoloMiD,ALL GAMERS,atk,Deimos,Austin,TYLOO,def,Ela,0,0,.44 Vendetta,gun,1,1,1,AurK11,5,5,5v5
+8852,2,bank,1,138.0,1:26,86,,AurK11,TYLOO,def,Noor,SoloMiD,ALL GAMERS,atk,Deimos,0,0,COMMANDO 9,gun,1,0,1,YaZ,5,4,4v5
+8852,2,bank,1,141.8,1:23,83,,YaZ,ALL GAMERS,atk,Dokkaebi,AurK11,TYLOO,def,Noor,0,0,Mk 14 EBR,gun,1,0,0,,4,4,4v4
+8852,2,bank,1,142.3,1:22,82,,Mcie,ALL GAMERS,atk,Zofia,ABEI,TYLOO,def,Castle,1,0,M762,gun,1,0,0,,4,3,4v3
+8852,2,bank,1,150.2,1:14,74,,Songla,TYLOO,def,Solis,Ra3LGuN,ALL GAMERS,atk,Ying,0,0,SMG-11,gun,1,0,1,MoonL1ght,4,2,2v4
+8852,2,bank,1,150.3,1:14,74,,Mcie,ALL GAMERS,atk,Zofia,Jackywu,TYLOO,def,Tachanka,0,0,M762,gun,1,0,0,,3,2,3v2
+8852,2,bank,1,154.4,1:10,70,,MoonL1ght,ALL GAMERS,atk,Flores,Songla,TYLOO,def,Solis,0,0,AR33,gun,1,0,0,,3,1,3v1
+8852,2,bank,2,97.6,2:07,127,,Austin,TYLOO,def,Smoke,Mcie,ALL GAMERS,atk,Solid Snake,1,0,M590A1,gun,1,1,0,,5,5,5v5
+8852,2,bank,2,167.1,0:57,57,,Austin,TYLOO,def,Smoke,Ra3LGuN,ALL GAMERS,atk,Ying,0,0,M590A1,gun,1,0,0,,4,5,5v4
+8852,2,bank,2,169.0,0:55,55,,Jackywu,TYLOO,def,Tachanka,Austin,TYLOO,def,Smoke,0,0,,unknown,0,0,0,,3,5,
+8852,2,bank,2,170.8,0:54,54,,YaZ,ALL GAMERS,atk,Striker,AurK11,TYLOO,def,Fenrir,0,0,M4,gun,1,0,1,Songla,3,4,3v4
+8852,2,bank,2,172.5,0:52,52,,YaZ,ALL GAMERS,atk,Striker,Jackywu,TYLOO,def,Tachanka,0,0,M4,gun,1,0,1,Songla,3,3,3v3
+8852,2,bank,2,174.2,0:50,50,,Songla,TYLOO,def,Warden,YaZ,ALL GAMERS,atk,Striker,1,0,SMG-12,gun,1,0,1,MoonL1ght,3,2,2v3
+8852,2,bank,2,175.6,0:49,49,,ABEI,TYLOO,def,Pulse,SoloMiD,ALL GAMERS,atk,Sens,0,0,UMP45,gun,1,0,0,,2,2,2v2
+8852,2,bank,2,180.9,0:44,44,,MoonL1ght,ALL GAMERS,atk,Zofia,Songla,TYLOO,def,Warden,1,0,M762,gun,1,0,0,,1,2,1v2
+8852,2,bank,2,215.9,0:09,9,,MoonL1ght,ALL GAMERS,atk,Zofia,ABEI,TYLOO,def,Pulse,0,0,M762,gun,1,0,0,,1,1,1v1
+8852,2,bank,3,115.4,1:49,109,,Mcie,ALL GAMERS,atk,Solid Snake,Austin,TYLOO,def,Goyo,1,0,F2,gun,1,1,0,,5,5,5v5
+8852,2,bank,3,119.7,1:45,105,,Ra3LGuN,ALL GAMERS,atk,Twitch,Jackywu,TYLOO,def,Wamai,0,0,417,gun,1,0,0,,5,4,5v4
+8852,2,bank,3,142.0,0:29,29,29,Songla,TYLOO,def,Smoke,Mcie,ALL GAMERS,atk,Solid Snake,0,1,SMG-11,gun,1,0,1,MoonL1ght,5,3,3v5
+8852,2,bank,3,144.9,0:26,26,26,ABEI,TYLOO,def,Castle,SoloMiD,ALL GAMERS,atk,Ram,0,1,UMP45,gun,1,0,0,,4,3,3v4
+8852,2,bank,3,145.3,0:26,26,26,Ra3LGuN,ALL GAMERS,atk,Twitch,AurK11,TYLOO,def,Thorn,0,1,417,gun,1,0,0,,3,3,3v3
+8852,2,bank,3,145.4,0:26,26,26,MoonL1ght,ALL GAMERS,atk,Flores,Songla,TYLOO,def,Smoke,0,1,AR33,gun,1,0,1,ABEI,3,2,3v2
+8852,2,bank,3,150.9,0:20,20,20,ABEI,TYLOO,def,Castle,MoonL1ght,ALL GAMERS,atk,Flores,1,1,UMP45,gun,1,0,1,YaZ,3,1,1v3
+8852,2,bank,3,159.8,0:12,12,12,YaZ,ALL GAMERS,atk,Zofia,ABEI,TYLOO,def,Castle,0,1,M762,gun,1,0,0,,2,1,2v1
+8852,2,bank,4,183.9,0:41,41,,Songla,TYLOO,def,Goyo,Ra3LGuN,ALL GAMERS,atk,Hibana,1,0,TCSG12,gun,1,1,0,,5,5,5v5
+8852,2,bank,4,191.1,0:33,33,,Austin,TYLOO,def,Smoke,Mcie,ALL GAMERS,atk,Solid Snake,1,0,M590A1,gun,1,0,0,,4,5,5v4
+8852,2,bank,4,195.8,0:29,29,,MoonL1ght,ALL GAMERS,atk,Zofia,Songla,TYLOO,def,Goyo,0,0,M762,gun,1,0,1,Austin,3,5,3v5
+8852,2,bank,4,196.6,0:28,28,,Austin,TYLOO,def,Smoke,MoonL1ght,ALL GAMERS,atk,Zofia,1,0,SMG-11,gun,1,0,0,,3,4,4v3
+8852,2,bank,4,199.5,0:25,25,,YaZ,ALL GAMERS,atk,Striker,AurK11,TYLOO,def,Fenrir,0,0,M4,gun,1,0,1,Austin,2,4,2v4
+8852,2,bank,4,200.5,0:24,24,,Jackywu,TYLOO,def,Tachanka,SoloMiD,ALL GAMERS,atk,Sens,0,0,DP28,gun,1,0,0,,2,3,3v2
+8852,2,bank,4,203.4,0:21,21,,Austin,TYLOO,def,Smoke,YaZ,ALL GAMERS,atk,Striker,0,0,SMG-11,gun,1,0,0,,1,3,3v1
+8852,2,bank,5,123.1,1:41,101,,MoonL1ght,ALL GAMERS,atk,Flores,ABEI,TYLOO,def,Castle,1,0,AR33,gun,1,1,0,,5,5,5v5
+8852,2,bank,5,124.3,1:40,100,,Austin,TYLOO,def,Ela,SoloMiD,ALL GAMERS,atk,Ace,1,0,SCORPION EVO 3 A1,gun,1,0,0,,5,4,4v5
+8852,2,bank,5,125.7,1:39,99,,MoonL1ght,ALL GAMERS,atk,Flores,Songla,TYLOO,def,Solis,0,0,AR33,gun,1,0,1,Austin,4,4,4v4
+8852,2,bank,5,127.6,1:37,97,,AurK11,TYLOO,def,Fenrir,YaZ,ALL GAMERS,atk,Lion,0,0,MP7,gun,1,0,1,Ra3LGuN,4,3,3v4
+8852,2,bank,5,128.8,1:36,96,,Ra3LGuN,ALL GAMERS,atk,Zofia,AurK11,TYLOO,def,Fenrir,1,0,M762,gun,1,0,0,,3,3,3v3
+8852,2,bank,5,133.1,1:31,91,,Mcie,ALL GAMERS,atk,Twitch,Jackywu,TYLOO,def,Tachanka,0,0,417,gun,1,0,0,,3,2,3v2
+8852,2,bank,5,134.5,1:30,90,,Austin,TYLOO,def,Ela,MoonL1ght,ALL GAMERS,atk,Flores,0,0,SCORPION EVO 3 A1,gun,1,0,1,Mcie,3,1,1v3
+8852,2,bank,5,136.1,1:28,88,,Mcie,ALL GAMERS,atk,Twitch,Austin,TYLOO,def,Ela,0,0,417,gun,1,0,0,,2,1,2v1
+8852,2,bank,6,98.3,2:06,126,,MoonL1ght,ALL GAMERS,atk,Sledge,AurK11,TYLOO,def,Thorn,1,0,L85A2,gun,1,1,0,,5,5,5v5
+8852,2,bank,6,101.8,2:03,123,,YaZ,ALL GAMERS,atk,Hibana,ABEI,TYLOO,def,Goyo,0,0,PMR90A2,gun,1,0,0,,5,4,5v4
+8852,2,bank,6,110.3,1:54,114,,MoonL1ght,ALL GAMERS,atk,Sledge,Ra3LGuN,ALL GAMERS,atk,Montagne,1,0,L85A2,gun,1,0,0,,5,3,
+8852,2,bank,6,161.5,1:03,63,,Austin,TYLOO,def,Melusi,Mcie,ALL GAMERS,atk,Deimos,1,0,MP5,gun,1,0,0,,4,3,3v4
+8852,2,bank,6,168.6,0:56,56,,MoonL1ght,ALL GAMERS,atk,Sledge,Songla,TYLOO,def,Smoke,0,0,L85A2,gun,1,0,0,,3,3,3v3
+8852,2,bank,6,175.4,0:49,49,,YaZ,ALL GAMERS,atk,Hibana,Austin,TYLOO,def,Melusi,0,0,PMR90A2,gun,1,0,1,Jackywu,3,2,3v2
+8852,2,bank,6,181.4,0:43,43,,Jackywu,TYLOO,def,Ela,YaZ,ALL GAMERS,atk,Hibana,1,0,SCORPION EVO 3 A1,gun,1,0,1,MoonL1ght,3,1,1v3
+8852,2,bank,6,185.9,0:39,39,,MoonL1ght,ALL GAMERS,atk,Sledge,Jackywu,TYLOO,def,Ela,0,0,L85A2,gun,1,0,0,,2,1,2v1
+8852,2,bank,7,70.1,2:34,154,,MoonL1ght,ALL GAMERS,def,Vigil,ABEI,TYLOO,atk,Sens,0,0,BOSG.12.2,gun,1,1,0,,5,5,5v5
+8852,2,bank,7,98.6,2:06,126,,MoonL1ght,ALL GAMERS,def,Vigil,Austin,TYLOO,atk,Blackbeard,1,0,C75 Auto,gun,1,0,0,,4,5,5v4
+8852,2,bank,7,116.8,1:48,108,,MoonL1ght,ALL GAMERS,def,Vigil,Jackywu,TYLOO,atk,Flores,1,0,C75 Auto,gun,1,0,0,,3,5,5v3
+8852,2,bank,7,192.6,0:32,32,,MoonL1ght,ALL GAMERS,def,Vigil,AurK11,TYLOO,atk,Dokkaebi,0,0,C75 Auto,gun,1,0,0,,2,5,5v2
+8852,2,bank,7,209.3,0:15,15,,Songla,TYLOO,atk,Hibana,MoonL1ght,ALL GAMERS,def,Vigil,1,0,PMR90A2,gun,1,0,0,,1,5,1v5
+8852,2,bank,8,139.2,1:25,85,,ABEI,TYLOO,atk,Nomad,SoloMiD,ALL GAMERS,def,Thorn,0,0,AK-74M,gun,1,1,0,,5,5,5v5
+8852,2,bank,8,146.4,1:18,78,,Austin,TYLOO,atk,IQ,YaZ,ALL GAMERS,def,Pulse,0,0,552 COMMANDO,gun,1,0,1,Ra3LGuN,5,4,5v4
+8852,2,bank,8,147.1,1:17,77,,Ra3LGuN,ALL GAMERS,def,Mute,Austin,TYLOO,atk,IQ,0,0,SMG-11,gun,1,0,1,Jackywu,5,3,3v5
+8852,2,bank,8,150.3,1:14,74,,ABEI,TYLOO,atk,Nomad,MoonL1ght,ALL GAMERS,def,Valkyrie,1,0,AK-74M,gun,1,0,0,,4,3,4v3
+8852,2,bank,8,151.5,1:13,73,,Jackywu,TYLOO,atk,Twitch,Ra3LGuN,ALL GAMERS,def,Mute,0,0,F2,gun,1,0,0,,4,2,4v2
+8852,2,bank,8,175.2,0:49,49,,Mcie,ALL GAMERS,def,Fenrir,AurK11,TYLOO,atk,Dokkaebi,1,0,MP7,gun,1,0,1,ABEI,4,1,1v4
+8852,2,bank,8,182.7,0:42,42,,ABEI,TYLOO,atk,Nomad,Mcie,ALL GAMERS,def,Fenrir,0,0,AK-74M,gun,1,0,0,,3,1,3v1
+8852,2,bank,9,133.3,1:31,91,,Mcie,ALL GAMERS,def,Azami,ABEI,TYLOO,atk,Dokkaebi,0,0,9x19VSN,gun,1,1,0,,5,5,5v5
+8852,2,bank,9,143.4,1:21,81,,AurK11,TYLOO,atk,Glaz,Ra3LGuN,ALL GAMERS,def,Smoke,0,0,OTs-03,gun,1,0,1,YaZ,4,5,4v5
+8852,2,bank,9,152.2,1:12,72,,YaZ,ALL GAMERS,def,Ela,AurK11,TYLOO,atk,Glaz,1,0,SCORPION EVO 3 A1,gun,1,0,0,,4,4,4v4
+8852,2,bank,9,158.2,1:06,66,,YaZ,ALL GAMERS,def,Ela,Songla,TYLOO,atk,Ace,0,0,SCORPION EVO 3 A1,gun,1,0,0,,3,4,4v3
+8852,2,bank,9,162.0,1:02,62,,Jackywu,TYLOO,atk,Zofia,MoonL1ght,ALL GAMERS,def,Mute,1,0,M762,gun,1,0,0,,2,4,2v4
+8852,2,bank,9,180.4,0:44,44,,Mcie,ALL GAMERS,def,Azami,Austin,TYLOO,atk,Lion,0,0,9x19VSN,gun,1,0,0,,2,3,3v2
+8852,2,bank,9,187.0,0:38,38,,Mcie,ALL GAMERS,def,Azami,Jackywu,TYLOO,atk,Zofia,0,0,9x19VSN,gun,1,0,0,,1,3,3v1

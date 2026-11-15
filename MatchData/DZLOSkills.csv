@@ -1,0 +1,141 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+8844,1,nighthaven-labs,1,154.2,1:10,70,,Fultz,DARKZERO,def,Bandit,Daffo,LOS,atk,Maverick,1,0,MP7,gun,1,1,0,,5,5,5v5
+8844,1,nighthaven-labs,1,156.4,1:08,68,,J9O,DARKZERO,def,Azami,Nuxxga,LOS,atk,Montagne,1,0,9x19VSN,gun,1,0,0,,4,5,5v4
+8844,1,nighthaven-labs,1,173.2,0:51,51,,Nuers,DARKZERO,def,Wamai,Dodez,LOS,atk,Nomad,0,0,NITRO CELL,gadget,1,0,0,,3,5,5v3
+8844,1,nighthaven-labs,1,181.8,0:43,43,,Nuers,DARKZERO,def,Wamai,peres,LOS,atk,Buck,1,0,MP5K,gun,1,0,0,,2,5,5v2
+8844,1,nighthaven-labs,1,191.3,0:33,33,,J9O,DARKZERO,def,Azami,dash,LOS,atk,Capitão,1,0,9x19VSN,gun,1,0,0,,1,5,5v1
+8844,1,nighthaven-labs,2,102.5,2:02,122,,Fultz,DARKZERO,def,Solis,dash,LOS,atk,Lion,1,0,SMG-11,gun,1,1,0,,5,5,5v5
+8844,1,nighthaven-labs,2,121.2,1:43,103,,Daffo,LOS,atk,Ying,Nuers,DARKZERO,def,Valkyrie,0,0,T-95 LSW,gun,1,0,0,,4,5,4v5
+8844,1,nighthaven-labs,2,121.7,1:43,103,,peres,LOS,atk,Solid Snake,J9O,DARKZERO,def,Azami,1,0,F2,gun,1,0,0,,4,4,4v4
+8844,1,nighthaven-labs,2,128.1,1:36,96,,peres,LOS,atk,Solid Snake,njr,DARKZERO,def,Bandit,0,0,FRAG GRENADE,gadget,1,0,0,,4,3,4v3
+8844,1,nighthaven-labs,2,140.4,1:24,84,,Fultz,DARKZERO,def,Solis,Nuxxga,LOS,atk,Blitz,1,0,SMG-11,gun,1,0,0,,4,2,2v4
+8844,1,nighthaven-labs,2,154.2,1:10,70,,Fultz,DARKZERO,def,Solis,peres,LOS,atk,Solid Snake,1,0,SMG-11,gun,1,0,0,,3,2,2v3
+8844,1,nighthaven-labs,2,156.2,1:08,68,,Daffo,LOS,atk,Ying,kyno,DARKZERO,def,Mute,0,0,T-95 LSW,gun,1,0,0,,2,2,2v2
+8844,1,nighthaven-labs,2,167.9,0:57,57,,Fultz,DARKZERO,def,Solis,Daffo,LOS,atk,Ying,1,0,SMG-11,gun,1,0,0,,2,1,1v2
+8844,1,nighthaven-labs,2,209.5,0:15,15,,Fultz,DARKZERO,def,Solis,Dodez,LOS,atk,Maverick,0,0,SMG-11,gun,1,0,0,,1,1,1v1
+8844,1,nighthaven-labs,3,113.5,1:51,111,,Dodez,LOS,atk,Brava,Fultz,DARKZERO,def,Melusi,1,0,PARA-308,gun,1,1,0,,5,5,5v5
+8844,1,nighthaven-labs,3,118.7,1:46,106,,Daffo,LOS,atk,Zofia,njr,DARKZERO,def,Wamai,1,0,M762,gun,1,0,0,,5,4,5v4
+8844,1,nighthaven-labs,3,140.8,1:24,84,,peres,LOS,atk,Solid Snake,Nuers,DARKZERO,def,Valkyrie,1,0,F2,gun,1,0,0,,5,3,5v3
+8844,1,nighthaven-labs,3,152.2,1:12,72,,kyno,DARKZERO,def,Bandit,peres,LOS,atk,Solid Snake,1,0,MP7,gun,1,0,0,,5,2,2v5
+8844,1,nighthaven-labs,3,161.0,1:03,63,,kyno,DARKZERO,def,Bandit,Dodez,LOS,atk,Brava,1,0,MP7,gun,1,0,0,,4,2,2v4
+8844,1,nighthaven-labs,3,197.1,0:27,27,,kyno,DARKZERO,def,Bandit,dash,LOS,atk,Flores,1,0,MP7,gun,1,0,0,,3,2,2v3
+8844,1,nighthaven-labs,3,198.1,0:26,26,,kyno,DARKZERO,def,Bandit,Nuxxga,LOS,atk,Ying,1,0,MP7,gun,1,0,0,,2,2,2v2
+8844,1,nighthaven-labs,3,223.0,0:02,2,,kyno,DARKZERO,def,Bandit,Daffo,LOS,atk,Zofia,1,0,MP7,gun,1,0,0,,1,2,2v1
+8844,1,nighthaven-labs,4,170.9,0:54,54,,Daffo,LOS,atk,Grim,Fultz,DARKZERO,def,Denari,0,0,552 COMMANDO,gun,1,1,1,kyno,5,5,5v5
+8844,1,nighthaven-labs,4,172.3,0:52,52,,kyno,DARKZERO,def,Mute,Daffo,LOS,atk,Grim,1,0,SMG-11,gun,1,0,0,,5,4,4v5
+8844,1,nighthaven-labs,4,185.4,0:39,39,,J9O,DARKZERO,def,Azami,dash,LOS,atk,Nomad,0,0,9x19VSN,gun,1,0,0,,4,4,4v4
+8844,1,nighthaven-labs,4,187.2,0:37,37,,kyno,DARKZERO,def,Mute,Dodez,LOS,atk,Hibana,1,0,SMG-11,gun,1,0,0,,3,4,4v3
+8844,1,nighthaven-labs,4,208.6,0:16,16,,kyno,DARKZERO,def,Mute,Nuxxga,LOS,atk,Blackbeard,1,0,SMG-11,gun,1,0,0,,2,4,4v2
+8844,1,nighthaven-labs,4,209.2,0:15,15,,kyno,DARKZERO,def,Mute,peres,LOS,atk,Solid Snake,1,0,SMG-11,gun,1,0,0,,1,4,4v1
+8844,1,nighthaven-labs,5,77.8,2:27,147,,Daffo,LOS,atk,Sledge,J9O,DARKZERO,def,Azami,1,0,L85A2,gun,1,1,0,,5,5,5v5
+8844,1,nighthaven-labs,5,93.1,2:11,131,,peres,LOS,atk,Solid Snake,Fultz,DARKZERO,def,Clash,0,0,F2,gun,1,0,0,,5,4,5v4
+8844,1,nighthaven-labs,5,102.9,2:02,122,,Nuxxga,LOS,atk,Blackbeard,Nuers,DARKZERO,def,Wamai,0,0,MK17 CQB,gun,1,0,0,,5,3,5v3
+8844,1,nighthaven-labs,5,103.0,2:01,121,,Dodez,LOS,atk,Nomad,njr,DARKZERO,def,Jäger,1,0,AK-74M,gun,1,0,0,,5,2,5v2
+8844,1,nighthaven-labs,5,105.0,1:59,119,,kyno,DARKZERO,def,Mute,Daffo,LOS,atk,Sledge,0,0,M590A1,gun,1,0,1,peres,5,1,1v5
+8844,1,nighthaven-labs,5,111.6,1:53,113,,peres,LOS,atk,Solid Snake,kyno,DARKZERO,def,Mute,0,0,F2,gun,1,0,0,,4,1,4v1
+8844,1,nighthaven-labs,6,117.3,1:47,107,,Dodez,LOS,atk,Twitch,kyno,DARKZERO,def,Denari,0,0,F2,gun,1,1,0,,5,5,5v5
+8844,1,nighthaven-labs,6,126.5,1:38,98,,Nuers,DARKZERO,def,Thorn,peres,LOS,atk,Solid Snake,0,0,UZK50GI,gun,1,0,0,,5,4,4v5
+8844,1,nighthaven-labs,6,130.0,1:34,94,,J9O,DARKZERO,def,Azami,dash,LOS,atk,Flores,1,0,9x19VSN,gun,1,0,0,,4,4,4v4
+8844,1,nighthaven-labs,6,155.8,1:09,69,,J9O,DARKZERO,def,Azami,Nuxxga,LOS,atk,Hibana,1,0,9x19VSN,gun,1,0,1,Daffo,3,4,4v3
+8844,1,nighthaven-labs,6,158.4,1:06,66,,Daffo,LOS,atk,Striker,J9O,DARKZERO,def,Azami,1,0,M4,gun,1,0,0,,2,4,2v4
+8844,1,nighthaven-labs,6,164.2,1:00,60,,Dodez,LOS,atk,Twitch,Fultz,DARKZERO,def,Pulse,1,0,F2,gun,1,0,0,,2,3,2v3
+8844,1,nighthaven-labs,6,220.5,0:04,4,,Nuers,DARKZERO,def,Thorn,Daffo,LOS,atk,Striker,0,0,UZK50GI,gun,1,0,0,,2,2,2v2
+8844,1,nighthaven-labs,6,224.0,0:00,0,,njr,DARKZERO,def,Ela,Dodez,LOS,atk,Twitch,1,0,SCORPION EVO 3 A1,gun,1,0,0,,1,2,2v1
+8844,1,nighthaven-labs,7,155.4,1:09,69,,njr,DARKZERO,atk,Grim,Nuxxga,LOS,def,Wamai,0,0,552 COMMANDO,gun,1,1,0,,5,5,5v5
+8844,1,nighthaven-labs,7,188.0,0:36,36,,peres,LOS,def,Noor,kyno,DARKZERO,atk,Thermite,0,0,COMMANDO 9,gun,1,0,0,,5,4,4v5
+8844,1,nighthaven-labs,7,208.6,0:16,16,,Fultz,DARKZERO,atk,Ace,Daffo,LOS,def,Smoke,0,0,AK-12,gun,1,0,0,,4,4,4v4
+8844,1,nighthaven-labs,7,211.2,0:13,13,,dash,LOS,def,Tubarão,Nuers,DARKZERO,atk,Kali,0,0,MPX,gun,1,0,1,njr,4,3,3v4
+8844,1,nighthaven-labs,7,214.8,0:10,10,,njr,DARKZERO,atk,Grim,dash,LOS,def,Tubarão,1,0,552 COMMANDO,gun,1,0,1,peres,3,3,3v3
+8844,1,nighthaven-labs,7,219.4,0:05,5,,peres,LOS,def,Noor,Fultz,DARKZERO,atk,Ace,1,0,COMMANDO 9,gun,1,0,0,,3,2,2v3
+8844,1,nighthaven-labs,7,221.5,0:03,3,,Dodez,LOS,def,Azami,J9O,DARKZERO,atk,Thatcher,0,0,9x19VSN,gun,1,0,0,,2,2,2v2
+8844,1,nighthaven-labs,7,224.1,0:00,0,,peres,LOS,def,Noor,njr,DARKZERO,atk,Grim,1,0,COMMANDO 9,gun,1,0,0,,1,2,2v1
+8844,1,nighthaven-labs,8,89.7,2:15,135,,peres,LOS,def,Azami,Fultz,DARKZERO,atk,Deimos,0,0,9x19VSN,gun,1,1,0,,5,5,5v5
+8844,1,nighthaven-labs,8,90.9,2:14,134,,peres,LOS,def,Azami,kyno,DARKZERO,atk,Blitz,0,0,9x19VSN,gun,1,0,0,,4,5,5v4
+8844,1,nighthaven-labs,8,130.9,1:34,94,,dash,LOS,def,Thorn,J9O,DARKZERO,atk,Twitch,1,0,UZK50GI,gun,1,0,0,,3,5,5v3
+8844,1,nighthaven-labs,8,132.1,1:32,92,,dash,LOS,def,Thorn,dash,LOS,def,Thorn,0,0,,suicide,0,0,0,,2,5,
+8844,1,nighthaven-labs,8,139.7,1:25,85,,Daffo,LOS,def,Pulse,Nuers,DARKZERO,atk,Solid Snake,0,0,Reaper MK2,gun,1,0,0,,2,4,4v2
+8844,1,nighthaven-labs,8,173.9,0:51,51,,njr,DARKZERO,atk,Ace,Dodez,LOS,def,Mute,1,0,AK-12,gun,1,0,1,Daffo,1,4,1v4
+8844,1,nighthaven-labs,8,182.0,0:43,43,,Daffo,LOS,def,Pulse,njr,DARKZERO,atk,Ace,0,0,Reaper MK2,gun,1,0,0,,1,3,3v1
+8844,1,nighthaven-labs,9,117.5,1:47,107,,Fultz,DARKZERO,atk,Ace,Daffo,LOS,def,Smoke,0,0,AK-12,gun,1,1,1,peres,5,5,5v5
+8844,1,nighthaven-labs,9,119.0,1:46,106,,peres,LOS,def,Noor,Fultz,DARKZERO,atk,Ace,1,0,COMMANDO 9,gun,1,0,0,,5,4,4v5
+8844,1,nighthaven-labs,9,126.2,1:38,98,,njr,DARKZERO,atk,Grim,Dodez,LOS,def,Azami,1,0,552 COMMANDO,gun,1,0,0,,4,4,4v4
+8844,1,nighthaven-labs,9,128.3,1:36,96,,Nuxxga,LOS,def,Tubarão,Nuers,DARKZERO,atk,Solid Snake,0,0,MPX,gun,1,0,0,,4,3,3v4
+8844,1,nighthaven-labs,9,135.2,1:29,89,,njr,DARKZERO,atk,Grim,peres,LOS,def,Noor,1,0,552 COMMANDO,gun,1,0,0,,3,3,3v3
+8844,1,nighthaven-labs,9,163.4,1:01,61,,dash,LOS,def,Melusi,J9O,DARKZERO,atk,Brava,0,0,ITA12S,gun,1,0,0,,3,2,2v3
+8844,1,nighthaven-labs,9,165.8,0:59,59,,kyno,DARKZERO,atk,Flores,Nuxxga,LOS,def,Tubarão,0,0,AR33,gun,1,0,0,,2,2,2v2
+8844,1,nighthaven-labs,9,175.2,0:49,49,,njr,DARKZERO,atk,Grim,dash,LOS,def,Melusi,1,0,552 COMMANDO,gun,1,0,0,,2,1,2v1
+8844,1,nighthaven-labs,10,176.5,0:48,48,,Fultz,DARKZERO,atk,Ace,Daffo,LOS,def,Smoke,1,0,AK-12,gun,1,1,0,,5,5,5v5
+8844,1,nighthaven-labs,10,178.2,0:46,46,,Nuers,DARKZERO,atk,Deimos,Nuxxga,LOS,def,Wamai,0,0,FRAG GRENADE,gadget,1,0,0,,5,4,5v4
+8844,1,nighthaven-labs,10,179.0,0:46,46,,Fultz,DARKZERO,atk,Ace,peres,LOS,def,Denari,1,0,AK-12,gun,1,0,0,,5,3,5v3
+8844,1,nighthaven-labs,10,185.6,0:39,39,,dash,LOS,def,Mira,njr,DARKZERO,atk,Grim,0,0,NITRO CELL,gadget,1,0,1,J9O,5,2,2v5
+8844,1,nighthaven-labs,10,195.5,0:29,29,,J9O,DARKZERO,atk,Zofia,dash,LOS,def,Mira,1,0,M762,gun,1,0,0,,4,2,4v2
+8844,1,nighthaven-labs,10,211.6,0:13,13,,J9O,DARKZERO,atk,Zofia,Dodez,LOS,def,Azami,1,0,M762,gun,1,0,0,,4,1,4v1
+8844,2,bank,1,87.7,0:24,24,24,Nuers,DARKZERO,atk,Hibana,Nuxxga,LOS,def,Echo,1,1,PMR90A2,gun,1,1,1,Daffo,5,5,5v5
+8844,2,bank,1,89.5,0:22,22,22,Fultz,DARKZERO,atk,Dokkaebi,dash,LOS,def,Fenrir,0,1,XK23,gun,1,0,0,,5,4,5v4
+8844,2,bank,1,94.3,0:18,18,18,Nuers,DARKZERO,atk,Hibana,Daffo,LOS,def,Valkyrie,0,1,PMR90A2,gun,1,0,1,Daffo,5,3,5v3
+8844,2,bank,1,94.3,0:17,17,17,Daffo,LOS,def,Valkyrie,Nuers,DARKZERO,atk,Hibana,1,1,MPX,gun,1,0,1,Nuers,5,2,2v5
+8844,2,bank,1,96.7,0:15,15,15,Dodez,LOS,def,Solis,J9O,DARKZERO,atk,IQ,1,1,SMG-11,gun,1,0,0,,4,2,2v4
+8844,2,bank,1,100.5,0:12,12,12,kyno,DARKZERO,atk,Blitz,peres,LOS,def,Vigil,0,1,P12,gun,1,0,0,,3,2,3v2
+8844,2,bank,1,105.3,0:07,7,7,Dodez,LOS,def,Solis,njr,DARKZERO,atk,Solid Snake,0,1,SMG-11,gun,1,0,0,,3,1,1v3
+8844,2,bank,1,111.2,0:01,1,1,Dodez,LOS,def,Solis,Fultz,DARKZERO,atk,Dokkaebi,1,1,SMG-11,gun,1,0,0,,2,1,1v2
+8844,2,bank,2,114.8,1:50,110,,Dodez,LOS,def,Thorn,Fultz,DARKZERO,atk,Montagne,0,0,UZK50GI,gun,1,1,0,,5,5,5v5
+8844,2,bank,2,169.7,0:55,55,,peres,LOS,def,Azami,kyno,DARKZERO,atk,Glaz,1,0,9x19VSN,gun,1,0,0,,4,5,5v4
+8844,2,bank,2,172.4,0:52,52,,Nuers,DARKZERO,atk,Gridlock,Dodez,LOS,def,Thorn,0,0,F90,gun,1,0,0,,3,5,3v5
+8844,2,bank,2,180.8,0:44,44,,peres,LOS,def,Azami,njr,DARKZERO,atk,Thermite,1,0,9x19VSN,gun,1,0,1,Nuers,3,4,4v3
+8844,2,bank,2,185.1,0:39,39,,Nuers,DARKZERO,atk,Gridlock,peres,LOS,def,Azami,1,0,F90,gun,1,0,0,,2,4,2v4
+8844,2,bank,2,212.6,0:12,12,,Nuxxga,LOS,def,Bandit,J9O,DARKZERO,atk,Hibana,1,0,MP7,gun,1,0,0,,2,3,3v2
+8844,2,bank,2,213.5,0:11,11,,Nuers,DARKZERO,atk,Gridlock,Daffo,LOS,def,Mute,1,0,F90,gun,1,0,0,,1,3,1v3
+8844,2,bank,3,90.6,2:14,134,,Fultz,DARKZERO,atk,Blackbeard,Dodez,LOS,def,Azami,0,0,MK17 CQB,gun,1,1,0,,5,5,5v5
+8844,2,bank,3,96.8,2:08,128,,kyno,DARKZERO,atk,Blitz,dash,LOS,def,Castle,1,0,P12,gun,1,0,0,,5,4,5v4
+8844,2,bank,3,98.8,2:06,126,,peres,LOS,def,Bandit,Nuers,DARKZERO,atk,Zofia,0,0,MP7,gun,1,0,1,J9O,5,3,3v5
+8844,2,bank,3,104.0,2:01,121,,J9O,DARKZERO,atk,Sledge,peres,LOS,def,Bandit,0,0,L85A2,gun,1,0,0,,4,3,4v3
+8844,2,bank,3,133.3,1:31,91,,kyno,DARKZERO,atk,Blitz,Daffo,LOS,def,Mira,0,0,P12,gun,1,0,0,,4,2,4v2
+8844,2,bank,3,136.7,1:28,88,,njr,DARKZERO,atk,Montagne,Nuxxga,LOS,def,Warden,1,0,P9,gun,1,0,0,,4,1,4v1
+8844,2,bank,4,98.5,2:06,126,,kyno,DARKZERO,atk,Blitz,Daffo,LOS,def,Smoke,0,0,P12,gun,1,1,0,,5,5,5v5
+8844,2,bank,4,172.5,0:52,52,,Fultz,DARKZERO,atk,Striker,dash,LOS,def,Goyo,1,0,M4,gun,1,0,0,,5,4,5v4
+8844,2,bank,4,174.5,0:50,50,,peres,LOS,def,Mute,kyno,DARKZERO,atk,Blitz,0,0,NITRO CELL,gadget,1,0,0,,5,3,3v5
+8844,2,bank,4,178.3,0:46,46,,Nuers,DARKZERO,atk,Solid Snake,Nuxxga,LOS,def,Tachanka,0,0,F2,gun,1,0,0,,4,3,4v3
+8844,2,bank,4,183.9,0:41,41,,Fultz,DARKZERO,atk,Striker,Dodez,LOS,def,Tubarão,0,0,M4,gun,1,0,0,,4,2,4v2
+8844,2,bank,4,184.6,0:40,40,,peres,LOS,def,Mute,njr,DARKZERO,atk,Sens,1,0,M590A1,gun,1,0,1,Fultz,4,1,1v4
+8844,2,bank,4,188.5,0:36,36,,Fultz,DARKZERO,atk,Striker,peres,LOS,def,Mute,0,0,M4,gun,1,0,0,,3,1,3v1
+8844,2,bank,5,118.2,1:46,106,,Nuers,DARKZERO,atk,Flores,dash,LOS,def,Goyo,1,0,AR33,gun,1,1,0,,5,5,5v5
+8844,2,bank,5,196.7,0:28,28,,kyno,DARKZERO,atk,Zofia,Daffo,LOS,def,Tachanka,1,0,M762,gun,1,0,0,,5,4,5v4
+8844,2,bank,5,197.5,0:27,27,,Dodez,LOS,def,Thorn,J9O,DARKZERO,atk,Hibana,0,0,RAZORBLOOM SHELL,gadget,1,0,0,,5,3,3v5
+8844,2,bank,5,203.2,0:21,21,,Dodez,LOS,def,Thorn,Nuers,DARKZERO,atk,Flores,0,0,UZK50GI,gun,1,0,0,,4,3,3v4
+8844,2,bank,5,214.9,0:10,10,,Nuxxga,LOS,def,Bandit,Fultz,DARKZERO,atk,Montagne,1,0,MP7,gun,1,0,0,,3,3,3v3
+8844,2,bank,5,216.3,0:08,8,,njr,DARKZERO,atk,Sens,Dodez,LOS,def,Thorn,1,0,XK23,gun,1,0,0,,2,3,2v3
+8844,2,bank,6,79.3,2:25,145,,Dodez,LOS,def,Ela,Nuers,DARKZERO,atk,Ash,1,0,SCORPION EVO 3 A1,gun,1,1,0,,5,5,5v5
+8844,2,bank,6,100.0,2:04,124,,peres,LOS,def,Fenrir,Fultz,DARKZERO,atk,Zofia,1,0,MP7,gun,1,0,0,,4,5,5v4
+8844,2,bank,6,102.5,2:02,122,,Dodez,LOS,def,Ela,kyno,DARKZERO,atk,Blitz,1,0,SCORPION EVO 3 A1,gun,1,0,0,,3,5,5v3
+8844,2,bank,6,104.3,2:00,120,,Dodez,LOS,def,Ela,J9O,DARKZERO,atk,Amaru,1,0,SCORPION EVO 3 A1,gun,1,0,0,,2,5,5v2
+8844,2,bank,6,125.7,1:39,99,,njr,DARKZERO,atk,Sens,dash,LOS,def,Goyo,1,0,XK23,gun,1,0,1,Nuxxga,1,5,1v5
+8844,2,bank,6,132.1,1:32,92,,Nuxxga,LOS,def,Thorn,njr,DARKZERO,atk,Sens,1,0,C75 Auto,gun,1,0,0,,1,4,4v1
+8844,2,bank,7,99.2,2:05,125,,Nuers,DARKZERO,def,Wamai,peres,LOS,atk,Zofia,0,0,NITRO CELL,gadget,1,1,0,,5,5,5v5
+8844,2,bank,7,200.6,0:24,24,,Nuxxga,LOS,atk,Blackbeard,Nuers,DARKZERO,def,Wamai,0,0,MK17 CQB,gun,1,0,0,,4,5,4v5
+8844,2,bank,7,208.3,0:16,16,,dash,LOS,atk,Sens,Fultz,DARKZERO,def,Clash,0,0,417,gun,1,0,0,,4,4,4v4
+8844,2,bank,7,216.9,0:08,8,,njr,DARKZERO,def,Goyo,Daffo,LOS,atk,Thatcher,1,0,TCSG12,gun,1,0,1,dash,4,3,3v4
+8844,2,bank,7,217.8,0:07,7,,njr,DARKZERO,def,Goyo,Nuxxga,LOS,atk,Blackbeard,1,0,TCSG12,gun,1,0,1,dash,3,3,3v3
+8844,2,bank,7,219.2,0:05,5,,kyno,DARKZERO,def,Smoke,Dodez,LOS,atk,Striker,0,0,VOLCAN CANISTER,gadget,1,0,0,,2,3,3v2
+8844,2,bank,7,219.5,0:05,5,,dash,LOS,atk,Sens,njr,DARKZERO,def,Goyo,1,0,417,gun,1,0,1,kyno,1,3,1v3
+8844,2,bank,7,219.8,0:05,5,,kyno,DARKZERO,def,Smoke,dash,LOS,atk,Sens,0,0,SMG-11,gun,1,0,0,,1,2,2v1
+8844,2,bank,8,130.6,1:34,94,,Fultz,DARKZERO,def,Clash,Dodez,LOS,atk,Nomad,1,0,SPSMG9,gun,1,1,0,,5,5,5v5
+8844,2,bank,8,159.5,1:05,65,,dash,LOS,atk,Flores,J9O,DARKZERO,def,Valkyrie,1,0,AR33,gun,1,0,0,,4,5,4v5
+8844,2,bank,8,190.1,0:34,34,,njr,DARKZERO,def,Thorn,peres,LOS,atk,Deimos,1,0,UZK50GI,gun,1,0,0,,4,4,4v4
+8844,2,bank,8,191.1,0:33,33,,dash,LOS,atk,Flores,Nuxxga,LOS,atk,Thermite,1,0,AR33,gun,1,0,0,,3,4,
+8844,2,bank,8,192.6,0:32,32,,kyno,DARKZERO,def,Wamai,dash,LOS,atk,Flores,0,0,MP5K,gun,1,0,0,,2,4,4v2
+8844,2,bank,8,200.9,0:24,24,,Nuers,DARKZERO,def,Azami,Daffo,LOS,atk,Sens,0,0,9x19VSN,gun,1,0,0,,1,4,4v1
+8844,2,bank,9,142.5,1:22,82,,Fultz,DARKZERO,def,Melusi,dash,LOS,atk,Brava,1,0,MP5,gun,1,1,0,,5,5,5v5
+8844,2,bank,9,154.5,1:10,70,,Dodez,LOS,atk,Solid Snake,njr,DARKZERO,def,Thorn,1,0,F2,gun,1,0,0,,4,5,4v5
+8844,2,bank,9,155.7,1:09,69,,Dodez,LOS,atk,Solid Snake,J9O,DARKZERO,def,Ela,1,0,F2,gun,1,0,0,,4,4,4v4
+8844,2,bank,9,161.3,1:03,63,,Nuers,DARKZERO,def,Azami,peres,LOS,atk,Striker,0,0,9x19VSN,gun,1,0,0,,4,3,3v4
+8844,2,bank,9,202.7,0:22,22,,Dodez,LOS,atk,Solid Snake,Fultz,DARKZERO,def,Melusi,1,0,F2,gun,1,0,0,,3,3,3v3
+8844,2,bank,9,207.5,0:17,17,,Nuers,DARKZERO,def,Azami,Nuxxga,LOS,atk,Thermite,1,0,9x19VSN,gun,1,0,0,,3,2,2v3
+8844,2,bank,9,212.8,0:12,12,,Nuers,DARKZERO,def,Azami,Dodez,LOS,atk,Solid Snake,1,0,9x19VSN,gun,1,0,0,,2,2,2v2
+8844,2,bank,9,216.0,0:09,9,,Nuers,DARKZERO,def,Azami,Daffo,LOS,atk,Ram,0,0,9x19VSN,gun,1,0,0,,1,2,2v1
+8844,2,bank,10,123.0,1:41,101,,Dodez,LOS,atk,Solid Snake,kyno,DARKZERO,def,Smoke,1,0,F2,gun,1,1,0,,5,5,5v5
+8844,2,bank,10,127.3,1:37,97,,J9O,DARKZERO,def,Mute,Daffo,LOS,atk,Zero,1,0,SMG-11,gun,1,0,0,,5,4,4v5
+8844,2,bank,10,205.2,0:19,19,,Dodez,LOS,atk,Solid Snake,Nuers,DARKZERO,def,Warden,1,0,F2,gun,1,0,1,J9O,4,4,4v4
+8844,2,bank,10,206.9,0:18,18,,J9O,DARKZERO,def,Mute,Dodez,LOS,atk,Solid Snake,1,0,SMG-11,gun,1,0,0,,4,3,3v4
+8844,2,bank,10,213.6,0:11,11,,J9O,DARKZERO,def,Mute,dash,LOS,atk,Kali,0,0,M590A1,gun,1,0,0,,3,3,3v3
+8844,2,bank,10,216.3,0:08,8,,Fultz,DARKZERO,def,Echo,Nuxxga,LOS,atk,Deimos,1,0,MP5SD,gun,1,0,0,,2,3,3v2
+8844,2,bank,10,224.1,0:00,0,,peres,LOS,atk,Osa,njr,DARKZERO,def,Goyo,1,0,556XI,gun,1,0,0,,1,3,1v3

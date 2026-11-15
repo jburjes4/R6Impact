@@ -1,0 +1,75 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+8859,1,nighthaven-labs,1,174.6,0:50,50,,Eupor,GEEKAY,def,Pulse,Terd5G,WEIBO,atk,Twitch,0,0,M1014,gun,1,1,0,,5,5,5v5
+8859,1,nighthaven-labs,1,177.6,0:47,47,,Sarks,GEEKAY,def,Denari,Hoven5G,WEIBO,atk,Deimos,0,0,SCORPION EVO 3 A1,gun,1,0,0,,4,5,5v4
+8859,1,nighthaven-labs,1,194.7,0:30,30,,Gruby,GEEKAY,def,Wamai,SpeakEasy5G,WEIBO,atk,Hibana,1,0,MP5K,gun,1,0,1,Reeps965G,3,5,5v3
+8859,1,nighthaven-labs,1,196.6,0:28,28,,Reeps965G,WEIBO,atk,Capitão,Gruby,GEEKAY,def,Wamai,1,0,PMR90A2,gun,1,0,0,,2,5,2v5
+8859,1,nighthaven-labs,1,209.9,0:15,15,,Eupor,GEEKAY,def,Pulse,Gotti5G,WEIBO,atk,Thatcher,0,0,M1014,gun,1,0,0,,2,4,4v2
+8859,1,nighthaven-labs,1,210.0,0:15,15,,AsK,GEEKAY,def,Noor,Reeps965G,WEIBO,atk,Capitão,0,0,ALDA 556,gun,1,0,0,,1,4,4v1
+8859,1,nighthaven-labs,2,164.6,1:00,60,,Reeps965G,WEIBO,atk,IQ,Sarks,GEEKAY,def,Valkyrie,1,0,552 COMMANDO,gun,1,1,0,,5,5,5v5
+8859,1,nighthaven-labs,2,165.6,0:59,59,,Eupor,GEEKAY,def,Mute,SpeakEasy5G,WEIBO,atk,Montagne,0,0,NITRO CELL,gadget,1,0,0,,5,4,4v5
+8859,1,nighthaven-labs,2,191.2,0:33,33,,Gotti5G,WEIBO,atk,Ace,Yoggah,GEEKAY,def,Smoke,0,0,AK-12,gun,1,0,0,,4,4,4v4
+8859,1,nighthaven-labs,2,198.9,0:26,26,,Reeps965G,WEIBO,atk,IQ,Gruby,GEEKAY,def,Castle,1,0,552 COMMANDO,gun,1,0,0,,4,3,4v3
+8859,1,nighthaven-labs,2,205.7,0:19,19,,Terd5G,WEIBO,atk,Deimos,AsK,GEEKAY,def,Goyo,0,0,.44 Vendetta,gun,1,0,0,,4,2,4v2
+8859,1,nighthaven-labs,2,210.9,0:14,14,,Eupor,GEEKAY,def,Mute,Gotti5G,WEIBO,atk,Ace,1,0,SMG-11,gun,1,0,1,Reeps965G,4,1,1v4
+8859,1,nighthaven-labs,2,218.3,0:06,6,,Reeps965G,WEIBO,atk,IQ,Eupor,GEEKAY,def,Mute,0,0,P12,gun,1,0,0,,3,1,3v1
+8859,1,nighthaven-labs,3,59.2,2:45,165,,AsK,GEEKAY,def,Thorn,Reeps965G,WEIBO,atk,Flores,1,0,UZK50GI,gun,1,1,0,,5,5,5v5
+8859,1,nighthaven-labs,3,134.1,1:30,90,,Hoven5G,WEIBO,atk,Ram,AsK,GEEKAY,def,Thorn,1,0,R4-C,gun,1,0,0,,4,5,4v5
+8859,1,nighthaven-labs,3,197.5,0:27,27,,Gruby,GEEKAY,def,Azami,SpeakEasy5G,WEIBO,atk,Grim,1,0,9x19VSN,gun,1,0,0,,4,4,4v4
+8859,1,nighthaven-labs,3,198.9,0:26,26,,Sarks,GEEKAY,def,Wamai,Hoven5G,WEIBO,atk,Ram,1,0,AUG A2,gun,1,0,1,Gotti5G,3,4,4v3
+8859,1,nighthaven-labs,3,204.8,0:20,20,,Gotti5G,WEIBO,atk,Ace,Sarks,GEEKAY,def,Wamai,1,0,AK-12,gun,1,0,0,,2,4,2v4
+8859,1,nighthaven-labs,3,207.5,0:17,17,,Yoggah,GEEKAY,def,Ela,Terd5G,WEIBO,atk,Nøkk,1,0,SCORPION EVO 3 A1,gun,1,0,0,,2,3,3v2
+8859,1,nighthaven-labs,4,117.9,1:47,107,,Gruby,GEEKAY,def,Azami,Hoven5G,WEIBO,atk,Buck,0,0,9x19VSN,gun,1,1,0,,5,5,5v5
+8859,1,nighthaven-labs,4,145.5,1:19,79,,Reeps965G,WEIBO,atk,Striker,Yoggah,GEEKAY,def,Ela,1,0,M4,gun,1,0,0,,4,5,4v5
+8859,1,nighthaven-labs,4,154.1,1:10,70,,Gruby,GEEKAY,def,Azami,Terd5G,WEIBO,atk,Capitão,0,0,9x19VSN,gun,1,0,1,SpeakEasy5G,4,4,4v4
+8859,1,nighthaven-labs,4,154.8,1:10,70,,SpeakEasy5G,WEIBO,atk,Blitz,Gruby,GEEKAY,def,Azami,1,0,P12,gun,1,0,1,AsK,3,4,3v4
+8859,1,nighthaven-labs,4,155.0,1:09,69,,Reeps965G,WEIBO,atk,Striker,Sarks,GEEKAY,def,Denari,0,0,M4,gun,1,0,0,,3,3,3v3
+8859,1,nighthaven-labs,4,155.1,1:09,69,,AsK,GEEKAY,def,Noor,SpeakEasy5G,WEIBO,atk,Blitz,1,0,ALDA 556,gun,1,0,0,,3,2,2v3
+8859,1,nighthaven-labs,4,157.0,1:08,68,,Reeps965G,WEIBO,atk,Striker,Eupor,GEEKAY,def,Pulse,1,0,M4,gun,1,0,0,,2,2,2v2
+8859,1,nighthaven-labs,4,195.4,0:29,29,,AsK,GEEKAY,def,Noor,Reeps965G,WEIBO,atk,Striker,1,0,ALDA 556,gun,1,0,0,,2,1,1v2
+8859,1,nighthaven-labs,4,199.1,0:42,42,42,AsK,GEEKAY,def,Noor,Gotti5G,WEIBO,atk,Thatcher,1,1,ALDA 556,gun,1,0,0,,1,1,1v1
+8859,1,nighthaven-labs,5,115.1,1:49,109,,Gotti5G,WEIBO,atk,Striker,AsK,GEEKAY,def,Azami,0,0,M4,gun,1,1,0,,5,5,5v5
+8859,1,nighthaven-labs,5,133.7,1:31,91,,Gruby,GEEKAY,def,Castle,SpeakEasy5G,WEIBO,atk,Nomad,1,0,UMP45,gun,1,0,0,,5,4,4v5
+8859,1,nighthaven-labs,5,152.8,1:12,72,,Terd5G,WEIBO,atk,IQ,Gruby,GEEKAY,def,Castle,1,0,552 COMMANDO,gun,1,0,0,,4,4,4v4
+8859,1,nighthaven-labs,5,153.3,1:11,71,,Reeps965G,WEIBO,atk,Dokkaebi,Eupor,GEEKAY,def,Mute,0,0,XK23,gun,1,0,0,,4,3,4v3
+8859,1,nighthaven-labs,5,177.4,0:47,47,,Gotti5G,WEIBO,atk,Striker,Sarks,GEEKAY,def,Valkyrie,0,0,M4,gun,1,0,0,,4,2,4v2
+8859,1,nighthaven-labs,5,186.7,0:38,38,,Hoven5G,WEIBO,atk,Sledge,Yoggah,GEEKAY,def,Thorn,0,0,L85A2,gun,1,0,0,,4,1,4v1
+8859,1,nighthaven-labs,6,171.2,0:53,53,,AsK,GEEKAY,def,Jäger,SpeakEasy5G,WEIBO,atk,Nomad,0,0,416-C CARBINE,gun,1,1,1,Reeps965G,5,5,5v5
+8859,1,nighthaven-labs,6,176.0,0:48,48,,Reeps965G,WEIBO,atk,Capitão,AsK,GEEKAY,def,Jäger,0,0,PMR90A2,gun,1,0,0,,4,5,4v5
+8859,1,nighthaven-labs,6,183.7,0:41,41,,Gruby,GEEKAY,def,Azami,Terd5G,WEIBO,atk,Ram,1,0,9x19VSN,gun,1,0,0,,4,4,4v4
+8859,1,nighthaven-labs,6,185.5,0:39,39,,Hoven5G,WEIBO,atk,Sens,Yoggah,GEEKAY,def,Clash,0,0,417,gun,1,0,0,,3,4,3v4
+8859,1,nighthaven-labs,6,210.3,0:14,14,,Gruby,GEEKAY,def,Azami,Gotti5G,WEIBO,atk,Thatcher,1,0,9x19VSN,gun,1,0,0,,3,3,3v3
+8859,1,nighthaven-labs,6,213.3,0:11,11,,Eupor,GEEKAY,def,Warden,Reeps965G,WEIBO,atk,Capitão,1,0,MPX,gun,1,0,0,,2,3,3v2
+8859,1,nighthaven-labs,6,215.9,0:09,9,,Gruby,GEEKAY,def,Azami,Hoven5G,WEIBO,atk,Sens,0,0,9x19VSN,gun,1,0,0,,1,3,3v1
+8859,1,nighthaven-labs,7,167.7,0:57,57,,Gotti5G,WEIBO,def,Smoke,Gruby,GEEKAY,atk,Grim,1,0,SMG-11,gun,1,1,0,,5,5,5v5
+8859,1,nighthaven-labs,7,172.8,0:52,52,,Reeps965G,WEIBO,def,Wamai,AsK,GEEKAY,atk,Hibana,1,0,MP5K,gun,1,0,0,,4,5,5v4
+8859,1,nighthaven-labs,7,174.1,0:50,50,,Yoggah,GEEKAY,atk,Zofia,Hoven5G,WEIBO,def,Ela,1,0,M762,gun,1,0,0,,3,5,3v5
+8859,1,nighthaven-labs,7,176.1,0:48,48,,Terd5G,WEIBO,def,Azami,Sarks,GEEKAY,atk,Deimos,0,0,9x19VSN,gun,1,0,0,,3,4,4v3
+8859,1,nighthaven-labs,7,186.8,0:38,38,,Yoggah,GEEKAY,atk,Zofia,Terd5G,WEIBO,def,Azami,1,0,M762,gun,1,0,1,Gotti5G,2,4,2v4
+8859,1,nighthaven-labs,7,187.6,0:37,37,,SpeakEasy5G,WEIBO,def,Mira,Eupor,GEEKAY,atk,Nomad,0,0,VECTOR .45 ACP,gun,1,0,0,,2,3,3v2
+8859,1,nighthaven-labs,7,189.7,0:35,35,,Gotti5G,WEIBO,def,Smoke,Yoggah,GEEKAY,atk,Zofia,0,0,SMG-11,gun,1,0,0,,1,3,3v1
+8859,1,nighthaven-labs,8,132.0,1:32,92,,Eupor,GEEKAY,atk,Solid Snake,Reeps965G,WEIBO,def,Ela,1,0,F2,gun,1,1,0,,5,5,5v5
+8859,1,nighthaven-labs,8,134.8,1:30,90,,Hoven5G,WEIBO,def,Mute,Yoggah,GEEKAY,atk,Ram,1,0,SMG-11,gun,1,0,1,Sarks,5,4,4v5
+8859,1,nighthaven-labs,8,137.2,1:27,87,,Sarks,GEEKAY,atk,Striker,Hoven5G,WEIBO,def,Mute,1,0,M4,gun,1,0,0,,4,4,4v4
+8859,1,nighthaven-labs,8,143.7,1:21,81,,Terd5G,WEIBO,def,Goyo,Eupor,GEEKAY,atk,Solid Snake,1,0,VECTOR .45 ACP,gun,1,0,0,,4,3,3v4
+8859,1,nighthaven-labs,8,155.7,1:09,69,,Gotti5G,WEIBO,def,Mira,Gruby,GEEKAY,atk,Deimos,1,0,VECTOR .45 ACP,gun,1,0,0,,3,3,3v3
+8859,1,nighthaven-labs,8,168.2,0:56,56,,AsK,GEEKAY,atk,Zofia,SpeakEasy5G,WEIBO,def,Echo,1,0,M762,gun,1,0,0,,2,3,2v3
+8859,1,nighthaven-labs,8,174.6,0:50,50,,Sarks,GEEKAY,atk,Striker,Gotti5G,WEIBO,def,Mira,1,0,M4,gun,1,0,0,,2,2,2v2
+8859,1,nighthaven-labs,8,194.3,0:30,30,,Sarks,GEEKAY,atk,Striker,Terd5G,WEIBO,def,Goyo,0,0,M4,gun,1,0,0,,2,1,2v1
+8859,1,nighthaven-labs,9,126.5,1:38,98,,Terd5G,WEIBO,def,Solis,Sarks,GEEKAY,atk,Sledge,0,0,P90,gun,1,1,0,,5,5,5v5
+8859,1,nighthaven-labs,9,149.5,1:15,75,,Reeps965G,WEIBO,def,Thorn,Eupor,GEEKAY,atk,Nomad,0,0,UZK50GI,gun,1,0,0,,4,5,5v4
+8859,1,nighthaven-labs,9,152.7,1:12,72,,Terd5G,WEIBO,def,Solis,Yoggah,GEEKAY,atk,Solid Snake,0,0,P90,gun,1,0,1,Gruby,3,5,5v3
+8859,1,nighthaven-labs,9,155.6,1:09,69,,Gruby,GEEKAY,atk,Zofia,Terd5G,WEIBO,def,Solis,1,0,M762,gun,1,0,0,,2,5,2v5
+8859,1,nighthaven-labs,9,164.9,1:00,60,,AsK,GEEKAY,atk,Grim,Reeps965G,WEIBO,def,Thorn,0,0,552 COMMANDO,gun,1,0,1,SpeakEasy5G,2,4,2v4
+8859,1,nighthaven-labs,9,167.0,0:58,58,,SpeakEasy5G,WEIBO,def,Azami,AsK,GEEKAY,atk,Grim,1,0,9x19VSN,gun,1,0,0,,2,3,3v2
+8859,1,nighthaven-labs,9,170.1,0:54,54,,Hoven5G,WEIBO,def,Valkyrie,Gruby,GEEKAY,atk,Zofia,0,0,MPX,gun,1,0,0,,1,3,3v1
+8859,1,nighthaven-labs,10,153.1,1:11,71,,Gruby,GEEKAY,atk,Deimos,Reeps965G,WEIBO,def,Wamai,0,0,.44 Vendetta,gun,1,1,1,SpeakEasy5G,5,5,5v5
+8859,1,nighthaven-labs,10,153.9,1:11,71,,SpeakEasy5G,WEIBO,def,Thorn,Gruby,GEEKAY,atk,Deimos,0,0,UZK50GI,gun,1,0,0,,5,4,4v5
+8859,1,nighthaven-labs,10,163.2,1:01,61,,AsK,GEEKAY,atk,Hibana,Terd5G,WEIBO,def,Mira,1,0,PMR90A2,gun,1,0,0,,4,4,4v4
+8859,1,nighthaven-labs,10,185.2,0:39,39,,Sarks,GEEKAY,atk,Zofia,Hoven5G,WEIBO,def,Ela,0,0,M762,gun,1,0,0,,4,3,4v3
+8859,1,nighthaven-labs,10,185.9,0:39,39,,Sarks,GEEKAY,atk,Zofia,Gotti5G,WEIBO,def,Smoke,0,0,M762,gun,1,0,0,,4,2,4v2
+8859,1,nighthaven-labs,10,190.2,0:34,34,,Eupor,GEEKAY,atk,Nomad,SpeakEasy5G,WEIBO,def,Thorn,0,0,AK-74M,gun,1,0,0,,4,1,4v1
+8859,1,nighthaven-labs,11,93.2,2:11,131,,Gruby,GEEKAY,atk,Deimos,SpeakEasy5G,WEIBO,def,Thorn,1,0,AK-74M,gun,1,1,0,,5,5,5v5
+8859,1,nighthaven-labs,11,97.7,2:07,127,,Eupor,GEEKAY,atk,Dokkaebi,Hoven5G,WEIBO,def,Solis,1,0,XK23,gun,1,0,0,,5,4,5v4
+8859,1,nighthaven-labs,11,98.2,2:06,126,,Sarks,GEEKAY,atk,Solid Snake,Reeps965G,WEIBO,def,Ela,1,0,F2,gun,1,0,0,,5,3,5v3
+8859,1,nighthaven-labs,11,101.5,2:03,123,,AsK,GEEKAY,atk,Striker,Terd5G,WEIBO,def,Wamai,1,0,M4,gun,1,0,0,,5,2,5v2
+8859,1,nighthaven-labs,11,124.5,1:40,100,,Sarks,GEEKAY,atk,Solid Snake,Gotti5G,WEIBO,def,Mira,0,0,F2,gun,1,0,0,,5,1,5v1

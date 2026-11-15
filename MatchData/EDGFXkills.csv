@@ -1,0 +1,218 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+8875,1,border,1,122.4,1:42,102,,Dotz,FLUXO W7M,atk,Deimos,OnJuly,EDG,def,Mira,1,0,AK-74M,gun,1,1,0,,5,5,5v5
+8875,1,border,1,123.3,1:41,101,,Paluh,FLUXO W7M,atk,Nomad,Carpe,EDG,def,Thorn,0,0,AK-74M,gun,1,0,0,,5,4,5v4
+8875,1,border,1,136.2,1:28,88,,BAPN,EDG,def,Ela,Dotz,FLUXO W7M,atk,Deimos,0,0,SCORPION EVO 3 A1,gun,1,0,0,,5,3,3v5
+8875,1,border,1,149.6,1:15,75,,Direction,EDG,def,Mute,Fntzy,FLUXO W7M,atk,Solid Snake,1,0,M590A1,gun,1,0,0,,4,3,3v4
+8875,1,border,1,166.8,0:58,58,,Lobin,FLUXO W7M,atk,Grim,Direction,EDG,def,Mute,1,0,552 COMMANDO,gun,1,0,0,,3,3,3v3
+8875,1,border,1,181.0,0:43,43,,Hatez,FLUXO W7M,atk,Twitch,Reif,EDG,def,Goyo,0,0,417,gun,1,0,0,,3,2,3v2
+8875,1,border,1,200.0,0:25,25,,Paluh,FLUXO W7M,atk,Nomad,BAPN,EDG,def,Ela,0,0,AK-74M,gun,1,0,0,,3,1,3v1
+8875,1,border,2,106.5,1:58,118,,Fntzy,FLUXO W7M,atk,Zofia,BAPN,EDG,def,Ela,1,0,M762,gun,1,1,0,,5,5,5v5
+8875,1,border,2,113.9,1:51,111,,Lobin,FLUXO W7M,atk,Deimos,Carpe,EDG,def,Thorn,1,0,.44 Vendetta,gun,1,0,1,OnJuly,5,4,5v4
+8875,1,border,2,120.8,1:44,104,,OnJuly,EDG,def,Mira,Lobin,FLUXO W7M,atk,Deimos,1,0,VECTOR .45 ACP,gun,1,0,0,,5,3,3v5
+8875,1,border,2,131.7,1:33,93,,Direction,EDG,def,Mute,Paluh,FLUXO W7M,atk,Nomad,1,0,SMG-11,gun,1,0,0,,4,3,3v4
+8875,1,border,2,132.7,1:32,92,,Fntzy,FLUXO W7M,atk,Zofia,OnJuly,EDG,def,Mira,1,0,M762,gun,1,0,0,,3,3,3v3
+8875,1,border,2,137.0,0:42,42,42,Fntzy,FLUXO W7M,atk,Zofia,Reif,EDG,def,Goyo,1,1,M762,gun,1,0,0,,3,2,3v2
+8875,1,border,2,161.5,0:17,17,17,Fntzy,FLUXO W7M,atk,Zofia,Direction,EDG,def,Mute,0,1,M762,gun,1,0,0,,3,1,3v1
+8875,1,border,3,99.3,2:05,125,,Direction,EDG,def,Solis,Lobin,FLUXO W7M,atk,Lion,1,0,SMG-11,gun,1,1,0,,5,5,5v5
+8875,1,border,3,141.0,0:39,39,39,Reif,EDG,def,Pulse,Paluh,FLUXO W7M,atk,Nomad,0,1,Reaper MK2,gun,1,0,0,,4,5,5v4
+8875,1,border,3,148.3,0:32,32,32,Direction,EDG,def,Solis,Fntzy,FLUXO W7M,atk,Deimos,1,1,SMG-11,gun,1,0,0,,3,5,5v3
+8875,1,border,3,149.4,0:30,30,30,Hatez,FLUXO W7M,atk,Dokkaebi,OnJuly,EDG,def,Sentry,0,1,Mk 14 EBR,gun,1,0,0,,2,5,2v5
+8875,1,border,3,153.9,0:26,26,26,Dotz,FLUXO W7M,atk,Blitz,Reif,EDG,def,Pulse,0,1,P12,gun,1,0,1,BAPN,2,4,2v4
+8875,1,border,3,159.6,0:20,20,20,BAPN,EDG,def,Ela,Dotz,FLUXO W7M,atk,Blitz,1,1,SCORPION EVO 3 A1,gun,1,0,0,,2,3,3v2
+8875,1,border,3,160.5,0:19,19,19,BAPN,EDG,def,Ela,Hatez,FLUXO W7M,atk,Dokkaebi,1,1,SCORPION EVO 3 A1,gun,1,0,0,,1,3,3v1
+8875,1,border,4,117.8,1:47,107,,Reif,EDG,def,Mute,Dotz,FLUXO W7M,atk,Montagne,0,0,NITRO CELL,gadget,1,1,0,,5,5,5v5
+8875,1,border,4,134.2,1:30,90,,Lobin,FLUXO W7M,atk,Grim,BAPN,EDG,def,Ela,1,0,552 COMMANDO,gun,1,0,1,OnJuly,4,5,4v5
+8875,1,border,4,139.2,1:25,85,,OnJuly,EDG,def,Sentry,Lobin,FLUXO W7M,atk,Grim,0,0,TCSG12,gun,1,0,0,,4,4,4v4
+8875,1,border,4,146.3,1:18,78,,Fntzy,FLUXO W7M,atk,Deimos,Reif,EDG,def,Mute,0,0,AK-74M,gun,1,0,0,,3,4,3v4
+8875,1,border,4,198.1,0:26,26,,Paluh,FLUXO W7M,atk,Nomad,Carpe,EDG,def,Thorn,1,0,AK-74M,gun,1,0,0,,3,3,3v3
+8875,1,border,4,209.0,0:15,15,,Direction,EDG,def,Fenrir,Paluh,FLUXO W7M,atk,Nomad,1,0,MP7,gun,1,0,0,,3,2,2v3
+8875,1,border,4,214.2,0:10,10,,Direction,EDG,def,Fenrir,Hatez,FLUXO W7M,atk,Lion,1,0,MP7,gun,1,0,0,,2,2,2v2
+8875,1,border,5,-38.0,2:34,154,154,Lobin,FLUXO W7M,atk,Blitz,BAPN,EDG,def,Solis,1,1,P12,gun,1,1,0,,5,5,5v5
+8875,1,border,5,71.4,0:44,44,44,Direction,EDG,def,Valkyrie,Lobin,FLUXO W7M,atk,Blitz,1,1,MPX,gun,1,0,0,,5,4,4v5
+8875,1,border,5,96.7,0:19,19,19,Dotz,FLUXO W7M,atk,Finka,OnJuly,EDG,def,Denari,0,1,SPEAR .308,gun,1,0,0,,4,4,4v4
+8875,1,border,5,98.4,0:17,17,17,Carpe,EDG,def,Mute,Fntzy,FLUXO W7M,atk,Zofia,1,1,SMG-11,gun,1,0,1,Dotz,4,3,3v4
+8875,1,border,5,105.7,0:09,9,9,Dotz,FLUXO W7M,atk,Finka,Carpe,EDG,def,Mute,0,1,SPEAR .308,gun,1,0,1,Reif,3,3,3v3
+8875,1,border,5,107.1,0:08,8,8,Dotz,FLUXO W7M,atk,Finka,Direction,EDG,def,Valkyrie,0,1,SPEAR .308,gun,1,0,1,Reif,3,2,3v2
+8875,1,border,5,108.8,0:06,6,6,Reif,EDG,def,Kaid,Dotz,FLUXO W7M,atk,Finka,0,1,TCSG12,gun,1,0,1,Hatez,3,1,1v3
+8875,1,border,5,112.8,0:03,3,3,Hatez,FLUXO W7M,atk,Thatcher,Reif,EDG,def,Kaid,0,1,P226 MK 25,gun,1,0,0,,2,1,2v1
+8875,1,border,6,151.5,1:13,73,,BAPN,EDG,def,Ela,Lobin,FLUXO W7M,atk,Grim,0,0,SCORPION EVO 3 A1,gun,1,1,0,,5,5,5v5
+8875,1,border,6,156.3,1:08,68,,Hatez,FLUXO W7M,atk,Dokkaebi,OnJuly,EDG,def,Sentry,1,0,Mk 14 EBR,gun,1,0,0,,4,5,4v5
+8875,1,border,6,173.8,0:51,51,,Direction,EDG,def,Solis,Dotz,FLUXO W7M,atk,Montagne,0,0,,unknown,0,0,0,,4,4,4v4
+8875,1,border,6,184.3,0:40,40,,Fntzy,FLUXO W7M,atk,Ace,Carpe,EDG,def,Thorn,1,0,AK-12,gun,1,0,1,Reif,3,4,3v4
+8875,1,border,6,186.4,0:38,38,,Reif,EDG,def,Mute,Fntzy,FLUXO W7M,atk,Ace,1,0,SMG-11,gun,1,0,0,,3,3,3v3
+8875,1,border,6,196.1,0:28,28,,Paluh,FLUXO W7M,atk,Nomad,Direction,EDG,def,Solis,1,0,AK-74M,gun,1,0,0,,2,3,2v3
+8875,1,border,6,213.1,0:11,11,,Reif,EDG,def,Mute,Hatez,FLUXO W7M,atk,Dokkaebi,1,0,SMG-11,gun,1,0,0,,2,2,2v2
+8875,1,border,6,225.0,0:00,0,,Reif,EDG,def,Mute,Paluh,FLUXO W7M,atk,Nomad,0,0,M590A1,gun,1,0,0,,1,2,2v1
+8875,1,border,7,110.3,1:54,114,,Reif,EDG,atk,Capitão,Lobin,FLUXO W7M,def,Ela,0,0,PMR90A2,gun,1,1,1,Hatez,5,5,5v5
+8875,1,border,7,115.8,1:49,109,,Direction,EDG,atk,Grim,Fntzy,FLUXO W7M,def,Sentry,1,0,552 COMMANDO,gun,1,0,0,,5,4,5v4
+8875,1,border,7,120.0,1:45,105,,Hatez,FLUXO W7M,def,Thorn,Reif,EDG,atk,Capitão,1,0,UZK50GI,gun,1,0,1,Reif,5,3,3v5
+8875,1,border,7,120.0,1:44,104,,Reif,EDG,atk,Capitão,Hatez,FLUXO W7M,def,Thorn,1,0,PMR90A2,gun,1,0,0,,4,3,4v3
+8875,1,border,7,129.6,1:35,95,,Paluh,FLUXO W7M,def,Warden,Direction,EDG,atk,Grim,1,0,MPX,gun,1,0,0,,4,2,2v4
+8875,1,border,7,138.6,1:26,86,,Dotz,FLUXO W7M,def,Noor,OnJuly,EDG,atk,Flores,1,0,Bailiff 410,gun,1,0,0,,3,2,2v3
+8875,1,border,7,164.0,1:00,60,,BAPN,EDG,atk,Ace,Dotz,FLUXO W7M,def,Noor,0,0,AK-12,gun,1,0,0,,2,2,2v2
+8875,1,border,7,183.3,0:41,41,,Carpe,EDG,atk,Zofia,Paluh,FLUXO W7M,def,Warden,0,0,M762,gun,1,0,0,,2,1,2v1
+8875,1,border,8,119.6,1:45,105,,OnJuly,EDG,atk,Flores,Paluh,FLUXO W7M,def,Mute,1,0,AR33,gun,1,1,0,,5,5,5v5
+8875,1,border,8,131.0,1:33,93,,OnJuly,EDG,atk,Flores,Hatez,FLUXO W7M,def,Valkyrie,1,0,AR33,gun,1,0,1,Dotz,5,4,5v4
+8875,1,border,8,134.4,1:30,90,,Dotz,FLUXO W7M,def,Castle,OnJuly,EDG,atk,Flores,1,0,UMP45,gun,1,0,0,,5,3,3v5
+8875,1,border,8,138.9,1:26,86,,Reif,EDG,atk,Ace,Fntzy,FLUXO W7M,def,Smoke,1,0,AK-12,gun,1,0,0,,4,3,4v3
+8875,1,border,8,202.1,0:22,22,,Reif,EDG,atk,Ace,Lobin,FLUXO W7M,def,Mozzie,1,0,AK-12,gun,1,0,0,,4,2,4v2
+8875,1,border,8,204.5,0:20,20,,Carpe,EDG,atk,Nomad,Dotz,FLUXO W7M,def,Castle,0,0,AK-74M,gun,1,0,0,,4,1,4v1
+8875,1,border,9,99.1,2:05,125,,Fntzy,FLUXO W7M,def,Sentry,Direction,EDG,atk,Blitz,0,0,TCSG12,gun,1,1,0,,5,5,5v5
+8875,1,border,9,109.8,1:55,115,,Fntzy,FLUXO W7M,def,Sentry,BAPN,EDG,atk,Zofia,1,0,TCSG12,gun,1,0,0,,4,5,5v4
+8875,1,border,9,129.5,1:35,95,,Paluh,FLUXO W7M,def,Smoke,Reif,EDG,atk,Sledge,0,0,M590A1,gun,1,0,0,,3,5,5v3
+8875,1,border,9,135.3,1:29,89,,Lobin,FLUXO W7M,def,Ela,OnJuly,EDG,atk,Twitch,1,0,SCORPION EVO 3 A1,gun,1,0,0,,2,5,5v2
+8875,1,border,9,146.9,1:18,78,,Carpe,EDG,atk,Nomad,Hatez,FLUXO W7M,def,Solis,0,0,AK-74M,gun,1,0,0,,1,5,1v5
+8875,1,border,9,169.6,0:55,55,,Lobin,FLUXO W7M,def,Ela,Carpe,EDG,atk,Nomad,1,0,SCORPION EVO 3 A1,gun,1,0,0,,1,4,4v1
+8875,1,border,10,120.3,1:44,104,,Fntzy,FLUXO W7M,def,Sentry,OnJuly,EDG,atk,Twitch,0,0,TCSG12,gun,1,1,0,,5,5,5v5
+8875,1,border,10,167.6,0:57,57,,Lobin,FLUXO W7M,def,Ela,BAPN,EDG,atk,Solid Snake,1,0,SCORPION EVO 3 A1,gun,1,0,0,,4,5,5v4
+8875,1,border,10,203.1,0:21,21,,Lobin,FLUXO W7M,def,Ela,Carpe,EDG,atk,Zofia,1,0,SCORPION EVO 3 A1,gun,1,0,0,,3,5,5v3
+8875,1,border,10,203.4,0:21,21,,Reif,EDG,atk,Ace,Dotz,FLUXO W7M,def,Noor,1,0,AK-12,gun,1,0,1,Fntzy,2,5,2v5
+8875,1,border,10,204.5,0:20,20,,Fntzy,FLUXO W7M,def,Sentry,Reif,EDG,atk,Ace,0,0,NITRO CELL,gadget,1,0,0,,2,4,4v2
+8875,1,border,10,210.7,0:14,14,,Lobin,FLUXO W7M,def,Ela,Direction,EDG,atk,Lion,0,0,SCORPION EVO 3 A1,gun,1,0,0,,1,4,4v1
+8875,1,border,11,52.6,2:52,172,,Fntzy,FLUXO W7M,def,Sentry,Direction,EDG,atk,Dokkaebi,1,0,TCSG12,gun,1,1,0,,5,5,5v5
+8875,1,border,11,147.4,1:17,77,,BAPN,EDG,atk,IQ,Fntzy,FLUXO W7M,def,Sentry,0,0,552 COMMANDO,gun,1,0,0,,4,5,4v5
+8875,1,border,11,151.6,1:13,73,,BAPN,EDG,atk,IQ,Lobin,FLUXO W7M,def,Ela,1,0,552 COMMANDO,gun,1,0,0,,4,4,4v4
+8875,1,border,11,169.3,0:55,55,,Carpe,EDG,atk,Solid Snake,Dotz,FLUXO W7M,def,Noor,1,0,F2,gun,1,0,0,,4,3,4v3
+8875,1,border,11,195.4,0:42,42,42,Paluh,FLUXO W7M,def,Solis,OnJuly,EDG,atk,Flores,0,1,SMG-11,gun,1,0,0,,4,2,2v4
+8875,1,border,11,206.8,0:31,31,31,Reif,EDG,atk,Twitch,Paluh,FLUXO W7M,def,Solis,0,1,417,gun,1,0,0,,3,2,3v2
+8875,1,border,11,210.3,0:27,27,27,Reif,EDG,atk,Twitch,Hatez,FLUXO W7M,def,Thorn,0,1,417,gun,1,0,0,,3,1,3v1
+8875,1,border,12,92.3,2:12,132,,Direction,EDG,atk,Montagne,Fntzy,FLUXO W7M,def,Sentry,1,0,P9,gun,1,1,0,,5,5,5v5
+8875,1,border,12,108.3,1:56,116,,BAPN,EDG,atk,IQ,Lobin,FLUXO W7M,def,Ela,1,0,552 COMMANDO,gun,1,0,0,,5,4,5v4
+8875,1,border,12,121.3,1:43,103,,BAPN,EDG,atk,IQ,Dotz,FLUXO W7M,def,Goyo,1,0,552 COMMANDO,gun,1,0,0,,5,3,5v3
+8875,1,border,12,131.6,1:33,93,,Hatez,FLUXO W7M,def,Solis,OnJuly,EDG,atk,Twitch,1,0,SMG-11,gun,1,0,0,,5,2,2v5
+8875,1,border,12,142.7,1:22,82,,Carpe,EDG,atk,Solid Snake,Hatez,FLUXO W7M,def,Solis,0,0,F2,gun,1,0,0,,4,2,4v2
+8875,1,border,12,148.5,1:16,76,,Reif,EDG,atk,Capitão,Paluh,FLUXO W7M,def,Smoke,0,0,PMR90A2,gun,1,0,0,,4,1,4v1
+8875,2,nighthaven-labs,1,117.5,1:47,107,,Dotz,FLUXO W7M,def,Wamai,Carpe,EDG,atk,Nomad,1,0,MP5K,gun,1,1,1,Reif,5,5,5v5
+8875,2,nighthaven-labs,1,121.0,1:43,103,,BAPN,EDG,atk,Deimos,Fntzy,FLUXO W7M,def,Azami,0,0,AK-74M,gun,1,0,0,,4,5,4v5
+8875,2,nighthaven-labs,1,126.5,1:38,98,,Reif,EDG,atk,Ace,Dotz,FLUXO W7M,def,Wamai,1,0,AK-12,gun,1,0,0,,4,4,4v4
+8875,2,nighthaven-labs,1,197.1,0:27,27,,Reif,EDG,atk,Ace,Hatez,FLUXO W7M,def,Pulse,1,0,AK-12,gun,1,0,0,,4,3,4v3
+8875,2,nighthaven-labs,1,198.2,0:26,26,,Reif,EDG,atk,Ace,Paluh,FLUXO W7M,def,Denari,1,0,AK-12,gun,1,0,0,,4,2,4v2
+8875,2,nighthaven-labs,1,205.3,0:19,19,,OnJuly,EDG,atk,Capitão,Lobin,FLUXO W7M,def,Noor,0,0,PMR90A2,gun,1,0,0,,4,1,4v1
+8875,2,nighthaven-labs,2,86.3,2:18,138,,Reif,EDG,atk,Twitch,Fntzy,FLUXO W7M,def,Azami,1,0,417,gun,1,1,0,,5,5,5v5
+8875,2,nighthaven-labs,2,123.6,1:41,101,,Lobin,FLUXO W7M,def,Goyo,Carpe,EDG,atk,Dokkaebi,0,0,TCSG12,gun,1,0,0,,5,4,4v5
+8875,2,nighthaven-labs,2,154.6,1:10,70,,Lobin,FLUXO W7M,def,Goyo,Direction,EDG,atk,Ram,1,0,TCSG12,gun,1,0,0,,4,4,4v4
+8875,2,nighthaven-labs,2,196.8,0:28,28,,Paluh,FLUXO W7M,def,Solis,Reif,EDG,atk,Twitch,1,0,SMG-11,gun,1,0,1,BAPN,3,4,4v3
+8875,2,nighthaven-labs,2,200.1,0:24,24,,BAPN,EDG,atk,IQ,Paluh,FLUXO W7M,def,Solis,0,0,552 COMMANDO,gun,1,0,0,,2,4,2v4
+8875,2,nighthaven-labs,2,216.2,0:08,8,,Dotz,FLUXO W7M,def,Pulse,BAPN,EDG,atk,IQ,1,0,UMP45,gun,1,0,0,,2,3,3v2
+8875,2,nighthaven-labs,2,218.8,0:06,6,,Dotz,FLUXO W7M,def,Pulse,OnJuly,EDG,atk,Ace,1,0,UMP45,gun,1,0,0,,1,3,3v1
+8875,2,nighthaven-labs,3,109.2,1:55,115,,Reif,EDG,atk,Blackbeard,Dotz,FLUXO W7M,def,Melusi,1,0,MK17 CQB,gun,1,1,1,Hatez,5,5,5v5
+8875,2,nighthaven-labs,3,110.1,1:54,114,,Hatez,FLUXO W7M,def,Thorn,Reif,EDG,atk,Blackbeard,1,0,UZK50GI,gun,1,0,0,,5,4,4v5
+8875,2,nighthaven-labs,3,110.4,1:54,114,,OnJuly,EDG,atk,Striker,Lobin,FLUXO W7M,def,Mute,1,0,M4,gun,1,0,0,,4,4,4v4
+8875,2,nighthaven-labs,3,113.0,1:51,111,,OnJuly,EDG,atk,Striker,Fntzy,FLUXO W7M,def,Azami,1,0,M4,gun,1,0,0,,4,3,4v3
+8875,2,nighthaven-labs,3,127.0,0:39,39,39,Paluh,FLUXO W7M,def,Denari,Direction,EDG,atk,Blitz,1,1,SCORPION EVO 3 A1,gun,1,0,1,OnJuly,4,2,2v4
+8875,2,nighthaven-labs,3,127.8,0:38,38,38,OnJuly,EDG,atk,Striker,Paluh,FLUXO W7M,def,Denari,0,1,M4,gun,1,0,0,,3,2,3v2
+8875,2,nighthaven-labs,3,128.7,0:38,38,38,BAPN,EDG,atk,Ace,Hatez,FLUXO W7M,def,Thorn,0,1,AK-12,gun,1,0,0,,3,1,3v1
+8875,2,nighthaven-labs,4,132.1,1:32,92,,Reif,EDG,atk,Ace,Hatez,FLUXO W7M,def,Smoke,1,0,AK-12,gun,1,1,0,,5,5,5v5
+8875,2,nighthaven-labs,4,148.0,1:16,76,,Direction,EDG,atk,Maverick,Dotz,FLUXO W7M,def,Bandit,1,0,M4,gun,1,0,0,,5,4,5v4
+8875,2,nighthaven-labs,4,184.9,0:40,40,,Direction,EDG,atk,Maverick,Fntzy,FLUXO W7M,def,Denari,1,0,M4,gun,1,0,0,,5,3,5v3
+8875,2,nighthaven-labs,4,188.8,0:36,36,,Paluh,FLUXO W7M,def,Wamai,Reif,EDG,atk,Ace,1,0,MP5K,gun,1,0,0,,5,2,2v5
+8875,2,nighthaven-labs,4,210.8,0:14,14,,Paluh,FLUXO W7M,def,Wamai,Direction,EDG,atk,Maverick,0,0,MP5K,gun,1,0,1,OnJuly,4,2,2v4
+8875,2,nighthaven-labs,4,213.4,0:11,11,,OnJuly,EDG,atk,Capitão,Paluh,FLUXO W7M,def,Wamai,1,0,PARA-308,gun,1,0,0,,3,2,3v2
+8875,2,nighthaven-labs,4,215.5,0:09,9,,Lobin,FLUXO W7M,def,Noor,Carpe,EDG,atk,Nomad,1,0,COMMANDO 9,gun,1,0,1,BAPN,3,1,1v3
+8875,2,nighthaven-labs,4,217.8,0:07,7,,BAPN,EDG,atk,Zofia,Lobin,FLUXO W7M,def,Noor,0,0,M762,gun,1,0,0,,2,1,2v1
+8875,2,nighthaven-labs,5,138.1,1:26,86,,Reif,EDG,atk,Thermite,Paluh,FLUXO W7M,def,Solis,0,0,556XI,gun,1,1,0,,5,5,5v5
+8875,2,nighthaven-labs,5,148.1,1:16,76,,Carpe,EDG,atk,Dokkaebi,Lobin,FLUXO W7M,def,Goyo,1,0,XK23,gun,1,0,0,,5,4,5v4
+8875,2,nighthaven-labs,5,155.9,1:09,69,,BAPN,EDG,atk,IQ,Fntzy,FLUXO W7M,def,Valkyrie,1,0,552 COMMANDO,gun,1,0,0,,5,3,5v3
+8875,2,nighthaven-labs,5,181.6,0:43,43,,Reif,EDG,atk,Thermite,Hatez,FLUXO W7M,def,Thorn,0,0,556XI,gun,1,0,0,,5,2,5v2
+8875,2,nighthaven-labs,5,184.9,0:40,40,,Dotz,FLUXO W7M,def,Pulse,Carpe,EDG,atk,Dokkaebi,1,0,M1014,gun,1,0,0,,5,1,1v5
+8875,2,nighthaven-labs,5,185.0,0:39,39,,Hatez,FLUXO W7M,def,Thorn,Direction,EDG,atk,Ram,0,0,,unknown,0,0,0,,4,1,1v4
+8875,2,nighthaven-labs,5,198.5,0:26,26,,BAPN,EDG,atk,IQ,Dotz,FLUXO W7M,def,Pulse,0,0,552 COMMANDO,gun,1,0,0,,3,1,3v1
+8875,2,nighthaven-labs,6,59.7,2:45,165,,Direction,EDG,atk,Sledge,Dotz,FLUXO W7M,def,Sentry,1,0,L85A2,gun,1,1,0,,5,5,5v5
+8875,2,nighthaven-labs,6,81.1,2:23,143,,Fntzy,FLUXO W7M,def,Ela,Carpe,EDG,atk,Nomad,1,0,SCORPION EVO 3 A1,gun,1,0,1,Reif,5,4,4v5
+8875,2,nighthaven-labs,6,82.5,2:22,142,,Reif,EDG,atk,Thermite,Fntzy,FLUXO W7M,def,Ela,0,0,556XI,gun,1,0,1,Lobin,4,4,4v4
+8875,2,nighthaven-labs,6,91.8,2:13,133,,Lobin,FLUXO W7M,def,Pulse,Reif,EDG,atk,Thermite,0,0,Reaper MK2,gun,1,0,0,,4,3,3v4
+8875,2,nighthaven-labs,6,148.2,1:16,76,,Paluh,FLUXO W7M,def,Castle,Direction,EDG,atk,Sledge,1,0,UMP45,gun,1,0,0,,3,3,3v3
+8875,2,nighthaven-labs,6,194.9,0:30,30,,Paluh,FLUXO W7M,def,Castle,OnJuly,EDG,atk,Striker,0,0,UMP45,gun,1,0,0,,2,3,3v2
+8875,2,nighthaven-labs,6,223.0,0:02,2,,Lobin,FLUXO W7M,def,Pulse,BAPN,EDG,atk,Twitch,1,0,Reaper MK2,gun,1,0,0,,1,3,3v1
+8875,2,nighthaven-labs,7,161.5,1:03,63,,Fntzy,FLUXO W7M,atk,Twitch,Carpe,EDG,def,Azami,1,0,F2,gun,1,1,0,,5,5,5v5
+8875,2,nighthaven-labs,7,164.9,1:00,60,,BAPN,EDG,def,Ela,Dotz,FLUXO W7M,atk,Montagne,1,0,SCORPION EVO 3 A1,gun,1,0,0,,5,4,4v5
+8875,2,nighthaven-labs,7,180.2,0:44,44,,Paluh,FLUXO W7M,atk,Thermite,Direction,EDG,def,Smoke,0,0,556XI,gun,1,0,1,Reif,4,4,4v4
+8875,2,nighthaven-labs,7,181.3,0:43,43,,Reif,EDG,def,Denari,Paluh,FLUXO W7M,atk,Thermite,1,0,SCORPION EVO 3 A1,gun,1,0,0,,4,3,3v4
+8875,2,nighthaven-labs,7,183.5,0:41,41,,OnJuly,EDG,def,Pulse,Lobin,FLUXO W7M,atk,Glaz,0,0,Reaper MK2,gun,1,0,0,,3,3,3v3
+8875,2,nighthaven-labs,7,199.3,0:25,25,,Fntzy,FLUXO W7M,atk,Twitch,OnJuly,EDG,def,Pulse,0,0,P9,gun,1,0,0,,2,3,2v3
+8875,2,nighthaven-labs,7,200.3,0:24,24,,Hatez,FLUXO W7M,atk,Rauora,Reif,EDG,def,Denari,1,0,417,gun,1,0,0,,2,2,2v2
+8875,2,nighthaven-labs,7,211.6,0:13,13,,Fntzy,FLUXO W7M,atk,Twitch,BAPN,EDG,def,Ela,1,0,F2,gun,1,0,0,,2,1,2v1
+8875,2,nighthaven-labs,8,91.2,2:13,133,,Hatez,FLUXO W7M,atk,Maverick,Reif,EDG,def,Goyo,0,0,M4,gun,1,1,0,,5,5,5v5
+8875,2,nighthaven-labs,8,96.2,2:08,128,,OnJuly,EDG,def,Solis,Dotz,FLUXO W7M,atk,Blitz,1,0,SMG-11,gun,1,0,0,,5,4,4v5
+8875,2,nighthaven-labs,8,126.5,1:38,98,,Lobin,FLUXO W7M,atk,Lion,OnJuly,EDG,def,Solis,0,0,417,gun,1,0,1,Direction,4,4,4v4
+8875,2,nighthaven-labs,8,127.7,1:37,97,,Direction,EDG,def,Thorn,Lobin,FLUXO W7M,atk,Lion,1,0,UZK50GI,gun,1,0,0,,4,3,3v4
+8875,2,nighthaven-labs,8,176.1,0:48,48,,Carpe,EDG,def,Azami,Fntzy,FLUXO W7M,atk,Ying,1,0,9x19VSN,gun,1,0,0,,3,3,3v3
+8875,2,nighthaven-labs,8,200.8,0:24,24,,BAPN,EDG,def,Ela,Paluh,FLUXO W7M,atk,Thermite,1,0,SCORPION EVO 3 A1,gun,1,0,0,,2,3,3v2
+8875,2,nighthaven-labs,8,203.1,0:21,21,,Hatez,FLUXO W7M,atk,Maverick,Direction,EDG,def,Thorn,0,0,M4,gun,1,0,0,,1,3,1v3
+8875,2,nighthaven-labs,9,116.4,1:48,108,,Lobin,FLUXO W7M,atk,Dokkaebi,Direction,EDG,def,Smoke,0,0,XK23,gun,1,1,0,,5,5,5v5
+8875,2,nighthaven-labs,9,123.7,1:41,101,,BAPN,EDG,def,Goyo,Fntzy,FLUXO W7M,atk,Deimos,1,0,VECTOR .45 ACP,gun,1,0,0,,5,4,4v5
+8875,2,nighthaven-labs,9,149.8,1:15,75,,Lobin,FLUXO W7M,atk,Dokkaebi,BAPN,EDG,def,Goyo,1,0,XK23,gun,1,0,1,OnJuly,4,4,4v4
+8875,2,nighthaven-labs,9,152.1,1:12,72,,OnJuly,EDG,def,Mute,Lobin,FLUXO W7M,atk,Dokkaebi,0,0,SMG-11,gun,1,0,0,,4,3,3v4
+8875,2,nighthaven-labs,9,186.3,0:38,38,,Hatez,FLUXO W7M,atk,Solid Snake,Reif,EDG,def,Thorn,0,0,F2,gun,1,0,0,,3,3,3v3
+8875,2,nighthaven-labs,9,187.8,0:37,37,,Dotz,FLUXO W7M,atk,Montagne,Carpe,EDG,def,Azami,0,0,P9,gun,1,0,0,,3,2,3v2
+8875,2,nighthaven-labs,9,197.8,0:27,27,,OnJuly,EDG,def,Mute,Hatez,FLUXO W7M,atk,Solid Snake,1,0,SMG-11,gun,1,0,0,,3,1,1v3
+8875,2,nighthaven-labs,9,236.2,0:06,6,6,OnJuly,EDG,def,Mute,Dotz,FLUXO W7M,atk,Montagne,0,1,M590A1,gun,1,0,0,,2,1,1v2
+8875,2,nighthaven-labs,10,164.9,1:00,60,,Hatez,FLUXO W7M,atk,Thatcher,BAPN,EDG,def,Mute,1,0,PMR90A2,gun,1,1,0,,5,5,5v5
+8875,2,nighthaven-labs,10,167.4,0:57,57,,Lobin,FLUXO W7M,atk,Zofia,Reif,EDG,def,Denari,1,0,M762,gun,1,0,0,,5,4,5v4
+8875,2,nighthaven-labs,10,174.6,0:50,50,,Paluh,FLUXO W7M,atk,Thermite,Carpe,EDG,def,Wamai,0,0,556XI,gun,1,0,0,,5,3,5v3
+8875,2,nighthaven-labs,10,176.2,0:48,48,,Fntzy,FLUXO W7M,atk,Solid Snake,OnJuly,EDG,def,Pulse,1,0,F2,gun,1,0,0,,5,2,5v2
+8875,2,nighthaven-labs,10,182.8,0:42,42,,Dotz,FLUXO W7M,atk,Capitão,Direction,EDG,def,Smoke,0,0,PARA-308,gun,1,0,0,,5,1,5v1
+8875,2,nighthaven-labs,11,146.1,1:18,78,,Fntzy,FLUXO W7M,atk,Solid Snake,BAPN,EDG,def,Ela,1,0,F2,gun,1,1,0,,5,5,5v5
+8875,2,nighthaven-labs,11,147.1,1:17,77,,Reif,EDG,def,Goyo,Lobin,FLUXO W7M,atk,Dokkaebi,1,0,TCSG12,gun,1,0,0,,5,4,4v5
+8875,2,nighthaven-labs,11,147.9,1:17,77,,Fntzy,FLUXO W7M,atk,Solid Snake,Carpe,EDG,def,Thorn,1,0,F2,gun,1,0,0,,4,4,4v4
+8875,2,nighthaven-labs,11,194.0,0:30,30,,Direction,EDG,def,Mute,Fntzy,FLUXO W7M,atk,Solid Snake,1,0,SMG-11,gun,1,0,1,Dotz,4,3,3v4
+8875,2,nighthaven-labs,11,195.6,0:29,29,,Dotz,FLUXO W7M,atk,Ying,Direction,EDG,def,Mute,0,0,Reaper MK2,gun,1,0,0,,3,3,3v3
+8875,2,nighthaven-labs,11,217.1,0:07,7,,Paluh,FLUXO W7M,atk,Ace,Reif,EDG,def,Goyo,0,0,AK-12,gun,1,0,0,,3,2,3v2
+8875,2,nighthaven-labs,11,256.0,0:15,15,15,Hatez,FLUXO W7M,atk,Zofia,OnJuly,EDG,def,Solis,0,1,M762,gun,1,0,0,,3,1,3v1
+8875,2,nighthaven-labs,12,161.9,1:03,63,,Reif,EDG,def,Thorn,Fntzy,FLUXO W7M,atk,Deimos,1,0,UZK50GI,gun,1,1,1,Paluh,5,5,5v5
+8875,2,nighthaven-labs,12,164.3,1:00,60,,Lobin,FLUXO W7M,atk,Solid Snake,BAPN,EDG,def,Ela,1,0,F2,gun,1,0,1,Direction,4,5,4v5
+8875,2,nighthaven-labs,12,166.1,0:58,58,,Direction,EDG,def,Smoke,Lobin,FLUXO W7M,atk,Solid Snake,1,0,SMG-11,gun,1,0,0,,4,4,4v4
+8875,2,nighthaven-labs,12,166.4,0:58,58,,Reif,EDG,def,Thorn,Hatez,FLUXO W7M,atk,Zofia,0,0,UZK50GI,gun,1,0,1,Paluh,3,4,4v3
+8875,2,nighthaven-labs,12,169.8,0:55,55,,Paluh,FLUXO W7M,atk,Twitch,Reif,EDG,def,Thorn,0,0,F2,gun,1,0,0,,2,4,2v4
+8875,2,nighthaven-labs,12,190.0,0:34,34,,Dotz,FLUXO W7M,atk,Ying,OnJuly,EDG,def,Mute,0,0,SIX12,gun,1,0,0,,2,3,2v3
+8875,2,nighthaven-labs,12,201.7,0:23,23,,Direction,EDG,def,Smoke,Dotz,FLUXO W7M,atk,Ying,1,0,SMG-11,gun,1,0,0,,2,2,2v2
+8875,2,nighthaven-labs,12,222.0,0:26,26,26,Paluh,FLUXO W7M,atk,Twitch,Carpe,EDG,def,Wamai,0,1,F2,gun,1,0,0,,1,2,1v2
+8875,2,nighthaven-labs,12,237.9,0:11,11,11,Paluh,FLUXO W7M,atk,Twitch,Direction,EDG,def,Smoke,0,1,F2,gun,1,0,0,,1,1,1v1
+8875,3,fortress,1,174.3,0:50,50,,Lobin,FLUXO W7M,def,Azami,OnJuly,EDG,atk,Flores,1,0,9x19VSN,gun,1,1,0,,5,5,5v5
+8875,3,fortress,1,176.4,0:48,48,,Fntzy,FLUXO W7M,def,Ela,BAPN,EDG,atk,Deimos,1,0,SCORPION EVO 3 A1,gun,1,0,0,,4,5,5v4
+8875,3,fortress,1,196.2,0:28,28,,Paluh,FLUXO W7M,def,Thorn,Carpe,EDG,atk,Dokkaebi,0,0,UZK50GI,gun,1,0,0,,3,5,5v3
+8875,3,fortress,1,197.5,0:27,27,,Fntzy,FLUXO W7M,def,Ela,Direction,EDG,atk,Montagne,1,0,SCORPION EVO 3 A1,gun,1,0,1,Reif,2,5,5v2
+8875,3,fortress,1,199.3,0:25,25,,Reif,EDG,atk,Capitão,Fntzy,FLUXO W7M,def,Ela,1,0,PMR90A2,gun,1,0,1,Paluh,1,5,1v5
+8875,3,fortress,1,201.3,0:23,23,,Paluh,FLUXO W7M,def,Thorn,Reif,EDG,atk,Capitão,0,0,UZK50GI,gun,1,0,0,,1,4,4v1
+8875,3,fortress,2,126.2,1:38,98,,Fntzy,FLUXO W7M,def,Goyo,Reif,EDG,atk,Grim,1,0,TCSG12,gun,1,1,1,Direction,5,5,5v5
+8875,3,fortress,2,126.8,1:38,98,,Direction,EDG,atk,Zofia,Fntzy,FLUXO W7M,def,Goyo,0,0,,unknown,0,0,0,,4,5,4v5
+8875,3,fortress,2,216.0,0:09,9,,Paluh,FLUXO W7M,def,Azami,OnJuly,EDG,atk,Ace,0,0,9x19VSN,gun,1,0,1,Direction,4,4,4v4
+8875,3,fortress,2,221.3,0:03,3,,Carpe,EDG,atk,Flores,Lobin,FLUXO W7M,def,Castle,0,0,AR33,gun,1,0,1,Dotz,3,4,3v4
+8875,3,fortress,2,222.6,0:02,2,,Direction,EDG,atk,Zofia,Paluh,FLUXO W7M,def,Azami,1,0,M762,gun,1,0,0,,3,3,3v3
+8875,3,fortress,2,222.7,0:02,2,,Dotz,FLUXO W7M,def,Tachanka,Carpe,EDG,atk,Flores,1,0,DP28,gun,1,0,0,,3,2,2v3
+8875,3,fortress,3,115.0,1:50,110,,Dotz,FLUXO W7M,def,Mira,Reif,EDG,atk,Ace,1,0,VECTOR .45 ACP,gun,1,1,0,,5,5,5v5
+8875,3,fortress,3,128.6,1:36,96,,Fntzy,FLUXO W7M,def,Valkyrie,BAPN,EDG,atk,Gridlock,1,0,MPX,gun,1,0,0,,4,5,5v4
+8875,3,fortress,3,157.1,1:07,67,,Carpe,EDG,atk,Flores,Hatez,FLUXO W7M,def,Melusi,1,0,AR33,gun,1,0,0,,3,5,3v5
+8875,3,fortress,3,180.4,0:44,44,,Carpe,EDG,atk,Flores,Fntzy,FLUXO W7M,def,Valkyrie,0,0,AR33,gun,1,0,1,Paluh,3,4,3v4
+8875,3,fortress,3,182.2,0:42,42,,Lobin,FLUXO W7M,def,Tubarão,OnJuly,EDG,atk,Brava,0,0,MPX,gun,1,0,0,,3,3,3v3
+8875,3,fortress,3,182.9,0:42,42,,Paluh,FLUXO W7M,def,Azami,Carpe,EDG,atk,Flores,1,0,9x19VSN,gun,1,0,0,,2,3,3v2
+8875,3,fortress,3,204.5,0:20,20,,Dotz,FLUXO W7M,def,Mira,Direction,EDG,atk,Blackbeard,0,0,VECTOR .45 ACP,gun,1,0,0,,1,3,3v1
+8875,3,fortress,4,117.5,1:47,107,,Lobin,FLUXO W7M,def,Azami,BAPN,EDG,atk,Deimos,1,0,9x19VSN,gun,1,1,1,Reif,5,5,5v5
+8875,3,fortress,4,118.5,1:46,106,,Reif,EDG,atk,Blackbeard,Lobin,FLUXO W7M,def,Azami,1,0,MK17 CQB,gun,1,0,1,Fntzy,4,5,4v5
+8875,3,fortress,4,127.8,1:37,97,,Fntzy,FLUXO W7M,def,Ela,Reif,EDG,atk,Blackbeard,0,0,IMPACT GRENADE,gadget,1,0,1,OnJuly,4,4,4v4
+8875,3,fortress,4,129.8,1:35,95,,OnJuly,EDG,atk,Grim,Fntzy,FLUXO W7M,def,Ela,1,0,552 COMMANDO,gun,1,0,0,,3,4,3v4
+8875,3,fortress,4,154.1,1:10,70,,Dotz,FLUXO W7M,def,Noor,Direction,EDG,atk,Capitão,1,0,ALDA 556,gun,1,0,0,,3,3,3v3
+8875,3,fortress,4,157.2,1:07,67,,OnJuly,EDG,atk,Grim,Hatez,FLUXO W7M,def,Mute,1,0,552 COMMANDO,gun,1,0,0,,2,3,2v3
+8875,3,fortress,4,163.2,1:01,61,,Paluh,FLUXO W7M,def,Thorn,Carpe,EDG,atk,Rauora,0,0,UZK50GI,gun,1,0,0,,2,2,2v2
+8875,3,fortress,4,210.4,0:14,14,,Dotz,FLUXO W7M,def,Noor,OnJuly,EDG,atk,Grim,0,0,ALDA 556,gun,1,0,0,,1,2,2v1
+8875,3,fortress,5,117.3,1:47,107,,Hatez,FLUXO W7M,def,Thorn,BAPN,EDG,atk,Deimos,0,0,UZK50GI,gun,1,1,0,,5,5,5v5
+8875,3,fortress,5,141.0,1:24,84,,Paluh,FLUXO W7M,def,Azami,Reif,EDG,atk,Grim,1,0,9x19VSN,gun,1,0,0,,4,5,5v4
+8875,3,fortress,5,141.9,1:23,83,,Direction,EDG,atk,Ying,Fntzy,FLUXO W7M,def,Goyo,1,0,T-95 LSW,gun,1,0,0,,3,5,3v5
+8875,3,fortress,5,149.1,1:15,75,,Hatez,FLUXO W7M,def,Thorn,OnJuly,EDG,atk,Lion,0,0,UZK50GI,gun,1,0,1,Direction,3,4,4v3
+8875,3,fortress,5,151.9,1:13,73,,Direction,EDG,atk,Ying,Hatez,FLUXO W7M,def,Thorn,0,0,T-95 LSW,gun,1,0,0,,2,4,2v4
+8875,3,fortress,5,157.0,1:08,68,,Direction,EDG,atk,Ying,Paluh,FLUXO W7M,def,Azami,1,0,T-95 LSW,gun,1,0,0,,2,3,2v3
+8875,3,fortress,5,158.7,1:06,66,,Lobin,FLUXO W7M,def,Castle,Carpe,EDG,atk,Flores,0,0,SUPER SHORTY,gun,1,0,0,,2,2,2v2
+8875,3,fortress,5,186.2,0:38,38,,Dotz,FLUXO W7M,def,Mute,Direction,EDG,atk,Ying,0,0,M590A1,gun,1,0,0,,1,2,2v1
+8875,3,fortress,6,109.2,1:55,115,,Reif,EDG,atk,Gridlock,Fntzy,FLUXO W7M,def,Solis,1,0,F90,gun,1,1,0,,5,5,5v5
+8875,3,fortress,6,143.9,1:21,81,,Reif,EDG,atk,Gridlock,Dotz,FLUXO W7M,def,Thorn,1,0,F90,gun,1,0,0,,5,4,5v4
+8875,3,fortress,6,174.8,0:50,50,,Hatez,FLUXO W7M,def,Melusi,Direction,EDG,atk,Rauora,1,0,MP5,gun,1,0,0,,5,3,3v5
+8875,3,fortress,6,213.1,0:11,11,,Lobin,FLUXO W7M,def,Pulse,OnJuly,EDG,atk,Capitão,1,0,Reaper MK2,gun,1,0,0,,4,3,3v4
+8875,3,fortress,6,215.7,0:09,9,,BAPN,EDG,atk,Thatcher,Hatez,FLUXO W7M,def,Melusi,0,0,PMR90A2,gun,1,0,1,Paluh,3,3,3v3
+8875,3,fortress,6,218.6,0:06,6,,Paluh,FLUXO W7M,def,Azami,BAPN,EDG,atk,Thatcher,1,0,9x19VSN,gun,1,0,0,,3,2,2v3
+8875,3,fortress,6,223.6,0:01,1,,Carpe,EDG,atk,Ram,Lobin,FLUXO W7M,def,Pulse,1,0,R4-C,gun,1,0,0,,2,2,2v2
+8875,3,fortress,7,120.8,1:44,104,,Reif,EDG,def,Fenrir,Fntzy,FLUXO W7M,atk,Deimos,1,0,MP7,gun,1,1,0,,5,5,5v5
+8875,3,fortress,7,142.0,1:23,83,,Dotz,FLUXO W7M,atk,Ace,BAPN,EDG,def,Ela,1,0,P9,gun,1,0,0,,4,5,4v5
+8875,3,fortress,7,180.3,0:44,44,,Lobin,FLUXO W7M,atk,Blackbeard,Direction,EDG,def,Azami,0,0,MK17 CQB,gun,1,0,0,,4,4,4v4
+8875,3,fortress,7,184.5,0:40,40,,Dotz,FLUXO W7M,atk,Ace,Carpe,EDG,def,Solis,1,0,AK-12,gun,1,0,0,,4,3,4v3
+8875,3,fortress,7,193.9,0:31,31,,Paluh,FLUXO W7M,atk,Grim,OnJuly,EDG,def,Wamai,0,0,552 COMMANDO,gun,1,0,0,,4,2,4v2
+8875,3,fortress,7,194.1,0:30,30,,Dotz,FLUXO W7M,atk,Ace,Reif,EDG,def,Fenrir,1,0,AK-12,gun,1,0,0,,4,1,4v1

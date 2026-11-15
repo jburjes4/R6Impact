@@ -1,0 +1,80 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+8858,1,chalet,1,106.6,1:58,118,,BRENDO,ENTERPRISE,atk,Solid Snake,SkyZs,VIRTUS PRO,def,Azami,0,0,F2,gun,1,1,1,RORICK,5,5,5v5
+8858,1,chalet,1,110.9,1:54,114,,RORICK,VIRTUS PRO,def,Mute,BRENDO,ENTERPRISE,atk,Solid Snake,0,0,M590A1,gun,1,0,0,,5,4,4v5
+8858,1,chalet,1,145.4,1:19,79,,dan-_-,VIRTUS PRO,def,Sentry,KYRO,ENTERPRISE,atk,Capitão,1,0,TCSG12,gun,1,0,0,,4,4,4v4
+8858,1,chalet,1,155.7,1:09,69,,dan-_-,VIRTUS PRO,def,Sentry,JIGSAW,ENTERPRISE,atk,Ace,0,0,TCSG12,gun,1,0,0,,3,4,4v3
+8858,1,chalet,1,159.5,1:05,65,,Nayqo,VIRTUS PRO,def,Warden,TUHAN,ENTERPRISE,atk,Deimos,0,0,MPX,gun,1,0,0,,2,4,4v2
+8858,1,chalet,1,161.7,1:03,63,,PLAYXR,ENTERPRISE,atk,Twitch,p4sh4,VIRTUS PRO,def,Lesion,1,0,417,gun,1,0,0,,1,4,1v4
+8858,1,chalet,1,173.9,0:51,51,,dan-_-,VIRTUS PRO,def,Sentry,PLAYXR,ENTERPRISE,atk,Twitch,0,0,TCSG12,gun,1,0,0,,1,3,3v1
+8858,1,chalet,2,143.0,1:21,81,,SkyZs,VIRTUS PRO,def,Warden,JIGSAW,ENTERPRISE,atk,Capitão,1,0,MPX,gun,1,1,0,,5,5,5v5
+8858,1,chalet,2,155.0,1:09,69,,p4sh4,VIRTUS PRO,def,Fenrir,BRENDO,ENTERPRISE,atk,Flores,1,0,MP7,gun,1,0,0,,4,5,5v4
+8858,1,chalet,2,155.1,1:09,69,,KYRO,ENTERPRISE,atk,Brava,Nayqo,VIRTUS PRO,def,Azami,0,0,CAMRS,gun,1,0,0,,3,5,3v5
+8858,1,chalet,2,155.9,1:09,69,,SkyZs,VIRTUS PRO,def,Warden,TUHAN,ENTERPRISE,atk,Deimos,1,0,MPX,gun,1,0,0,,3,4,4v3
+8858,1,chalet,2,196.5,0:28,28,,p4sh4,VIRTUS PRO,def,Fenrir,PLAYXR,ENTERPRISE,atk,Solid Snake,0,0,MP7,gun,1,0,0,,2,4,4v2
+8858,1,chalet,2,212.6,0:12,12,,RORICK,VIRTUS PRO,def,Jäger,KYRO,ENTERPRISE,atk,Brava,0,0,416-C CARBINE,gun,1,0,0,,1,4,4v1
+8858,1,chalet,3,111.0,1:54,114,,dan-_-,VIRTUS PRO,def,Bandit,JIGSAW,ENTERPRISE,atk,Solid Snake,1,0,MP7,gun,1,1,0,,5,5,5v5
+8858,1,chalet,3,171.7,0:53,53,,BRENDO,ENTERPRISE,atk,Nomad,RORICK,VIRTUS PRO,def,Mute,0,0,AK-74M,gun,1,0,0,,4,5,4v5
+8858,1,chalet,3,203.9,0:21,21,,Nayqo,VIRTUS PRO,def,Smoke,KYRO,ENTERPRISE,atk,Thermite,0,0,SMG-11,gun,1,0,0,,4,4,4v4
+8858,1,chalet,3,214.4,0:10,10,,TUHAN,ENTERPRISE,atk,Hibana,Nayqo,VIRTUS PRO,def,Smoke,1,0,BEARING 9,gun,1,0,0,,3,4,3v4
+8858,1,chalet,3,216.4,0:08,8,,p4sh4,VIRTUS PRO,def,Lesion,PLAYXR,ENTERPRISE,atk,Twitch,1,0,T-5 SMG,gun,1,0,0,,3,3,3v3
+8858,1,chalet,3,218.4,0:06,6,,TUHAN,ENTERPRISE,atk,Hibana,dan-_-,VIRTUS PRO,def,Bandit,0,0,BEARING 9,gun,1,0,0,,2,3,2v3
+8858,1,chalet,4,134.4,1:30,90,,BRENDO,ENTERPRISE,atk,Striker,RORICK,VIRTUS PRO,def,Mute,1,0,M4,gun,1,1,0,,5,5,5v5
+8858,1,chalet,4,138.7,1:26,86,,SkyZs,VIRTUS PRO,def,Ela,JIGSAW,ENTERPRISE,atk,Ace,1,0,SCORPION EVO 3 A1,gun,1,0,1,KYRO,5,4,4v5
+8858,1,chalet,4,139.6,1:25,85,,KYRO,ENTERPRISE,atk,Blackbeard,SkyZs,VIRTUS PRO,def,Ela,0,0,FRAG GRENADE,gadget,1,0,0,,4,4,4v4
+8858,1,chalet,4,140.8,1:24,84,,Nayqo,VIRTUS PRO,def,Warden,TUHAN,ENTERPRISE,atk,Deimos,0,0,MPX,gun,1,0,0,,4,3,3v4
+8858,1,chalet,4,169.6,0:55,55,,dan-_-,VIRTUS PRO,def,Sentry,BRENDO,ENTERPRISE,atk,Striker,0,0,TCSG12,gun,1,0,0,,3,3,3v3
+8858,1,chalet,4,204.1,0:20,20,,KYRO,ENTERPRISE,atk,Blackbeard,p4sh4,VIRTUS PRO,def,Lesion,0,0,MK17 CQB,gun,1,0,0,,2,3,2v3
+8858,1,chalet,4,213.3,0:11,11,,PLAYXR,ENTERPRISE,atk,Twitch,dan-_-,VIRTUS PRO,def,Sentry,0,0,417,gun,1,0,1,Nayqo,2,2,2v2
+8858,1,chalet,4,223.0,0:02,2,,Nayqo,VIRTUS PRO,def,Warden,PLAYXR,ENTERPRISE,atk,Twitch,1,0,SMG-12,gun,1,0,0,,2,1,1v2
+8858,1,chalet,4,225.0,0:00,0,,Nayqo,VIRTUS PRO,def,Warden,KYRO,ENTERPRISE,atk,Blackbeard,0,0,SMG-12,gun,1,0,0,,1,1,1v1
+8858,1,chalet,5,118.3,1:46,106,,dan-_-,VIRTUS PRO,def,Sentry,BRENDO,ENTERPRISE,atk,Striker,1,0,TCSG12,gun,1,1,0,,5,5,5v5
+8858,1,chalet,5,121.0,1:44,104,,PLAYXR,ENTERPRISE,atk,Lion,Nayqo,VIRTUS PRO,def,Ela,1,0,417,gun,1,0,0,,4,5,4v5
+8858,1,chalet,5,136.2,1:28,88,,RORICK,VIRTUS PRO,def,Jäger,TUHAN,ENTERPRISE,atk,Nomad,0,0,416-C CARBINE,gun,1,0,0,,4,4,4v4
+8858,1,chalet,5,139.0,1:25,85,,p4sh4,VIRTUS PRO,def,Fenrir,JIGSAW,ENTERPRISE,atk,Capitão,0,0,MP7,gun,1,0,0,,3,4,4v3
+8858,1,chalet,5,142.8,1:22,82,,SkyZs,VIRTUS PRO,def,Warden,KYRO,ENTERPRISE,atk,Blackbeard,1,0,MPX,gun,1,0,0,,2,4,4v2
+8858,1,chalet,5,149.2,1:15,75,,PLAYXR,ENTERPRISE,atk,Lion,p4sh4,VIRTUS PRO,def,Fenrir,0,0,417,gun,1,0,1,RORICK,1,4,1v4
+8858,1,chalet,5,150.8,1:14,74,,RORICK,VIRTUS PRO,def,Jäger,PLAYXR,ENTERPRISE,atk,Lion,0,0,416-C CARBINE,gun,1,0,0,,1,3,3v1
+8858,1,chalet,6,96.1,2:08,128,,p4sh4,VIRTUS PRO,def,Lesion,KYRO,ENTERPRISE,atk,Blackbeard,1,0,T-5 SMG,gun,1,1,1,BRENDO,5,5,5v5
+8858,1,chalet,6,96.2,2:08,128,,p4sh4,VIRTUS PRO,def,Lesion,RORICK,VIRTUS PRO,def,Ela,1,0,T-5 SMG,gun,1,0,0,,4,5,
+8858,1,chalet,6,105.5,1:59,119,,BRENDO,ENTERPRISE,atk,Twitch,p4sh4,VIRTUS PRO,def,Lesion,0,0,F2,gun,1,0,0,,4,4,4v4
+8858,1,chalet,6,120.7,1:44,104,,TUHAN,ENTERPRISE,atk,Solid Snake,Nayqo,VIRTUS PRO,def,Mute,1,0,F2,gun,1,0,0,,4,3,4v3
+8858,1,chalet,6,143.2,1:21,81,,TUHAN,ENTERPRISE,atk,Solid Snake,SkyZs,VIRTUS PRO,def,Smoke,0,0,F2,gun,1,0,0,,4,2,4v2
+8858,1,chalet,6,144.1,1:20,80,,JIGSAW,ENTERPRISE,atk,Finka,dan-_-,VIRTUS PRO,def,Sentry,1,0,6P41,gun,1,0,0,,4,1,4v1
+8858,1,chalet,7,118.9,1:46,106,,RORICK,VIRTUS PRO,atk,Twitch,JIGSAW,ENTERPRISE,def,Solis,1,0,F2,gun,1,1,0,,5,5,5v5
+8858,1,chalet,7,119.2,1:45,105,,TUHAN,ENTERPRISE,def,Thorn,p4sh4,VIRTUS PRO,atk,Zofia,1,0,UZK50GI,gun,1,0,1,RORICK,5,4,4v5
+8858,1,chalet,7,121.3,1:43,103,,RORICK,VIRTUS PRO,atk,Twitch,TUHAN,ENTERPRISE,def,Thorn,1,0,F2,gun,1,0,0,,4,4,4v4
+8858,1,chalet,7,160.3,1:04,64,,SkyZs,VIRTUS PRO,atk,Grim,KYRO,ENTERPRISE,def,Denari,0,0,552 COMMANDO,gun,1,0,0,,4,3,4v3
+8858,1,chalet,7,170.4,0:54,54,,SkyZs,VIRTUS PRO,atk,Grim,PLAYXR,ENTERPRISE,def,Mira,1,0,552 COMMANDO,gun,1,0,0,,4,2,4v2
+8858,1,chalet,7,172.3,0:52,52,,BRENDO,ENTERPRISE,def,Castle,Nayqo,VIRTUS PRO,atk,Solid Snake,0,0,UMP45,gun,1,0,1,dan-_-,4,1,1v4
+8858,1,chalet,7,172.5,0:52,52,,dan-_-,VIRTUS PRO,atk,Lion,BRENDO,ENTERPRISE,def,Castle,0,0,417,gun,1,0,0,,3,1,3v1
+8858,1,chalet,8,60.7,2:44,164,,TUHAN,ENTERPRISE,def,Thorn,p4sh4,VIRTUS PRO,atk,Solid Snake,1,0,UZK50GI,gun,1,1,0,,5,5,5v5
+8858,1,chalet,8,126.2,1:38,98,,SkyZs,VIRTUS PRO,atk,Flores,TUHAN,ENTERPRISE,def,Thorn,1,0,AR33,gun,1,0,1,JIGSAW,4,5,4v5
+8858,1,chalet,8,129.8,1:35,95,,JIGSAW,ENTERPRISE,def,Solis,SkyZs,VIRTUS PRO,atk,Flores,1,0,P90,gun,1,0,1,dan-_-,4,4,4v4
+8858,1,chalet,8,136.8,1:28,88,,dan-_-,VIRTUS PRO,atk,Striker,JIGSAW,ENTERPRISE,def,Solis,0,0,M4,gun,1,0,0,,3,4,3v4
+8858,1,chalet,8,163.9,1:01,61,,BRENDO,ENTERPRISE,def,Melusi,Nayqo,VIRTUS PRO,atk,Blitz,0,0,MP5,gun,1,0,0,,3,3,3v3
+8858,1,chalet,8,182.9,0:42,42,,KYRO,ENTERPRISE,def,Smoke,RORICK,VIRTUS PRO,atk,Nomad,1,0,SMG-11,gun,1,0,0,,2,3,3v2
+8858,1,chalet,8,188.3,0:36,36,,BRENDO,ENTERPRISE,def,Melusi,dan-_-,VIRTUS PRO,atk,Striker,0,0,MP5,gun,1,0,0,,1,3,3v1
+8858,1,chalet,9,118.1,1:46,106,,SkyZs,VIRTUS PRO,atk,Lion,BRENDO,ENTERPRISE,def,Mira,0,0,417,gun,1,1,0,,5,5,5v5
+8858,1,chalet,9,147.8,1:17,77,,JIGSAW,ENTERPRISE,def,Thorn,SkyZs,VIRTUS PRO,atk,Lion,1,0,UZK50GI,gun,1,0,0,,5,4,4v5
+8858,1,chalet,9,167.9,0:57,57,,KYRO,ENTERPRISE,def,Fenrir,p4sh4,VIRTUS PRO,atk,Ying,1,0,MP7,gun,1,0,0,,4,4,4v4
+8858,1,chalet,9,211.1,0:13,13,,RORICK,VIRTUS PRO,atk,Solid Snake,PLAYXR,ENTERPRISE,def,Mute,1,0,F2,gun,1,0,1,KYRO,3,4,3v4
+8858,1,chalet,9,212.6,0:12,12,,Nayqo,VIRTUS PRO,atk,Blackbeard,JIGSAW,ENTERPRISE,def,Thorn,0,0,MK17 CQB,gun,1,0,1,TUHAN,3,3,3v3
+8858,1,chalet,9,217.0,0:08,8,,KYRO,ENTERPRISE,def,Fenrir,RORICK,VIRTUS PRO,atk,Solid Snake,1,0,MP7,gun,1,0,0,,3,2,2v3
+8858,1,chalet,9,217.4,0:07,7,,JIGSAW,ENTERPRISE,def,Thorn,dan-_-,VIRTUS PRO,atk,Twitch,0,0,RAZORBLOOM SHELL,gadget,1,0,0,,2,2,2v2
+8858,1,chalet,9,219.1,0:05,5,,TUHAN,ENTERPRISE,def,Tachanka,Nayqo,VIRTUS PRO,atk,Blackbeard,1,0,BEARING 9,gun,1,0,0,,1,2,2v1
+8858,1,chalet,10,102.8,2:02,122,,Nayqo,VIRTUS PRO,atk,Blitz,KYRO,ENTERPRISE,def,Ela,0,0,P12,gun,1,1,0,,5,5,5v5
+8858,1,chalet,10,108.1,1:56,116,,BRENDO,ENTERPRISE,def,Kaid,dan-_-,VIRTUS PRO,atk,Ying,0,0,TCSG12,gun,1,0,0,,5,4,4v5
+8858,1,chalet,10,116.1,1:48,108,,RORICK,VIRTUS PRO,atk,Twitch,PLAYXR,ENTERPRISE,def,Goyo,0,0,F2,gun,1,0,0,,4,4,4v4
+8858,1,chalet,10,126.9,1:38,98,,p4sh4,VIRTUS PRO,atk,Sledge,JIGSAW,ENTERPRISE,def,Denari,1,0,L85A2,gun,1,0,0,,4,3,4v3
+8858,1,chalet,10,134.9,1:30,90,,TUHAN,ENTERPRISE,def,Thorn,SkyZs,VIRTUS PRO,atk,Thatcher,1,0,UZK50GI,gun,1,0,0,,4,2,2v4
+8858,1,chalet,10,139.4,1:25,85,,TUHAN,ENTERPRISE,def,Thorn,p4sh4,VIRTUS PRO,atk,Sledge,1,0,UZK50GI,gun,1,0,0,,3,2,2v3
+8858,1,chalet,10,146.9,1:18,78,,TUHAN,ENTERPRISE,def,Thorn,Nayqo,VIRTUS PRO,atk,Blitz,0,0,C75 Auto,gun,1,0,0,,2,2,2v2
+8858,1,chalet,10,187.7,0:37,37,,BRENDO,ENTERPRISE,def,Kaid,RORICK,VIRTUS PRO,atk,Twitch,0,0,TCSG12,gun,1,0,0,,1,2,2v1
+8858,1,chalet,11,115.8,1:49,109,,TUHAN,ENTERPRISE,def,Goyo,SkyZs,VIRTUS PRO,atk,Grim,0,0,VECTOR .45 ACP,gun,1,1,1,Nayqo,5,5,5v5
+8858,1,chalet,11,117.4,1:47,107,,Nayqo,VIRTUS PRO,atk,Blackbeard,TUHAN,ENTERPRISE,def,Goyo,0,0,MK17 CQB,gun,1,0,0,,4,5,4v5
+8858,1,chalet,11,117.7,1:47,107,,RORICK,VIRTUS PRO,atk,Dokkaebi,KYRO,ENTERPRISE,def,Pulse,1,0,XK23,gun,1,0,0,,4,4,4v4
+8858,1,chalet,11,138.6,1:26,86,,JIGSAW,ENTERPRISE,def,Solis,RORICK,VIRTUS PRO,atk,Dokkaebi,0,0,SMG-11,gun,1,0,0,,4,3,3v4
+8858,1,chalet,11,149.2,1:15,75,,BRENDO,ENTERPRISE,def,Melusi,p4sh4,VIRTUS PRO,atk,Brava,0,0,MP5,gun,1,0,0,,3,3,3v3
+8858,1,chalet,11,153.2,1:11,71,,Nayqo,VIRTUS PRO,atk,Blackbeard,PLAYXR,ENTERPRISE,def,Mira,1,0,MK17 CQB,gun,1,0,0,,2,3,2v3
+8858,1,chalet,11,163.9,1:01,61,,dan-_-,VIRTUS PRO,atk,Striker,JIGSAW,ENTERPRISE,def,Solis,0,0,M4,gun,1,0,0,,2,2,2v2
+8858,1,chalet,11,183.4,0:41,41,41,dan-_-,VIRTUS PRO,atk,Striker,BRENDO,ENTERPRISE,def,Melusi,0,1,M4,gun,1,0,0,,2,1,2v1

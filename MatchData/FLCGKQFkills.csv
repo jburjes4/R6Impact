@@ -1,0 +1,132 @@
+﻿match_id,map_no,map,round_no,elapsed_s,clock_left,clock_left_s,defuser_clock_left_s,killer,killer_team,killer_side,killer_operator,victim,victim_team,victim_side,victim_operator,headshot,post_plant,weapon,kill_method,weapon_exact,is_first_kill,traded,traded_by,alive_atk_before,alive_def_before,kill_situation
+9120,1,villa,1,178.6,0:46,46,,Sarks,GEEKAY,def,Jäger,Solotov,FALCONS,atk,Deimos,0,0,416-C CARBINE,gun,1,1,0,,5,5,5v5
+9120,1,villa,1,180.9,0:44,44,,LikEfac,FALCONS,atk,Grim,Gruby,GEEKAY,def,Sentry,1,0,552 COMMANDO,gun,1,0,1,Eupor,4,5,4v5
+9120,1,villa,1,183.9,0:41,41,,Eupor,GEEKAY,def,Goyo,LikEfac,FALCONS,atk,Grim,0,0,TCSG12,gun,1,0,0,,4,4,4v4
+9120,1,villa,1,193.3,0:31,31,,Yoggah,GEEKAY,def,Mira,BriD,FALCONS,atk,Montagne,1,0,VECTOR .45 ACP,gun,1,0,0,,3,4,4v3
+9120,1,villa,1,195.8,0:29,29,,JumeDOOM,FALCONS,atk,Ying,Sarks,GEEKAY,def,Jäger,1,0,Reaper MK2,gun,1,0,1,Eupor,2,4,2v4
+9120,1,villa,1,197.0,0:28,28,,Eupor,GEEKAY,def,Goyo,JumeDOOM,FALCONS,atk,Ying,1,0,TCSG12,gun,1,0,0,,2,3,3v2
+9120,1,villa,1,199.7,0:25,25,,Eupor,GEEKAY,def,Goyo,Yuzus,FALCONS,atk,Thatcher,0,0,TCSG12,gun,1,0,0,,1,3,3v1
+9120,1,villa,2,154.4,1:10,70,,Solotov,FALCONS,atk,Zofia,AsK,GEEKAY,def,Sentry,1,0,M762,gun,1,1,1,Sarks,5,5,5v5
+9120,1,villa,2,156.0,1:08,68,,Sarks,GEEKAY,def,Solis,Solotov,FALCONS,atk,Zofia,0,0,SMG-11,gun,1,0,1,JumeDOOM,5,4,4v5
+9120,1,villa,2,160.1,1:04,64,,Gruby,GEEKAY,def,Kaid,Yuzus,FALCONS,atk,Capitão,1,0,TCSG12,gun,1,0,0,,4,4,4v4
+9120,1,villa,2,160.7,1:04,64,,JumeDOOM,FALCONS,atk,Deimos,Sarks,GEEKAY,def,Solis,1,0,.44 Vendetta,gun,1,0,0,,3,4,3v4
+9120,1,villa,2,199.7,0:25,25,,BriD,FALCONS,atk,Montagne,Gruby,GEEKAY,def,Kaid,1,0,P9,gun,1,0,0,,3,3,3v3
+9120,1,villa,2,205.3,0:19,19,,BriD,FALCONS,atk,Montagne,Eupor,GEEKAY,def,Warden,1,0,P9,gun,1,0,0,,3,2,3v2
+9120,1,villa,2,208.4,0:16,16,,JumeDOOM,FALCONS,atk,Deimos,Yoggah,GEEKAY,def,Melusi,0,0,AK-74M,gun,1,0,0,,3,1,3v1
+9120,1,villa,3,67.0,2:38,158,,Yuzus,FALCONS,atk,Thatcher,AsK,GEEKAY,def,Pulse,1,0,L85A2,gun,1,1,0,,5,5,5v5
+9120,1,villa,3,71.8,2:33,153,,Gruby,GEEKAY,def,Solis,JumeDOOM,FALCONS,atk,Sledge,0,0,SMG-11,gun,1,0,0,,5,4,4v5
+9120,1,villa,3,112.4,0:22,22,22,LikEfac,FALCONS,atk,Ace,Sarks,GEEKAY,def,Sentry,1,1,AK-12,gun,1,0,0,,4,4,4v4
+9120,1,villa,3,115.5,0:19,19,19,Eupor,GEEKAY,def,Kaid,BriD,FALCONS,atk,Blitz,0,1,TCSG12,gun,1,0,1,LikEfac,4,3,3v4
+9120,1,villa,3,120.8,0:14,14,14,LikEfac,FALCONS,atk,Ace,Yoggah,GEEKAY,def,Melusi,1,1,AK-12,gun,1,0,0,,3,3,3v3
+9120,1,villa,3,121.3,0:13,13,13,LikEfac,FALCONS,atk,Ace,Eupor,GEEKAY,def,Kaid,0,1,AK-12,gun,1,0,0,,3,2,3v2
+9120,1,villa,3,121.4,0:13,13,13,LikEfac,FALCONS,atk,Ace,Gruby,GEEKAY,def,Solis,0,1,AK-12,gun,1,0,0,,3,1,3v1
+9120,1,villa,4,167.2,0:57,57,,Sarks,GEEKAY,def,Jäger,JumeDOOM,FALCONS,atk,Glaz,0,0,416-C CARBINE,gun,1,1,0,,5,5,5v5
+9120,1,villa,4,180.8,0:44,44,,Solotov,FALCONS,atk,Twitch,Yoggah,GEEKAY,def,Kaid,0,0,F2,gun,1,0,0,,4,5,4v5
+9120,1,villa,4,195.3,0:29,29,,AsK,GEEKAY,def,Goyo,Solotov,FALCONS,atk,Twitch,0,0,TCSG12,gun,1,0,0,,4,4,4v4
+9120,1,villa,4,200.6,0:24,24,,Yuzus,FALCONS,atk,Flores,Gruby,GEEKAY,def,Thorn,1,0,AR33,gun,1,0,0,,3,4,3v4
+9120,1,villa,4,213.6,0:11,11,,LikEfac,FALCONS,atk,Maverick,Sarks,GEEKAY,def,Jäger,1,0,M4,gun,1,0,1,Eupor,3,3,3v3
+9120,1,villa,4,214.7,0:10,10,,AsK,GEEKAY,def,Goyo,BriD,FALCONS,atk,Blitz,0,0,TCSG12,gun,1,0,0,,3,2,2v3
+9120,1,villa,4,216.0,0:08,8,,Eupor,GEEKAY,def,Tubarão,LikEfac,FALCONS,atk,Maverick,1,0,MPX,gun,1,0,0,,2,2,2v2
+9120,1,villa,4,221.0,0:04,4,,AsK,GEEKAY,def,Goyo,Yuzus,FALCONS,atk,Flores,0,0,P229,gun,1,0,0,,1,2,2v1
+9120,1,villa,5,189.6,0:35,35,,Yuzus,FALCONS,atk,Flores,Gruby,GEEKAY,def,Kaid,1,0,AR33,gun,1,1,0,,5,5,5v5
+9120,1,villa,5,194.9,0:30,30,,LikEfac,FALCONS,atk,Grim,Eupor,GEEKAY,def,Warden,0,0,552 COMMANDO,gun,1,0,0,,5,4,5v4
+9120,1,villa,5,196.0,0:29,29,,Sarks,GEEKAY,def,Mute,Solotov,FALCONS,atk,IQ,1,0,SMG-11,gun,1,0,1,JumeDOOM,5,3,3v5
+9120,1,villa,5,198.7,0:43,43,43,AsK,GEEKAY,def,Smoke,BriD,FALCONS,atk,Montagne,0,1,,unknown,0,0,1,LikEfac,4,3,3v4
+9120,1,villa,5,199.8,0:42,42,42,JumeDOOM,FALCONS,atk,Deimos,Sarks,GEEKAY,def,Mute,1,1,AK-74M,gun,1,0,0,,3,3,3v3
+9120,1,villa,5,200.3,0:42,42,42,Yuzus,FALCONS,atk,Flores,Yoggah,GEEKAY,def,Melusi,0,1,AR33,gun,1,0,0,,3,2,3v2
+9120,1,villa,5,200.4,0:42,42,42,LikEfac,FALCONS,atk,Grim,AsK,GEEKAY,def,Smoke,0,1,552 COMMANDO,gun,1,0,0,,3,1,3v1
+9120,1,villa,6,90.6,2:14,134,,Solotov,FALCONS,atk,Grim,Eupor,GEEKAY,def,Thorn,1,0,552 COMMANDO,gun,1,1,0,,5,5,5v5
+9120,1,villa,6,174.2,0:50,50,,Yuzus,FALCONS,atk,Dokkaebi,BriD,FALCONS,atk,Blitz,1,0,XK23,gun,1,0,0,,5,4,
+9120,1,villa,6,174.3,0:50,50,,Yuzus,FALCONS,atk,Dokkaebi,AsK,GEEKAY,def,Warden,1,0,XK23,gun,1,0,0,,4,4,4v4
+9120,1,villa,6,179.4,0:45,45,,JumeDOOM,FALCONS,atk,IQ,Sarks,GEEKAY,def,Sentry,1,0,552 COMMANDO,gun,1,0,0,,4,3,4v3
+9120,1,villa,6,189.8,0:35,35,,Gruby,GEEKAY,def,Smoke,Solotov,FALCONS,atk,Grim,0,0,SMG-11,gun,1,0,0,,4,2,2v4
+9120,1,villa,6,200.1,0:24,24,,Gruby,GEEKAY,def,Smoke,Yuzus,FALCONS,atk,Dokkaebi,0,0,SMG-11,gun,1,0,1,JumeDOOM,3,2,2v3
+9120,1,villa,6,201.6,0:23,23,,JumeDOOM,FALCONS,atk,IQ,Gruby,GEEKAY,def,Smoke,0,0,552 COMMANDO,gun,1,0,0,,2,2,2v2
+9120,1,villa,6,205.4,0:19,19,,LikEfac,FALCONS,atk,Lion,Yoggah,GEEKAY,def,Melusi,0,0,417,gun,1,0,0,,2,1,2v1
+9120,1,villa,7,121.1,1:43,103,,Eupor,GEEKAY,atk,Grim,LikEfac,FALCONS,def,Mute,0,0,552 COMMANDO,gun,1,1,0,,5,5,5v5
+9120,1,villa,7,192.7,0:32,32,,Gruby,GEEKAY,atk,Flores,Yuzus,FALCONS,def,Wamai,1,0,AR33,gun,1,0,1,Solotov,5,4,5v4
+9120,1,villa,7,193.0,0:31,31,,Solotov,FALCONS,def,Ela,Yoggah,GEEKAY,atk,Blackbeard,1,0,SCORPION EVO 3 A1,gun,1,0,0,,5,3,3v5
+9120,1,villa,7,196.6,0:28,28,,Solotov,FALCONS,def,Ela,Gruby,GEEKAY,atk,Flores,1,0,SCORPION EVO 3 A1,gun,1,0,0,,4,3,3v4
+9120,1,villa,7,199.5,0:25,25,,JumeDOOM,FALCONS,def,Goyo,AsK,GEEKAY,atk,Striker,0,0,TCSG12,gun,1,0,0,,3,3,3v3
+9120,1,villa,7,202.6,0:22,22,,Sarks,GEEKAY,atk,Dokkaebi,BriD,FALCONS,def,Smoke,0,0,XK23,gun,1,0,0,,2,3,2v3
+9120,1,villa,7,219.5,0:05,5,,Solotov,FALCONS,def,Ela,Sarks,GEEKAY,atk,Dokkaebi,1,0,SCORPION EVO 3 A1,gun,1,0,0,,2,2,2v2
+9120,1,villa,8,102.4,2:02,122,,Sarks,GEEKAY,atk,Hibana,LikEfac,FALCONS,def,Smoke,0,0,TYPE-89,gun,1,1,0,,5,5,5v5
+9120,1,villa,8,184.8,0:40,40,,Gruby,GEEKAY,atk,Thatcher,Yuzus,FALCONS,def,Warden,1,0,PMR90A2,gun,1,0,1,JumeDOOM,5,4,5v4
+9120,1,villa,8,187.7,0:37,37,,JumeDOOM,FALCONS,def,Kaid,Sarks,GEEKAY,atk,Hibana,0,0,TCSG12,gun,1,0,0,,5,3,3v5
+9120,1,villa,8,188.7,0:36,36,,BriD,FALCONS,def,Jäger,Eupor,GEEKAY,atk,Thermite,1,0,416-C CARBINE,gun,1,0,0,,4,3,3v4
+9120,1,villa,8,190.9,0:34,34,,JumeDOOM,FALCONS,def,Kaid,Gruby,GEEKAY,atk,Thatcher,1,0,TCSG12,gun,1,0,0,,3,3,3v3
+9120,1,villa,8,193.3,0:31,31,,Solotov,FALCONS,def,Thorn,Yoggah,GEEKAY,atk,Blitz,0,0,UZK50GI,gun,1,0,0,,2,3,3v2
+9120,1,villa,8,195.2,0:29,29,,BriD,FALCONS,def,Jäger,AsK,GEEKAY,atk,Striker,1,0,416-C CARBINE,gun,1,0,0,,1,3,3v1
+9120,1,villa,9,79.8,2:25,145,,JumeDOOM,FALCONS,def,Kaid,Yoggah,GEEKAY,atk,Sledge,0,0,TCSG12,gun,1,1,0,,5,5,5v5
+9120,1,villa,9,118.0,1:46,106,,Gruby,GEEKAY,atk,Ram,Solotov,FALCONS,def,Ela,1,0,R4-C,gun,1,0,0,,4,5,4v5
+9120,1,villa,9,153.2,1:11,71,,Eupor,GEEKAY,atk,Hibana,Yuzus,FALCONS,def,Mute,1,0,TYPE-89,gun,1,0,1,JumeDOOM,4,4,4v4
+9120,1,villa,9,154.3,1:10,70,,JumeDOOM,FALCONS,def,Kaid,Eupor,GEEKAY,atk,Hibana,0,0,TCSG12,gun,1,0,0,,4,3,3v4
+9120,1,villa,9,191.9,0:33,33,,BriD,FALCONS,def,Pulse,AsK,GEEKAY,atk,Thatcher,1,0,Reaper MK2,gun,1,0,0,,3,3,3v3
+9120,1,villa,9,194.9,0:30,30,,Gruby,GEEKAY,atk,Ram,JumeDOOM,FALCONS,def,Kaid,1,0,R4-C,gun,1,0,0,,2,3,2v3
+9120,1,villa,9,196.9,0:28,28,,BriD,FALCONS,def,Pulse,Sarks,GEEKAY,atk,Twitch,0,0,M1014,gun,1,0,0,,2,2,2v2
+9120,1,villa,9,223.9,0:01,1,,BriD,FALCONS,def,Pulse,Gruby,GEEKAY,atk,Ram,1,0,Reaper MK2,gun,1,0,0,,1,2,2v1
+9120,2,chalet,1,162.2,1:02,62,,AsK,GEEKAY,atk,Flores,Solotov,FALCONS,def,Jäger,1,0,AR33,gun,1,1,1,Yuzus,5,5,5v5
+9120,2,chalet,1,162.6,1:02,62,,Sarks,GEEKAY,atk,Ace,LikEfac,FALCONS,def,Thorn,0,0,AK-12,gun,1,0,0,,5,4,5v4
+9120,2,chalet,1,163.9,1:01,61,,Yuzus,FALCONS,def,Azami,AsK,GEEKAY,atk,Flores,1,0,9x19VSN,gun,1,0,0,,5,3,3v5
+9120,2,chalet,1,190.4,0:34,34,,Gruby,GEEKAY,atk,Sens,JumeDOOM,FALCONS,def,Goyo,0,0,FRAG GRENADE,gadget,1,0,0,,4,3,4v3
+9120,2,chalet,1,203.2,0:21,21,,Yoggah,GEEKAY,atk,Twitch,Yuzus,FALCONS,def,Azami,0,0,F2,gun,1,0,0,,4,2,4v2
+9120,2,chalet,1,224.4,0:41,41,41,Eupor,GEEKAY,atk,Capitão,BriD,FALCONS,def,Pulse,1,1,PARA-308,gun,1,0,0,,4,1,4v1
+9120,2,chalet,2,102.5,2:02,122,,Gruby,GEEKAY,atk,Dokkaebi,Solotov,FALCONS,def,Ela,1,0,SMG-12,gun,1,1,0,,5,5,5v5
+9120,2,chalet,2,105.3,1:59,119,,LikEfac,FALCONS,def,Warden,Sarks,GEEKAY,atk,Blitz,0,0,M590A1,gun,1,0,0,,5,4,4v5
+9120,2,chalet,2,167.5,0:57,57,,Yuzus,FALCONS,def,Azami,Eupor,GEEKAY,atk,Capitão,1,0,9x19VSN,gun,1,0,0,,4,4,4v4
+9120,2,chalet,2,168.4,0:56,56,,LikEfac,FALCONS,def,Warden,AsK,GEEKAY,atk,Striker,1,0,SMG-12,gun,1,0,0,,3,4,4v3
+9120,2,chalet,2,168.7,0:56,56,,LikEfac,FALCONS,def,Warden,Gruby,GEEKAY,atk,Dokkaebi,1,0,SMG-12,gun,1,0,0,,2,4,4v2
+9120,2,chalet,2,175.0,0:50,50,,Yuzus,FALCONS,def,Azami,Yoggah,GEEKAY,atk,Twitch,1,0,9x19VSN,gun,1,0,0,,1,4,4v1
+9120,2,chalet,3,109.7,1:55,115,,Gruby,GEEKAY,atk,Dokkaebi,JumeDOOM,FALCONS,def,Mute,0,0,XK23,gun,1,1,0,,5,5,5v5
+9120,2,chalet,3,189.2,0:35,35,,Eupor,GEEKAY,atk,Nomad,LikEfac,FALCONS,def,Warden,1,0,AK-74M,gun,1,0,0,,5,4,5v4
+9120,2,chalet,3,193.0,0:31,31,,Yuzus,FALCONS,def,Azami,Gruby,GEEKAY,atk,Dokkaebi,0,0,9x19VSN,gun,1,0,0,,5,3,3v5
+9120,2,chalet,3,202.3,0:41,41,41,Solotov,FALCONS,def,Ela,Eupor,GEEKAY,atk,Nomad,1,1,SCORPION EVO 3 A1,gun,1,0,0,,4,3,3v4
+9120,2,chalet,3,207.0,0:36,36,36,BriD,FALCONS,def,Melusi,Sarks,GEEKAY,atk,Deimos,1,1,MP5,gun,1,0,0,,3,3,3v3
+9120,2,chalet,3,211.4,0:32,32,32,BriD,FALCONS,def,Melusi,AsK,GEEKAY,atk,Ace,1,1,MP5,gun,1,0,0,,2,3,3v2
+9120,2,chalet,3,225.3,0:18,18,18,Yoggah,GEEKAY,atk,Twitch,BriD,FALCONS,def,Melusi,1,1,F2,gun,1,0,1,Solotov,1,3,1v3
+9120,2,chalet,3,225.9,0:17,17,17,Solotov,FALCONS,def,Ela,Yoggah,GEEKAY,atk,Twitch,1,1,SCORPION EVO 3 A1,gun,1,0,0,,1,2,2v1
+9120,2,chalet,4,111.0,1:53,113,,Gruby,GEEKAY,atk,Sens,Yuzus,FALCONS,def,Kaid,1,0,417,gun,1,1,0,,5,5,5v5
+9120,2,chalet,4,112.9,1:52,112,,Solotov,FALCONS,def,Valkyrie,Eupor,GEEKAY,atk,Nomad,0,0,NITRO CELL,gadget,1,0,1,AsK,5,4,4v5
+9120,2,chalet,4,114.7,1:50,110,,AsK,GEEKAY,atk,Flores,Solotov,FALCONS,def,Valkyrie,0,0,AR33,gun,1,0,0,,4,4,4v4
+9120,2,chalet,4,116.4,1:48,108,,AsK,GEEKAY,atk,Flores,JumeDOOM,FALCONS,def,Goyo,1,0,AR33,gun,1,0,0,,4,3,4v3
+9120,2,chalet,4,117.3,1:47,107,,AsK,GEEKAY,atk,Flores,LikEfac,FALCONS,def,Thorn,1,0,AR33,gun,1,0,0,,4,2,4v2
+9120,2,chalet,4,133.7,1:31,91,,Gruby,GEEKAY,atk,Sens,BriD,FALCONS,def,Pulse,0,0,417,gun,1,0,0,,4,1,4v1
+9120,2,chalet,5,157.9,1:07,67,,LikEfac,FALCONS,def,Warden,Eupor,GEEKAY,atk,Ace,1,0,SMG-12,gun,1,1,1,Gruby,5,5,5v5
+9120,2,chalet,5,160.1,1:04,64,,Yuzus,FALCONS,def,Thorn,Yoggah,GEEKAY,atk,Nomad,1,0,UZK50GI,gun,1,0,0,,4,5,5v4
+9120,2,chalet,5,164.5,1:00,60,,LikEfac,FALCONS,def,Warden,AsK,GEEKAY,atk,Twitch,1,0,SMG-12,gun,1,0,1,Gruby,3,5,5v3
+9120,2,chalet,5,166.1,0:58,58,,Gruby,GEEKAY,atk,Zofia,LikEfac,FALCONS,def,Warden,1,0,M762,gun,1,0,1,Yuzus,2,5,2v5
+9120,2,chalet,5,167.3,0:57,57,,Yuzus,FALCONS,def,Thorn,Gruby,GEEKAY,atk,Zofia,1,0,UZK50GI,gun,1,0,0,,2,4,4v2
+9120,2,chalet,5,168.7,0:56,56,,BriD,FALCONS,def,Kaid,Sarks,GEEKAY,atk,Deimos,0,0,TCSG12,gun,1,0,0,,1,4,4v1
+9120,2,chalet,6,157.7,1:07,67,,Yuzus,FALCONS,def,Mira,Yoggah,GEEKAY,atk,Ash,0,0,NITRO CELL,gadget,1,1,1,AsK,5,5,5v5
+9120,2,chalet,6,161.1,1:03,63,,Sarks,GEEKAY,atk,Dokkaebi,Solotov,FALCONS,def,Tubarão,1,0,SMG-12,gun,1,0,0,,4,5,4v5
+9120,2,chalet,6,161.6,1:03,63,,Gruby,GEEKAY,atk,Sens,JumeDOOM,FALCONS,def,Sentry,0,0,417,gun,1,0,0,,4,4,4v4
+9120,2,chalet,6,164.6,1:00,60,,AsK,GEEKAY,atk,Flores,Yuzus,FALCONS,def,Mira,0,0,AR33,gun,1,0,0,,4,3,4v3
+9120,2,chalet,6,168.9,0:56,56,,Eupor,GEEKAY,atk,Nomad,LikEfac,FALCONS,def,Mute,0,0,AK-74M,gun,1,0,0,,4,2,4v2
+9120,2,chalet,6,188.9,0:36,36,,Sarks,GEEKAY,atk,Dokkaebi,BriD,FALCONS,def,Kaid,0,0,XK23,gun,1,0,0,,4,1,4v1
+9120,2,chalet,7,133.7,1:31,91,,LikEfac,FALCONS,atk,Deimos,Sarks,GEEKAY,def,Mute,0,0,AK-74M,gun,1,1,0,,5,5,5v5
+9120,2,chalet,7,176.7,0:48,48,,JumeDOOM,FALCONS,atk,Glaz,AsK,GEEKAY,def,Denari,0,0,OTs-03,gun,1,0,1,Eupor,5,4,5v4
+9120,2,chalet,7,182.4,0:42,42,,Yoggah,GEEKAY,def,Tubarão,Yuzus,FALCONS,atk,Ying,1,0,MPX,gun,1,0,1,BriD,5,3,3v5
+9120,2,chalet,7,184.5,0:40,40,,Eupor,GEEKAY,def,Kaid,JumeDOOM,FALCONS,atk,Glaz,0,0,TCSG12,gun,1,0,1,Solotov,4,3,3v4
+9120,2,chalet,7,186.8,0:38,38,,LikEfac,FALCONS,atk,Deimos,Gruby,GEEKAY,def,Thorn,0,0,AK-74M,gun,1,0,0,,3,3,3v3
+9120,2,chalet,7,189.8,0:35,35,,Solotov,FALCONS,atk,Twitch,Eupor,GEEKAY,def,Kaid,1,0,F2,gun,1,0,0,,3,2,3v2
+9120,2,chalet,7,191.9,0:33,33,,BriD,FALCONS,atk,Grim,Yoggah,GEEKAY,def,Tubarão,1,0,552 COMMANDO,gun,1,0,0,,3,1,3v1
+9120,2,chalet,8,123.0,1:41,101,,Solotov,FALCONS,atk,Twitch,Gruby,GEEKAY,def,Warden,1,0,F2,gun,1,1,0,,5,5,5v5
+9120,2,chalet,8,128.1,1:36,96,,LikEfac,FALCONS,atk,Grim,Eupor,GEEKAY,def,Mute,1,0,552 COMMANDO,gun,1,0,0,,5,4,5v4
+9120,2,chalet,8,157.0,1:08,68,,Solotov,FALCONS,atk,Twitch,Sarks,GEEKAY,def,Mozzie,1,0,F2,gun,1,0,0,,5,3,5v3
+9120,2,chalet,8,162.9,1:02,62,,Solotov,FALCONS,atk,Twitch,Yoggah,GEEKAY,def,Ela,0,0,F2,gun,1,0,1,AsK,5,2,5v2
+9120,2,chalet,8,163.2,1:01,61,,AsK,GEEKAY,def,Tachanka,JumeDOOM,FALCONS,atk,Glaz,1,0,DP28,gun,1,0,1,LikEfac,5,1,1v5
+9120,2,chalet,8,167.0,0:58,58,,AsK,GEEKAY,def,Tachanka,BriD,FALCONS,atk,Capitão,0,0,DP28,gun,1,0,1,LikEfac,4,1,1v4
+9120,2,chalet,8,167.1,0:57,57,,AsK,GEEKAY,def,Tachanka,Solotov,FALCONS,atk,Twitch,1,0,DP28,gun,1,0,1,LikEfac,3,1,1v3
+9120,2,chalet,8,168.2,0:56,56,,LikEfac,FALCONS,atk,Grim,AsK,GEEKAY,def,Tachanka,0,0,552 COMMANDO,gun,1,0,0,,2,1,2v1
+9120,2,chalet,9,108.2,1:56,116,,JumeDOOM,FALCONS,atk,Grim,Gruby,GEEKAY,def,Mira,1,0,552 COMMANDO,gun,1,1,1,Sarks,5,5,5v5
+9120,2,chalet,9,111.4,1:53,113,,Sarks,GEEKAY,def,Solis,JumeDOOM,FALCONS,atk,Grim,1,0,SMG-11,gun,1,0,0,,5,4,4v5
+9120,2,chalet,9,122.8,1:42,102,,BriD,FALCONS,atk,Blackbeard,Sarks,GEEKAY,def,Solis,1,0,MK17 CQB,gun,1,0,0,,4,4,4v4
+9120,2,chalet,9,132.0,1:09,69,69,LikEfac,FALCONS,atk,Lion,Eupor,GEEKAY,def,Kaid,0,1,417,gun,1,0,0,,4,3,4v3
+9120,2,chalet,9,157.6,0:42,42,42,LikEfac,FALCONS,atk,Lion,AsK,GEEKAY,def,Mute,1,1,417,gun,1,0,0,,4,2,4v2
+9120,2,chalet,9,160.2,0:40,40,40,LikEfac,FALCONS,atk,Lion,Yoggah,GEEKAY,def,Tubarão,1,1,417,gun,1,0,0,,4,1,4v1
+9120,2,chalet,10,122.7,1:42,102,,Yoggah,GEEKAY,def,Sentry,Yuzus,FALCONS,atk,Striker,0,0,NITRO CELL,gadget,1,1,0,,5,5,5v5
+9120,2,chalet,10,132.1,1:32,92,,JumeDOOM,FALCONS,atk,Blackbeard,Gruby,GEEKAY,def,Melusi,1,0,MK17 CQB,gun,1,0,0,,4,5,4v5
+9120,2,chalet,10,135.7,1:29,89,,LikEfac,FALCONS,atk,IQ,Eupor,GEEKAY,def,Smoke,0,0,CLAYMORE,gadget,1,0,0,,4,4,4v4
+9120,2,chalet,10,139.2,1:25,85,,Solotov,FALCONS,atk,Brava,Yoggah,GEEKAY,def,Sentry,1,0,PARA-308,gun,1,0,0,,4,3,4v3
+9120,2,chalet,10,142.2,1:22,82,,Solotov,FALCONS,atk,Brava,AsK,GEEKAY,def,Echo,1,0,PARA-308,gun,1,0,0,,4,2,4v2
+9120,2,chalet,10,145.3,1:19,79,,Solotov,FALCONS,atk,Brava,Sarks,GEEKAY,def,Mute,0,0,PARA-308,gun,1,0,0,,4,1,4v1
