@@ -10,7 +10,7 @@ CREATE TABLE matches (
     );
 
 CREATE TABLE kill_events (
-	event_id INT PRIMARY KEY,
+	-- event_id INT AUTO_INCREMENT PRIMARY KEY,
     match_id INT, -- FK
     map_no INT,
     map TEXT,
@@ -50,7 +50,17 @@ CREATE TABLE kill_events (
     PRIMARY KEY (match_id, map_no, round_no)
     );
     
+    DROP TABLE kill_events;
     
+   -- Importing data from pandas dataframe csv output
+    LOAD DATA LOCAL INFILE "C:\\Users\\jburj\\R6Impact\\Data\\concatData.csv"
+    INTO TABLE kill_events
+    FIELDS TERMINATED BY ','
+    OPTIONALLY ENCLOSED BY '"'
+    LINES TERMINATED BY '\n'
+    IGNORE 1 ROWS;
+    
+  SELECT * FROM kill_events;  
     
     
     
